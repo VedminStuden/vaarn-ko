@@ -29,35 +29,34 @@ _대붕괴가 발생할 때, 트루킨은 숨겨진 아콜로지(arcologies) 안
 
 
 
-|d20|BODY|FACE|HAIR|ATTIRE|
+|d20|몸체|얼굴|머리카락|복장|
 |-|----|----|----|------|
-|1|Tall|Sallow|Black|Rags|
-|2|Short|Lively|Brown|Animal Skins|
-|3|Frail|Cruel|Red|Rough Tunic|
-|4|Muscular|Wrinkled|Blonde|Nomad Attire|
-|5|Fat|Scarred|Grey|Worker's Attire|
-|6|Thin|Frowning|White|Herdsman's Attire|
-|7|Skeletal|Pale|Shaved|Slave Clothing|
-|8|Hunched|Greasy|Topknot|Exultant's Livery|
-|9|Lopsided|Wide|Green|Shabby Attire|
-|10|Lithe|Narrow|Orange|Colourful Attire|
-|11|Gnarled|Sharp|Glowing|Priest's Robes|
-|12|Squat|Hungry|Fungus|Clerk's Uniform|
-|13|Bloated|Haunted|Purple|Hegemony Garb|
-|14|Gangly|Jolly|Yellow|Soldier's Clothing|
-|15|Child-like|Round|Wispy|Flamboyant Attire|
-|16|Tanned|Mournful|Burnt|Musician's Attire|
-|17|Gigantic|Child-like|Braided|Veiled Attire|
-|18|Wiry|Peaceful|Greasy|Armiger's Clothing|
-|19|Cyborg|Sleepy|Matted|Exultant's Clothing|
-|20|Injured|Branded|Long|Expensive Clothing|
+|1|키 큼|약간 누런|검은색|해짐|
+|2|키 작음|활기 넘침|갈색|동물 가죽|
+|3|허약함|괴로움|빨간색|거친 튜닉|
+|4|근육질|주름짐|금발|유목민 복장|
+|5|뚱뚱함|흉터 있음|회색|일꾼 복장|
+|6|날씬함|찌푸린 얼굴|흰색|양치기 복장|
+|7|뼈가 앙상함|창백함|면도함|노예 차림새|
+|8|곱사등이|기름짐|상투|화려한 제복|
+|9|한쪽으로 쳐짐|넓음|초록색|다 낡은 보장|
+|10|유연함|좁음|주황색|화사로운 복장|
+|11|비틀림|날카로움|빛남|사제 의복|
+|12|땅딸막함|굶주림|진균|사무원 유니폼|
+|13|부풀어오름|겁에 질림|자주색|신정부 의복|
+|14|키 크고 여윔|둥긂|노란색|병사 복장|
+|15|어린애 같음|애절함|성김|이색적인 복장|
+|16|구릿빛 피부|평화로움|불탐|음악가 복장|
+|17|거대함|어린애같음|땋음|베일에 싸인 복장|
+|18|마르고 강인함|평화로움|기름짐|갑옷 시종의 복장|
+|19|사이보그|졸려보임|엉겨붙음|화려한 복장|
+|20|부상을 입음|낙인찍힘|장발|비싼 복장|
 
-<table><tbody><tr><td><strong>D20</strong></td><td><strong>몸체</strong></td><td><strong>얼굴</strong></td><td><strong>머리카락</strong></td><td><strong>복장</strong></td></tr><tr><td>1</td><td>키 큼</td><td>약간 누런</td><td>검은색</td><td>해짐</td></tr><tr><td>2</td><td>키 작음</td><td>활기 넘침</td><td>갈색</td><td>동물 가죽</td></tr><tr><td>3</td><td>허약함</td><td>괴로움</td><td>빨간색</td><td>거친 튜닉</td></tr><tr><td>4</td><td>근육질</td><td>주름짐</td><td>금발</td><td>유목민 복장</td></tr><tr><td>5</td><td>뚱뚱함</td><td>흉터 있음</td><td>회색</td><td>일꾼 복장</td></tr><tr><td>6</td><td>날씬함</td><td>찌푸린 얼굴</td><td>흰색</td><td>양치기 복장</td></tr><tr><td>7</td><td>뼈가 앙상함</td><td>창백함</td><td>면도함</td><td>노예 차림새</td></tr><tr><td>8</td><td>곱사등이</td><td>기름짐</td><td>상투</td><td>화려한 제복</td></tr><tr><td>9</td><td>한쪽으로 쳐짐</td><td>넓음</td><td>초록색</td><td>다 낡은 복장</td></tr><tr><td>10</td><td>유연함</td><td>좁음</td><td>주황색</td><td>화사로운 복장</td></tr><tr><td>11</td><td>비틀림</td><td>날카로움</td><td>빛남</td><td>사제 의복</td></tr><tr><td>12</td><td>땅딸막함</td><td>굶주림</td><td>진균</td><td>사무원 유니폼</td></tr><tr><td>13</td><td>부풀어오름</td><td>겁에 질림</td><td>자주색</td><td>신정부 의복</td></tr><tr><td>14</td><td>키 크고 여윔</td><td>행복함</td><td>노란색</td><td>병사 복장</td></tr><tr><td>15</td><td>어린애같음</td><td>둥긂</td><td>성김</td><td>이색적인 복장</td></tr><tr><td>16</td><td>구릿빛 피부</td><td>애절함</td><td>불탐</td><td>음악가 복장</td></tr><tr><td>17</td><td>거대함</td><td>어린애같은</td><td>땋음</td><td>베일에 싸인 복장</td></tr><tr><td>18</td><td>마르고 강인함</td><td>평화로움</td><td>기름짐</td><td>갑옷 시종의 복장</td></tr><tr><td>19</td><td>사이보그</td><td>졸려보임</td><td>엉겨붙음</td><td>화려한 복장</td></tr><tr><td>20</td><td>부상을 입음</td><td>낙인찍힘</td><td>장발</td><td>비싼 복장</td></tr></tbody></table>
+### 특이사항
+__순수한 혈통__ - 캐릭터 생성 중 돌연변이를 굴리지 않습니다. 다른 트루킨과 마주칠 때 반응 굴림(reaction roll)에서 유리점(Advantage)를 얻습니다. 만약 명백하게 돌연변이가 나타난다면 이 보너스는 사라집니다.
+  
 
-### Special
-__PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Advantage on reaction rolls when you encounter other true-kin. You lose this bonus if you ever become visibly mutated.  
-
-__INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard synths, there is a 50% chance that they will recognise you as their master.
+__계승자__ - 대붕괴 이전의 보안 시스템이나 신스 경비(guard synths)와 마주칠 때, 그들이 당신을 주인으로 인식하는 확률은 50%입니다.
 
 ## Cacogen
 _Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
