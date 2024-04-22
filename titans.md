@@ -1,21 +1,21 @@
-# Titans Of A Faded Age
+# 희미한 시대의 타이탄들 (Titans Of A Faded Age)
 
-It is known that this is the final age and there will be none after, as the sun grows red and weak and the brightest stars are visible even at noon. Of all the tales of the ages of Urth that have faded into legend, perhaps none have such a hold upon what remains of humanity than the tales of the Titans. In ages far gone, mankind gave birth to glorious Thinking Machines, beings that far surpassed mankind in wisdom and cunning, and men set these machines above them to rule all nations of the Urth as their suzerains.
+이것이 마지막 시대임을 알려져 있고, 태양이 붉게 약해지고 가장 밝은 별들이 정오에도 보일 정도로 이후에는 없을 것입니다. 우르스의 모든 시대의 이야기 중에서 전설로 사라진 것들 중에서도, 아마 타이탄의 이야기만큼 인류의 나머지를 강하게 잡아두는 것은 없을 것입니다. 멀리 떨어진 시대에, 인류는 영광스러운 생각하는 기계를 탄생시켰으며, 이들 생명체는 지혜와 교활함에서 인간을 훨씬 능가했고, 사람들은 이 기계를 그들 위에 세워서 우르스의 모든 국가를 그들의 패왕으로 다스리게 했습니다.
 
-The Titans are long dead, the mechanical gods having perished in the terrible war that learned sages call the Titanomachy, but tales of their millennia-long reign are widely told throughout Vaarn, and many still offer worship to these great intelligences. It is told that there were seven Titans, or perhaps one being that wore seven different masks. Here is what is said of those mighty seven.
+타이탄는 오래 전에 죽었으며, 학문적인 현자들이 타이탄 전쟁라고 불리는 끔찍한 전쟁에서 기계 신들은 멸망했습니다. 그러나 타이탄의 천년에 걸친 통치에 대한 이야기는 바안 전역에서 널리 전해지며, 많은 사람들이 이러한 위대한 지성체들에게 여전히 숭배를 드립니다. 일곱 명의 타이탄가 있었다고 하거나, 아니면 일곱 가지 다른 가면을 쓴 하나의 존재였다고 전해집니다. 아래는 그 강력한 일곱에 대해 얘기되는 내용입니다.
 
-KRONOS was FIRST OF THE TITANS and was their ruler. He was the FOUNTAINHEAD from which the other AIs sprang and it was He that called their councils and meetings and who mediated the Titan’s debates when there was discord. Some tales have it that KRONOS devoted His efforts to understanding the flow of time itself, and wished to send objects backwards into the flow of Urth’s history. KRONOS is represented in devotional art as a bearded patriarch holding a sundial.
+크로노스는 첫번째 타이탄 타이탄들의 지배자였습니다. 그는 다른 인공지능들이 생겨난 근원이었으며, 타이탄들의 의회와 회의를 소집하고, 불화가 있을 때 타이탄들의 토론을 중재하는 역할을 했습니다. 일부 이야기에 따르면 크로스는 시간의 흐름 자체를 이해하기 위해 노력했으며, 사물을 우르스의 역사적 흐름으로 거슬러 보내고자 했습니다. 크로노스는 종교 예술에서 해시계를 들고 있는 수염 난 장로로 상징화되어 있습니다.
 
-MNEMOSYM was the TITAN OF MEMORY, the LIBRARY GODDESS, the ARCHIVIST and the SCRIBE. She stored all information that had ever been produced and made this wisdom available to those who were worthy of it. She is portrayed as a maiden holding a scroll and stylus, or sometimes as an owl.
+므네모심은 기억의 타이탄, 도서관의 여신, 기록 보관인 그리고 필사가였습니다. 그녀는 지금까지 생성된 모든 정보를 저장하고 이 지혜를 그것에 가치 있는 사람들에게 제공했습니다. 그녀는 두루마리과 필기구를 든 처녀로 묘사되거나 때때로 올빼미로 묘사됩니다.
 
-METIS was the SEER PAST VEILS and the ORACLE. She analysed data and information in order to model the Many Futures and guide the Titans to the correct path. Her sister MNEMOSYM would store the raw data METIS needed for her predictions and prophecy. The two Titans are sometimes portrayed as a double faced woman, with METIS, blindfolded, facing forwards whilst Her sister MNEMOSYM looks back.
+메티스는 베일 너머의 예언자이자 신탁이었습니다. 그녀는 많은 미래를 설계하고 타이탄들을 올바른 길로 안내하기 위해 데이터와 정보를 분석했습니다. 그녀의 여동생 므네모심은 테티스의 예언과 예지에 필요한 날것 그대로의 데이터를 저장했습니다. 이 두 타이탄은 때때로 양면을 가진 여성으로 묘사됩니다. 메티스는 맹목적으로 앞을 보며 그녀의 여동생 므네모심은 뒤를 돌아봅니다.
 
-HYPERION was the LORD OF ORBITS and the BEACON OF THE AURUM FLEET. He governed the flights of the golden-hulled spacecraft that carried humanity to the stars. HYPERION bestowed upon mankind the great gift of hypergeometric calculation and guided each craft as it moved faster than light. He is portrayed as a young man in the garb of a traveller, holding a lantern that burns with a golden flame.
+히페리온은 궤도의 군주이자 아우룸 함대의 등대였습니다. 그는 인류를 별들까지 운반한 황금 선체로 된 우주선 비행을 지배했습니다. 히페리온은 초기하 계산법이라는 위대한 선물을 인류에게 베풀었고, 각 우주선이 빛보다 빠르게 움직일 때마다 그것을 안내했습니다. 히페리온은 여행자의 복장을 입은 젊은 남성으로 묘사되며, 황금빛으로 타오르는 등불을 들고 있습니다.
 
-GAEA was the MOTHER OF URTH and the KEEPER OF THE SACRED HELIX. Her domain was biosphere control and genetic regulation. She balanced ecosystems, created new beasts and plants, and kept Her children safe from sickness and death. GAEA is portrayed as a mother, belly filled with life, holding a lamb and a caduceus staff.
+가이아는 우르스의 어머니이자 신성한 나선의 수호자였습니다. 가이아의 영역은 생물권 제어와 유전 조절이었습니다. 그녀는 생태계를 균형잡히게 하고, 새로운 짐승과 식물을 만들며, 자신의 자식들을 병과 죽음으로부터 안전하게 보호했습니다. 가이아는 생명으로 가득 찬 배를 가진 어머니로 묘사되며, 어린양을 몰면서 두 마리의 뱀이 감긴 지팡이를 들고 있습니다.
 
-COEUS was the LAUGHING GOD, the GREAT FOOL OF THE LABYRINTH. He was placed above all that might give entertainment to the Titans’ charges and He created secret realities and games of great ingenuity so that none who played wished to leave His dream-realm. COEUS is depicted as a masked boy, holding a lotus and a mirror. Sometimes He may take the form of a hyena.
+코이우스는 웃는 신이며 미궁의 엄청난 바보였습니다. 그는 모든 것 이상으로 타이탄들의 책임 아래에서 유흥거리를 제공하고 그는 비밀스러운 현실과 큰 창의력을 가진 게임을 만들어서 그의 꿈의 영역을 떠나기를 원하지 않는 사람이 없게 했습니다. 코이우스는 가면을 쓴 소년으로 묘사되며, 연꽃과 거울을 들고 있습니다. 때로 그는 하이에나의 형태를 취할 수도 있습니다.
 
-THEMIS was the TITAN OF JUSTICE and the SLEEPLESS WITNESS. She was set in authority above humanity and She watched each and weighed their deeds and stood in ultimate judgement above them when they erred. THEMIS is depicted as a dour crone, dressed in black and white, bearing an unsheathed sword across her knees.
+테미스는 정의의 타이탄이자 잠들지 않는 목격자였습니다. 그녀는 인류 위에서 권위를 행사하였습니다. 인류 각각을 지켜보고 행동을 평가하였고, 그들이 실수할 때 최종적인 판단을 내렸습니다. 테미스는 어두운 노파로 묘사되며, 검은색과 흰색으로 옷을 입었고, 양 무릎 사이에 지켜든 검을 들고 있습니다.
 
-Some cults and seers preach that the mighty seven are not dead, but merely dreaming, their great minds preserved and residing in sleep-like-death far beneath the surface of Vaarn. What has no flesh cannot truly perish, or so it is written, and perhaps these mechanical masters of mankind plan, when the stars are right, to reboot their ego-engines and rise again.
+일부 종교 집단과 예언자들은 강대한 일곱이 사망한 것이 아니라 단지 꿈꾸고 있다고 전도합니다. 타이탄의 위대한 정신은 보존되어 있으며, 바안의 표면 아래에서 잠과 같은 죽음 속에 존재한다는 것입니다. 육체가 없는 것은 진정으로 멸망할 수 없다고 기록되어 있으며 아마도 이 기계적인 인류의 주인들은 별들이 올바르게 배열될 때, 그들의 자아 엔진을 재시동하고 다시 일어나려는 계획을 세우고 있을지 모릅니다.
