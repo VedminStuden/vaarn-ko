@@ -7,20 +7,19 @@
 <p style="text-align: right;">- Final testament of Idris Ida-Null,<br />
 Hegemony Cartographer</p>
 
-# What is Vaarn?
+# 바안은 무엇인가
 
-Vaarn is a science-fantasy RPG setting. It draws inspiration from novels like Dune, Hyperion, The Book of the New Sun, and the graphic novels of Moebius. If you haven’t read those that’s totally fine, it will make my theft seem original.
+바안(Vaarn)은 과학 판타지 RPG 세팅입니다. Dune, Hyperion, The Book of the New Sun 및 Moebius의 그래픽 노블에서 영감을 받았습니다. 이 작품들을 읽어보지 않았어도 괜찮습니다. 이 작품을 모른 채 바안의 볼트을 플레이하면 이 룰이 더욱 독창적으로 보일 것입니다.
 
-Basically the sun is going out, it’s the end of history, and your characters are combing through the wreckage of the unimaginable eras of the future. Everything that could possibly happen has already happened and faded to dust. Vaarn is an anti-canon setting, where nobody can agree on the world’s history and ultimately it doesn't matter. However, there are some facts about Vaarn that are known for sure:
+기본적으로 태양이 죽어가고 역사의 종막인 상황에서, 여러분의 캐릭터는 상상할 수 없는 미래 시대의 잔해를 헤치며 탐색합니다. 일어날 수 있는 모든 일들은 이미 일어나고 먼지로 사라졌습니다. 바안은 반역서 세팅으로, 아무도 이 세계의 역사에 대해 합의할 수 없으며 결국 중요하지 않습니다. 그러나 바안에 대해 알려진 몇 가지 사실이 있습니다:
 
-1. Vaarn is a sky-blue desert littered with the ruins of the far future.  
-2. Vaarn is inhabited mainly by true-kin (humans), cacogen (mutants), synths (robots), newbeasts (sapient animals), and mycomorphs (fungus-men).  
-3. The sun is a dying red giant. It won’t go out in a human lifetime, but synths have reason to be concerned.  
-4. Vaarn is both archaic and futuristic. Think sword fights inside the wrecked husks of ancient spaceships.  
-5. There’s a place to the south called the New Hegemony. It’s like the Roman Empire. Theoretically the Hegemony rules Vaarn, but they have little presence besides a few fortified border towns.  
-6. Nanomachines are inside everything, and it’s normal to see wild animals with cameras growing out of their flesh or humans with parasitic cyborg limbs.  
-7. There was a Great Collapse, which destroyed most of human civilisation.  
-8. Before the Collapse, humanity was ruled by the Autarchy, a planet-wide dictatorship enacted by a lineage of genetically modified God-kings.  
-9. Before the reign of the Autarchs, the Urth was ruled by AIs called the Titans. They were overthrown, but the details of that conflict are lost to history.  
-
-Finally and most importantly, Vaarn is never the same twice. The fall of the dice determines how your own version of the setting develops. Readers are encouraged to build on this material and make Vaarn their own.
+1. 바안은 멀리 미래의 폐허로 가득한 하늘색 사막입니다.
+2. 바안은 주로 트루킨 (인간), 캐코젠 (돌연변이), 신스 (로봇), 뉴비스트 (지성체 동물) 및 버섯체 (진균 인간)으로 구성된 주민들로서 서식합니다.
+3. 태양은 죽어가는 붉은 거성입니다. 인간은 생애 내내 걱정할 일이 없겠지만 신스에게는 우려할 만한 사항입니다.
+4. 바안은 동시에 고대적이고 미래적인 요소를 갖추고 있습니다. 고대 우주선 유체 내에서칼싸움을 하는 것과 같은 상상할 수 없는 장면들을 생각하십시오.
+5. 남쪽에는 신 정부라고 하는 곳이 있습니다. 이것은 로마 제국과 비슷한 위치입니다. 이론상 신 정부가 바안을 지배하지만, 견문을 닫아 방어되는 몇 개의 국경 마을 외에 크게  영향력을 행사하지 않습니다.
+6. 나노기계들이 모든 것 안에 존재하며, 야생 동물들도 눈 대신에 살육기계 부위를 갖춘 카메라 눈으로 함께 볼 수 있다거나 인간들도 기생하는 사이보그 팔다리를 가질 정도로 정상적입니다.
+7. 대붕괴(Great Collapse)가 발생하여 인류 문명 대부분이 파괴되었습니다.
+8. 대붕괴 이전에 인류는 유전자가 변형된 채 신정부(Autarchy) 지배 아래에서 통치되었습니다.
+9. 신왕(Autarchs) 지배 전에 우르스는 타이탄들이라 불리우는 AI에 의해 지배되었습니다. 하지만 그 갈등의 자세한 내용은 역사 속으로 잊혀져 버렸습니다.
+10. 마지막으로 가장 중요한 것은 바안이 매 판마다 바뀐다는 점입니다. 주사위 결과가 어떻게 나오느냐에 따라 기본적인 세계도 다르게 발전합니다. 독자들은 이 자료 위에서 자신만의 바안 세계를 만드는 것을 권장합니다.
