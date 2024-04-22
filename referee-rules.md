@@ -1,68 +1,68 @@
-# Referee Rules
+# 심판 규칙(Referee Rules)
 
-## Reactions
-When the PCs encounter an NPC or creature whose reaction to the party is not obvious, the referee may roll d20 and consult the following table. Modify the roll with the PC's Ego bonus if they can communicate with the creature.
+## 반응 (Reactions)
+PC들이 파티에 대한 반응이 명확하지 않은 NPC나 생물을 만났을 때, 심판은 d20을 굴리고 다음 표를 참조할 수 있습니다. PC가 생물과 소통할 수 있다면 PC의 Ego 보너스로 굴림을 수정하세요.
 
-|d20|Reaction|
-|---|--------|
-|1-3|Attacks Immediately|
-|4-6|Hostile, Can't Be Swayed|
-|7-9|Hostile, Could Be Swayed|
-|10-13|Wary, Defensive|
-|14-16|Uninterested|
-|17-19|Curious, Approachable|
-|20+|Actively Helpful|
+| **D20** | **반응** |
+| --- | --- |
+| 1-3 | 즉시 공격함 |
+| 4-6 | 적대적, 동요하지 않음 |
+| 7-9 | 적대적, 동요할 수 있음 |
+| 10-13 | 경계함, 방어적으로. |
+| 14-16 | 무관심함 |
+| 17-19 | 호기심 많음. 사귀기 쉬움 |
+| 20+ | 적극적으로 도움이 됨 |
 
-## Adversary Stats
-**Level:** A measure of the adversary’s power, used to determine its Hit Points (HP) and bonuses. To calculate HP, multiply the level by 4 (or 5 if you’re feeling mean).
+## 적 수치 (Adversary Stats)
+**레벨:** 적의 힘을 측정하는 지표로, 이는 적의 체력(HP)과 보너스를 결정하는 데 사용됩니다. 체력을 계산하려면 레벨에 4를 곱하십시오 (또는 더 강하게 만들고 싶다면 5를 곱하십시오).  
 
-**Armour:** The Armour score gives the number a PC’s attack roll must exceed to damage them.
+**장갑:** 장갑 점수는 PC의 공격 굴림이 적에게 피해를 입히기 위해 초과해야 하는 숫자를 나타냅니다.
 
-**Abilities:** Adversaries have ability bonuses equal to their level, with the corresponding defenses. (**Example**: a Level 4 adversary has an attack bonus of +4 and a defense of 14 in all of its abilities, unless modified by the Referee.)
+**능력치:** 적은 레벨에 해당하는 능력치 보너스와 능력치 방어 점수를 갖습니다. (**예시:** 레벨 4의 적은 모든 능력에 +4의 공격 보너스와 14의 방어 점수를 가지며, 이는 심판에 의해 수정될 수 있습니다.)  
 
-**Attacks:** Number of attacks an adversary can make per round, and the damage dice rolled for each. Attacks separated by a / symbol are mutually exclusive, the adversary must use one or the other. Attacks joined by a + symbol are multi-attacks, the adversary can use all in the same round.
+**공격:** 적이 한 라운드당 할 수 있는 공격 횟수와 각각의 공격에 사용되는 피해 주사위를 나타냅니다. / 기호로 구분된 공격은 상호 배제적이어서 적은 둘 중 하나만 사용해야 합니다. / 기호로 연결된 공격은 다중 공격으로, 적은 동시에 모든 공격을 사용할 수 있습니다. 
 
-**Morale:** When adversaries face more danger than expected, the Referee can make a Morale roll by rolling d20 and adding the respective bonus. If the result is less than 15, the adversary flees, hides or attempts to parley. Morale rolls can be triggered by defeating half of an enemy group, their leader or similar.
+**사기:** 적이 예상보다 더 큰 위험에 직면할 때, 심판은 사기 판정을 할 수 있습니다. 이를 위해 d20을 굴리고 각자의 보너스를 더합니다. 결과가 15보다 작으면 적은 도망가거나 숨거나 협상을 시도합니다. 사기 판정은 적 그룹의 절반을 격파하거나 그들의 지도자가 죽은 등과 같은 상황에서 발동할 수 있습니다.
 
-## Adversary Types
-**Biological:** A living creature, made from flesh and blood. No unusual resistances or weaknesses.
+## 적의 종류 (Adversary Types)
+**유기체:** 살아 있는 생물로, 고기와 살점으로 이루어진 존재입니다. 특이한 저항력이나 약점은 없습니다.
 
-**Fungal:** A creature formed from motile fungus. Takes half damage from kinetic attacks such as bludgeoning, stabbing, etc. Takes double damage from fire or fungicide bombs.
+**진균류:** 움직이는 곰팡이로 형성된 생물입니다. 둔격, 찌르기 등의 운동 에너지 공격으로부터는 받는 피해가 절반으로 감소합니다. 불이나 진균용 폭탄으로부터는 받는 피해가 2배가 됩니다.
 
-**Hypergeometric:** A creature that exists outside the bounds of Euclidean geometry. Takes double damage from hypergeometric weaponry. 
+**초기하학적:** 유클리드 기하학의 범위를 벗어난 존재입니다. 초기하 기술에 대해 2배의 피해를 입습니다.  
 
-**Mineral:** A creature made from living rock or crystal. Immune to damage from suffocation, poison, radiation, electricity, extreme temperatures, or fungal spores. Takes double damage from bludgeoning weapons.
+**무기질:** 바위나 결정체로 이루어진 생물입니다. 질식, 독, 방사선, 전기, 극한 온도 또는 진균 포자에 대한 피해 면역을 가지고 있습니다. 충격 무기로부터는 2배의 피해를 입습니다.  
 
-**Outsider:** A being that is alien to our reality. Too strange to be categorised. Resistances and vulnerabilities vary wildly.
+**이계체:** 우리 현실과 완전히 다른 차원에서 온 존재입니다. 너무 이상해서 분류하기 어렵습니다. 저항과 약점은 매우 다양합니다.  
 
-**Psychic:** A creature with psychic powers. May utilize Gifts and can detect **Psychic Gleam** (see below).
+**정신적:** 초능력을 가진 생물입니다. 재능을 사용할 수 있으며, **초능력의 흐린 빛**을 감지할 수 있습니다 (아래 참조).
 
-**Synthetic:** An artificial creature, made from metal, plastic, and an ego-engine. Immune to damage from suffocation, poison, radiation, or fungal spores. Takes double damage from electrical attacks. Vulnerable to weaponised LogLang syntax. 
+**인조생물:** 금속, 플라스틱 및 자아 엔진으로 만들어진 인공적인 생명체입니다. 질식, 독, 방사선 또는 진균 포자에 대한 피해 면역을 가지고 있습니다. 전기 공격으로부터 2배의 피해를 입습니다. 로그어로 구문화된 문법을 쓰는 무기체계에 취약합니다.
 
-## Referee Principles
+## 심판 원칙 (Referee Principles)
 
-- It’s not always necessary to roll dice. Only ask players to make a Save when the outcome is uncertain, the stakes are interesting, and there are consequences for failure.
+- 주사위를 굴릴 필요가 항상 있는 것은 아닙니다. 결과가 불확실하며, 판돈이 흥미롭고, 실패에 대한 결과가 있을 때만 플레이어에게 내성굴림을 요청하세요.
 
-- Don't prepare plotted stories, as they presume the reactions of your players. Instead prepare interesting situations and problems for your players to solve, subvert, or avoid as they see fit.
+- 플레이어의 반응을 예측해 줄거리를 준비하지 마세요. 대신 플레이어가 해결하거나, 전복시키거나, 적절하다고 판단할 때 피할 수 있는 흥미로운 상황과 문제를 준비하세요.
 
-- The core of the game is players making informed choices, following by the GM reporting the impact of those choices. Don’t hide information from the players without good reason; you are their eyes and ears in the fictional world. Describe the situation as fully as you can, and ask ‘What do you do?’
+- 게임의 핵심은 플레이어들이 정보에 기반한 선택을 하고, GM(게임 마스터)가 그 선택의 영향을 보고하는 것입니다. 중대한 이유 없이는 플레이어로부터 정보를 숨기지 마세요; 당신은 그들의 두 눈과 귀입니다. 상황을 최대한 완전하게 설명하고 '당신은 어떻게 하겠습니까?'라고 물으세요.
 
-- Allow the narrative of your campaign to emerge from choices your players make, and the reaction of the game world to those choices.
+- 캠페인의 서사는 당신의 플레이어들이 하는 선택과 그 선택에 대한 게임 세계의 반응에서 나오도록 하세요.
 
-- Don’t create problems that have an ‘answer’. Allow your players to surprise you. If they come up with a creative solution, give it a chance to work
+- '답'이 있는 문제를 만들지 마세요. 당신의 플레이어들로 하여금 당신을 놀라게 할 수 있도록 하세요. 그들이 창조적인 해결책을 제시한다면 작동할 수 있도록 기회를 주세요
 
-- Build responsive situations - add interactivity, dynamic threats, and potential energy. Give players ropes to swing from, mysterious buttons to press, and villains who stand next to explosive red barrels.
+- 반응형 상황 구축 - 상호작용성, 동적인 위협 및 잠재 에너지 추가하기. 플레이어에게 그네를 타고 놀 수 있도록 밧줄을 주고, 의문스러운 버튼 뿐만 아니라 폭발물 붉은 배럴 옆에서 서있다는 악당 등등 다양한 요소를 제공하세요.
 
-- Embrace random chance and the intervention of the dice. Use the dice tables provided in this book to inject events, locations and NPCs into the game world, so that Vaarn will surprise you as well as your players.
+- 랜덤 확률과 주사위 개입을 받아들으십시오. 이 책에서 제공하는 주사위 표를 사용하여 만든 이벤트, 위치 및 NPC를 세계에 주입하여 바안 세계가 당신과 여러분의 플레이어들에게 놀라움을 주도록 하세요.
 
-- NPCs should have vivid, memorable personalities and easily understood goals (even if they conceal their true aims at first). Once the players know what an NPC wants, they understand how to interact with and manipulate that character.
+- NPC는 생생하고, 기억에 남는 개성과 쉽게 이해할 수 있는 목표를 가져야 합니다 (처음에는 그들의 진정한 목표를 숨길 수 있습니다). 플레이어가 NPC가 원하는 것을 알면, 그 캐릭터와 어떻게 상호작용하고 조작할지 이해합니다.
 
-- Make Vaarn feel alive. NPCs are not static quest givers: they have their own agendas, quarrels, and misfortunes. If the players leave a settlement and return later, something should have changed.
+- 바안을 살아있는 듯 느껴지도록 만드세요. NPC는 고정된 퀘스트 제공자가 아닙니다: NPC도 자신만의 의제, 분쟁, 불행 등이 있습니다. 플레이어가 정착지를 떠나서 나중에 돌아오면 변화가 있어야 합니다.
 
-- Make Vaarn feel dangerous. Combat can be deadly and won’t always be fair. Remember that monsters and NPCs want to stay alive too - make use of reaction rolls, morale saves, and negotiations, so that every conflict isn’t a battle to the death.
+- 바안을 위험하게 만드세요. 전투는 치명적일 수 있으며 항상 공정하지 않습니다. 괴물과 NPC도 생존하길 원한다는 것을 기억하세요 - 반응 롤, 도덕 저장 및 협상 등을 사용하여 모든 충돌이 사망 싸움이 되지 않도록 하세요.
 
-- Make Vaarn feel strange and beautiful. Describe the red sun casting purple shadows over blue sand dunes, the wild animals with parasitic chrome limbs, and the showers of falling orbital debris that light up the night sky.
+- 바안을 이상하고 아름답게 만드세요. 붉은 태양이 파란 모래 언덕 위에 보라색 그림자를 드리우고, 기생 크롬 팔다리를 가진 야생동물과 밤하늘을 밝혀주는 낙하 우주 잔해의 소나기를 묘사하세요.
 
-- Make the Exotica powerful and interesting. They’re the big prizes everyone is searching for, so they will open up new ways of solving problems for the players. Conversely, make sure the Exotica come with downsides, so there’s a trade-off for using them. Vaarn becomes dull when one tool is the right answer to every question.
+- 엑조티카를 강력하고 흥미롭게 만드세요. 그것들은 모든 사람들이 찾고 있는 큰 보상입니다, 따라서 플레이어들에게 문제 해결의 새로운 방법을 열어 줄 것입니다. 반대로 엑조티카가 단점으로도 따라오도록 하여 사용하는 대신 거래 제약조건이 있도록 하십시오. 바안은 한 가지 도구만 모든 질문에 대한 옳은 답인 경우 지루해집니다.
 
-- The rules don’t cover everything that will come up in play, so you’ll sometimes have to make a quick ruling that feels right and move on with the game. If the same situation keeps coming up, talk with your players and agree on a new permanent rule to cover it.
+- 규칙은 게임에서 발생할 모든 것을 다루지 않으므로 때때로 더 나은 것 같은 결정을 빠르게 내리고 게임을 계속 진행해야 할 것입니다. 같은 상황이 계속 발생하면 플레이어와 이야기하고 이 상황을 다루기 위한 새로운 영구적인 규칙에 동의해야 할 것입니다.
