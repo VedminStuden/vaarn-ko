@@ -1,107 +1,107 @@
-# Elixirs
-Elixirs are the province of the Vaarnish alchymist, a catch-all term for wondrous unguents, salves, tonics, and nectars. Infused with exotic molecules and enthusiastic nanomachinery, these single-use concoctions grant the drinker a variety of beneficial effects. They may be ingested by all PCs except those who are **Synthetic** or **Mineral** in nature.
+# 연금술 (Alchemy)
 
-## Components and Essences
-Elixirs are brewed using a single **Component** and varying quantities of **Essence**.  
+엘릭서는 바안 연금술사의 전유물입니다. 이 용어는 불사가의한 연고, 고약, 토닉 및 음료를 모두 포괄하는 말입니다. 엘릭서는 특이한 분자와 열성적인 나노기계로 가득 차 있는 일회용 혼합물로, 마시는 사람에게 다양한 유익한 효과를 부여합니다. **인조적**이거나 **무기질**로 구성되지 않은 모든 PC가 섭취할 수 있습니다.
 
-**Components** are body parts harvested from dead creatures. This could be an eye, claw, tongue, heart, liver, etc. Only one Component can be harvested from a creature, and the harvester must make an INT save vs **10 + the creature's Level.** Failure results in the Component being spoiled. Components take up one item slot and do not stack.  
+## 구성요소와 에센스 (Components and Essences)
+엘릭서는 하나의 **구성 요소**와 다양한 양의 **에센스**를 사용하여 양조됩니다.    
 
-**Essences** are generic ingredient types that can be extracted from the corpses of dead creatures. No INT save is required to render a creature down into a single dose of its Essence. Up to ten of the same Essence can stack in one item slot. The type of Essence extracted relates to the creature's type, as follows: 
+**구성 요소**는 죽은 생명체로부터 수확된 신체 부위입니다. 눈, 발톱, 혀, 심장, 간 등이 될 수 있습니다. 한 생명체에서는 하나의 구성 요소만을 수확할 수 있으며, 수확하는 캐릭터는 **생명체의 레벨에 10을 더한 값을 DC로** INT 내성굴림를 해야 합니다. 실패하면 구성 요소가 손상됩니다. 구성 요소는 한 개의 아이템 칸을 차지하며 중첩되지 않습니다.  
 
-- **Blood** - extracted from *Biological* creatures. 
-- **Supercoolant** - extracted from *Synthetic* creatures. Also found inside pre-Collapse computers.
-- **Mycelium** - extracted from *Fungal* creatures. Also found in non-sentient mold and fungi.
-- **Psychespinal Fluid** - extracted from *Psychic* creatures.
-- **Manifold Marrow** - extracted from *Hypergeometric* creatures. 
-- **Living Dust** - extracted from *Mineral* creatures. Also carried by Lithling as a sacrament.
-- **Paradox Bile** - extracted from *Outsider* creatures. 
+**에센스**는 죽은 생명체의 시체에서 추출할 수 있는 일반적인 재료 유형입니다. 생물을 에센스 하나로 가공하기 위해서 INT 내성굴림이 필요하지는 않습니다. 동일한 에센스를 최대 열 개까지 하나의 아이템 칸에 중첩할 수 있습니다. 추출된 에센스 유형은 해당 생물의 종류와 관련이 있습니다.
 
-**Note:** *If a creature has two or more types listed, the PCs may choose which essence type is extracted. The other potential dose is lost during the process.*
+- **혈액** - *생체적인* 생명체에게서 추출됨.
+- **과냉각제** - *인조적인* 생명체에게서 추출됨. 또한 붕괴 전 컴퓨터 안에서도 발견할 수 있음.
+- **균사체** - *진균*생명체에게서 추출됨. 또한 지성이 없는 곰팡이와 진균에서도 발견할 수 있음.
+- **정신척수액** - *정신적인* 생명체에게서 추출됨.
+- **가지각색의 골수** - *초기하학적인* 생명체에게서 추출됨.
+- **살아있는 먼지** - *광물* 생명체에게서 추출됨. 또한 리슬링이 성찬으로 들고 가기도 함.
+- **역설적인 담즙** - *이계체* 생명체에게서 추출됨
 
-## Potency
-Elixirs have a Potency Level between 1 to 5. Potency should be determined by the Referee, with most Elixirs falling in the 1-3 range.  
+**주의사항:** *만약 생물이 두 가지 이상의 유형을 가지고 있다면, 캐릭터들은 어떤 에센스 유형을 추출할지 선택할 수 있습니다. 과정 중에 다른 잠재적인 용량은 손실됩니다.*
 
-A Potency 1 Elixir will have a minor effect comparable to a mundane item, such as allowing the drinker to vomit up a rope or briefly see in the dark.  
+## 효능 (효능)
+엘릭서는 1에서 5 사이의 효능 등급를 띠고 있습니다. 대부분의 엘릭서는 1-3 범위 안의 등급에 속하며, 효능은 심판에 의해 결정되어야 합니다.  
 
-A Potency 3 Elixir is comparable to an Exotica in effect but not in duration, such as allowing a PC to teleport once or rendering them invisible for an hour.  
+효능 1의 엘릭서는 일반적인 아이템과 비슷한 사소한 효과를 지니며, 마시는 사람이 로프를 토해내거나 잠시 어두운 곳에서 볼 수 있게 해줍니다.  
 
-A Potency 5 Elixir will have a permanent consequence for a PC, such as giving them a new body part or Mystic Gift, permanently increasing an ability score, or cloning them perfectly. Remember that the effect of the Elixir must be tied to the nature of the creature its main Component derives from. 
+효능 3의 엘릭서는 효과가 엑조티카와 비슷하지만 지속 시간은 다르며, PC에게 한 번만 순간 이동할 수 있는 능력을 부여하거나 한 시간 동안 그들을 보이지 않게 만드는 등의 효과를 가집니다. 
 
-## Brewing an Elixir 
-Brewing requires three elements: a heat source, a pan, and a receptacle for the finished Elixir. The brewing process takes several hours and cannot be truncated - interruptions will spoil the Elixir and render it useless. 
-The ingredients of an Elixir are **one Component**, which must be directly related to the Elixir's intended effect, and a number of **Essences equal to its Potency.** The Essences used must be of **different types.**  
+효능 5의 엘릭서는 PC에게 영구적인 결과를 가져옵니다. 예를 들어 새로운 신체 부위나 신비로운 재능을 제공하거나, 능력치를 영구적으로 증가시키거나 캐릭터를 완벽하게 복제하는 등입니다. 기억해야 할 점은 엘릭서의 효과가 주요 구성 요소가 유래한 생명체의 성질과 연관되어야 한다는 것입니다.
 
-**Example:** *A Potency 3 Elixir can be brewed using one dose each of Blood, Supercoolant, and Mycelium, but not using three doses of Blood.*
+## 엘릭서 양조 (Brewing an Elixir) 
+양조 과정에는 열원, 냄비, 완성된 엘릭서를 담을 용기 세 가지 요소가 필요합니다. 양조 과정은 몇 시간이 걸리며 양조하는 데 드는 시간을 따로 단축할 수 없습니다. 양조가 중단되면 엘릭서가 손상되어 사용할 수 없게 됩니다. 엘릭서의 재료는 의도한 효과와 직접적으로 관련된 **하나의 구성 요소**와 **해당 효능에 해당하는 만큼**의 **다른 유형**의 에센스입니다.  
 
-## Antidotes
-Antidotes to the venom of toxic creatures can be brewed using the creature's venom as a Component. The Potency of the antidote is decided by the strength of the toxin: a d6 TOX attack requires a Potency 1 antidote, a d8 TOX attack requires a Potency 2 antidote, and so on. Ingesting an antidote prior to battle renders that character immune to the Toxin Dice inflicted by that creature. 
+**예시:** *효능 3인 엘릭서는 혈액, 초냉각제 그리고 균사체를 각각 한 번씩 사용하여 양조할 수 있지만, 혈액을 세 개 사용하는 것만으로는 양조할 수 없습니다.*
 
-## Sample Elixirs
-While the intent of the system is to allow the PCs to be creative in what they brew up, and to incentivise them to seek out unusual monsters in order to steal their powers, here are a few examples of Elixirs that might be brewed.
+## 해독제 (Antidotes)
+독을 지닌 생명체의 독에 대한 해독제는 해당 생물의 독을 구성 요소로 사용하여 양조할 수 있습니다. 해독제의 효능은 독의 강도에 따라 결정됩니다. d6 TOX 공격은 효능 1 해독제를 필요로 하며, d8 TOX 공격은 효능 2 해독제를 필요로 합니다. 이와 같은 방식으로 계속해서 증가합니다. 전투 전에 해독제를 섭취하면 해당 캐릭터는 그 생물이 가하는 독 주입에 면역이 됩니다.
 
-### Babel Beer
-**Potency:** 1  
-**Component:** A tongue  
-**Effect:** Allows drinker to temporarily speak the languages known by the tongue’s owner. However, they will do so in the slurring, incoherent manner of one intoxicated.
+## 엘릭서 예시 (Sample Elixirs)
+이 시스템의 의도는 PC가 창의적으로 양조하고, 괴물을 찾도록 장려하는 것이지만, 아래에 양조해볼 수 있는 몇 가지의 엘릭서의 예를 준비해봤습니다.  
 
-### Doppeldraught
-**Potency:** 2  
-**Component:** Pickled flesh of a [Doppelgeller](https://vaarn.github.io/#/bestiary?id=doppelgeller)  
-**Effect:** Drinker vomits up a jelly-clone of themselves. It resembles them but is translucent and mute. It will follow instructions, but dissolves after an hour.
+### 바벨 맥주 (Babel Beer)
+**효능:** 1  
+**구성요소:** 혀 하나  
+**효과:** 마시는 사람이 잠시 혀의 본래 주인이 알고 있는 언어를 구사할 수 있게 합니다. 취한 사람처럼 불분명하고 말이 통하지 않는 방식으로 이야기할 것입니다.
 
-### Skulk Salve
-**Potency:** 3  
-**Component:** The synth-skin of a [Subtle Stalker](https://vaarn.github.io/#/bestiary?id=subtle-stalker)  
-**Effect:** Apply to flesh to become invisible for the next hour.
+### 복제 물약 (Doppeldraught)
+**효능:** 2  
+**구성요소:** [복젤인간](https://vaarn.github.io/#/bestiary?id=doppelgeller)의 절인 살점  
+**효과:** 마시는 사람은 자신을 복제한 젤리 복제인간을 토해냅니다. 이 복제인간은 자신과 닮았지만 투명하며 벙어리입니다. 지시에 따라 움직일 수 있지만 1시간 후에 사라집니다.  
 
-### Geneshock Tonic
-**Potency:** 4  
-**Component:** A cacogen's heart  
-**Effect:** Drinker gains a new, permanent [mutation](https://vaarn.github.io/#/ancestries?id=mutations), matching that of the heart’s owner.
+### 숨기 연고 (Skulk Salve)
+**효능:** 3  
+**구성요소:** [은은한 추적자](https://vaarn.github.io/#/bestiary?id=subtle-stalker)의 신스 피부  
+**효과:** 이 연고를 바른 살점은 다음 한 시간동안 투명해집니다. 
 
-### Immortality Injector
-**Potency:** 5  
-**Component:** The mercurial war-flesh of a [Quicksilver Exterminator](https://vaarn.github.io/#/bestiary?id=quicksilver-exterminator)  
-**Effect:** A biological creature injected with this fizzing froth of nanomachinery cannot die. It can be damaged beyond recognition, but the life will not leave its frame. This effect lasts for one day.
+### 유전적 충격 토닉 (Geneshock Tonic)
+**효능:** 4  
+**구성요소:** 캐커젠의 심장 하나
+**효과:** 마신 이는 심장의 본래 주인과 맞는 새로 영구적인 [돌연변이](https://vaarn.github.io/#/ancestries?id=mutations)를 얻습니다.
 
-# Toxin Dice
-While adventuring in Vaarn, characters may be exposed to poison, venom, radiation, or other toxins. The Toxin dice (TD) system is a way to track the harmful, lingering effects of such exposures. 
+### 불멸의 주사기 (Immortality Injector)
+**효능:** 5  
+**구성요소:** [수은 절멸자](https://vaarn.github.io/#/bestiary?id=quicksilver-exterminator)의 액체금속으로 이루어진 전쟁용 살점  
+**효과:** 효과: 이 거품 모양의 나노기계로 주입된 생명체는 죽을 수 없습니다. 해당 생명체는 알아볼 수 없을 정도로 피해를 입을 수 있지만, 생명은 그 틀에서 떠나지 않습니다. 이 효과는 하루 동안 지속됩니다.
 
-## Basics
-A Toxin dice represents the damage caused by toxic substances. A TD is incurred when a PC is hit by a toxic attack and fails a CON save. Toxic attacks are indicated by the notation TOX.  For example, an attack with the damage notation ‘d6 TOX’ requires the target to make a CON save vs a d6 TD. 
+# 독소 주사위 (Toxin Dice)
+바안에서 모험을 하는 동안 캐릭터들은 독, 독, 방사선 또는 다른 독소에 노출될 수 있습니다. 독소 주사위(TD) 시스템은 이러한 노출의 유해하고 지속적인 영향을 풀어내는 방법입니다.
 
-## The Dice Chain
-Toxin dice use a dice chain, which runs as follows:  
-***Cured*** **< d4 < d6 < d8 < d10 < d12 < d20**  
-When a TD shows a 1-4, it depletes and moves one step down the dice chain. When PCs reach the Cured step, they no longer have a TD.
+## 기초 (Basics)
+독소 주사위는 독성 물질로 인한 피해를 나타냅니다. TD는 PC가 독 공격을 받고 CON 내성굴림에 실패할 때 발생합니다. 독소 공격은 'TOX'로 표시됩니다. 예를 들어, 피해 표기가 'd6 TOX'인 공격은 대상이 d6 TD에 대한 CON 대항 굴림을 해야 합니다.
 
-## Saving vs Toxins
-The more potent the toxin, the more difficult it is to resist. An afflicted PC must make a CON save vs 10 + the listed TD size.  
+## 주사위 연계 (The Dice Chain)
+독소 주사위는 다음과 같이 연계된 주사위를 사용합니다.  
+***치료됨*** **&lt;d4 &lt; d6 &lt; d8 &lt; d12 &lt; d20**  
+TD가 1-4를 나타낼 경우 연계 주사위가 한 단계 작아집니다. pc가 치료됨 단계에 접어들었을 때 더이상 TD를 굴리지 않습니다.
 
-**Example:** *A d6 TOX attack requires a CON save exceeding 16. A d10 TOX attack requires a CON save exceeding 20, and so on.*
+## 독소에 대한 내성굴림 (Saving vs Toxins)
+독소가 강력할수록 저항하기 어렵습니다. 영향을 받은 PC는 목록에 표시된 TD 크기보다 10을 더한 값에 대한 CON 내성굴림을 해야 합니다.  
 
-## Toxin Damage
-Each combat round, before taking their action, a PC with a Toxin dice must roll the TD and subtract the number shown from their HP. On a roll of 1-4, the TD depletes one step.  
-If the PCs are not in combat, they should roll their TD every ten minutes.
+**예시:** *d6 TOX 공격은 16을 초과하는 CON 내성굴림을 요구합니다. d10 TOX 공격은 20을 초과하는 CON 내성굴림을 요구합니다. 독에 대한 내성굴림은 같은 방식으로 진행됩니다.*
 
-| TD Size | Average Damage Dealt | CON Save Must Beat |
-|---|---|---|
-|d4|2.5| 14
-|d6|7.75| 16
-|d8|16.75| 18
-|d10|30.5| 20
-|d12|50| 22
-|d20|102.5| 30
+## 독소 피해 (Toxin Damage)
+각 전투 라운드에서, 행동을 취하기 전에 독소 주사위를 가진 PC는 TD를 굴려 나온 숫자를 현재 HP에서 빼야 합니다. 1-4가 나오면 TD가 한 단계 감소합니다.  
+전투 중이 아닌 경우, PC는 10분마다 TD를 굴려야 합니다.
 
-## Multiple Sources of Toxins
-A PC only has one TD at a time. Failing a save against a new TOX attack only increases the PC’s TD size if their current TD is smaller than the size indicated by the new attack.  
+| **TD 크기** | **평균 피해** | **CON 내성굴림 DC** |
+| --- | --- | --- |
+| d4 | 2.5 | 14 |
+| d6 | 7.75 | 16 |
+| d8 | 16.75 | 18 |
+| d10 | 30.5 | 20 |
+| d12 | 50 | 22 |
+| d20 | 102.5 | 30 |
 
-**Example:** *Magen is afflicted by a d8 Toxin dice. She is hit by a d6 TOX attack, and fails her CON save. However, as her TD is d8, higher than d6 in the dice chain, it does not increase in size.*
+## 독소의 다양한 원천 (Multiple Sources of Toxins)
+한 PC는 한 번에 하나의 TD만 가지고 있습니다. 새로운 TOX 공격에 대한 세이브 실패는 현재 TD가 새로운 공격에서 나타내는 크기보다 작을 경우에만 PC의 TD 크기를 증가시킵니다.  
 
-## Curing Toxins
-The exact method will differ depending on the source of the toxin, but it should generally be assumed that the locals of an area will know some method of curing the affliction. Pre-Collapse medgel pods and surgeon synths will be of use. PCs trained in alchemy may also be able to brew up antidotes.
-The Referee should consider allowing the PCs to attempt amputation of an afflicted limb, when appropriate.
+**예시:** *메이건은 d8 독소 주사위에 영향을 받았습니다. 메이건은 d6 TOX 공격을 받아 CON 내성굴림에 실패했습니다. 하지만 메이건의 TD는 연계 주사위 중에서 d6보다 큰 d8이기 때문에 주사위 크기가 증가하지 않습니다.*
 
-## Radiation and Diseases
-The system can expand to include a separate Radiation dice and Disease dice. For these deeper, more insidious ailments, have the PCs roll the dice once per day, but allow it to deal damage directly to their ability defences. Radiation sickness may whittle away CON, while Diseases could decrease any attributes the Referee thinks fitting. 
-Be aware that losing ability scores severely weakens a PC, and ensure there are remedies to such afflictions.  
+## 독소의 치료 (Curing Toxins)
+독소의 원천에 따라 정확한 치료 방법은 다를 수 있지만, 일반적으로 해당 지역 주민들은 그 고통을 치료할 수 있는 방법을 알고 있다고 가정해야 합니다. 붕괴 이전의 의료용 젤 포드과 외과 로봇은 치료에 유용할 것입니다. 화학에 훈련된 PC는 해독제를 제조할 수도 있습니다. 심판은 적절한 경우 독에 감염된 사지를 절단하도록 PC에게 시도할 기회를 줄 것을 고려해야 합니다.
+
+## 방사능과 질병 (Radiation and Diseases)
+이 시스템은 방사능 주사위와 질병 주사위를 별도로 포함하도록 확장할 수 있습니다. 이 깊고 음흉한 질병에 대해서는 PC가 하루에 한 번씩 주사위를 굴리도록 하되, 자신의 능력 방어도에 직접적인 피해를 입게 허용하면 됩니다. 방사능 질병은 CON을 약화시킬 수 있고, 질병은 심판이 생각하는 적합한 속성을 감소시킬 수 있습니다. 
+
+능력 점수가 떨어지면 PC가 심각하게 약화된다는 것을 알고 그러한 질병에 대한 치료법이 있는지 확인하십시오.
