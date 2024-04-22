@@ -241,31 +241,31 @@ _고대인들은 많은 경이로운 장치를 만들었지만, 그들을 칭찬
 <table>
 <thead><tr><th>d20</th><th>이름</th><th>동력원</th><th>생산목적</th><th>자기인식</th></th></thead>
 <tr><td>1</td><td>오자신</td><td rowspan="5">인공 광합성</td><td>예술</td><td>A모든 기억은 거짓이다</td></tr>
-<tr><td>2</td><td>Farouk</td><td>Punishment</td><td>Azathoth Is the Only True God</td></tr>
-<tr><td>3</td><td>Ishtar</td><td>Flattery</td><td>Chance Does Not Exist</td></tr>
-<tr><td>4</td><td>Symeon</td><td>Devotion</td><td>Fate Does Not Exist</td></tr>
-<tr><td>5</td><td>Irmina</td><td>Cleaning</td><td>Humanity Stole the Divine Spark</td></tr>
-<tr><td>6</td><td>Kaori</td><td rowspan="3">Plasma Core</td><td>Healing</td><td>Humans Are Machines</td></tr>
-<tr><td>7</td><td>Cyriak</td><td>Agriculture</td><td>Machines Created Humanity</td></tr>
-<tr><td>8</td><td>Quarqus</td><td>Spacefaring</td><td>Newbeasts Carry the Divine</td></tr>
-<tr><td>9</td><td>Fane</td><td rowspan="5">Fusion Battery</td><td>Exploration</td><td>Synthetic Minds Are More Devout</td></tr>
-<tr><td>10</td><td>Arjuna</td><td>Mining</td><td>Synthetic Minds Are Stronger</td></tr>
-<tr><td>11</td><td>Many-Moons</td><td>Peacekeeping</td><td>The Gods Are Mechanical</td></tr>
-<tr><td>12</td><td>Lucjan</td><td>Assassination</td><td>The Titans Never Existed</td></tr>
-<tr><td>13</td><td>Jacintha</td><td>Manufacturing</td><td>The Titans Were the True Gods</td></tr>
-<tr><td>14</td><td>Mneme</td><td rowspan="3">Artificial Digestion</td><td>Executioner</td><td>Time Flows Backwards</td></tr>
-<tr><td>15</td><td>Faustyn</td><td>Scout</td><td>Time is Circular</td></tr>
-<tr><td>16</td><td>Elisebet</td><td>Companion</td><td>Vaarn Is a Simulation</td></tr>
-<tr><td>17</td><td>Paeon</td><td rowspan="2">Symbiotic Internal Ecosystem</td><td>Scribe</td><td>Vaarn Is Hell</td></tr>
-<tr><td>18</td><td>Ulmon</td><td>Strategist</td><td>You Are Human</td></tr>
-<tr><td>19</td><td>Xhiva</td><td rowspan="2">Vampirism</td><td>Preacher</td><td>You Must Awaken the Titans</td></tr>
-<tr><td>20</td><td>Yathartha</td><td>Doctor</td><td>Your Memories Are Corrupted</td></tr>
+<tr><td>2</td><td>파루크</td><td>처벌</td><td>아자소스는 유일신이다</td></tr>
+<tr><td>3</td><td>이시타르</td><td>아첨</td><td>기회는 존재하지 않는다</td></tr>
+<tr><td>4</td><td>시므온</td><td>헌신</td><td>운명은 존재하지 않는다.</td></tr>
+<tr><td>5</td><td>이르미나</td><td>청소</td><td>인간성이 신성한 점화를 앗아갔다</td></tr>
+<tr><td>6</td><td>카오리</td><td rowspan="3">플라스마 코어</td><td>치료</td><td>인간은 기계다</td></tr>
+<tr><td>7</td><td>사이리아크</td><td>농업</td><td>기계가 인간성을 창조했다</td></tr>
+<tr><td>8</td><td>쿼르쿼스</td><td>우주여행</td><td>뉴비스트가 신성의 매개체이다</td></tr>
+<tr><td>9</td><td>페인</td><td rowspan="5">퓨전 배터리</td><td>탐험</td><td>인조 사고의 믿음이 더 깊다</td></tr>
+<tr><td>10</td><td>아르주나</td><td>채광</td><td>인조 사고가 더 강하다</td></tr>
+<tr><td>11</td><td>M매니-문스</td><td>평화유지</td><td>신은 기계로 이루어졌다</td></tr>
+<tr><td>12</td><td>룩잔</td><td>암살</td><td>타이탄은 존재한 적 없다</td></tr>
+<tr><td>13</td><td>자신타</td><td>제조업</td><td>타이탄이야 말로 진정한 신이었다</td></tr>
+<tr><td>14</td><td>므네메</td><td rowspan="3">인조 소화</td><td>처형인</td><td>시간은 거꾸로 흐른다</td></tr>
+<tr><td>15</td><td>파우스틴</td><td>정찰</td><td>시간은 순환한다</td></tr>
+<tr><td>16</td><td>엘레제베트</td><td>동료</td><td>바안은 시뮬레이션이다</td></tr>
+<tr><td>17</td><td>페이언</td><td rowspan="2">공생하는 내부 생태계</td><td>서기</td><td>바안은 지옥이다</td></tr>
+<tr><td>18</td><td>울몬</td><td>전략가</td><td>나는 인간이다</td></tr>
+<tr><td>19</td><td>지바</td><td rowspan="2">흡혈</td><td>전도사</td><td>나는 확실히 잠에서 깨어난 타이탄이다</td></tr>
+<tr><td>20</td><td>야사르사</td><td>의사</td><td>내 기억은 더럽혀졌다</td></tr>
 </table>
 
-### Special
-__SYNTHETIC FLESH__ - You are the being of metal and plastic. You do not need to eat or breathe. You will never take damage from suffocation, drowning, poisons, extreme temperatures, or fungal spores. You suffer double damage from electrical weapons.  
+### 특이사항
+__인조 살점__ - 당신은 금속과 플라스틱으로 이루어진 존재입니다. 식사나 숨쉬는 것이 필요하지 않습니다. 질식, 익사, 독소, 극한 온도 또는 진균 포자로 인한 피해를 입지 않습니다. 하지만 전기 무기로부터는 두 배의 피해를 입습니다.  
 
-__SYNTHETIC MIND__ - Your mind uses different operating procedures to those of the biological creatures around you. You are vulnerable to attacks that target the LogLang syntax that powers synths. These include strobing basilisk patterns, malicious infoglyphs, and ancient Titan-era language viruses.
+__인조 사고__ - 당신의 정신은 주변의 생물적 존재들과 다른 운영 절차를 사용합니다. 신스에 기반을 둔 로그어 구문을 대상으로 하는 공격에 취약합니다. 이러한 공격에는 깜박이는 바실리스크 패턴, 악성 정보 글리프 및 고대 타이탄 시대 언어 바이러스가 포함됩니다.
 
 ## Newbeast
 _Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
