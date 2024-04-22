@@ -1,8 +1,8 @@
 
 
-<p style="text-indent: 30px;">Vaarn! I curse each letter of the name.</p>
-<p style="text-indent: 30px;">I curse the blue sand that infiltrates every pore of my body, the creeping sand, which each night swallows a little more of the final camp we have erected upon the face of this pitiless azure desolation. I curse the red sun that rises each morning to scorch the skin from our scalps; that great and gory globe, which the sages tell us is dying, yet seems to me, hanging above the lapis wastelands, to be full of malevolent life.</p>
-<p style="text-indent: 30px;">Vaarn! I curse you! I curse this land that has stolen the tears from its peoples’ eyes, this land that swallows armies and poets and aeons as if they all, every work of every man, were but one more grain of mazarine sand. Vaarn! Three times I curse you, for I fear I will see no other land again.</p>
+<p style="text-indent: 30px;">바안! 그 이름의 각 글자 하나하나에 저주를 내리마.</p>
+<p style="text-indent: 30px;">내 몸의 모든 구멍으로 스며드는 파란 모래를 저주한다. 매일 밤이면 우리가 이 무정한 하늘색 황량지에 세운 마지막 야영지를 조금씩 삼켜드는 기어오르는 모래를 저주한다. 매일 아침 피부에서 땀을 증발시키는 붉은 태양을 저주한다. 현자들이 우리에게 말하는 것처럼 죽어가고 있는 크고 피로 물든 세계, 하늘색 황무지 위에 떠 있는데도 사악한 생명력으로 가득 차 있다고 보인다.</p>
+<p style="text-indent: 30px;">바안! 저주하마! 그 백성들의 눈에서 눈물을 훔치는 이 땅을, 군대와 시인과 시간을 집어삼키는 이 땅을, 인간의 모든 작품을 짙은 남색 모래 한 알처럼 여기며 살아 숨쉬듯 소멸시키는 이 땅을 저주하마. 바안! 마지막으로 널 저주하니, 다른 대지를 다시 볼 수 없게 되었다고 생각하기 때문이랴.</p>
 
 <p style="text-align: right;">- Final testament of Idris Ida-Null,<br />
 Hegemony Cartographer</p>
