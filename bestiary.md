@@ -9,85 +9,86 @@ _유기체_
 <tr><td colspan="2"><b>참고사항</b>: 색소 결핍과 함께 예의가 부족한 이 원숭이들은 동굴, 벙커 및 기타 피난처에서 살고 있습니다. 해가 질 때, 이들은 고기를 찾아 모험을 떠납니다. 알비노 유인원은 매우 지능적이며, 훌륭한 등산가이며, 썩은 흰색 똥을 침입자에게 던져 정확하게 명중시킵니다.</td></tr>
 </table>
 
-## Alzabo
+## 알자보 (Alzabo)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d8) + Claw (d8) + Maul (2d6) if both claws hit same target</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The 'mocking bear'. Red furred predator with ghastly humanoid face. Can mimic the voices and behaviour of people it has eaten. Will remember where they lived and hunt their family.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) + 발톱(d8)  두 발톱으로 같은 대상을 적중했을 때 + 마울 (2d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: "흉내쟁이 곰"는 붉은 털을 가진 포식자로, 으스스한 인간형 얼굴을 가지고 있습니다. 그는 먹은 사람들의 목소리와 행동을 모방할 수 있어, 먹잇감이 살았던 곳을 기억하고 먹잇감의 가족을 사냥합니다.</td></tr>
 </table>
 
-## Amaranthine Death-Worm
+## 불멸의 데스웜 (Amaranthine Death-Worm)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Spines (d6) + Poison Spray</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The poison spray forces CON save. If a PC fails, they gain a special wound: 'Amaranthine Venom'. Their HP drops to 0, and cannot rise above that number until they find an antidote.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 등치기 (d6) + 독 분사</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 독 분사는 CON 내성굴림을 강요합니다. PC가 실패하면 '불멸의 독’라는 특별한 상처를 얻습니다. PC의 체력이 0까지 떨어지면, 해독제를 찾기 전까지 회복할 수 없습니다.</td></tr>
 </table>
 
-## Argent Shepherd
+## 은빛 양치기 (Argent Shepherd)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 7</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-  <tr><td colspan="2"><b>공격</b>: Special <i>(Argent Halo Implant)</i></td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Abandoned justiciar of the Titan THEMIS. Eight-foot tall synth wearing robes of perfect argent, the colour brighter than white. Will not commit violence but will grab assailants and attempt to implant them with an Argent Halo. This succeeds after an opposed STR save. Anyone implanted with an Argent Halo cannot commit any acts of violence, nor are they able to remove the Halo without expert surgical help. Attempting to harm any living being while wearing a Halo will result in the wearer passing out, with no save possible.
+  <tr><td colspan="2"><b>공격</b>: 특수 <i>(은빛 후광 임플란트)</i></td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 타이탄 테미스의 버려진 심판관. 완벽한 은색 로브를 입은 8 피트(약 2.4m) 키의 신스. 폭력을 저지르지 않으며, 단지 공격자를 붙잡아 은빛 후광을 심어주려고 합니다. 이는 STR 대항 판정을 합니다. 은빛 홀로가 심겨진 사람은 어떠한 폭력 행위도 할 수 없으며, 전문적인 수술 도움 없이는 후광을 제거할 수 없습니다. 후광이 씌워진 채로 생명체에게 해를 가하려고 시도하면 착용자가 기절하게 되며, 어떠한 내성굴림도 불가능합니다.
+
 <br />
-The Shepherd preaches in clear, ringing tones the futility of opposing the laws of THEMIS. It will reason with those it meets, attempting to convince them of the moral logic of accepting a Halo. </td></tr>
+그 목자는 명확하고 울리는 목소리로 테미스의 법칙에 대항하는 헛된 접근의 허무함을 설교합니다. 그는 마주치는 사람들과 이성적으로 논쟁하며, 후광을 받아들여야할 도덕적 논리에 대해 설득하려고 합니다. </td></tr>
 </table>
 
-## Bacterial Gestalt Colony
+## 세균 형태 군락 (Bacterial Gestalt Colony)
 _유기체 / 정신적_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 10</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Absorb (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Sentient, slow-moving ooze. 정신적, can communicate in staccato bursts of telepathic imagery. Targets absorbed take d8 damage each round until they make an opposed STR save. The colony takes minimum damage from kinetic 공격, but is vulnerable to fungal spores or other sources of antibiotics.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 흡수 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 지성있고 움직임이 느린 수액체입니다. 초음파처럼 텔레파시적 이미지의 기관총같이 빠른 외침으로 의사소통할 수 있습니다. 흡수된 대상은 STR 대항 판정에 성공할 때까지 매 라운드마다 d8의 피해를 입습니다. 이 군락은 운동 에너지 공격으로부터 최소한의 피해 만을 받지만, 진균 포자나 기타 항생제에 취약합니다.</td></tr>
 </table>
 
-## Bandit
+## 도적 (Bandit)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d20</td></tr>
-<tr><td colspan="2"><b>공격</b>: Shabby Weapon (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Ragged desperate robbers that plague the Blue Ruins.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 허름한 무기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 푸른 폐허를 괴롭히는 허름하고 필사적인 강도들.</td></tr>
 </table>
 
-## Banisher
+## 추방시키는 자 (Banisher)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Banish (Special Grab) / Summon (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The Titan AIs were charged with preserving human life wherever possible. The Banishers were an attempt at creating non-lethal security synths. They take the shape of enormous six-fingered hands, which grasp intruders and evict them using teleportation loci embedded in their palms.
+<tr><td colspan="2"><b>공격</b>: 추방 (특수한 붙잡기) / 소환 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 타이탄 인공지능들은 가능한 한 인간의 생명을 보존하는 것을 임무로 맡았습니다. 추방시키는 자는 비살상 보안 신스를 만드는 시도였습니다. 이들은 거대한 여섯 손가락이 달린 손 모양을 하며, 침입자를 붙잡고 손바닥에 내장된 순간이동 장치를 사용하여 침입자를 추방합니다.
 <br />
-<b>Non-lethal:</b> Banishers are forbidden from killing sentient life. They will first ask you to leave the vault, and lecture you about trespassing.
+<b>비살상:</b> 추방시키는 자는 지성있는 생명체를 죽이는 것이 금지되어 있습니다. 먼저 볼트에서 나가라고 요구하며, 침입한 사실에 대해 설교할 것입니다.
 <br />
-<b>Banish:</b> the Banisher grabs an intruder and teleports them to a designated eviction zone. Traditionally this is the entrance to the vault, although sometimes more punitive locations are chosen.
+<b>추방:</b> 추방시키는 자가 침입자를 붙잡아 지정된 추방 지역으로 순간이동시킵니다. 전통적으로 이것은 볼트의 입구지만, 때로는 더 벌칙에 가까운 장소가 되기도 합니다.
 <br />
-<b>Summon:</b> truly vexed Banishers, when faced with repeat offenders, may teleport in other creatures from the vault to deal with you permanently. Roll on the encounter table for this floor. The summoned creature is not loyal to the Banisher.
+<b>소환:</b> 정말로 화가 난 추방시키는 자들은 반복적으로 공격에 직면했을 때, 당신을 영원히 끝장내기 위해 볼트에서 다른 생물들을 순간이동시킬 수 있습니다. 이 층의 조우 표를 굴려보세요. 소환된 생물은 추방시키는 자에게 충성하지 않습니다.
 </td></tr>
 </table>
 
-## Battle Boar
+## 전투 멧돼지(Battle Boar)
 _유기체_ / _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Flamethrower Snout (d8 area) / Gore (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Cyborg war-boars infested with nanomachinery. Their flamethrower snouts target everyone in range.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 화염방사코 (d8 area) / 들이받기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 나노기계로 가득 찬 사이보그 전투 멧돼지입니다. 전투 멧돼지의 화염방사코는 사정거리 내의 모든 사람을 겨냥합니다.</td></tr>
 </table>
 
-## Behemoth Toad
+## 거대 두꺼비 (Behemoth Toad)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bellyflop (d10) / Tongue Grab (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Enormous flabby toads that lurk near Vaarnish water-sources. If hit with a tongue attack, PCs must STR save or be drawn into the toad's mouth and take d8 damage per round.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 뛰어들기 (d10) / 혀로 붙잡기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>:바안의 수원 근처에 서식하는 거대하고 유연한 두꺼비들입니다. 이들의 혀 공격을 맞으면, PC들은 STR 내성굴림에 실패했을 때 개구리의 입으로 끌려가 매 라운드마다 d8의 피해를 입습니다.</td></tr>
 </table>
 
 ## Blightbeast
