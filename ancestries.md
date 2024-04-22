@@ -22,7 +22,7 @@ _대붕괴가 발생할 때, 트루킨은 숨겨진 아콜로지(arcologies) 안
 <tr><td>15</td><td>세네퍼</td><td rowspan="3">갑옷 시종 (전사 계급)</td><td>교활함</td><td>은제 혀</td></tr>
 <tr><td>16</td><td>파르몬</td><td></td><td>심술궂음</td><td>사지 결손</td></tr>
 <tr><td>17</td><td>메수</td><td></td><td>금욕적임</td><td>눈 없음</td></tr>
-<tr><td>렌타</td><td rowspan="3">환희 (신성한 상류층)</td><td>멍청함</td><td>종교적 차림새</td><td>18</td></tr>
+<tr><td>18</td><td>렌타</td><td rowspan="3">환희 (신성한 상류층)</td><td>멍청함</td><td>종교적 차림새</td></tr>
 <tr><td>19</td><td>고자</td><td></td><td>따뜻함</td><td>인조 눈</td></tr>
 <tr><td>20</td><td>바블</td><td></td><td>탐욕스러움</td><td>확연히 병듦</td></tr></tbody></table>
 
