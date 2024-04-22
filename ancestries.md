@@ -56,160 +56,160 @@ __순수한 혈통__ - 캐릭터 생성 중 돌연변이를 굴리지 않습니�
 __계승자__ - 대붕괴 이전의 보안 시스템이나 신스 경비(guard synths)와 마주칠 때, 그들이 당신을 주인으로 인식하는 확률은 50%입니다.
 
 ## Cacogen
-_Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
+_캐커젠은 대붕괴 이후 우르스의 폐허 표면에서 남겨진 불운한 자들의 돌연변이 후손입니다. 필요는 발명의 어머니이며, 방사선에 의해 왜곡되고 생체 기술 괴물과 미친 사고 기계에게 노예로 삼기 때문에 캐커젠은 수백만 가지 다른 형태로 진화했습니다. 각 개인은 유전적으로 독특하며, 놀랍고 불안스러운 방식으로 재능을 가지고 있습니다. 캐커젠은 트루킨보다 10배 많으며, 그들은 우르스의 진정한 상속자라고 믿습니다._
 
-|d20|__NAME__|__DEMEANOUR__|__MISFORTUNE__|__YOUR ECCENTRICITY__|
+| __D20__ | __이름__ | __태도__ | __불운__ | __기벽__ |
 |-|--------|-------------|--------------|---------------------|
-|1|Arda|Abrasive|Slave|A Strange Hat|
-|2|Bollo|Arrogant|Debtor|Always Muttering|
-|3|Breen|Assertive|Gambler|Ascetic Diet|
-|4|Conch|Charismatic|Clone|Forgetful and Rude|
-|5|Crab|Daring|Gladiator|Gluttonous Diet|
-|6|Dancer|Decadent|Memories Stolen|Highly Formal|
-|7|Doss|Eloquent|Forger|Interrupts Constantly|
-|8|Hust|Extravagant|Exiled|Laugh at own Jokes|
-|9|Jal|Hedonistic|Cultist|Married to a Knife|
-|10|Lask|Impulsive|Thief|Monocle|
-|11|Lip|Irritable|Addicted|Monotone Voice|
-|12|Olm|Melancholy|Framed|Only sleeps outdoors|
-|13|Pirrip|Paranoid|Conned|Only wears purple|
-|14|Poucher|Quiet|Bankrupt|Quotes Irrelevant Facts|
-|15|Pree|Religious|Heretic|Several Spouses|
-|16|Uz|Romantic|Rejected|Talks to Self|
-|17|Whistler|Scholarly|Blackmailed|Unwieldy Jewellery|
-|18|Yaz|Stern|Cursed|Usually Drunk|
-|19|Yoss|Vain|Orphaned|Always Wears Gloves|
-|20|Zem|Volatile|Bereaved|Won't Look at Mirrors|
+| 1 | 아르다 | 거침 | 노예 | 이상한 모자를 씀 |
+| 2 | 볼로 | 오만함 | 빚쟁이 | 항상 불평함 |
+| 3 | 브린 | 적극적임 | 도박꾼 | 금욕적 식단 |
+| 4 | 콘치 | 카리스마 있음 | 복제인간 | 잘까먹고 무례함 |
+| 5 | 크랩 | 대담함 | 검투사 | 폭식 식단 |
+| 6 | 댄서 | 퇴폐적 | 기억을 빼앗김 | 지나치게 격식 차림 |
+| 7 | 도스 | 유창함 | 위조범 | 항상 참견함 |
+| 8 | 허스트 | 사치스러움 | 추방당함 | 스스로의 말에 폭소함 |
+| 9 | 잘 | 쾌락주의적 | 사교도 | 나이프와 결혼함 |
+| 10 | 라스크 | 충동적 | 도둑 | 외안경 |
+| 11 | 립 | 짜증남 | 약물중독 | 단조로운 목소리 |
+| 12 | 옴 | 우울함 | 누명을 씀 | 야외에서만 잠 |
+| 13 | 피립 | 편집증적 | 사기침 | 보라색만 입음 |
+| 14 | 파우처 | 조용함 | 파산함 | 전혀 무관한 사실을 인용함 |
+| 15 | 프리이 | 종교적 | 이단자 | 여러 명의 배우자 |
+| 16 | 우즈 | 낭만적 | 거부됨 | 스스로와 대화함 |
+| 17 | 위슬러 | 학문적 | 갈취당함 | 거추장스럽게 장식함 |
+| 18 | 야즈 | 근엄함 | 저주받음 | 대게 취해있음 |
+| 19 | 요스 | 자만심 강함 | 고아 | 항상 장갑을 낌 |
+| 20 | 젬 | 변덕스러움 | 유족 | 거울을 보지 않으려 함 |
 
-|d20|__BODY__|__FACE__|__HAIR__|__ATTIRE__|
+|d20|__몸체__|__얼굴__|__머리카락__|__복장__|
 |-|--------|--------|--------|----------|
-|1|Tall|Sallow|Black|Rags|
-|2|Short|Lively|Brown|Animal Skins|
-|3|Frail|Cruel|Red|Rough Tunic|
-|4|Muscular|Wrinkled|Blonde|Nomad Attire|
-|5|Fat|Scarred|Grey|Worker's Attire|
-|6|Thin|Frowning|White|Herdsman's Attire|
-|7|Skeletal|Pale|Shaved|Slave Clothing|
-|8|Hunched|Greasy|Topknot|Servant's Livery|
-|9|Lopsided|Wide|Green|Shabby Attire|
-|10|Lithe|Narrow|Orange|Colourful Attire|
-|11|Gnarled|Sharp|Glowing|Priest's Robes|
-|12|Squat|Hungry|Fungus|Clerk's Uniform|
-|13|Bloated|Haunted|Purple|Hegemony Garb|
-|14|Gangly|Jolly|Yellow|Soldier's Clothing|
-|15|Child-like|Round|Wispy|Flamboyant Attire|
-|16|Tanned|Mournful|Burnt|Musician's Attire|
-|17|Gigantic|Child-like|Braided|Veiled Attire|
-|18|Wiry|Peaceful|Greasy|Courtesan's Clothing|
-|19|Stout|Sleepy|Matted|Sorcerous Clothing|
-|20|Injured|Branded|Long|Expensive Clothing|
+| 1 | 키 큼 | 약간 누럼 | 검은색 | 해진 |
+| 2 | 키 작음 | 활기 넘침 | 갈색 | 동물 가죽 |
+| 3 | 허약함 | 괴로움 | 빨간색 | 거친 튜닉 |
+| 4 | 근육질 | 주름짐 | 금발 | 유목민 복장 |
+| 5 | 뚱뚱함 | 흉터 있음 | 회색 | 일꾼 복장 |
+| 6 | 날씬함 | 찌푸린 얼굴 | 흰색 | 양치기 복장 |
+| 7 | 뼈가 앙상함 | 창백함 | 면도함 | 노예 차림새 |
+| 8 | 곱사등이 | 기름짐 | 상투 | 화려한 제복 |
+| 9 | 한쪽으로 쳐짐 | 넓음 | 초록색 | 다 낡은 복장 |
+| 10 | 유연함 | 좁음 | 주황색 | 화사로운 복장 |
+| 11 | 비틀림 | 날카로움 | 빛남 | 사제 의복 |
+| 12 | 땅딸막함 | 굶주림 | 진균 | 사무원 유니폼 |
+| 13 | 부풀어오름 | 겁에 질림 | 보라색 | 신정부 의복 |
+| 14 | 키 크고 여윔 | 행복함 | 노란색 | 병사 복장 |
+| 15 | 어린애같음 | 둥긂 | 성김 | 이색적인 복장 |
+| 16 | 구릿빛 피부 | 애절함 | 불탐 | 음악가 복장 |
+| 17 | 거대함 | 어린애같음 | 땋음 | 베일에 싸인 복장 |
+| 18 | 마르고 강인함 | 평화로움 | 기름짐 | 갑옷 시종의 복장 |
+| 19 | 사이보그 | 졸림 | 엉겨붙음 | 화려한 복장 |
+| 20 | 부상을 입음 | 낙인찍힘 | 장발 | 비싼 복장 |
 
 ### Special
-__CORRUPTED BLOOD__ - You must roll for mutations during character creation. You will find d100 mutations on the following spread.It is suggested that you roll no more than three times for mutations. In general, mutations do not have hard mechanical rules attached to them. It is suggested that you negotiate with the referee what these mutations mean in play. They are likely to grant you Advantage on saves in some situations, and Disadvantage on saves in other circumstances.
+__오염된 핏줄__ - 캐릭터 생성 중 돌연변이를 굴려야 합니다. 다음에 나열된 d100 돌연변이를 참고하세요. 돌연변이는 최대 세 번까지 굴리는 것을 권합니다. 일반적으로, 돌연변이에는 엄격한 기계적인 규칙이 부여되지 않습니다. 플레이 중에 이러한 돌연변이가 어떤 의미를 가지는지 심판과 협상하는 것을 제안합니다. 특정 상황에서 내성굴림 (save) 시에 유리점(Advantage)를 부여하거나 다른 상황에서 내성굴림 (save) 시에 불리점(Disadvantage)를 줄 수 있습니다.
 
-### Mutations
-|d100|MUTATION|DESCRIPTION|
+### 돌연변이
+|d100|돌연변이|설명|
 |-|--------|------------------------|
-|1|Acid Blood|Your blood is caustic.|
-|2|Adhesive Touch|Your hands and feet stick to sheer surfaces.|
-|3|Albino|Your body has no pigmentation.|
-|4|Antlers|You have antlers like an elk or moose.|
-|5|Armour|Your body is protected by natural armour. Add +2 to your Armour.|
-|6|Backwards Head|Your head is backwards.|
-|7|Backwards Legs|Your legs are backwards.|
-|8|Beak|You have a bird-like beak for a mouth.|
-|9|Bioelectricity|You can generate jolts like an electric eel.|
-|10|Bioluminescence|Your body can produce a faint glow.|
-|11|Body Barbs|You have sharp barbs on your body.|
-|12|Bristles|You have thick coarse bristles for hair.|
-|13|Bulbous Eyes|Your eyes are enormous.|
-|14|Chameleon Skin|Your skin matches its surroundings.|
-|15|Claws, Crab|One or both hands are crab-like claws.|
-|16|Claws, Retractable|You have retractable feline claws.|
-|17|Clubfoot|One foot is larger and heavier than the other.|
-|18|Compound Eyes|Your eyes are like those of a fly.|
-|19|Crest, Bone|You have a large bony crest on your head.|
-|20|Crest, Feathers|You have a crest of feathers on your head.|
-|21|Crown, Bone|You have a crown of bone on your head.|
-|22|Crown, Coral|You have a coral-like crown on your head.|
-|23|Crown, Eyestalks|You have a crown of eyestalks on your head.|
-|24|Cyclops Eye|You have a single eye.|
-|25|Detachable Head|Your head can detach from your body and move of its own accord.|
-|26|Detachable Limb|A single limb can detach from your body and move of its own accord.|
-|27|Dorsal Fin|You have a fish-like dorsal fin.|
-|28|Echolocation|You can ‘see’ in pitch-blackness using echoes.|
-|29|Extending Limbs|Your limbs can extend to abnormal lengths.|
-|30|Extending Neck|Your neck can extend to an abnormal length.|
-|31|Extra arms|You have more arms than normal.|
-|32|Extra fingers|You have more fingers than normal.|
-|33|Eyestalks|Your eyes can extend out of their sockets on stalks.|
-|34|Fangs, Venomous|You have a poisonous bite.|
-|35|Feathers|You have feathers instead of hair.|
-|36|Frog Tongue|You have a long sticky tongue that can grab small objects.|
-|37|Fur|You are covered in fur.|
-|38|Gills|You have gills and can breathe in water.|
-|39|Gliding Membranes|You have gliding membranes between your arms and torso.|
-|40|Goat Legs|You have the legs and hooves of a goat.|
-|41|Headless|You have no head; your face is on your torso.|
-|42|Heat Vision|You can see heat signatures.|
-|43|Heightened Eyesight|You have extremely sharp eyesight.|
-|44|Heightened Hearing|You have extremely sharp hearing.|
-|45|Heightened Smell|You have extremely sensitive smell-receptors.|
-|46|Hook, Climbing|You have hook-like protrusions on your limbs.|
-|47|Hopper|You have a single, powerful leg.|
-|48|Horns, Devil|You have devil-like horns.|
-|49|Horns, Ram|You have ram-like horns.|
-|50|Horns, Rhino|You have a single rhino-like horn.|
-|51|Horse Legs|You have the legs and hooves of a horse.|
-|52|Huge Beard|You have a gigantic, fast-growing beard.|
-|53|Huge Head|Your head is enormous.|
-|54|Humpback|You have a hump like that of a camel, which stores water.|
-|55|Ink Ducts|You can spray out ink like a squid.|
-|56|Kangaroo Pouch|You have a torso-pouch like a kangaroo’s.|
-|57|Leaves|You have leaves instead of hair.|
-|58|Long Face|Your face is extremely long.|
-|59|Long Limbs|Your legs or arms are extremely long.|
-|60|Long Neck|Your neck is extremely long.|
-|61|Long Tongue|Your tongue is extremely long.|
-|62|Malleable Body|Your body is rubbery and malleable; you can fit into tight gaps.|
-|63|Malleable Face|Your face is malleable; you can imitate the faces of others given time.|
-|64|Mane, Hair|You have a lion-like mane of hair around your neck.|
-|65|Mane, Tendrils|You have a mane of thin tentacles around your neck.|
-|66|Multiple Eyes|You have multiple eyes.|
-|67|Multiple Heads|You have more than one head.|
-|68|Multiple Legs|You have multiple legs.|
-|69|No Ears|You have no external ears; just holes.|
-|70|Patterned Skin|Your skin is striped or spotted.|
-|71|Pleasant Fragrance|Your scent is pleasing to all.|
-|72|Poison Injector|You have a poison injector somewhere on your body.|
-|73|Powerful Jaws|You could bite through metal.|
-|74|Prehensile Feet|Your feet can grip objects like hands.|
-|75|Prehensile Hair|Your hair can grip objects like a hand.|
-|76|Scaly Skin|Your skin is thick and scaly; add +1 to your Armour.|
-|77|Silk Production|You can produce strands of silk like a spider.|
-|78|Skeletal Frame|Your body is incredibly skinny and light.|
-|79|Slug Body|You have a single slimy tail-foot and leave a trail of mucus.|
-|80|Small Stature|Your body is child-sized and will never grow larger.|
-|81|Snout|You have a snout-like animalistic face.|
-|82|Strange-Hued Eyes|Your eyes are an unnatural colour.|
-|83|Strange-Hued Hair|Your hair is an unnatural colour.|
-|84|Strange-Hued Skin|Your skin is an unnatural colour.|
-|85|Tail, Club|You have a club-like, heavy tail.|
-|86|Tail, Prehensile|You have a long, thin tail that can grip objects.|
-|87|Tail, Scorpion|You have a segmented tail with a venomous stinger.|
-|88|Tentacles, Arms|You have tentacles instead of one or both arms.|
-|89|Tentacles, Hair|You have tentacles instead of hair.|
-|90|Toxic Flesh|Your flesh is toxic when eaten.|
-|91|Transparent Skin|Your skin is transparent and your muscles and veins can be seen.|
-|92|Triple Jointed|Your limbs have an extra joint.|
-|93|Trunk|You have an elephant’s trunk.|
-|94|Tusks|You have tusks like a boar.|
-|95|Vestigial Wings|You have vestigial, unusable wings.|
-|96|Vocal Mimic|You can perfectly mimic other voices or sounds.|
-|97|Warty Skin|Your skin is thick and warty. Add +1 to your Armour.|
-|98|Webbed Digits|Your hands and feet are webbed.|
-|99|Whiskers|You have sensitive whiskers like a cat.|
-|00|Wings|You have wings that allow you to fly freely.|
+| 1 | 산성 혈액 | 혈액이 부식성입니다. |
+| 2 | 접착접촉 | 손과 발이 수직 표면에 달라붙습니다 |
+| 3 | 알비노 | 몸에 색소가 없습니다. |
+| 4 | 사슴뿔 | 엘크나 무스 같은 뿔을 갖습니다. |
+| 5 | 장갑 | 몸이 자연적인 장갑으로 보호받습니다. 장갑에 +2를 추가합니다 |
+| 6 | 뒤로 향한 머리 | 머리가 뒤로 향합니다. |
+| 7 | 뒤로 향한 다리 | 다리가 뒤로 향합니다. |
+| 8 | 부리 | 새 같은 부리가 입에 달립니다. |
+| 9 | 생체전기 | 전기뱀장어 처럼 체내에서 전기를 만들어낼 수 있습니다. |
+| 10 | 생체발광 | 몸에서 희미한 빛을 낼 수 있습니다 |
+| 11 | 몸의 미늘 | 몸에서 날카로운 미늘이 돋아나옵니다. |
+| 12 | 억센 털 | 머리카락보다 굵은 털이 자라납니다. |
+| 13 | 주먹만한 눈 | 눈이 정말로 거대합니다. |
+| 14 | 카멜레온 피부 | 피부가 주변환경에 맞게 변화합니다. |
+| 15 | 게 집게 | 한손 또는 양손이 꽃게 같은 집게로 변합니다. |
+| 16 | 발톱, 수납됨 | 고양이처럼 집어넣을 수 있는 발톱을 갖습니다. |
+| 17 | 만곡족 | 한쪽 발이 다른쪽 발보다 크고 무거워집니다. |
+| 18 | 겹눈 | 파리같은 눈을 갖습니다. |
+| 19 | 뼈로 된 머리장식 | 머리에 뼈로 된 큰 머리장식이 돋아납니다. |
+| 20 | 깃털로 된 머리장식 | 머리에 깃털로 된 큰 머리장식이 돋아납니다. |
+| 21 | 뼈로 된 왕관 | 머리에 뼈로 된 왕관이 돋아납니다. |
+| 22 | 산호 왕관 | 머리에 산호같은 왕관이 돋아납니다. |
+| 23 | 눈자루 왕관 | 머리에 꽃게같은 눈자루의 왕관이 돋아납니다. |
+| 24 | 외눈 | 외눈박이가 됩니다. |
+| 25 | 분리되는 머리 | 머리가 몸에서 분리되어 스스로 움직일 수 있습니다. |
+| 26 | 분리되는 팔다리 | 팔다리 중 하나가 몸에서 분리되어 스스로 움직일 수 있습니다. |
+| 27 | 지느러미 | 물고기 같은 지느러미가 자라납니다. |
+| 28 | 반향 정위 | 메아리를 이용해 칠흑 같은 어둠 속에서도 '볼 수' 있습니다. |
+| 29 | 늘어나는 팔다리 | 팔다리를 비정상적인 길이까지 늘일 수 있습니다. |
+| 30 | 늘어나는 목 | 목을 비정상적인 길이까지 늘일 수 있습니다. |
+| 31 | 여분의 팔 | 평범한 사람보다 더 많은 팔이 달립니다. |
+| 32 | 여분의 손가락 | 평범한 사람보다 더 많은 손가락이 달립니다. |
+| 33 | 눈자루 | 눈이 줄기가 붙어있는 눈구멍 밖으로 뻗어 나갈 수 있습니다. |
+| 34 | 독니 | 물어서 독을 주입할 수 있습니다. |
+| 35 | 깃털 | 머리카락 대신에 깃털이 달립니다. |
+| 36 | 개구리 혀 | 작은 물건을 잡을 수 있는 길고 끈적거리는 혀를 갖습니다. |
+| 37 | 털 | 털로 덮입니다. |
+| 38 | 아가미 | 아가미가 달려 물 속에서 숨 쉴 수 있습니다. |
+| 39 | 활공막 | 팔과 몸통 사이에 활공막이 있습니다. |
+| 40 | 염소 다리 | 발굽이 달린 염소다리가 달립니다. |
+| 41 | 머리없음 | 머리가 없습니다. 얼굴은 상체에 붙어있습니다. |
+| 42 | 열화상 | 열 신호를 볼 수 있습니다. |
+| 43 | 향상된 시야 | 극도로 민감한 시야를 갖습니다. |
+| 44 | 향상된 청각 | 극도로 민감한 청력을 갖습니다. |
+| 45 | 향상된 후각 | 극도로 예민한 후각 수용체를 갖습니다. |
+| 46 | 등반 갈고리 | 팔다리에 갈고리 모양의 돌기가 달립니다. |
+| 47 | 깡충다리 | 다리 하나는 강력합니다. |
+| 48 | 악마 뿔 | 악마 같은 뿔이 달립니다. |
+| 49 | 숫양 뿔 | 숫양 같은 뿔이 달립니다. |
+| 50 | 코뿔소 뿔 | 코뿔소 같은 뿔이 달립니다. |
+| 51 | 말 다리 | 발굽이 달린 말의 다리가 달립니다. |
+| 52 | 거대한 수염 | 거대하고 빠르게 자라는 수염이 달립니다. |
+| 53 | 거대한 머리 | 머리가 거대합니다. |
+| 54 | 곱사등이 | 물을 저장하는 낙타와 같은 혹을 가지고 있습니다. |
+| 55 | 먹물관 | 오징어처럼 먹물을 뿌릴 수 있습니다. |
+| 56 | 캥거루 주머니 | 상체에 캥거루 같은 주머니가 달립니다. |
+| 57 | 나뭇잎 | 머리카락 대신에 나뭇잎이 자랍니다. |
+| 58 | 긴 얼굴 | 얼굴이 극단적으로 길어집니다. |
+| 59 | 긴 팔다리 | 다리나 팔이 극단적으로 길어집니다. |
+| 60 | 긴 목 | 목이 극단적으로 길어집니다. |
+| 61 | 긴 혀 | 혀가 극단적으로 길어집니다. |
+| 62 | 유연한 몸 | 몸이 고무같고 신축성이 있습니다. 어느 빈틈이든 들어갈 수 있습니다. |
+| 63 | 유연한 얼굴 | 얼굴이 유연합니다. 주어진 시간에 다른 사람들의 얼굴을 모방할 수 있습니다. |
+| 64 | 머리카락 갈기 | 목 주변에 머리카락으로 이루어진 사자같은 갈기가 자랍니다. |
+| 65 | 덩굴손 갈기 | 목 주변에 가느다란 촉수로 이루어진 갈기가 자랍니다. |
+| 66 | 여러개의 눈 | 눈이 여러개 달립니다. |
+| 67 | 여러개의 머리 | 더 많은 머리가 달립니다. |
+| 68 | 여러개의 다리 | 여러개의 다리가 달립니다. |
+| 69 | 귀 없음 | 외이가 없이 단지 구멍만 있을 뿐입니다. |
+| 70 | 무늬 피부 | 줄무늬나 점박이 피부를 갖습니다. |
+| 71 | 기분좋은 향기 | 당신의 향기는 모두를 기쁘게 합니다. |
+| 72 | 독 주입기 | 몸 어딘가에 독 주입기가 있습니다. |
+| 73 | 강력한 턱 | 금속도 뚫을 정도로 물 수 있습니다. |
+| 74 | 잡는 발 | 발을 손처럼 써서 물체를 잡을 수 있습니다. |
+| 75 | 잡는 머리카락 | 머리카락을 손처럼 써서 물체를 잡을 수 있습니다. |
+| 76 | 비늘 피부 | 피부가 두껍고 비늘이 달려있습니다. 장갑에 +1을 추가합니다. |
+| 77 | 실 생산 | 거미줄처럼 실가닥을 만들어낼 수 있습니다. |
+| 78 | 해골같은 뼈대 | 몸은 엄청나게 마르고 가볍습니다. |
+| 79 | 민달팽이 몸체 | 끈적한 꼬리발 하나가 달려있으며 점액 자국을 남깁니다. |
+| 80 | 작은 키 | 아이만한 크기의 몸은 결코 커지지 않을 것입니다. |
+| 81 | 주둥이 | 주둥이 같은 동물 얼굴을 갖습니다. |
+| 82 | 이상한 색의 눈 | 눈의 색깔이 자연적으로 나오는 색이 아닙니다. |
+| 83 | 이상한 색의 머리카락 | 머리카락의 색깔이 자연적으로 나오는 색이 아닙니다. |
+| 84 | 이상한 색의 피부 | 피부의 색깔이 자연적으로 나오는 색이 아닙니다. |
+| 85 | 몽둥이 꼬리 | 몽둥이 같은 무거운 꼬리를 갖습니다. |
+| 86 | 잡는 꼬리 | 길고 가늘은 꼬리로 물체를 잡을 수 있습니다. |
+| 87 | 전갈 꼬리 | 독침이 달린 분절된 꼬리를 갖습니다. |
+| 88 | 촉수 팔 | 한쪽이나 양쪽 팔 대신에 촉수가 달립니다. |
+| 89 | 촉수 머리카락 | 머리카락 대신에 촉수가 달립니다. |
+| 90 | 독성 살점 | 당신의 살점을 먹으면 독에 중독됩니다. |
+| 91 | 투명 피부 | 피부가 투명하여 근육과 정맥이 보입니다. |
+| 92 | 삼중관절 | 팔다리에 관절이 하나 더 있습니다. |
+| 93 | 코끼리 코 | 코끼리 코가 달립니다. |
+| 94 | 엄니 | 멧돼지 같은 엄니가 달립니다. |
+| 95 | 퇴화한 날개 | 퇴화하여 쓸모없는 날개가 달립니다. |
+| 96 | 목소리 흉내쟁이 | 다른 목소리나 소리를 완벽하게 따라할 수 있습니다. |
+| 97 | 사마귀 피부 | 피부가 두껍고 사마귀가 달렸습니다. 장갑에 +1을 추가합니다. |
+| 98 | 손발바닥 물갈퀴 | 손발바닥에 물갈퀴가 달립니다. |
+| 99 | 고양이 수염 | 고양이처럼 예민한 수염이 달랍니다. |
+| 00 | 날개 | 하늘을 자유로이 날아다닐 수 있는 날개를 갖습니다. |
 
 ## Synth
 _The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of._
