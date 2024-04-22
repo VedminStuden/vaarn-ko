@@ -6,25 +6,25 @@ _대붕괴가 발생할 때, 트루킨은 숨겨진 아콜로지(arcologies) 안
 
 <table><thead><tr><th><strong>D20</strong></th><th><strong>이름</strong></th><th><strong>계급</strong></th><th><strong>태도</strong></th><th><strong>특색</strong></th></tr></thead>
 <tr><td>1</td><td>벤조</td><td rowspan="4">하인 (노동 계급)</td><td>즐거움</td><td>의식 흉터</td></tr>
-<tr><td>2</td><td>레이프</td><td></td><td>냉소적</td><td>얼굴 문신</td></tr>
-<tr><td>3</td><td>주름</td><td></td><td>병적임</td><td>노예 낙인</td></tr>
-<tr><td>4</td><td>주름</td><td></td><td>쿨함</td><td>무거운 장신구</td></tr>
+<tr><td>2</td><td>레이프</td><td>냉소적</td><td>얼굴 문신</td></tr>
+<tr><td>3</td><td>주름</td><td>병적임</td><td>노예 낙인</td></tr>
+<tr><td>4</td><td>주름</td><td>쿨함</td><td>무거운 장신구</td></tr>
 <tr><td>5</td><td>에산나</td><td rowspan="5">자유보유권자 (상인 계급)</td><td>발랄함</td><td>인조 팔다리</td></tr>
-<tr><td>6</td><td>칼리스타</td><td></td><td>잔혹함</td><td>이상한 목소리</td></tr>
-<tr><td>7</td><td>지니</td><td></td><td>대담함</td><td>복제인간 낙인</td></tr>
-<tr><td>8</td><td>벨라</td><td></td><td>노려봄</td><td>절뚝거림</td></tr>
-<tr><td>9</td><td>렉세이</td><td></td><td>버릇없음</td><td>이상한 반려동물</td></tr>
+<tr><td>6</td><td>칼리스타</td><td>잔혹함</td><td>이상한 목소리</td></tr>
+<tr><td>7</td><td>지니</td><td>대담함</td><td>복제인간 낙인</td></tr>
+<tr><td>8</td><td>벨라</td><td>노려봄</td><td>절뚝거림</td></tr>
+<tr><td>9</td><td>렉세이</td><td>버릇없음</td><td>이상한 반려동물</td></tr>
 <tr><td>10</td><td>이파시</td><td rowspan="5">귀족 (관리자 계급)</td><td>멀쑥함</td><td>옻칠한 이빨</td></tr>
-<tr><td>11</td><td>라가드</td><td></td><td>귀족적</td><td>화상 흉터</td></tr>
-<tr><td>12</td><td>마일리</td><td></td><td>무모함</td><td>무지개빛 눈</td></tr>
-<tr><td>13</td><td>니리드</td><td></td><td>거침</td><td>염료로 물든 피부</td></tr>
-<tr><td>14</td><td>아르델</td><td></td><td>무례함</td><td>황금 이빨</td></tr>
+<tr><td>11</td><td>라가드</td><td>귀족적</td><td>화상 흉터</td></tr>
+<tr><td>12</td><td>마일리</td><td>무모함</td><td>무지개빛 눈</td></tr>
+<tr><td>13</td><td>니리드</td><td>거침</td><td>염료로 물든 피부</td></tr>
+<tr><td>14</td><td>아르델</td><td>무례함</td><td>황금 이빨</td></tr>
 <tr><td>15</td><td>세네퍼</td><td rowspan="3">갑옷 시종 (전사 계급)</td><td>교활함</td><td>은제 혀</td></tr>
-<tr><td>16</td><td>파르몬</td><td></td><td>심술궂음</td><td>사지 결손</td></tr>
-<tr><td>17</td><td>메수</td><td></td><td>금욕적임</td><td>눈 없음</td></tr>
+<tr><td>16</td><td>파르몬</td><td>심술궂음</td><td>사지 결손</td></tr>
+<tr><td>17</td><td>메수</td><td>금욕적임</td><td>눈 없음</td></tr>
 <tr><td>18</td><td>렌타</td><td rowspan="3">환희 (신성한 상류층)</td><td>멍청함</td><td>종교적 차림새</td></tr>
-<tr><td>19</td><td>고자</td><td></td><td>따뜻함</td><td>인조 눈</td></tr>
-<tr><td>20</td><td>바블</td><td></td><td>탐욕스러움</td><td>확연히 병듦</td></tr></tbody></table>
+<tr><td>19</td><td>고자</td><td>따뜻함</td><td>인조 눈</td></tr>
+<tr><td>20</td><td>바블</td><td>탐욕스러움</td><td>확연히 병듦</td></tr></tbody></table>
 
 
 
