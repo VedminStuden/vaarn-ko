@@ -267,165 +267,164 @@ __인조 살점__ - 당신은 금속과 플라스틱으로 이루어진 존재�
 
 __인조 사고__ - 당신의 정신은 주변의 생물적 존재들과 다른 운영 절차를 사용합니다. 신스에 기반을 둔 로그어 구문을 대상으로 하는 공격에 취약합니다. 이러한 공격에는 깜박이는 바실리스크 패턴, 악성 정보 글리프 및 고대 타이탄 시대 언어 바이러스가 포함됩니다.
 
-## Newbeast
+## 뉴비스트(NewBeast)
 _Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
 
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
-|1|New-Aardvark|New-Coyote|New-Axotl|New-Anemone|
-|2|New-Addax|New-Skink|New-Cat|New-Centipede|
-|3|New-Leopard|New-Gazelle|New-Panther|New-Python|
-|4|New-Lion|New-Porcupine|New-Hyena|New-Tiger|
-|5|New-Hare|New-Gecko|New-Hog|New-Rooster|
-|6|New-Hound|New-Iguana|New-Gibbon|New-Hen|
-|7|New-Wolf|New-Tortoise|New-Scorpion|New-Slug|
-|8|New-Badger|New-Fox|New-Spider|New-Mongoose|
-|9|New-Bear|New-Owl|New-Locust|New-Baboon|
-|10|New-Oryx|New-Vulture|New-Mantis|New-Lynx|
-|11|New-Armadillo|New-Ostrich|New-Ape|New-Shrew|
-|12|New-Camel|New-Kangaroo|New-Mandrill|New-Duck|
-|13|New-Sheep|New-Rattlesnake|New-Gorilla|New-Falcon|
-|14|New-Bat|New-Frog|New-Hawk|New-Fennec|
-|15|New-Horse|New-Crocodile|New-Raven|New-Weasel|
-|16|New-Goat|New-Hippo|New-Crow|New-Rat|
-|17|New-Wren|New-Elephant|New-Ox|New-Ferret|
-|18|New-Mouse|New-Jackal|New-Bull|New-Orangutan|
-|19|New-Ant|New-Ibis|New-Mole|New-Cobra|
-|20|New-Toad|New-Flamingo|New-Bison|New-Scarab|
+| 1 | 뉴-땅돼지 | 뉴-코요테 | 뉴-도롱뇽 | 뉴-말미잘 |
+| 2 | 뉴-아닥스 | 뉴-도마뱀 | 뉴-고양이 | 뉴-지네 |
+| 3 | 뉴-표범 | 뉴-가젤 | 뉴-흑표 | 뉴-비단뱀 |
+| 4 | 뉴-사자 | 뉴-호저 | 뉴-하이에나 | 뉴-호랑이 |
+| 5 | 뉴-토끼 | 뉴-도마뱀붙이 | 뉴-멧돼지 | 뉴-수탉 |
+| 6 | 뉴-사냥개 | 뉴-이구아나 | 뉴-긴팔원숭이 | 뉴-암탉 |
+| 7 | 뉴-늑대 | 뉴-육지거북 | 뉴-전갈 | 뉴-민달팽이 |
+| 8 | 뉴-오소리 | 뉴-여우 | 뉴-거미 | 뉴-몽구스 |
+| 9 | 뉴-곰 | 뉴-올빼미 | 뉴-메뚜기 | 뉴-개코원숭이 |
+| 10 | 뉴-오릭스 | 뉴-독수리 | 뉴-사마귀 | 뉴-스라소니 |
+| 11 | 뉴-아르마딜로 | 뉴-타조 | 뉴-유인원 | 뉴-뾰족뒤쥐 |
+| 12 | 뉴-낙타 | 뉴-캥거루 | 뉴-맨드릴 | 뉴-오리 |
+| 13 | 뉴-양 | 뉴-방울뱀 | 뉴-고릴라 | 뉴-수리 |
+| 14 | 뉴-박쥐 | 뉴-개구리 | 뉴-매 | 뉴-사막여우 |
+| 15 | 뉴-말 | 뉴-악어 | 뉴-큰까마귀 | 뉴-수달 |
+| 16 | 뉴-염소 | 뉴-하마 | 뉴-까마귀 | 뉴-시궁쥐 |
+| 17 | 뉴-굴뚝새 | 뉴-코끼리 | 뉴-숫소 | 뉴-족제비 |
+| 18 | 뉴-생쥐 | 뉴-자칼 | 뉴-황소 | 뉴-오랑우탄 |
+| 19 | 뉴-개미 | 뉴-따오기 | 뉴-두더지쥐 | 뉴-코브라 |
+| 20 | 뉴-두꺼비 | 뉴-플라밍고 | 뉴-들소 | 뉴-풍뎅이 |
 
-|d20|NAME|HUE|MASK|ODDITY|
+| D20 | 이름 | 색상 | 가면 | 특이함 |
 |---|----|---|----|------|
-|1|Abandon|Natural|None|Communicate via Puppet|
-|2|Anzah|Turquoise|Child|Squeaky Vox-box|
-|3|Blackchapel|Tan|Autarch|Booming Vox-box|
-|4|Critch|Bronze|Fool|Muted Vox-box|
-|5|Dolm|Smoke|Judge|Synthetic Eyes|
-|6|Faulkner|White|Knight|Heavy Scarring|
-|7|Fludd|Black|Sage|Human Teeth Necklace|
-|8|Havoc|Azure|Scholar|Religious Paraphernalia|
-|9|Hildebrand|Emerald|Maiden|Ritual Scarring|
-|10|Holk|Rose|Mother|Heavily Tattooed|
-|11|Jarl|Orange|Crone|Regular Animal as Pet|
-|12|Lurch|Golden|Mirrored|Human Child as Pet|
-|13|Obiah|Silver|Glitching|Missing Limb|
-|14|Plutarch|Ochre|Furious|Gold Teeth|
-|15|Sy|Indigo|Joyful|Criminal Branding|
-|16|Tarceny|Violet|Sorrowful|Extensive Jewellery|
-|17|Typhon|Rust|Alluring|Hate Animal You Resemble|
-|18|Vodalus|Olive|Cracked|Love Animal You Resemble|
-|19|Wellbeloved|Lazulite|Blank|Won’t Wear Clothes|
-|20|Wermouth|Opalescent|Patriarch|Believe Yourself Human|
+| 1 | 어밴든 | 자연적임 | 없음 | 인형으로 의사소통함 |
+| 2 | 안자 | 청록색 | 어린이 | 끽끽 소리가 나는 성대 |
+| 3 | 블랙채플 | 황갈색 | 신왕 | 울리는 성대 |
+| 4 | 크릿치 | 구릿빛 | 광대 | 소리를 못 내는 성대 |
+| 5 | 돔 | 뿌염 | 판사 | 인조 눈 |
+| 6 | 포크너 | 흰색 | 기사 | 깊은 흉터 |
+| 7 | 플러드 | 검은색 | 현자 | 인간 이빨로 이루어진 목걸이 |
+| 8 | 하복 | 하늘색 | 학자 | 종교적인 용품 |
+| 9 | 힐데브란트 | 연두색 | 처녀 | 의식의 흉터로 가득함 |
+| 10 | 호크 | 장밋빛 | 어머니 | 잔뜩 문신함 |
+| 11 | 잘 | 주황색 | 노파 | 고정된 종류의 애완동물 |
+| 12 | 러치 | 황금빛 | 거울같음 | 인간 아이 애완동물 |
+| 13 | 오비아 | 은빛 | 결함있음 | 사지 결손 |
+| 14 | 플루타르크 | 황토색 | 맹렬함 | 황금 이빨 |
+| 15 | 사이 | 남빛 | 즐거움 | 범죄자로 낙인찍힘 |
+| 16 | 타르세니 | 자주색 | 슬픔 | 많은 장신구 |
+| 17 | 타이폰 | 녹슮 | 매혹적 | 자신과 닮은 동물을 증오함 |
+| 18 | 보달러스 | 황록색 | 금이 감 | 자신과 닮은 동물을 사랑함 |
+| 19 | 웰비럽드 | 감청색 | 비어있음 | 옷을 입지 않음 |
+| 20 | 웜마우스 | 유백색 | 족장 | 자기자신을 인간으로 여김 |
 
-### Special
-__BEASTHOOD__ - You gain Advantage on saves whenever it would make sense for your animal nature to provide it. Your referee may impose Disadvantage in circumstances where your animal nature might prove unhelpful.
+### 특이사항
+__동물적 본성__ - 동물적 본성이 도움이 될 만한 상황에서 내성굴림(save) 시에 유리점(Advantage)를 얻습니다. 심판은 동물적 본성이 도움이 되지 않을 수 있는 상황에서 불리점(Disadvantage)를 부과할 수 있습니다.
 
-## Mycomorph
-_In Vaarn many things have intertwined, and much that was once the province of mankind alone - speech, reason, art, religion - has been granted to other forms of life and they hold themselves as humanity’s equal. In the mycomorph death and life are held in strange balance, for these creatures are formed of cadaverous flesh and voracious fungus, and they name their kind the ‘twice born’. Sculptors of living matter and artisans of decay, they remake human flesh for their own purposes, and there is no shortage of raw material in the blue ruins._
+## 버섯체(Mycomorph)
+_바안에서 얽히고 얽힌 많은 것들이, 언어, 이성, 예술, 종교 등등의 한 때 인류의 영역이었던 것들이 다른 유형의 생명체들에게 부여되었습니다. 이들은 스스로를 인간과 동급으로 여깁니다. 이들 버섯체에게서 죽음과 삶은 이상한 균형을 이루고 있습니다. 이 생명체들은 부패한 살과 탐욕스러운 진균체로 이루어져 있기 때문입니다. 그리고 스스로를 '다시 태어난 자'이라고 불렀습니다. 생물의 조각가들과 부패의 장인들은 자신들의 목적을 위해 인간의 살점을 재조립하기에 바안은 이들을 위한 살아있는 재료로 넘쳐납니다._
 
 <table>
-<thead><tr><th>d20</th><th>BODY</th><th>HEAD</th><th>COLOUR</th><th>TEXTURE</th></th></thead>
-<tr><td>1</td><td rowspan="5">Child-like</td><td>Classic Mushroom</td><td>Milky</td><td>Rubbery</td></tr>
-<tr><td>2</td><td>Frilled</td><td>Cream</td><td>Warty</td></tr>
-<tr><td>3</td><td>Spotted Sphere</td><td>Ashen</td><td>Slimy</td></tr>
-<tr><td>4</td><td>Spires</td><td>Blue</td><td>Fuzzy</td></tr>
-<tr><td>5</td><td>Conical</td><td>Coral</td><td>Hairy</td></tr>
-<tr><td>6</td><td rowspan="5">Modest</td><td>Cup-like</td><td>Crimson</td><td>Velvet</td></tr>
-<tr><td>7</td><td>Skull-like</td><td>Yellow</td><td>Soft</td></tr>
-<tr><td>8</td><td>Tendrils</td><td>Orange</td><td>Tree Bark</td></tr>
-<tr><td>9</td><td>Puffball</td><td>Black</td><td>Leather</td></tr>
-<tr><td>10</td><td>Dandelion Fuzz</td><td>Violet</td><td>Jelly</td></tr>
-<tr><td>11</td><td rowspan="5">Large</td><td>Mask-like</td><td>Olive</td><td>Burnt</td></tr>
-<tr><td>12</td><td>Eye Garden</td><td>Lime</td><td>Sponge</td></tr>
-<tr><td>13</td><td>Riddled with Holes</td><td>Rust</td><td>Veined</td></tr>
-<tr><td>14</td><td>Cauliflower</td><td>Iron</td><td>Downy</td></tr>
-<tr><td>15</td><td>Bulbous Growths</td><td>Gold</td><td>Dry</td></tr>
-<tr><td>16</td><td rowspan="3">Wizened</td><td>Veil-like</td><td>Bronze</td><td>Damp</td></tr>
-<tr><td>17</td><td>Coral-like</td><td>Indigo</td><td>Pitted</td></tr>
-<tr><td>18</td><td>Filaments</td><td>Translucent</td><td>Crusty</td></tr>
-<tr><td>19</td><td rowspan="2">Hulking</td><td>Brain-like</td><td>Iridescent</td><td>Scaled</td></tr>
-<tr><td>20</td><td>Geometric</td><td>Brindled</td><td>Clay</td></tr>
+<thead><tr><th>d20</th><th>몸체</th><th>머리</th><th>색상</th><th>질감</th></th></thead>
+<tr><td>1</td><td rowspan="5">어린애 같음</td><td>고전적인 의미의 버섯</td><td>우유빛</td><td>고무같음</td></tr>
+<tr><td>2</td><td>목도리 도마뱀같음</td><td>크림빛</td><td>혹투성이</td></tr>
+<tr><td>3</td><td>점박이 구체</td><td>잿빛</td><td>점액같음</td></tr>
+<tr><td>4</td><td>첨탑같음</td><td>파란색</td><td>곱슬곱슬함</td></tr>
+<tr><td>5</td><td>원뿔형</td><td>산호색</td><td>털이 수북함</td></tr>
+<tr><td>6</td><td rowspan="5">중형</td><td>컵 같음</td><td>진홍색</td><td>털이 치밀함</td></tr>
+<tr><td>7</td><td>두개골같음</td><td>노란색</td><td>부드러움</td></tr>
+<tr><td>8</td><td>덩굴같음</td><td>주황색</td><td>나무껍질</td></tr>
+<tr><td>9</td><td>복실복실한 공 모양</td><td>검은색</td><td>가죽</td></tr>
+<tr><td>10</td><td>민들레 씨같음</td><td>보라색</td><td>젤리</td></tr>
+<tr><td>11</td><td rowspan="5">대형</td><td>가면같음</td><td>황록색</td><td>불탐</td></tr>
+<tr><td>12</td><td>눈알 정원</td><td>라임색</td><td>스폰지</td></tr>
+<tr><td>13</td><td>구멍으로 가득함</td><td>녹슮</td><td>정맥이 드러남</td></tr>
+<tr><td>14</td><td>브로콜리</td><td>강철</td><td>보송보송함</td></tr>
+<tr><td>15</td><td>둥글납작한 성장체</td><td>황금빛</td><td>건조함</td></tr>
+<tr><td>16</td><td rowspan="3">주름이 쪼글쪼글함</td><td>베일에 싸인 것 같음</td><td>청동색</td><td>축축함</td></tr>
+<tr><td>17</td><td>산호같음</td><td>남색</td><td>작은 자국이 나있음</td></tr>
+<tr><td>18</td><td>필라멘트</td><td>반투명함</td><td>딱딱한 껍질로 덮임y</td></tr>
+<tr><td>19</td><td rowspan="2">거대함</td><td>뇌같음</td><td>무지개빛</td><td>비늘로 뒤덮임</td></tr>
+<tr><td>20</td><td>기하학적</td><td>얼룩무늬</td><td>점토</td></tr>
 </table>
 
-|d20|NAME|DEMEANOUR|OTHER QUALITY|WHAT CORPSE WERE YOU BORN FROM?|
+| D20 | 이름 | 태도 | 다른 특성 | 무슨 시체에서 태어났는가 |
 |---|----|---------|-------------|-------------------------------|
-|1|Dovenglass|Abrasive|Bio-luminous|Soldier|
-|2|Oulbrier|Arrogant|Poisonous Spores|Gladiator|
-|3|Mockbridge|Assertive|Paralysing Spores|Orphan|
-|4|Headhill|Charismatic|Psychedelic Spores|Invalid|
-|5|Tirrin|Daring|Mind-slaving Spores|Convict|
-|6|Yearns|Decadent|Aphrodisiac Spores|Explorer|
-|7|Cerilgreay|Eloquent|Poisonous Flesh|Bandit|
-|8|Rendmoor|Extravagant|Paralysing Flesh|Scholar|
-|9|Eamont|Hedonistic|Psychedelic Flesh|Mystic|
-|10|Purplebeck|Impulsive|Mind-slaving Flesh|Priest|
-|11|Arraby|Irritable|Aphrodisiac Flesh|Nomad|
-|12|Kabergill|Melancholy|Absurdly Flexible|Exile|
-|13|Pearthika|Paranoid|Mute But Telepathic|King|
-|14|Devandarsh|Quiet|Can Clone Self|Beggar|
-|15|Coronam|Religious|Feed on Toxins|Courtesan|
-|16|Ashwine|Romantic|Feed on Plastic|Musician|
-|17|Ekramavati|Scholarly|Feed on Metal|Thief|
-|18|Whitmon|Stern|Feed on Radiation|Slave|
-|19|Froswhirl|Vain|Acidic Touch|Plague Victim|
-|20|Kirth|Volatile|Light Enough to Float|Newborn|
+| 1 | 도븐글래스 | 거침 | 생체 발광 | 병사 |
+| 2 | 울브리어 | 오만함 | 독성 포자 | 검투사 |
+| 3 | 목브릿지 | 적극적임 | 마비성 포자 | 고아 |
+| 4 | 헤드힐 | 카리스마있음 | 환각성 포자 | 병약자 |
+| 5 | 티린 | 대담함 | 정신 지배 포자 | 징집병 |
+| 6 | 예언스 | 퇴폐적 | 최음성 포자 | 탐험가 |
+| 7 | 세릴그리 | 유창함 | 독성 살점 | 도적 |
+| 8 | 렌드무어 | 사치스러움 | 마비성 살점 | 학자 |
+| 9 | 이어몬트 | 쾌락주의적 | 환각성 살점 | 신비주의자 |
+| 10 | 퍼플베크 | 충동적 | 정신 지배 살점 | 사제 |
+| 11 | 아라비 | 짜증남 | 최음성 살점 | 유목민 |
+| 12 | 케이버길 | 우울함 | 터무니 없을 정도로 유연함 | 추방자 |
+| 13 | 피어시카 | 편집증적 | 벙어리지만 텔레파시를 함 | 왕 |
+| 14 | 데반다르시 | 조용함 | 스스로를 복제할 수 있음 | 부랑자 |
+| 15 | 코로남 | 종교적 | 독극물을 먹음 | 성노동자 |
+| 16 | 애시와인 | 낭만적 | 플라스틱을 먹음 | 음악가 |
+| 17 | 에크라마바티 | 학문적 | 금속을 먹음 | 도둑 |
+| 18 | 와이트몬 | 근엄함 | 방사능을 먹음 | 노예 |
+| 19 | 프로스월 | 자만심 강함 | 산성 접촉 | 전염병 희생자 |
+| 20 | 커스 | 변덕스러움 | 공중에 뜰 수 있는 가벼움 | 새로 태어남 |
 
-### Special
+### 특이사항
 
-__TWICE BORN__ - You are formed from fungus and the corpse of a human. You may make INT saves to recall information that your original body knew. This might include information that has otherwise been lost during the Great Collapse.  
+__다시 태어남__ - 당신은 진균과 인간의 시체로 구성되어 있습니다. 원래의 몸이 알고 있던 정보를 회상하기 위해 INT(지능) 저장을 만들 수 있습니다. 이에는 대붕괴 동안 다른 방법으로는 잃어버린 정보가 포함될 수 있습니다.    
 
-__DETRITIVOR__ - You can consume organic matter in any state of decay and gain nourishment from it. You heal double HP from Short Rests if the meal you eat is rotting.
+__분해자__ - 당신은 부패 상태의 유기물을 섭취하고 그로부터 영양을 얻을 수 있습니다. 만약 당신이 먹는 식사가 썩고 있다면, 짧은 휴식에서 HP를 두 배로 회복합니다.
 
-## Faa Nomad
-_Believed by some to be the children of Vaa, the Blue Goddess of Empty Spaces. The Faa are known throughout Vaarn for their resourcefullness, their ability to survive without drinking water, and the blue colour of their skin, which can vary from deep indigo to blaring cyan._
+## 파아 유목민
+_일부 사람들은 파아를 빈 공간의 푸른 여신인 바아의 자식으로 생각합니다. 파아는 바안 전역에서 그들의 자원 활용 능력, 마시는 물 없이도 생존하는 능력, 그리고 깊은 남색에서부터 선명한 청색까지 다양한 피부 색상으로 유명합니다._
 
-_The Faa usually travel in family groups or larger clans, but others are solitary, seeking danger or enlightenment in the furthest corners of the desert._
+_파아는 보통 가족 단위나 더 큰 부족 단위로 이동하지만, 일부는 외롭게 사막의 가장 극단적인 구석에서 위험을 찾거나 깨달음을 얻습니다._
+
+| D20 | 파란색 | 얼굴 | 몸체 | 머리카락 |
+| --- | --- | --- | --- | --- |
+| 1 | 하늘색 | 생기 넘침 | 키 큼 | 없음 |
+| 2 | 짙은 청색 | 괴로움 | 키 작음 | 짧게 깎음 |
+| 3 | 감청색 | 주름짐 | 허약함 | 삐죽삐죽함 |
+| 4 | 짙은 청록색 | 의식의 흉터 | 근육질 | 거침 |
+| 5 | 남색 | 전투의 흉터 | 뚱뚱함 | 굵음 |
+| 6 | 청옥색 | 찌푸린 얼굴 | 날씬함 | 탈모가 시작됨 |
+| 7 | 암록색 | 문신함 | 뼈가 앙상함 | 부드러움 |
+| 8 | 군청색 | 넓음 | 곱사등이 | 상투 |
+| 9 | 청록색 | 좁음 | 한쪽으로 쳐짐 | 거의 까맘 |
+| 10 | 시안색 | 날카로움 | 유연함 | 백발 |
+| 11 | 멍든 색 | 굶주림 | 비틀림 | 구름같음 |
+| 12 | 휘발유 색 | 겁에 질림 | 땅딸막함 | 삭발 |
+| 13 | 암청색 | 행복함 | 부풀어오름 | 자줏빛이 끝으로 갈 수록 점차 짙어짐 |
+| 14 | 수레국화색 | 둥긂 | 키 크고 여윔 | 심하게 기름범벅임 |
+| 15 | 하늘빛 | 애절함 | 어린애같음 | 성김 |
+| 16 | 붉으스름한 청색 | 어린이 같음 | 구릿빛 피부 | 불탐 |
+| 17 | 전깃빛 | 평화로움 | 거대함 | 땋음 |
+| 18 | 남옥색 | 졸려보임 | 마르고 강인함 | 기름짐 |
+| 19 | 영국기 감청색 | 낙인찍힘 | 사이보그 | 엉겨붙음 |
+| 20 | 연한 청록색 | 곰보자국 | 부상을 입음 | 아주 별남 |
 
 <table>
-<thead><tr><th>d20</th><th>Your Blue</th><th>Face</th><th>Body</th><th>Hair</th><thead>
-<tr><td>1</td><td>Azure</td><td>Lively</td><td>Tall</td><td>None</td></tr>
-<tr><td>2</td><td>Cerulean</td><td>Cruel</td><td>Short</td><td>Cropped</td></tr>
-<tr><td>3</td><td>Navy</td><td>Wrinkled</td><td>Frail</td><td>Spiky</td></tr>
-<tr><td>4</td><td>Cobalt</td><td>Ritual Scars</td><td>Muscular</td><td>Coarse</td></tr>
-<tr><td>5</td><td>Indigo</td><td>Battle Scars</td><td>Fat</td><td>Thick</td></tr>
-<tr><td>6</td><td>Sapphire</td><td>Frowning</td><td>Thin</td><td>Balding</td></tr>
-<tr><td>7</td><td>Teal</td><td>Tattooed</td><td>Skeletal</td><td>Silky</td></tr>
-<tr><td>8</td><td>Ultramarine</td><td>Wide</td><td>Hunched</td><td>Topknot</td></tr>
-<tr><td>9</td><td>Turquoise</td><td>Narrow</td><td>Lopsided</td><td>Nearly Black</td></tr>
-<tr><td>10</td><td>Cyan</td><td>Sharp</td><td>Lithe</td><td>Stark White</td></tr>
-<tr><td>11</td><td>Bruise</td><td>Hungry</td><td>Gnarled</td><td>Cloud-like</td></tr>
-<tr><td>12</td><td>Petrol</td><td>Haunted</td><td>Squat</td><td>Tonsured</td></tr>
-<tr><td>13</td><td>Midnight</td><td>Jolly</td><td>Bloated</td><td>Fading to Purple</td></tr>
-<tr><td>14</td><td>Cornflower</td><td>Round</td><td>Gangly</td><td>Heavily Oiled</td></tr>
-<tr><td>15</td><td>Lapis Lazuli</td><td>Mournful</td><td>Towering</td><td>Wispy</td></tr>
-<tr><td>16</td><td>Periwinkle</td><td>Child-like</td><td>Child-like</td><td>Burnt</td></tr>
-<tr><td>17</td><td>Electric</td><td>Peaceful</td><td>Gigantic</td><td>Braided</td></tr>
-<tr><td>18</td><td>Aquamarine</td><td>Sleepy</td><td>Wiry</td><td>Greasy</td></tr>
-<tr><td>19</td><td>Royal</td><td>Branded</td><td>Stout</td><td>Matted</td></tr>
-<tr><td>20</td><td>Glaucous</td><td>Pox-marked</td><td>Injured</td><td>Outrageous</td></tr>
-</table>
-
-<table>
-<thead><tr><th>d20</th><th>Name</th><th>Demeanour</th><th>Why did you leave your clan?</th><th>quirk</th></tr><thead>
-<tr><td>1</td><td>Kotesh</td><td>Abrasive</td><td rowspan="2">Psychedelic Vision</td><td>Parasitic Twin In Chest</td></tr>
-<tr><td>2</td><td>Lakshi</td><td>Arrogant</td><td>Gambling Obsessive</td></tr>
-<tr><td>3</td><td>Atric</td><td>Assertive</td><td rowspan="2">Stolen by Slavers as a Child</td><td>Insomniac</td></tr>
-<tr><td>4</td><td>Caroum</td><td>Charismatic</td><td>Wooden Teeth</td></tr>
-<tr><td>5</td><td>Yanne</td><td>Daring</td><td rowspan="2">Rite of Passage;<br />Must Return with Wisdom</td><td>Devoutly Religious</td></tr>
-<tr><td>6</td><td>Uvi</td><td>Decadent</td><td>Ritual Scarring</td></tr>
-<tr><td>7</td><td>Pidash</td><td>Eloquent</td><td rowspan="2">Unhappy Love Affair</td><td>Heavily Tattooed</td></tr>
-<tr><td>8</td><td>Ravat</td><td>Extravagant</td><td>Unlucky In Love</td></tr>
-<tr><td>9</td><td>Ayuki</td><td>Hedonistic</td><td rowspan="2">Conflict With Leaders</td><td>Awful Cook</td></tr>
-<tr><td>10</td><td>Kuraso</td><td>Impulsive</td><td>One Eye</td></tr>
-<tr><td>11</td><td>Esuk</td><td>Irritable</td><td rowspan="2">Believed Cursed;<br />Ostracised</td><td>Glass Teeth</td></tr>
-<tr><td>12</td><td>Zenji</td><td>Melancholy</td><td>Heavy Drinker</td></tr>
-<tr><td>13</td><td>Calban</td><td>Paranoid</td><td rowspan="2">Lost Them In Sandstorm</td><td>Infamous Seducer</td></tr>
-<tr><td>14</td><td>Paquiel</td><td>Quiet</td><td>Scorpion Expert</td></tr>
-<tr><td>15</td><td>Serrat</td><td>Religious</td><td rowspan="2">Estranged From Family</td><td>Third Eye (Tattoo)</td></tr>
-<tr><td>16</td><td>Emila</td><td>Romantic</td><td>Third Eye (Real)</td></tr>
-<tr><td>17</td><td>Dolf</td><td>Scholarly</td><td rowspan="2">Seeking Vengeance</td><td>Cybernetic Limb</td></tr>
-<tr><td>18</td><td>Ceilo</td><td>Stern</td><td>Plagued by Nightmares</td></tr>
-<tr><td>19</td><td>Immacula</td><td>Vain</td><td rowspan="2">Shamed Clan;<br />Must Make Amends</td><td>Lovely Singing Voice</td></tr>
-<tr><td>20</td><td>Yudhi</td><td>Volatile</td><td>Notorious Amongst Faa</td></tr>
+<thead><tr><th>d20</th><th>이름</th><th>태도</th><th>부족을 떠난 이유</th><th>기이한 면</th></tr><thead>
+<tr><td>1</td><td>코테시</td><td>거침</td><td rowspan="2">환각을 봄</td><td>가슴에 기생하는 쌍둥이</td></tr>
+<tr><td>2</td><td>락시</td><td>오만함</td><td>도박에 집착함</td></tr>
+<tr><td>3</td><td>아트릭</td><td>적극적임</td><td rowspan="2">노예상에게 아이를 빼앗김</td><td>불면증</td></tr>
+<tr><td>4</td><td>카룸</td><td>카리스마 있음</td><td>목재 이빨</td></tr>
+<tr><td>5</td><td>얀느</td><td>대담함</td><td rowspan="2">통과 의례로<br />지혜를 얻어 돌아가야 함</td><td>독실한 신도</td></tr>
+<tr><td>6</td><td>우비</td><td>퇴폐적</td><td>의식로 인한 흉터로 가득함</td></tr>
+<tr><td>7</td><td>피다시</td><td>유창함</td><td rowspan="2">불행한 사랑과 관련된 일</td><td>문신으로 가득함</td></tr>
+<tr><td>8</td><td>라바트</td><td>사치스러움</td><td>사랑에서 불운함</td></tr>
+<tr><td>9</td><td>아유키</td><td>쾌락주의적</td><td rowspan="2">지도자와 다툼</td><td>끔찍한 요리실력</td></tr>
+<tr><td>10</td><td>쿠라소</td><td>충동적임</td><td>애꾸눈</td></tr>
+<tr><td>11</td><td>에수크</td><td>짜증남</td><td rowspan="2">저주를 믿음으로 인한 따돌림</td><td>유리 이빨</td></tr>
+<tr><td>12</td><td>젠지</td><td>우울함</td><td>술을 과도하게 마심</td></tr>
+<tr><td>13</td><td>칼반</td><td>편집증적</td><td rowspan="2">모래폭풍 속에서 길을 잃음</td><td>악명높은 유혹자</td></tr>
+<tr><td>14</td><td>파콰이얼</td><td>조용함</td><td>전갈 전문가</td></tr>
+<tr><td>15</td><td>세라트</td><td>종교적</td><td rowspan="2">가족과 소원해짐</td><td>제3의 눈 문신</td></tr>
+<tr><td>16</td><td>에밀라</td><td>낭만적임</td><td>실제하는 제3의 눈</td></tr>
+<tr><td>17</td><td>돌프</td><td>학문적임</td><td rowspan="2">복수를 하려 함</td><td>사이버네틱 사지</td></tr>
+<tr><td>18</td><td>세일로</td><td>근엄함</td><td>악몽에 시달림</td></tr>
+<tr><td>19</td><td>이마큘라</td><td>자만심 강함</td><td rowspan="2">부족을 모욕한 상황을 모면해야 함</td><td>사랑스럽게 노래하는 목소리</td></tr>
+<tr><td>20</td><td>유디</td><td>변덕스러움</td><td>파아 중에서도 악명높음</td></tr>
 </table>
 
 ### Special
