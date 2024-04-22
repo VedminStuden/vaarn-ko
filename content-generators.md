@@ -1,354 +1,331 @@
-# Content Generators
-Use the generators on the following pages to help bring Vaarn to life. They will help you create characters, locations, and objects that the players may encounter during their journeys. You will also find 100 strange and powerful Exotica that players could uncover in Vaarn's ruins, a selection of sample monsters, and rules for vehicles. Vaarn is intended to be different for everyone who plays in it, so these content creation tools are hopefully sparks for creativity rather than instructions.
+# 컨텐츠 생성기 (Content Generators)
+다음 페이지에 있는 생성기를 사용하여 바안을 생동감 있게 만드는 데 도움을 받을 수 있습니다. 플레이어가 여행 중에 마주칠 수 있는 캐릭터, 위치, 그리고 객체를 생성하는 데 도움이 될 것입니다. 또한 바안의 폐허에서 플레이어들이 발견할 수 있는 100가지 이상의 이상하고 강력한 엑조티카, 괴물 선택지 예시, 그리고 차량 규칙도 찾아볼 수 있습니다. 바안은 매 판마다 전혀 다른 게임이 되게끔 의도됐으므로, 이러한 컨텐츠 생성 도구는 지시사항보다는 창의성을 자극하는 요소로 사용하기를 바랍니다.
 
-## Quick NPC Generator
-
-<table>
-<thead><th>d20</th><th>ANCESTRY</th><th>GENDER</th><th>DISPOSITION</th><th>GOAL</th></thead>
-<tr><td>1</td><td rowspan="5">True-kin</td><td rowspan="8">Male</td><td rowspan="3">Implacably Evil</td><td>Craves Drug</td></tr>
-<tr><td>2</td><td>Craves Drink</td></tr>
-<tr><td>3</td><td>Religious Mania</td></tr>
-<tr><td>4</td><td rowspan="4">Hostile</td><td>Seeks Revenge</td></tr>
-<tr><td>5</td><td>Pay off Debt</td></tr>
-<tr><td>6</td><td rowspan="5">Cacogen</td><td>Pilgrimage</td></tr>
-<tr><td>7</td><td>Escaped Slave</td></tr>
-<tr><td>8</td><td rowspan="3">Unhelpful</td><td>Fleeing the Law</td></tr>
-<tr><td>9</td><td rowspan="8">Female</td><td>Collect Debt</td></tr>
-<tr><td>10</td><td>Craves Fame</td></tr>
-<tr><td>11</td><td rowspan="5">Newbeast</td><td rowspan="3">Oblivious</td><td>Craves Wealth</td></tr>
-<tr><td>12</td><td>Craves Knowledge</td></tr>
-<tr><td>13</td><td>Missing Family</td></tr>
-<tr><td>14</td><td rowspan="4">Friendly</td><td>Missing Friend</td></tr>
-<tr><td>15</td><td>Hates a Rival</td></tr>
-<tr><td>16</td><td rowspan="3">Synth</td><td>Unrequited Love</td></tr>
-<tr><td>17</td><td rowspan="4">Androgynous</td><td>Forbidden Love</td></tr>
-<tr><td>18</td><td rowspan="3">Incredibly Generous</td><td>Craves Power</td></tr>
-<tr><td>19</td><td rowspan="2">Mycomorph</td><td>Create Art</td></tr>
-<tr><td>20</td><td>Carnal Lust</td></tr>
-</table>
-
-| **D20** | **기원** | **성별** | **기질** | **목표** |
-| --- | --- | --- | --- | --- |
-| 1 | 트루킨 | 남성 | 화해할 수 없는 사악함 | 마약을 갈망함 |
-| 2 | 음료를 갈망함 |
-| 3 | 종교 매니아 |
-| 4 | 적대적 | 복수를 꾀함 |
-| 5 | 빚 갚기 |
-| 6 | 캐커젠 | 순례 |
-| 7 | 탈출한 노예 |
-| 8 | 도움되지 않음 | 법으로부터 도망치기 |
-| 9 | 여성 | 부채 회수 |
-| 10 | 명예를 갈망함 |
-| 11 | 뉴비스트 | 안중에도 없음 | 부를 갈망함 |
-| 12 | 지식을 갈망함 |
-| 13 | 잃어버린 가족 |
-| 14 | 친절함 | 잃어버린 친구 |
-| 15 | 증오하는 경쟁자 |
-| 16 | 신스 | 대가없는 사랑 |
-| 17 | 안드로진 | 금지된 사랑 |
-| 18 | 믿을 수 없을 정도로 관대함 | 힘을 갈망함 |
-| 19 | 버섯체 | 예술 작품을 만들기 |
-| 20 | 욕정을 갈망함 |
-
-## Vaarnish Names
+## NPC 즉석 생성기 (Quick NPC Generator)
 
 <table>
-<tr><td>Achefoot</td><td>Bitar</td><td>Gurrous</td><td>Mandala</td><td>Penta</td></tr>
-<tr><td>Akami</td><td>Bjarta</td><td>Hildene</td><td>Melisabe</td><td>Pentecost</td></tr>
-<tr><td>Alghan</td><td>Blueback</td><td>Honia</td><td>Merry</td><td>Petum</td></tr>
-<tr><td>Alzina</td><td>Bounty</td><td>Jhull</td><td>Mirage</td><td>Roswick</td></tr>
-<tr><td>Ambrosia</td><td>Brazen</td><td>Jingle</td><td>Mizuno</td><td>Salar</td></tr>
-<tr><td>Andromeda</td><td>Caela</td><td>Kalsk</td><td>Moneflower</td><td>Salka</td></tr>
-<tr><td>Anthur</td><td>Calepike</td><td>Kathe</td><td>Morrow</td><td>Seisuke</td></tr>
-<tr><td>Aran</td><td>Castlare</td><td>Kinburrow</td><td>Mosefina</td><td>Simorph</td></tr>
-<tr><td>Arare</td><td>Ciony</td><td>Knot</td><td>Moth</td><td>Smalltall</td></tr>
-<tr><td>Arb</td><td>Clarity</td><td>Koan</td><td>Murthwaite</td><td>Sorror</td></tr>
-<tr><td>Ariyei</td><td>Cossmoss</td><td>Laomer</td><td>Muthael</td><td>Tytus</td></tr>
-<tr><td>Arjuna</td><td>Cusp</td><td>Leegreen</td><td>Nahl</td><td>Ulmon</td></tr>
-<tr><td>Asaj</td><td>Eastwool</td><td>Lilt</td><td>Nectar</td><td>Venna</td></tr>
-<tr><td>Aumatell</td><td>Freyr</td><td>Little-Spit</td><td>Nehmet</td><td>Vitus</td></tr>
-<tr><td>Aversee</td><td>Frostpike</td><td>Lochi</td><td>Nisite</td><td>Vult</td></tr>
-<tr><td>Awasad</td><td>Golog</td><td>Lonesome</td><td>Ojasin</td><td>Weston</td></tr>
-<tr><td>Bana</td><td>Goosebread</td><td>Longtooth</td><td>Olanele</td><td>Whisley</td></tr>
-<tr><td>Bargh</td><td>Goresche</td><td>Lotus</td><td>Ossop</td><td>Worry</td></tr>
-<tr><td>Basai</td><td>Gorsk</td><td>Lovely</td><td>Ostery</td><td>Xylene</td></tr>
-<tr><td>Berruzo</td><td>Grick</td><td>Lucky-And-True</td><td>Othoba</td><td>Zofi</td></tr>
+<thead><th>d20</th><th>기원</th><th>성별</th><th>기질</th><th>목표</th></thead>
+<tr><td>1</td><td rowspan="5">트루킨</td><td rowspan="8">남성</td><td rowspan="3">화해할 수 없는 사아함 Evil</td><td>마약을 갈망함</td></tr>
+<tr><td>2</td><td>음료를 갈망함</td></tr>
+<tr><td>3</td><td>종교 매니아</td></tr>
+<tr><td>4</td><td rowspan="4">적대적</td><td>복수를 꾀함</td></tr>
+<tr><td>5</td><td>P빚 갚기</td></tr>
+<tr><td>6</td><td rowspan="5">캐커젠</td><td>순례</td></tr>
+<tr><td>7</td><td>탈출한 노예</td></tr>
+<tr><td>8</td><td rowspan="3">도움되지 않음</td><td>법으로부터 도망치기</td></tr>
+<tr><td>9</td><td rowspan="8">여성</td><td>부채 회수</td></tr>
+<tr><td>10</td><td>명예를 갈망함</td></tr>
+<tr><td>11</td><td rowspan="5">뉴비스트</td><td rowspan="3">안중에도 없음</td><td>부를 갈망함</td></tr>
+<tr><td>12</td><td>지식을 갈망함</td></tr>
+<tr><td>13</td><td>잃어버린 가족</td></tr>
+<tr><td>14</td><td rowspan="4">친절함</td><td>잃어버린 친구</td></tr>
+<tr><td>15</td><td>증오하는 경쟁자</td></tr>
+<tr><td>16</td><td rowspan="3">신스</td><td>대가없는 사랑</td></tr>
+<tr><td>17</td><td rowspan="4">안드로진</td><td>금지된 사랑</td></tr>
+<tr><td>18</td><td rowspan="3">믿을 수 없을 정도로 관대함</td><td>힘을 갈망함</td></td></tr>
+<tr><td>19</td><td rowspan="2">버섯체</td><td>예술 작품을 만들기</td></tr>
+<tr><td>20</td><td>욕정을 갈망함</td></tr>
 </table>
+
+
+## 바안식 이름 (Vaarnish Names)
+
+
+| 에이크푸트 | 바이타 | 거러스 | 맨달라 | 펜타 |
+| 애카미 | 브자르타 | 힐데인 | 멜리저브 | 펜트코스트 |
+| 앨간 | 블루백 | 호니아 | 메리 | 피텀 |
+| 앨지나 | 바운티 | 줄 | 미라지 | 로스위크 |
+| 앰브로시아 | 브레이즌 | 징글 | 미즈노 | 살라 |
+| 앤드로미다 | 케일라 | 캘스크 | 몬플라워 | 살카 |
+| 앤서 | 케일파이크 | 케이스 | 머로우 | 세스케 |
+| 에이란 | 캐스트레어 | 킨버로우 | 무즈피나 | 시모프 |
+| 에어레어 | 사이오니 | 노트 | 모스 | 스몰톨 |
+| 아브 | 클레어리티 | 코언 | 머스웨이트 | 소러 |
+| 에이리예이 | 코스모스 | 라오머 | 머셀 | 타티터스 |
+| 아주나 | 커스프 | 리그린 | 날 | 얼몬 |
+| 에이사지 | 이스트울 | 릴트 | 넥타르 | 벤나 |
+| 오매텔 | 프레이르 | 리틀-스핏 | 네흐메트 | 바이터스 |
+| 애버시 | 프로스트파이크 | 로치 | 니시트 | 불트 |
+| 어새드 | 골로그 | 론섬 | 오자신 | 웨스턴 |
+| 배나 | 구스브레드 | 롱투스 | 올라넬 | 위슬리 |
+| 바프 | 고어시 | 로터스 | 소오프 | 워리 |
+| 배사이 | 고어스크 | 러블리 | 오스터리 | 자일렌 |
+| 베루조 | 그리크 | 럭키-앤-트루 | 오소바 | 조피 |
 
 ## 100 Exotica
 
-|d100|ITEM|DESCRIPTION|
-|----|----|-----------|
-|1|Mirror Armour|Immunity from energy weapons. 3 slots, Armour 13.|
-|2|Nano-edged Blade|2d8 sword. Instant decapitation kill on a 20.|
-|3|Hypergeometric Blade|2d8 sword. Damages hypergeometric beings.|
-|4|Fuligin Garb|Complete invisibility in darkness.|
-|5|Philosopher’s Bridge|Create hypergeometric doorway between two points in space you can see.|
-|6|Portable Hole|Creates six inch hole in solid matter.|
-|7|Warding Module|Armour 18 vs kinetic attacks. Double damage from energy weapons.|
-|8|Ulfire Paint|Visible through solid objects.|
-|9|Active Camouflage Rig|Total invisibility on all spectrums.|
-|10|Sheltering Urn|Hypergeometric urn with a small room inside.|
-|11|Bluescreen Dagger|Synthetic creatures must EGO save or take d20 damage when stabbed.|
-|12|TITAN Protocol: OBEY|Synthetic creatures EGO save or obey your orders for a round.|
-|13|TITAN Protocol: SLEEP|Synthetic creatures EGO save or sleep.|
-|14|TITAN Protocol: KILL|Synthetic creatures EGO save or attack everything in sight.|
-|15|Sovereign Glue|Unbreakably stick two objects together.|
-|16|Ultra-kinetic Gel|Green gel that amplifies kinetic energy.|
-|17|Empathy Bomb|Biological creatures must EGO save or be overcome with compassion.|
-|18|Sky-seeking Stone|A sphere of negative weight. Not buoyant enough to carry a man.|
-|19|Stasis Bomb|Anything caught in explosion is briefly marooned outside the time stream.|
-|20|Entropy Gun|Causes rapid decay of organic matter.|
-|21|Visualiser Helm|Golden bubble-helmet that projects imagery of the wearer’s thoughts, whether they want it to or not.|
-|22|Pacifying Glove|Biological creatures must EGO save or fall asleep when touched.|
-|23|Sprayflesh|Canister that sprays synthetic flesh over wounds.|
-|24|Singularity Sphere|Anti-entropy sphere containing a miniature gravity singularity.|
-|25|Hover-Rug|Antique carpet embroidered with antigravity threads. Carries one passenger.|
-|26|Ansible|Allows faster than light communication with a linked Ansible.|
-|27|Desiccation Spike|Drains the water from creature or plant stabbed. D6 Damage.|
-|28|Arthar’s Grail|Liquids placed into this goblet become pure water.|
-|29|Mord-Red’s Grail|Liquids placed into this goblet become deadly poison.|
-|30|Unbearable Wax|Black wax that increases in weight one hundred times as it dries.|
-|31|Dopplegun|Biotech gun that births a rapidly ageing, totally insane clone of any creature its bullets hit.|
-|32|Jolt Ring|Deals d4 damage to any being that hits wearer with a metal weapon.|
-|33|Soporific Sachet|Small plastic bag. Any biological creature placed inside will fall soundly asleep.|
-|34|Trapped Chromavore|Chromavore trapped inside hypergeometric containment crystal.|
-|35|Trapped Planeyman|Planeyman trapped inside hypergeometric containment crystal.|
-|36|Oneiric Bridge|Allows user to enter the dreams of a sleeping creature.|
-|37|Immaculate Bird|White psychic songbird that coughs if it hears a deliberate falsehood.|
-|38|Puppeteer’s Glove|Inserts nano-needles into the spinal cord of a human subject. Allows glove-wearer to control their movements.|
-|39|Horror-Helm|Autarch’s War Helm. Inscribed with neuro-active markings that cause unbearable fear in human brains.|
-|40|Frictionless Spray|A spray-can that spreads a clear, utterly frictionless gel.|
-|41|Helping Hand|Cyborg severed hand. Will enter residences and return to sketch out a map. Keen to choke people.|
-|42|Ardent Maggots|Strange silver grubs that can strip a corpse down to the bone in seconds. Will not eat live flesh.|
-|43|Spirit Prison|Hypergeometric crystal which can constrain a hypergeometric entity.|
-|44|Presence Drone|Small floating sphere that announces one’s presence in a loud, pompous voice.|
-|45|Adamant Linen|Flowing linen that acts as heavy armour. 2 slots, Armour 16.|
-|46|Osmosis Mask|Gel-like biotech mask. Can always breathe comfortably, even in vacuum.|
-|47|Ghoul Scoop|Tool used by ghoul-cults to extract the memories from corpses.|
-|48|Psy-Blade|As medium weapon, but uses PSY bonus to hit.|
-|49|Ego Death-Ray|As medium ranged weapon, but uses EGO bonus to hit.|
-|50|Watchful Ferret|A small golden synthetic ferret that sits on your shoulder. Nips you if it detects an unseen danger.|
-|51|Ego-Engine|The mind of a Synth, lacking a body.|
-|52|Quantum Umbilical|Strange device that links the life force of two creatures. While one lives, the other cannot truly die.|
-|53|Hard Light Projector|Projects a flat wide bridge of hard light, with effective range of ten feet. Could be walked across.|
-|54|Armiger’s Egg|Projects a geodesic warding field with room for six people inside. Protects from all kinetic attacks.|
-|55|Fortuitous Polyhedron|20-sided polyhedral quantum anomaly. Allows user to enter a reality where they passed an ability save. Vanishes after use.|
-|56|Magnetic Orb|Large silver orb which emits powerful magnetic field. Turn off and on at will.|
-|57|Autarch’s Fork|Obsidian dining fork that glows green when it is stuck into poison.|
-|58|Hushboots|Sable, supple footwear that utterly silence footsteps.|
-|59|Cat Ring|Antigravity device. Arrests wearer’s fall just above the ground. Works nine times.|
-|60|Gravity Manipulator|Lifts and fires small-to-medium sized objects.|
-|61|Mind Shield|Golden cage worn around head. Protects from psychic intrusion.|
-|62|Basilisk Blade|Strobing anti-synth weapon. Adv to hit synthetic creatures.|
-|63|Mi-Go Carapace|Biomechanical armour from Yuggoth. 2 Burden slots, Armour 18. Once worn, cannot be removed.|
-|64|Phase Grenade|Everything caught in the blast becomes briefly de-synched with reality; can pass through like mist.|
-|65|Universal Ration|Thick white cake containing everything a human body needs. Full heal.|
-|66|Fascinator Helm|When activated, all biological creatures must EGO save or be transfixed by the flickering patterns on this helmet.|
-|67|Argent Halo|When worn, prevents creature from harming any living being. Cannot be removed by wearer.|
-|68|Instant Table|A fancy and elegant dining table, compressed using hypergeometry to be the size of a matchbox. Unfurls when thrown to the ground.|
-|69|Ulfire Lantern|Shines ulfire light. Can see through solid objects and be seen.|
-|70|Spy Fly|Synthetic tracking fly. Give it a sample of target’s DNA and it will locate them unerringly.|
-|71|Craven Mycomorph|Tiny dried fungus man. Coward. Rehydrate him and he will always be able to plan a quick escape.|
-|72|Snoop Stalk|Vile telescopic eye-ball tendril. Replaces one of your own eyes. Lets you see around corners.|
-|73|Hover Boots|Antigravity boots. Allow brief sojourns into thin air.|
-|74|Apocalypse Glass|Dark glass which shows not your reflection, but an extra-solar culture consumed by unimaginable horror. Of interest to some collectors.|
-|75|Brain Coral|Symbiotic pink skull-fungus. Grants a random Gift and lowers your EGO by d6. Bulky and ugly, hard to remove.|
-|76|Synthetic Vassal|Follows PC around, dispensing stiff drinks and sage advice. Will not fight, but will insult your foes.|
-|77|Synthetic Fool|Follows PCs around, making flatulence sounds and chuckling. No other use.|
-|78|Synthetic Warrior|Follows PCs around, shouting dire threats at anyone who so much as breathes at them. Kind of a huge hassle.|
-|79|Tech Wand|Miraculous silver wand. Three charges. Use to re-activate or deactivate a piece of arcane technology.|
-|80|Mirror Shield|+1 Armour. DEX Save to reflect energy weapon shots back at their source.|
-|81|Hard Light Glove|Project a fist-sized cube of hard light.|
-|82|Grey Goo Grenade|Release a clump of ravenous nano-goo. D6 damage per turn. Gains 1 Level for each creature it eats.|
-|83|Omni-Key|Key that can fit itself to any lock.|
-|84|Canned Nectar|Crimson-canned nectar of a long-lost era. Unhealthy but tasty.|
-|85|Blue Rust|Alchemical compound that turns any metal into rust within moments.|
-|86|Pale Flame|Bottle of pallid fire that burns with intense cold rather than heat.|
-|87|Tyrant’s Helm|When worn, must EGO save or be flooded with the desire to command others.|
-|88|Belligerent Paste|If applied to a dead body, it will turn that corpse into a weapon. The nature of the weapon will depend upon the corpse used.|
-|89|Lying Mirror|Reflects whatever the holder wants to see.|
-|90|Expansion Bomb|When it explodes, it increase all distances within the area of effect 100 times. This lasts d6 hours.|
-|91|Philosopher’s Dirk|D6 dagger. Damages enemy’s INT rather than HP. At 0 INT they adopt your point of view.|
-|92|Phase Cape|Hypergeometric cloth; allows wearer to slip out of reality. You cannot be touched by anyone, but neither can you touch them. You are still visible.|
-|93|Singing Frog|Knows some popular songs. People will buy you drinks in a bar.|
-|94|Seeker of Flaws|Hammer. When held, shows you the weak points in structures.|
-|95|Autarch’s Sigil|Machines that served the Autarchy believe you are their master.|
-|96|Feathered Parasol|Affixed with anti-gravity beads, to produce a parachute effect.|
-|97|Psybernetic Helm|Installs one random [Mystic Gift](https://vaarn.github.io/#/mystic-gifts).|
-|98|Cybernetic Cocoon|Installs one random [cybernetic implant](https://vaarn.github.io/#/cybernetics).|
-|99|Book|Roll for random rare [book](https://vaarn.github.io/#/content-generators?id=books-of-vaarn).|
-|00|Drug|Roll for random rare [drug](https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn).|
+| **D100** | **아이템** | **설명** |
+| --- | --- | --- |
+| 1 | 거울 갑옷 | 에너지 무기에 면역이 됩니다. 3 칸, 장갑 13. |
+| 2 | 나노마감 칼날 | 2d8 피해를 입히는 검. 20이 나오면 즉사시킵니다. |
+| 3 | 초기하 칼날 | 2d8 피해를 입히는 검. 초기하학적 존재에게 피해를 입힙니다.. |
+| 4 | 반타블랙 복장 | 어둠 속에서 완벽하게 안보이게 됩니다. |
+| 5 | 철학자의 다리 | 볼 수 있는 공간에 있는 두 지점을 잇는 초기하학적 문을 생성합니다. |
+| 6 | 휴대용 구멍 | 고체 물질에 6인치 더비의 구멍을 만들어냅니다. |
+| 7 | 회피 장치 | 물리 공격에 대해 장갑 18를 제공합니다. 에너지 무기에 두 배의 피해를 입습니다.. |
+| 8 | 울파이어 페인트 | 고체 물체를 통과하여 볼 수 있게 합니다. |
+| 9 | 활성화된 위장복 | 모든 스펙트럼에서 거의 보이지 않게 됩니다. |
+| 10 | 보호하는 유골함 | 안에 작은 방이 있는 초기하학적 유골함입니다. |
+| 11 | 블루스크린 대거 | 인조 생명체는 이 칼날에 찔렸을 때 EGO 내성굴림을 합니다. 내성굴림에 실패하면 d20 피해를 입습니다. |
+| 12 | 타이탄 프로토콜: 복종 | 인조 생명체는 EGO 내성굴림을 해야합니다. 내성굴림에 실패하면 한 라운드 동안 명령에 복종합니다. |
+| 13 | 타이탄 프로토콜: 수면 | 인조 생명체는 EGO 내성굴림을 해야합니다. 내성굴림에 실패하면 수면 상태에 빠집니다. |
+| 14 | 타이탄 프로토콜: 살해 | 내성굴림을 해야합니다. 내성굴림에 실패하면 눈에 보이는 모든 것을 공격합니다. |
+| 15 | 소버린 접착제 | 두 물체를 떨어지지 않게 단단히 붙입니다. |
+| 16 | 극운동 젤 | 운동 에너지를 증폭시키는 녹색 젤라틴입니다. |
+| 17 | 공감 폭탄 | 유기체로 구성된 생명체는 EGO 내성굴림을 합니다. 실패하면 동정심에 압도당합니다. |
+| 18 | 하늘을 찾는 돌 | 반중력 구체입니다. 사람을 지탱할 정도의 부력은 없습니다. |
+| 19 | 정지 폭탄 | 폭발에 휘말린 어떤 것이든 잠시 시간의 흐름 밖으로 던져집니다. |
+| 20 | 엔트로피 총 | 유기물의 빠른 붕괴를 일으킵니다. |
+| 21 | 시각화 투구 | 사용자의 생각을 이미지로 투영하는 황금빛 방울 형태의 투구입니다. 착용하면 사용자가 원하든 원하지 않든 작동합니다. |
+| 22 | 진정시키는 장갑 | 이 장갑을 끼고 만졌을 때 유기 생명체는 EGO 내성굴림을 합니다. 실패하면 잠에 듭니다. |
+| 23 | 살점 분무기 | 상처 위에 인조 살점을 흩뿌리는 깡통 |
+| 24 | 특이점 구체 | 미니어처 크기의 중력 특이점을 포함하는 반엔트로피 구체입니다. |
+| 25 | 공중부양 카펫 | 반중력 실로 수놓인 골동품 카펫입니다. 한 명의 승객을 태울 수 있습니다. |
+| 26 | 앤서블 | 연결된 앤서블과 빛보다 빠른 통신을 가능하게 합니다. |
+| 27 | 건조한 가시 | 찔린 생물체나 식물에서 물을 빨아들입니다. D6 피해를 입힙니다. |
+| 28 | 아사의 성배 | 이 성작에 넣은 액체는 순수한 물이 됩니다. |
+| 29 | 모드레드의 성배 | 이 성작에 넣은 액체는 치명적인 독이 됩니다. |
+| 30 | 견디기 힘든 왁스 | 건조해질수록 무게가 백 배까지 증가하는 검은색 왁스입니다. |
+| 31 | 도플건 | 탄환을 맞은 어떤 생물체든간에 이 생명체로부터 빠르게 노화하며 완전히 미친 상태의 복제체를 생성하는 생체공학적 총입니다. |
+| 32 | 전기충격 반지 | 금속 무기로 착용자를 공격하는 모든 존재에게 d4 피해를 입힙니다. |
+| 33 | 최면 봉지 | 작은 플라스틱 가방입니다. 안에 넣은 어떤 생물체든 깊게 잠들게 됩니다. |
+| 34 | 붙잡힌 색깔 포식자 | 초기하 함수 공간의 보관 수정 안에 갇힌 색상을 먹는 생물체, 색깔 포식자입니다. |
+| 35 | 붙잡힌 평면인 | 초기하 함수 공간의 보관 수정 안에 갇힌 평면 인간입니다. |
+| 36 | 몽상적인 다리 | 사용자가 잠든 생물의 꿈 속에 들어갈 수 있게 해줍니다. |
+| 37 | 완벽한 새 | 흰색의 정신적인 노래새로, 고의적인 거짓말을 들으면 기침합니다 |
+| 38 | 인형술사의 장갑 | 인간 대상의 척수에 나노 바늘을 삽입합니다. 장갑 착용자가 그들의 움직임을 제어할 수 있게 합니다. |
+| 39 | 공포의 투구 | 신왕의 전쟁투구입니다. 인간 두뇌에서 참을 수 없는 공포를 유발하는 신경 활성 신호가 새겨져 있습니다. |
+| 40 | 무마찰 스프레이 | 완전히 마찰력이 없는 투명한 젤을 분사하는 스프레이 캔입니다 |
+| 41 | 도움의 손 | 사이보그의 절단된 손입니다. 주거지에 진입하고 이 모습을 지도로 그릴 수 있는 능력이 있습니다. 사람들의 목을 조르는 것을 좋아합니다. |
+| 42 | 은색 구더기 | 이상한 은색 구더기로, 시체를 몇 초 안에 뼈까지 깎아내립니다. 살아있는 생명체에게는 해를 입히지 않습니다. |
+| 43 | 영혼 감옥 | 초기하학적 존재를 가둘 수 있는 초기하학적 수정입니다. |
+| 44 | 존재 드론 | 사용자의 존재를 큰 소리와 호양적인 목소리로 알리는 작은 부유 구체입니다. |
+| 45 | 단단한 리넨 천 | 무거운 갑옷처럼 작용하는 리넨 천입니다, 2 칸, 장갑 16 |
+| 46 | 삼투 가면 | 젤처럼 보이는 생명공학적 가면으로, 진공 상태에서도 항상 편안하게 숨쉴 수 있습니다 |
+| 47 | 구울 국자 | 구울 숭배자들이 시체에서 기억을 추출하기 위해 사용하는 도구입니다. |
+| 48 | 정신-칼 | 중형무기와 같으나, 명중에 PSY 보너스를 사용합니다 |
+| 49 | 자아 죽음의 광선 | 중거리 무기로, 명중에 EGO 보너스를 사용합니다. |
+| 50 | 주의깊은 족제비 | 어깨에 앉는 작은 금색 인조 족제비입니다. 보이지 않는 위험을 감지하면 당신을 꼬집습니다. |
+| 51 | 자아-엔진 | 몸체가 없는 신스(Synth)의 마음입니다. |
+| 52 | 양자 배꼽 | 두 생물의 생명력을 연결하는 이상한 장치입니다. 하나가 살아있는 동안 다른 하나는 진정으로 죽지 않습니다. |
+| 53 | 경화 빛 프로젝터 | 폭이 넓고 플랫한 경화된 빛의 다리를 투사합니다, 유효 범위 10피트입니다. 건널 수 있습니다. |
+| 54 | 갑옷시종의 알 | 6명이 들어갈 수 있는 공간에 측지선 방어막을 투사합니다. 모든 운동 에너지 공격으로부터 보호해 줍니다. |
+| 55 | 행운의 다면체 | 20면체 양자 이상현상입니다. 사용자가 내성굴림에 성공한 현실로 들어갈 수 있게 해줍니다, 사용 후 사라집니다. |
+| 56 | 자기장 구체 | 강력한 자기장을 방출하는 큰 은색 구체입니다, 원할 때 켜고 끌 수 있습니다. |
+| 57 | 신왕의 포크 | 독에 찔렀을 때 초록색으로 빛나는 흑요석 식사용 포크입니다. |
+| 58 | 조용한 장화 | 완전히 발걸음 소리를 없애주는 검은 부드러운 신발입니다. |
+| 59 | 고양이 반지 | 반중력 장치 입니다, 착용자의 추락을 바닥 바로 위에서 멈춰 줍니다. 9번 사용 가능합니다. |
+| 60 | 중력조작기 | 작고 중간 크기의 물체들을 들어올릴 수 있고 발사할 수 있습니다 |
+| 61 | 정신 방패 | 머리 주변에 착용하는 황금 새장입니다. 정신적 침범으로부터 보호해 줍니다 |
+| 62 | 바실리스크 칼날 | 신스 대응 깜빡이는 섬광 무기 입니다, 인조 생명체를 공격할 때 명중에 유리점을 적용합니다. |
+| 63 | 미고 등딱지 | 유고스에서 온 생체공학적 갑옷입니다, 부담 칸 2와 장갑 18 입니다 한번 착용하면 벗을 수 없습니다. |
+| 64 | 통과 수류탄 | 폭발 범위 내의 모든 것이 잠시 현실과 동기화가 풀리게 되어, 안개처럼 물체를 통과할 수 있게 됩니다. |
+| 65 | 보편적 식량 | 이 두꺼운 하얀 케이크는 인간 몸이 필요로 하는 모든 영양소를 함유하고 있습니다. 이 케이크를 섭취하면 완전히 회복됩니다. |
+| 66 | 매료 투 | 이 헬멧이 작동하면 모든 유기 생명체는 EGO 내성굴림을 해야 합니다. 실패하면 이 헬멧의 깜박거리는 패턴에 매료되어 움직일 수 없게 됩니다. |
+| 67 | 은제 후광 | 이 아이템을 착용하면, 착용자는 어떠한 생명체도 해치지 못하게 됩니다. 또한 한번 착용하면 착용자 본인은 이를 제거할 수 없습니다. |
+| 68 | 즉석 테이블 | 이 아이템은 고급스럽고 우아한 식사 테이블로, 초기하학을 사용하여 성냥갑 크기로 압축되었습니다. 이 테이블을 땅에 던지면 원래의 크기로 펼쳐집니다. |
+| 69 | 울파이어 등불 | 울피어 빛을 발산합니다. 고체 물체를 관통하여 볼 수 있으며, 다른 사람들에게도 보일 수 있습니다. |
+| 70 | 추적 파리 | 인조 추적 파리입니다. 대상의 DNA 샘플을 주면 대상을 틀림없이 찾아냅니다. |
+| 71 | 겁쟁이 버섯체 | 작은 건조된 버섯 남자입니다. 겁쟁이입니다. 그를 적셔주면 항상 빠른 탈출 계획을 세울 수 있습니다. |
+| 72 | 기웃거리는 줄기 | 불쾌한 망원 눈동자 촉수입니다. 당신의 눈 중 하나를 대체합니다. 이를 통해 모퉁이를 돌아볼 수 있습니다. |
+| 73 | 호버 장화 | 반중력 장화입니다. 잠시 동안 공기 중을 거닐 수 있게 해줍니다. |
+| 74 | 묵시록의 잔 | 당신의 반영하는 것이 아니라, 상상을 초월한 공포에 휩싸인 외계 문화를 보여주는 어두운 유리잔입니다. 일부 수집가들에게 관심을 끌 수 있습니다. |
+| 75 | 뇌 산호 | 공생하는 분홍색 두개골 같은 버섯입니다. 사용자에게 무작위 재능을 부여하고, EGO를 d6만큼 낮춥니다. 부피가 크고 못생겼으며, 제거하기 어렵습니다. |
+| 76 | 인조 부하 | PC를 따라다니며 강한 술과 현명한 조언을 제공합니다. 싸우지는 않지만, 당신의 적들을 모욕할 것입니다. |
+| 77 | 인조 바보 | PC를 따라다니며 방귀 소리를 내고 웃습니다. 다른 용도는 없습니다. |
+| 78 | 인조 전사 | PC를 따라다니며, PC를 상대로 숨을 쉬는 사람에게도 치명적인 위협을 외칩니다. 꽤나 큰 번거로울 겁니다. |
+| 79 | 기술봉 | 기적적인 은색의 지팡이입니다. 총 세 번까지 사용할 수 있습니다. 고대의 기술 장치를 활성화하거나 비활성화하는 데 사용할 수 있습니다. |
+| 80 | 거울 방패 | 장갑에 +1. DEX 내성굴림에 성공하면 에너지 무기의 공격을 원래 발사지점으로 되돌릴 수 있습니다. |
+| 81 | 경화 빛 장갑 | 주먹 크기의 단단한 빛의 큐브를 투사합니다. |
+| 82 | 그레이 구 수류탄 | 굶주린 나노-점액질를 방출합니다. 매 턴마다 D6의 데미지를 입힙니다. 먹어치운 각 생물체마다 1 레벨씩 늘어납니다. |
+| 83 | 만능열쇠 | 어떤 자물쇠든 맞는 열쇠입니다. |
+| 84 | 캔에 담긴 꽃꿀 | 오래 전 잃어버린 시대의 붉은 캔에 담긴 꽃꿀입니다. 건강에는 좋지 않지만 맛있습니다. |
+| 85 | 푸른 녹 | 단 몇 순간 안에 어떤 금속도 녹으로 변환하는 연금술 복합물입니다. |
+| 86 | 창백한 불 | 열 대신 강렬한 추위로 타는 창백한 불의 병입니다. |
+| 87 | 폭군의 투구 | 착용하면 EGO 내성굴림을 해야 합니다. 실패했을 시 다른 사람들을 지배하려는 욕구에 휩싸이게 됩니다. |
+| 88 | 호전적 접착제 | 이것을 죽은 몸에 적용하면, 그 시체는 무기가 됩니다. 무기의 성질은 사용된 시체에 따라 달라집니다. |
+| 89 | 거짓말 거울 | 보유자가 보고 싶어하는 것을 반영합니다. |
+| 90 | 확장 폭탄 | 폭발하면 영향 범위 내의 모든 거리가 100배로 늘어납니다. 이 효과는 d6 만큼의 시간 동안 지속됩니다. |
+| 91 | 철학자의 칼날 | D6 피해를 입히는 단검입니다. 적의 HP가 아닌 INT를 손상시킵니다. 적의 INT가 0이 되면, 당신의 관점을 받아들입니다. |
+| 92 | 위상 망토 | 초기하분포 천; 착용자가 현실에서 빠져나가게 해줍니다. 당신은 누구에게도 만질 수 없지만, 반대로 당신 역시 그들을 만질 수 없습니다. 그러나 여전히 보이는 상태입니다. |
+| 93 | 노래하는 개구리 | 몇몇 인기있는 노래 몇 곡을 압니다. 사람들이 술집에서 당신에게 술을 사줄 것입니다. |
+| 94 | 결함 추적자 | 망치입니다. 들고 있을 때, 구조물의 약점을 보여줍니다. |
+| 95 | 신왕의 시질 | 신왕을 섬기던 기계들이 당신을 주인으로 인식합니다. |
+| 96 | 깃털달린 파라솔 | 반중력 구슬로 고정되어, 낙하산 효과를 만들어냅니다. |
+| 97 | 사이버네틱 투구 | 무작위 [신비로운 재능](https://vaarn.github.io/#/mystic-gifts).|
+| 98 | 사이버네틱 고치 | 무작위 [사이버네틱 임플란트](https://vaarn.github.io/#/cybernetics).|
+무작위 희귀한 [도서](https://vaarn.github.io/#/content-generators?id=books-of-vaarn).|
+|00|약물|무작위 희귀한 [약물](https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn).|
 
-## Books of Vaarn
-|d20|COVER|AUTHOR|STYLE|SUBJECT|NOTABLE FEATURE|
-|---|-----|------|-----|-------|---------------|
-|1|Waterlogged|Anonymous|Insane|Medicine|Extremely Heavy|
-|2|Burned|Armiger|Wry|Bestiary|Every Word Is A Lie|
-|3|Green|Autarch|Sardonic|Botany|Bloodstains|
-|4|Golden|Bad Artist|Formal|Synthetic Life|Elaborate Illustrations|
-|5|Snake Skin|Bad Poet|Moralising|Xenobiology|Poisoned Bookmark|
-|6|Yellow|Cacogen|Pious|War|From An Autarch’s Library|
-|7|Orange|Condemned Criminal|Purple|Geology|Coded Message Inside Cover|
-|8|Mouldy|Courtesan|Archaic|Biography|Love Letter Inside Cover|
-|9|Plastic|Deposed Autarch|Heroic|The Future|From Another Planet|
-|10|Iridescent|Deposed Hegemon|Passionate|History|Luminous Ink|
-|11|Rusted|Great Artist|Earnest|Dreams|Poisoned Page|
-|12|Striped|Great Poet|Rhyming|Drugs|Tiny Weapon Hidden Inside|
-|13|Silver|Hegemon|Comedic|Travel|Unknown Language|
-|14|Ochre|Madman|Lyrical|Art|Fabulously Rare|
-|15|White|Monk|Monotonous|Poetry|Illuminated With Gold Leaf|
-|16|Blue|Priest|Lively|The Autarchs|Heretical Text|
-|17|Black|Prophet|Dry|Religion|Worm-eaten|
-|18|Sunbleached|Synth|Hysterical|Hypergeometry|Clever Forgery|
-|19|Jewelled|Titan|Awkward|Physics|Drugs Hidden Inside|
-|20|Indigo|Warrior|Pedantic|Sex|Utterly Illegible|
+## 바안의 도서 (Books of Vaarn)
+| **D20** | **표지** | **저자** | **스타일** | **주제** | **주의사항** |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 물먹음 | 익명 | 정신나감 | 의약품 | 매우 무거움 |
+| 2 | 그을림 | 갑옷 시종 | 풍자적 | 동물우화 | 모든 단어가 거짓말임 |
+| 3 | 초록색 | 신왕 | 냉소적 | 식물학 | 피로 물듦 |
+| 4 | 황금빛 | 나쁜 예술가 | 형식적 | 인조생명 | 종교한 삽화 |
+| 5 | 뱀가죽 | 나쁜 시인 | 훈계조 | 외계생물학 | 독이 든 책갈피 |
+| 6 | 노란색 | 캐커젠 | 경건함 | 전쟁 | 신왕의 서고에서 나옴 |
+| 7 | 주황색 | 단죄된 범죄자 | 미사여구 | 지리학 | 표지 안쪽의 부호화된 메시지 |
+| 8 | 케케묵음 | 성노동자 | 낡음 | 위인전기 | 표지 안쪽의 러브레터 |
+| 9 | 플라스틱 | 물러난 왕 | 영웅적 | 미래 | 다른 행성에서 옴 |
+| 10 | 무지개빛 | 몰러난 왕국 | 격정적 | 역사 | 빛나는 잉크 |
+| 11 | 녹슮 | 위대한 예술가 | 성실함 | 꿈 | 독이 든 종이 |
+| 12 | 줄무늬 | 위대한 시인 | 운이 맞음 | 마약 | 안에 작은 무기가 숨겨짐 |
+| 13 | 은색 | 신정부 | 희극 | 여행 | 알 수 없는 언어 |
+| 14 | 황토색 | 미친 자 | 서정적 | 예술 | 굉장히 희귀함 |
+| 15 | 흰색 | 수도사 | 단조로움 | 시 | 금박으로 빛남 |
+| 16 | 파란색 | 사제 | 활기 넘침 | 신왕 | 이단적 문구 |
+| 17 | 검은색 | 전도사 | 메마름 | 종교 | 벌레먹음 |
+| 18 | 햇빛으로 표백됨 | 신스 | 너무 웃김 | 초기하학 | 영리한 위작 |
+| 19 | 장식됨 | 타이탄 | 어색함 | 물리 | 안에 숨겨진 약물 |
+| 20 | 남색 | 전사 | 깐깐함 | 성적 | 완전히 읽을 수 없음 |
 
-## Drugs of Vaarn
-|d20|Colour|Form|Ingested By|Effect (x2)|
-|---|------|----|-----------|-----------|
-|1|Red|Sugar|Snorting|Euphoria|
-|2|Blue|Leaf|Injected|Paranoia|
-|3|Yellow|Crystal|Stewed|Auditory Hallucinations|
-|4|White|Cactus|Boiled in Tea|Visual Hallucinations|
-|5|Black|Fungus|Swallow Whole|No Pain|
-|6|Pink|Brain|Lick It|Fearless|
-|7|Orange|Pearl|Brain Interface|Ego Death|
-|8|Viridian|Slime|Hold on Tongue|Levitation|
-|9|Olive|Meat|Smoke It|Anxious sweats|
-|10|Silver|Honey|Touch to Eyes|Itchy Eyeballs|
-|11|Gold|Insect|Absorbed in Skin|Nasal Drip|
-|12|Bronze|Liquid|Stare at It|Split Personality|
-|13|Umber|Stone|Burn and Watch the Flames|Nausea|
-|14|Steel|Glyph|Infused into Honey|Behold Azathoth|
-|15|Smoke|Biotech|Drunk in Urine|Supernatural Hearing|
-|16|Indigo|Sand|Burn and Eat the Ash|Paralyzed|
-|17|Azure|Root|Bake in Bread|Murderous Rage|
-|18|Violet|Blood|Place in Ear|Can't Stop Dancing|
-|19|Octarine|Clay|Only Affects Synths|Very Mellow|
-|20|Ulfire|Tooth|Smell It|Hightened Empathy|
+## 바안의 약물 (Drugs of Vaarn)
+| **D20** | **색상** | **형태** | **복용 방법** | **효과 (X2)** |
+| --- | --- | --- | --- | --- |
+| 1 | 빨간색 | 설탕 | 코로 흡입 | 희열 |
+| 2 | 파란색 | 잎사귀 | 주사 | 편집증 |
+| 3 | 노란색 | 수정 | 푹 끓임 | 환청 |
+| 4 | 흰색 | 선인장 | 차와 같이 끓임 | 환시 |
+| 5 | 검은색 | 버섯 | 통째로 삼킴 | 진통 |
+| 6 | 분홍색 | 뇌 | 핥기 | 겁상실 |
+| 7 | 주황색 | 진주 | 두뇌 접촉 | 자아의 죽음 |
+| 8 | 청록색 | 점액질 | 혀에 계속 접촉 | 공중부양 |
+| 9 | 황록색 | 고기 | 흡연 | 식은땀 |
+| 10 | 은색 | 꿀 | 눈에 접촉 | 눈이 가려움 |
+| 11 | 금색 | 곤충 | 피부로 흡수 | 축농증 |
+| 12 | 청동색 | 액체 | 응시하기 | 인격이 분열됨 |
+| 13 | 암갈색 | 돌 | 태우고 그 불빛을 바라봄 | 메스꺼움 |
+| 14 | 강철 | 상형문자 | 꿀에 스며놓고 섭취 | 아자소스를 바라봄 |
+| 15 | 뿌염 | 생물공학적 | 소변과 섞어 마심 | 초인적 청각 |
+| 16 | 남색 | 모래 | 태우고 그 재를 먹기 | 마비됨 |
+| 17 | 하늘색 | 뿌리 | 빵으로 구워 먹기 | 살인적인 분노 |
+| 18 | 보라색 | 혈액 | 귀에 놓기 | 춤을 멈출 수가 없음 |
+| 19 | 옥타린 | 점토 | 오직 신스에게만 효과 | 매우 달콤함 |
+| 20 | 울파이어 | 이빨 | 냄새맡기 | 향상된 공감능력 |
 
-## Petty Gods of Vaarn
-Vaarn is the graveyard of faiths, some older than the very stars that shine overhead. Gods are carried here in the hearts of those who seek to make a life amongst the unending azure sands, and deities proliferate like ragweed across the desolation. A Vaarnish traveller would find it noteworthy to walk a day without encountering the remains of an enigmatic shrine to a member of a long-forgotten pantheon, a standing stone where blood was once spilt to appease a quantum daemon, or the abode of a hermit who still observed the rituals of an oblique and private devotion.
+## 바안의 하찮은 신들 (Petty Gods of Vaarn)
+바안은 신들의 무덤이며, 그 중 일부는 위를 빛내는 별들보다도 오래되었습니다. 신들은 이 끝없는 하늘색 모래 사이에서 삶을 찾으려는 이들의 마음에 실려 여기로 왔고, 그 신성함은 황량한 대지를 가로지르며 잡초처럼 번성했습니다. 바안 출신의 여행자라면 하루를 걸어가면서 오랜 시간 동안 잊혀진 판테온의 한 구성원을 기리기 위한 수수께끼 같은 성소, 양자 악마를 달래기 위해 피가 흘렸던 돌 기둥, 또는 엷고 개인적인 숭배 의식을 아직도 지키고 있는 은둔자의 거처를 발견하지 못하는 것이 더 이상한 일에 가깝습니다.
 
-|d20|Divine Aspect|Secondary Iconography|Holy Domain|Sacred Colour|Honoured Through|
-|---|-------------|---------------------|-----------|-------------|----------------|
-|1|Father|Crystal|Birth|Crimson|Dancing|
-|2|Mother|Fungus|Death|Indigo|Flagellation|
-|3|Maiden|Scroll|War|Orange|Meditation|
-|4|Crone|Cornucopia|Harvests|Magenta|Giving Alms|
-|5|Hawk|Sword|Decay|Purple|Feasting|
-|6|Dog|Moon|Travel|Azure|Fasting|
-|7|Warrior|Sun|Dreams|Gold|Sacrifice|
-|8|King|Helix|Marriage|Silver|Masquerade|
-|9|Locust|Scorpion|Commerce|Bronze|Martial Arts|
-|10|Ibis|Goat|Memory|Umber|Mutilation|
-|11|Baby|Toad|Water|Octarine|Chastity|
-|12|Lamb|Honey|Sun|White|Psychedelics|
-|13|Lion|Panther|Moon|Black|Singing|
-|14|Mantis|Coins|Fire|Grey|Inhaling Smoke|
-|15|Lizard|Dove|Synths|Lemon|Ritual Combat|
-|16|Ape|Machinery|Mutants|Viridian|Poetry|
-|17|Scholar|Serpent|Justice|Ulfire|Intoxication|
-|18|Spider|Goblet|Art|Salmon|Water Ritual|
-|19|Sandworm|Owl|Wind|Olive|A Secret Name|
-|20|Jester|Horned|Silence|Rust|Marathon Race|
+| **D20** | **신성한 모습** | **보조 초상** | **신성한 권역 ** | **신성한 색상** | **명예롭게 여기는 것** |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 아버지 | 수정 | 탄생 | 진홍색 | 춤 |
+| 2 | 어머니 | 진균체 | 죽음 | 남색 | 채찍질 |
+| 3 | 처녀 | 두루마리 | 전쟁 | 주황색 | 명상 |
+| 4 | 노파 | 풍요의 뿔 | 수확 | 자홍색 | 자선을 베풀기 |
+| 5 | 매 | 검 | 부패 | 자주색 | 잔치 |
+| 6 | 개 | 달 | 여행 | 하늘색 | 단식 |
+| 7 | 전사 | 해 | 꿈 | 금색 | 희생 |
+| 8 | 왕 | 나선 | 결혼 | 은빛 | 가면무도회 |
+| 9 | 메뚜기 | 전갈 | 무역 | 구릿빛 | 무술 |
+| 10 | 따오기 | 염소 | 기억 | 암갈색 | 훼손 |
+| 11 | 아기 | 두꺼비 | 물 | 옥타린 | 순결 |
+| 12 | 양 | 꿀 | 해 | 흰색 | 환각을 일으킴 |
+| 13 | 사자 | 표범 | 달 | 검은색 | 노래 |
+| 14 | 사마귀 | 동전 | 불 | 회색 | 연기 흡입 |
+| 15 | 도마뱀 | 비둘기 | 신스 | 레몬색 | 의례적 전투 |
+| 16 | 유인원 | 기계장치 | 돌연변이 | 청록색 | 시 |
+| 17 | 학자 | 뱀 | 정의 | 울파이어 | 도취 |
+| 18 | 거미 | 포도주 잔 | 예술 | 연어살빛 | 물의 의식 |
+| 19 | 모래벌레 | 올빼미 | 바람 | 황록색 | 비밀 이름 |
+| 20 | 어릿광대 | 뿔이 달림 | 침묵 | 녹슮 | 마라톤 경주 |
 
-## Trade Caravans
+## 행상단 (Trade Caravans)
 <table>
-<thead><tr><th>d20</th><th>Transport</th><th>Cargo A</th><th>Cargo B</th><th>Merchant</th></th></thead>
-<tr><td>1</td><td rowspan="3">Camel Train</td><td>Timber</td><td>Silk</td><td>Garrulous Imbecile</td></tr>
-<tr><td>2</td><td>Pottery</td><td>Cotton</td><td>Pious Miser</td></tr>
-<tr><td>3</td><td>Carpets</td><td>Beer</td><td>Naive Dreamer</td></tr>
-<tr><td>4</td><td rowspan="2">Zeppelin</td><td>Cheese</td><td>Memory Discs</td><td>Grim and Silent</td></tr>
-<tr><td>5</td><td>Livestock</td><td>Weapons</td><td>Clever Drunkard</td></tr>
-<tr><td>6</td><td rowspan="3">Wind Wagon</td><td>Shoes</td><td>Armour</td><td>Dedicated and Ascetic</td></tr>
-<tr><td>7</td><td>Masks</td><td>Coffee</td><td>Educated and Venal</td></tr>
-<tr><td>8</td><td>Parchment</td><td>Tea</td><td>Scholarly and Talkative</td></tr>
-<tr><td>9</td><td rowspan="2">Giant Tortoise</td><td>Books</td><td>Salt</td><td>Honest and Desperate</td></tr>
-<tr><td>10</td><td>Synth Parts</td><td>Wine</td><td>Precise and Callous</td></tr>
-<tr><td>11</td><td rowspan="3">Dune Buggy</td><td>Medicine</td><td>Chocolate</td><td>Whimsical and Entitled</td></tr>
-<tr><td>12</td><td>Drugs</td><td>Dyes</td><td>Unsentimental and Fickle</td></tr>
-<tr><td>13</td><td>Bells</td><td>Saffron</td><td>Pure and Brutal</td></tr>
-<tr><td>14</td><td rowspan="2">Auto-Chariot</td><td>Crystals</td><td>Cinnamon</td><td>Prejudiced Coward</td></tr>
-<tr><td>15</td><td>Clay</td><td>Olives</td><td>Curious and Pugnacious</td></tr>
-<tr><td>16</td><td rowspan="3">Armoured Crawler</td><td>Slaves</td><td>Dates</td><td>Responsible and Prim</td></tr>
-<tr><td>17</td><td>Silver</td><td>Cured Meat</td><td>Sad Drunk</td></tr>
-<tr><td>18</td><td>Gold</td><td>Olive Oil</td><td>Daring and Argumentative</td></tr>
-<tr><td>19</td><td rowspan="2">Sandworm Sled</td><td>Jewels</td><td>Seafood</td><td>Incorruptible</td></tr>
-<tr><td>20</td><td>Water</td><td>Sugar</td><td>Abrasive but Sensitive</td></tr>
+<thead><tr><th>d20</th><th>운동수단</th><th>화물 A</th><th>화물 B</th><th>상인</th></th></thead>
+<tr><td>1</td><td rowspan="3">낙타 행렬</td><td>목재</td><td>비단</td><td>수다스럽고 우둔함</td></tr>
+<tr><td>2</td><td>도자기</td><td>목화</td><td>경건한 수전노</td></tr>
+<tr><td>3</td><td>카페트</td><td>맥주</td><td>순진한 몽상가</td></tr>
+<tr><td>4</td><td rowspan="2">비행선</td><td>치즈</td><td>기억 디스크</td><td>음침하고 고요함</td></tr>
+<tr><td>5</td><td>가축</td><td>무기</td><td>유리한 주정뱅이</td></tr>
+<tr><td>6</td><td rowspan="3">풍력 수레</td><td>수레</td><td>방어구</td><td>헌신적이고 금욕적임</td></tr>
+<tr><td>7</td><td>가면</td><td>커피</td><td>교양있고 부패함</td></tr>
+<tr><td>8</td><td>양피지</td><td>찻잎</td><td>학문적이고 말많음</td></tr>
+<tr><td>9</td><td rowspan="2">거대거북</td><td>도서</td><td>소금</td><td>정직하고 절망적임</td></tr>
+<tr><td>10</td><td>신스 부품</td><td>와인</td><td>비판적이고 냉담함</td></tr>
+<tr><td>11</td><td rowspan="3">듄 버기</td><td>의약품</td><td>초콜렛</td><td>기발하고 그만한 자격을 받음</td></tr>
+<tr><td>12</td><td>마약</td><td>염료</td><td>감성적이지 않고 변덕스러움</td></tr>
+<tr><td>13</td><td>종</td><td>사프란</td><td>순수하고 잔혹함</td></tr>
+<tr><td>14</td><td rowspan="2">오토 채리엇</td><td>수정</td><td>계피</td><td>편파적인 겁쟁이</td></tr>
+<tr><td>15</td><td>점토</td><td>올리브</td><td>호리심과 독기 가득함</td></tr>
+<tr><td>16</td><td rowspan="3">장갑 크롤러</td><td>노예</td><td>대추</td><td>책임감 있고 꼼꼼함</td></tr>
+<tr><td>17</td><td>은</td><td>절인 고기</td><td>슬프고 취함</td></tr>
+<tr><td>18</td><td>금</td><td>올리브 기름</td><td>대담하고 논쟁적임</td></tr>
+<tr><td>19</td><td rowspan="2">모래벌레 수레</td><td>보석</td><td>해산물</td><td>청렴결백함</td></tr>
+<tr><td>20</td><td>물</td><td>설탕</td><td>거칠지만 민감함</td></tr>
 </table>
 
-|d20|Passenger|Guards|Complication|
-|---|---------|------|------------|
-|1|Actor|All Dead|Out of Water|
-|2|Musician|Wounded|Totally Lost|
-|3|Forger|Secretly Bandits|Pursued by Bandits|
-|4|Artist|Ran Away|Pursued by Creature|
-|5|Priest|Badly Armed|Disease|
-|6|Mystic|Mutinous|Spoiled Cargo|
-|7|Bounty Hunter|Lazy|Transport Damaged|
-|8|Escaped Slave|Ageing|Merchant Crazed|
-|9|Clerk|White Apes|Passenger Crazed|
-|10|Dentist|Actually Holograms|Guards Crazed|
-|11|Conman|Ex-Gladiators|Merchant Possessed|
-|12|Poet|Slave Soldiers|Passenger Possessed|
-|13|Gambler|Untested|Guard Possessed|
-|14|Clown|Incompetent Mercenaries|Carrying Body for Burial|
-|15|Boxer|Warrior Synth|Notorious Passenger|
-|16|Alchemist|Bloodthirsty Thugs|Smuggling Contraband|
-|17|Spy|Ancient Gun-drone|Hides a Fugitive|
-|18|Courtesan|Cloaking Device|Everyone's Drunk|
-|19|Barber|Hegemony Deserters|Fungal Infection|
-|20|Snake Charmer|Loyal and Competent|Everyone's Arguing|
+| **D20** | **동행인** | **경비원** | **문제** |
+| --- | --- | --- | --- |
+| 1 | 배우 | 전부 죽음 | 물이 고갈됨 |
+| 2 | 음악가 | 부상입음 | 완전히 길 잃음 |
+| 3 | 위조범 | 사실은 도적임 | 도적들에게 쫓김 |
+| 4 | 예술가 | 도망침 | 생명체에게 쫓김 |
+| 5 | 사제 | 무장상태가 안좋음 | 질병 |
+| 6 | 신비주의자 | 반항적임 | 상한 화물 |
+| 7 | 현상금 사냥꾼 | 게으름 | 운송수단이 손상됨 |
+| 8 | 탈주노예 | 노화됨 | 상인이 미침 |
+| 9 | 사무원 | 흰색 유인원 | 승객이 미침 |
+| 10 | 치과의사 | 사실은 홀로그램임 | 경비원이 미침 |
+| 11 | 사기꾼 | 전 검투사 | 상인이 홀림 |
+| 12 | 시인 | 노예 병사 | 승객이 홀림 |
+| 13 | 도박꾼 | 검증되지 않음 | 경비원이 홀림 |
+| 14 | 광대 | 무능한 용병 | 시체를 매장하기 위해 옮김 |
+| 15 | 권투 선수 | 전사 신스 | 악명높은 승객 |
+| 16 | 연금술사 | 피에 굶주린 불한당 | 밀수품 |
+| 17 | 첩자 | 고대의 총기 드론 | 도망자를 숨김 |
+| 18 | 성노동자 | 은폐 장치 | 모두가 술에 취함 |
+| 19 | 이발사 | 신정부 탈영병 | 진균 감염 |
+| 20 | 뱀 유혹가 | 충성심 높고 유능함 | 모두가 언쟁 중임 |
 
 
-## You Found A Corpse
-|d20|Condition|What Were They Carrying?|
-|---|---------|------------------------|
-|1|Desiccated|Plastic Bag Full of Teeth|
-|2|Skeletal|Can of Survival Rations|
-|3|Mummified by Heat|Pocket Hourglass|
-|4|Riddled with Bullets|Set of Dominoes|
-|5|Seared by Laser-fire|Waxen Poetry Cylinder|
-|6|Worryingly Fresh|Prayer Beads|
-|7|Centuries Old|Synthetic Eye|
-|8|Half-Eaten by Animals|Stick of Infrared Chalk|
-|9|Someone You Know|Bottle with a Tiny Eel Inside|
-|10|Sliced Neatly in Half|Lizard-Skin Boots|
-|11|Seated in Lotus Position|Locket with Hair Inside|
-|12|Ritually Mutilated|Ring with an Autarch's Seal|
-|13|Charred by Flames|Dice Decorated with Arcane Symbols|
-|14|Banquet for Worms|Coil of Razorwire|
-|15|Frozen Solid|Crystalline Vial of Ink|
-|16|Drained of Blood|Exorcist's Bell|
-|17|Infested with Nanotech|Telepathy Suppression Pills|
-|18|Pungent|Glowstone|
-|19|Could be Sleeping|Malfunctioning Memory Crystal|
-|20|Not Quite Dead|Pack of Ancient Cigarettes|
+## 발견한 시체 (You Found A Corpse)
+| **D20** | **상태** | **무엇을 지니고 있었는가?** |
+| --- | --- | --- |
+| 1 | 마름 | 이빨로 가득한 비닐봉지 |
+| 2 | 뼈만 남음 | 생존식량이 담긴 깡통 |
+| 3 | 열로 인해 미라화됨 | 휴대용 모래시계 |
+| 4 | 총알투성이로 훼손됨 | 도미노 세트 |
+| 5 | 레이저 사격으로 불탐 | 창백한 시집 원통 |
+| 6 | 걱정스러울 정도로 신선함 | 기도용 구슬 |
+| 7 | 백년 이상 됨 | 인조 눈알 |
+| 8 | 동물들에 의해 반쯤 먹힘 | 적외선 분필 막대 |
+| 9 | 아는 누군가 | 아주 작은 뱀장어가 들어있는 병 |
+| 10 | 반으로 깔끔하게 썰림 | 도마뱀 가죽 장화 |
+| 11 | 연꽃 자리에 앉힘 | 안에 머리카락이 들어있는 곽 |
+| 12 | 의식으로 손상됨 | 신왕의 인장이 달린 반지 |
+| 13 | 화염으로 새까맣게 탐 | 신비로운 상징으로 장식된 주사위 |
+| 14 | 벌레가 잔뜩 먹어치움 | 철선 한 사리 |
+| 15 | 얼어붙은 고체 | 수정 잉크 한 병 |
+| 16 | 피를 빨림 | 퇴마사의 종 |
+| 17 | 나노기술에 감염됨 | 텔레파시 억제 알약 |
+| 18 | 코를 찌르는 냄새 | 빛나는 돌 |
+| 19 | 자는 것일 수도 있음 | 오작동한 기억의 수정 |
+| 20 | 죽은 것이 전혀 아님 | 고대의 담배 한 갑 |
 
-# Fine Dining
+# 고급 식사 (Fine Dining)
 
-<table>
-<thead><th>d20</th><th>Ingredients (2x)</th><th>Main Dish</th><th>Side Dishes (x2)</th><th>Beverage</th></thead>
-<tr><td>1</td><td>Baboon Brains</td><td>Tagine</td><td>Bell Peppers</td><td>Turquoise Wine</td></tr>
-<tr><td>2</td><td>Ghost Pepper</td><td>Curry</td><td>Flatbread</td><td>Umber Wine</td></tr>
-<tr><td>3</td><td>Sandworm Egg</td><td>Stew</td><td>Humous</td><td>Peach Wine</td></tr>
-<tr><td>4</td><td>Pthalo-Jackal Haunch</td><td>Tangia</td><td>Olives</td><td>Xanthine Wine</td></tr>
-<tr><td>5</td><td>Brain Slug</td><td>Soup</td><td>Dates</td><td>Aurum Wine</td></tr>
-<tr><td>6</td><td>Peach Fungus</td><td>Kebab</td><td>Rasins</td><td>Azure Wine</td></tr>
-<tr><td>7</td><td>Skull Pepper</td><td>Omelette</td><td>Yoghurt</td><td>Ashen Wine</td></tr>
-<tr><td>8</td><td>Honeyed Lamb</td><td>Pie</td><td>Falafel</td><td>Pale Wine</td></tr>
-<tr><td>9</td><td>Salt Pork</td><td>Stir-Fry</td><td>Sweet Cucumber</td><td>Sable Wine</td></tr>
-<tr><td>10</td><td>Aubergine</td><td>Pancake</td><td>Honeyed Locusts</td><td>Vaarnish Small Beer</td></tr>
-<tr><td>11</td><td>Spiced Goat</td><td>Sausage</td><td>Baba Ghanoush</td><td>Orange Juice</td></tr>
-<tr><td>12</td><td>Leopard Worm</td><td>Meatballs</td><td>Almonds</td><td>Lemon Juice</td></tr>
-<tr><td>13</td><td>Land Parrot</td><td>Rechta</td><td>Fried Potatoes</td><td>Alabaster Beer</td></tr>
-<tr><td>14</td><td>Crayfish Egg</td><td>Couscous</td><td>Vinegar Egg</td><td>Emerald Beer</td></tr>
-<tr><td>15</td><td>Fennec Fox</td><td>Pastilla</td><td>Rice</td><td>Lazulite Beer</td></tr>
-<tr><td>16</td><td>Cliff Ghar</td><td>Brik</td><td>Crayfish</td><td>Dusken Champagne</td></tr>
-<tr><td>17</td><td>Land Shark</td><td>Shakshouka</td><td>Blue Cheese</td><td>Black Coffee</td></tr>
-<tr><td>18</td><td>Yurling</td><td>Stuffed Peppers</td><td>Persimmon</td><td>Honeyed Milk</td></tr>
-<tr><td>19</td><td>Blood Orange</td><td>Sandwich</td><td>Jellied Eels</td><td>Lambent Whiskey</td></tr>
-<tr><td>20</td><td>Deacon Pepper</td><td>Wonton</td><td>Sand Oysters</td><td>Lotus Tea</td></tr>
-</table>
+| **D20** | **식재료 (2X)** | **메인 디시** | **사이드 디시(X2)** | **음료** |
+| --- | --- | --- | --- | --- |
+| 1 | 개코원숭이 두뇌 | 타진 | 단고추 | 청록색 와인 |
+| 2 | 유령 후추 | 카레 | 플랫브레드 | 암갈색 와인 |
+| 3 | 모래벌레 알 | 스튜 | 후무스 | 복숭아 와인 |
+| 4 | 하늘색 자칼 둔부 | 탄지아 | 올리브 | 크산틴 와인 |
+| 5 | 뇌 민달팽이 | 수프 | 대추 | 금빛 와인 |
+| 6 | 복숭아 진균체 | 케밥 | 건포도 | 하늘색 화인 |
+| 7 | 두개골 후추 | 오믈렛 | 요거트 | 잿빛 화인 |
+| 8 | 꿀에 절인 양 | 파이 | 팔라펠 | 창백한 와인 |
+| 9 | 소금에 절인 돼지고기 | 볶음 | 오이 설탕 절임 | 검은색 와인 |
+| 10 | 가지 | 팬케이크 | 꿀 먹인 메뚜기 | 바안식 작은 맥주 |
+| 11 | 향신료에 절인 염소 | 소세지 | 바바 간누즈 | 오렌지 주스 |
+| 12 | 표범 벌레 | 미트볼 | 아몬드 | 레몬 주스 |
+| 13 | 땅앵무새 | 레치타 | 감자튀김 | 새하얀 맥주 |
+| 14 | 가재 알 | 쿠스쿠스 | 식초에 절인 알 | 선녹색 맥주 |
+| 15 | 사막여우 | 파스틸라 | 쌀밥 | 청람색 맥주 |
+| 16 | 절벽 둥지 | 브릭 | 가재 | 탁한 샴페인 |
+| 17 | 땅상어 | 샥슈카 | 블루치즈 | 블랙 커피 |
+| 18 | 일년지기 동물 | 소를 넣은 고추 | 감 | 꿀 탄 우유 |
+| 19 | 핏빛 오렌지 | 샌드위치 | 장어 젤리 | 은은히 빛나는 위스키 |
+| 20 | 송아지 후추 | 훈툰 | 사막 굴 | 연꽃 차 |
+
