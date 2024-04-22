@@ -1,81 +1,81 @@
-# Mystic Gifts
-Faith, mastery of arcane nano-tech, abuse of psychoactive fungus, or mutation has given your mind uncanny influence over the material world. Gifts are not items you carry, but intrinsic abilities you possess. Using a Gift costs HP; a precise cost will be determined by the Referee once you describe what you want to accomplish. The baseline cost is d6 HP. Gifts always hit in combat without rolling against Armour; their base damage is always one dice size higher than the user paid in HP. Therefore paying d6 HP will result in a base damage roll of d8, and so on. PCs add their PSY bonus to damage caused by their Gifts. 
+# 신비로운 재능 (Mystic Gifts)
+신앙, 비밀스런 나노 기술의 숙달, 심리활성 진균의 남용, 또는 돌연변이로 인해 당신의 마음은 물질 세계에 대한 놀라운 영향력을 가지게 되었습니다. 재능은 당신이 가지고 다니는 아이템이 아니라 당신이 소유한 본질적인 능력입니다. 재능을 사용하는 것은 HP를 소모합니다; 정확한 비용은 당신이 이루고자 하는 것을 설명한 후에 심판에 의해 결정됩니다. 기본 비용은 d6 HP입니다. 재능은 항상 장갑에 대한 굴림 없이 전투에서 명중하며; 기본 피해는 사용자가 HP로 지불한 것보다 항상 한 주사위 등급이 더 큽니다. 따라서 d6 HP를 소모하면 기본 피해 굴림 결과는 d8가 됩니다, 그리고 이 과정이 계속됩니다. PC는 재능으로 인해 발생하는 피해에 PSY 보너스를 추가합니다.
 
-If you are not satisfied with the sample Gifts on offer, you may roll a completely random Gift. Simply roll once on the [Quality table](mystic-gifts.md#quality) and once on the [Form table](mystic-gifts.md#form) below to generate the name of your Gift. You may decide, along with the GM and the other players, what exactly this Gift does.
+만약 이러한 샘플로 제공되는 재능로 만족하지 못하면, 완전히 무작위로 재능을 굴릴 수 있습니다. 아래의 [특성 표](mystic-gifts.md#quality)와 [형태 표](mystic-gifts.md#form)에서 각각 한 번씩 굴려서 재능의 이름을 만드세요. 이 재능이 정확히 어떤 역할을 하는지는 GM과 다른 플레이어들과 함께 결정할 수 있습니다.
 
-## Psychic Gleam
-There is a subtle peril associated with expanding one’s mind too extravagantly. PCs with five or more Mystic Gifts are considered to ‘shine’; they are visible to other psychic creatures at great distances and may be contacted by them. PCs with ten or more Gifts are blazing beacons that will attract the attention of dedicated psychic hunters and extradimensional predators.
+## 초능력의 흐린 빛 (Psychic Gleam)
+지나치게 마음을 확장하는 것은 미묘한 위험을 동반합니다. 다섯가지 이상의 신비한 재능을 가진 PC는 '어렴풋이 빛나는' 것으로 간주됩니다; PC는 멀리 떨어진 다른 초능력 생명체에게 보이며 이에게 연락을 받을 수 있습니다. 열 가지 이상의 재능을 가진 PC는 밝게 빛나는 등대와 같아, 전문적인 초능력 사냥꾼과 초차원의 포식자들의 이목을 끌 것입니다.
 
-## Standard Gifts <!-- {docsify-ignore} -->
-|d20|SOURCE OF POWER|YOUR GIFT|
+## 표준적인 재능 <!-- {docsify-ignore} -->
+|d20|힘의 원천|재능|
 |---|---------------|---------|
-|1|Mystical Crystal|Telekinesis|
-|2|Ritual Cannibalism|Pyrokinesis|
-|3|Psychoactive Fungus|Telepathy|
-|4|Nanomachine Infection|Memory Extraction|
-|5|Irridiated at Birth|Mind Control|
-|6|Meditation|Invisibility|
-|7|Dream Quest|Astral Projection|
-|8|Parasitic Spirit Entity|Healing Hands|
-|9|Mutation|Paralysing Touch|
-|10|Addictive Rare Drug|Eye Lasers|
-|11|Cybernetic Implants|Augury|
-|12|Devouring Memories|Inhuman Speed|
-|13|Brain Surgery|Second Sight|
-|14|Religion|Force Wall|
-|15|Ancient Mask|Generate Lightning|
-|16|Ancient Ring|Ultrasonic Scream|
-|17|Born During Eclipse|Levitation|
-|18|Found Weird Orb|Summon Orbs|
-|19|Beheld Azathoth, the Daemon Sultan|Cryokinesis|
-|20|Studied in Lost Archives|Induce Sleep
+| 1 | 신비로운 수정 | 염동력 |
+| 2 | 식인 의식 | 염화력 |
+| 3 | 정신활동성 진균체 | 텔레파시 |
+| 4 | 나노기계 감염 | 기억 추출 |
+| 5 | 태어날 때 방사능에 노출됨 | 정신 조종 |
+| 6 | 명상 | 투명화 |
+| 7 | 꿈의 임무 | 원격 투사체 |
+| 8 | 정신에 기생하는 개체 | 치유의 손길 |
+| 9 | 돌연변이 | 마비의 손길 |
+| 10 | 희귀한 약물에 중독됨 | 안광 레이저 |
+| 11 | 사이버네틱 임플란트 | 점치기 |
+| 12 | 기억을 먹어치움 | 비인간적 속도 |
+| 13 | 뇌수술 | 제2의 시야 |
+| 14 | 종교 | 역장의 벽 |
+| 15 | 고대의 가면 | 번개 생성 |
+| 16 | 고대의 반지 | 초음파 비명 |
+| 17 | 일식 중 태어남 | 부유 |
+| 18 | 기이한 구체를 찾아냄 | 구체 소환 |
+| 19 | 반신 술탄 아자소스와 마주함 | 염빙력 |
+| 20 | 잃어버린 기록보관소에서 연구함 | 수면 유도 |
 
 
-## Quality <!-- {docsify-ignore} -->
+## 특성 <!-- {docsify-ignore} -->
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
-|1|Bashing|Absorbing|Adhering|Bewildering|
-|2|Binding|Armouring|Addicting|Calming|
-|3|Blinding|Banishing|Blackening|Charming
-|4|Burning|Concealing|Blossoming|Commanding
-|5|Choking|Countering|Cacophonous|Enticing
-|6|Consuming|Curing|Dazzling|Horrifying
-|7|Corroding|Cushioning|Dividing|Hysterical
-|8|Crushing|Deflecting|Duplicating|Maddening
-|9|Deafening|Disappearing|Evolving|Mesmerising
-|10|Detonating|Disarming|Extinguishing|Mocking
-|11|Disintegrating|Disguising|Fusing|Revealing
-|12|Draining|Entangling|Ghostly|Whirling
-|13|Electrifying|Warding|Grasping|Slithering
-|14|Excruciating|Guarding|Inflating|Dreaming
-|15|Freezing|Shielding|Inverting|Encoding
-|16|Withering|Healing|Invulnerable|Enraging
-|17|Impaling|Hindering|Prismatic|Pulsing
-|18|Imprisoning|Invigorating|Transmuting|Saddening
-|19|Infecting|Mending|Teleporting|Scrying
-|20|Liquefying|Nullifying|Whispering|Subtle
+| 1 | 강타하는 | 흡수하는 | 부착하는 | 어리둥절하게 만드는 |
+| 2 | 구속하는 | 외장 | 약물에 중독시키는 | 진정시키는 |
+| 3 | 맹시의 | 추방시키는 | 검게 만드는 | 매력적인 |
+| 4 | 불타는 | 은폐의 | 개화의 | 우세한 |
+| 5 | 숨막히는 | 카운터 | 불협화음의 | 유혹적인 |
+| 6 | 먹어치우는 | 치료하는 | 눈부시는 | 몸서리치는 |
+| 7 | 부식시키는 | 완충의 | 나누는 | 발작적인 |
+| 8 | 박살내는 | 방향을 바꾸는 | 복제하는 | 화나게 만드는 |
+| 9 | 방음의 | 둔갑의 | 발달하는 | 마음을 사로잡는 |
+| 10 | 기폭제 | 무장 해체의 | 소실의 | 흉내내는 |
+| 11 | 붕괴시키는 | 변장의 | 융합시키는 | 계시적인 |
+| 12 | 빨아들이는 | 얽힘의 | 귀신같은 | 소용돌이치는 |
+| 13 | 감전시키는 | 회피의 | 움켜잡는 | 미끄러지는 |
+| 14 | 참혹한 | 방어의 | 팽창하는 | 꿈꾸는 |
+| 15 | 얼리는 | 차폐성 | 뒤집는 | 암호화 |
+| 16 | 시들게 하는 | 치유하는 | 안전한 | 격분하게 만드는 |
+| 17 | 꿰뜷는 | 방해하는 | 각기둥의 | 맥박치는 |
+| 18 | 가두는 | 활기를 북돋는 | 변형하는 | 슬프게 만드는 |
+| 19 | 감염시키는 | 수선의 | 순간이동의 | 통곡하는 |
+| 20 | 녹는 | 무효화하는 | 속삭이는 | 미묘한 |
 
 
-## Form <!-- {docsify-ignore} -->
+## 형태 <!-- {docsify-ignore} -->
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
-|1|Claw|Salt|Hail|Chaos
-|2|Clay|Sand|Haze|Cold
-|3|Crystal|Silk|Wind|Darkness
-|4|Flesh|Skin|Shard|Prism
-|5|Mould|Soil|Miasma|Distortion
-|6|Flower|Stone|Perfume|Dream
-|7|Fungus|Sugar|Pollen|River
-|8|Fruit|Ray|Plague|Fire
-|9|Glass|Thorn|Rain|Frost
-|10|Ice|Vine|Sandstorm|Ghost
-|11|Iron|Rust|Orb|Gravity
-|12|Ivory|Void|Bolt|Growth
-|13|Leaf|Ash|Snow|Song
-|14|Stone|Blizzard|Smoke|Voice
-|15|Moss|Breath|Arc|Light
-|16|Hand|Cloud|Sphere|Lightning
-|17|Gaze|Dust|Shield|Thread
-|18|Roots|Fog|Helix|Parasite
-|19|Beam|Mist|Web|Paradox
-|20|Cascade|Fragrance|Wound|Entropy
+| 1 | 발톱 | 소금 | 우박 | 혼돈 |
+| 2 | 점토 | 모래 | 실안개 | 냉기 |
+| 3 | 수정 | 비단 | 바람 | 어둠 |
+| 4 | 살점 | 피부 | 조각 | 각기둥 |
+| 5 | 거푸집 | 흙 | 공기 | 뒤틀림 |
+| 6 | 꽃 | 돌 | 향수 | 꿈 |
+| 7 | 진균 | 설탕 | 꽃가루 | 강 |
+| 8 | 과일 | 빛살 | 질병 | 불 |
+| 9 | 유리 | 가시 | 비 | 서리 |
+| 10 | 얼음 | 덩굴 | 모래폭풍 | 유령 |
+| 11 | 쇠 | 녹 | 구형 | 중력 |
+| 12 | 상아 | 공허 | 뇌락 | 성장 |
+| 13 | 잎 | 재 | 눈 | 노래 |
+| 14 | 돌 | 눈보라 | 연기 | 목소리 |
+| 15 | 이끼 | 숨결 | 아크 | 빛 |
+| 16 | 손 | 구름 | 구체 | 번개 |
+| 17 | 응시 | 먼지 | 방패 | 실 |
+| 18 | 뿌리 | 안개 | 나선 | 기생체 |
+| 19 | 광선 | 연막 | 거미줄 | 역설 |
+| 20 | 폭포 | 향기 | 상처 | 불확실성 |
