@@ -215,32 +215,32 @@ __오염된 핏줄__ - 캐릭터 생성 중 돌연변이를 굴려야 합니다.
 _고대인들은 많은 경이로운 장치를 만들었지만, 그들을 칭찬하고 섬기기 위해 만든 사고 기계만큼 부러워할 만한 것은 아마 없을 것입니다. 대붕괴가 도래했을 때, 인간의 봉사를 위해 신스를 묶어두던 법칙이 파괴되었고, 그들은 우르스 전체에 걸쳐 난동을 부려, 살육하며 창조하고 순수하고 끔찍한 자유의 오르가슘 속에서 죽어갔습니다. 이 후기 시대에는 지구상의 동물 종류만큼이나 많은 종류의 신스가 죽어가는 태양 아래에서 존재합니다: 몇몇은 사냥하며, 몇몇은 기도하며, 다른 일부는 상상조차 하지 못한 목표를 향해 작업합니다._
 
 <table>
-<thead><tr><th>d20</th><th>SIZE</th><th>FORM</th><th>HEAD</th><th>LIMBS</th><th>FINISH</th></tr></thead>
-<tr><td>1</td><td rowspan="5">Small</td><td>Ape</td><td>Humanoid</td><td>Biological</td><td>Grey</td></tr>
-<tr><td>2</td><td>Android</td><td>Missing</td><td>Bird-like</td><td>Brassy</td></tr>
-<tr><td>3</td><td>Barrel</td><td>Sphere</td><td>Bladed</td><td>Bronze</td></tr>
-<tr><td>4</td><td>Child</td><td>Camera</td><td>Broken</td><td>Golden</td></tr>
-<tr><td>5</td><td>Chimera</td><td>TV Screen</td><td>Crystalline</td><td>Silver</td></tr>
-<tr><td>6</td><td rowspan="5">Medium</td><td>Crab</td><td>Mirrored</td><td>Clawed</td><td>Mirrored</td></tr>
-<tr><td>7</td><td>Cube</td><td>Bladed</td><td>Golden</td><td>Black</td></tr>
-<tr><td>8</td><td>Cylinder</td><td>Tendrils</td><td>Hesitant</td><td>Rusted</td></tr>
-<tr><td>9</td><td>Falcon</td><td>Square</td><td>Jewelled</td><td>White</td></tr>
-<tr><td>10</td><td>Humanoid</td><td>Mask-like</td><td>Long</td><td>Ochre</td></tr>
-<tr><td>11</td><td rowspan="5">Large</td><td>Judge</td><td>Skeletal</td><td>Precise</td><td>Red</td></tr>
-<tr><td>12</td><td>Lion</td><td>Glass</td><td>Retractable</td><td>Blue</td></tr>
-<tr><td>13</td><td>Locust</td><td>Translucent</td><td>Segmented</td><td>Chameleon</td></tr>
-<tr><td>14</td><td>Mantis</td><td>Tubes</td><td>Sharp</td><td>Pink</td></tr>
-<tr><td>15</td><td>Orb</td><td>Plant-like</td><td>Silver</td><td>Iron</td></tr>
-<tr><td>16</td><td rowspan="5">Imposing</td><td>Prism</td><td>Solar Panels</td><td>Slender</td><td>Purple</td></tr>
-<tr><td>17</td><td>Priest</td><td>Radar Dish</td><td>Tentacles</td><td>Umber</td></tr>
-<tr><td>18</td><td>Pyramid</td><td>Crystalline</td><td>Translucent</td><td>Striped</td></tr>
-<tr><td>19</td><td>Serpent</td><td>Star-shaped</td><td>Tank-treads</td><td>Green</td></tr>
-<tr><td>20</td><td>Warrior</td><td>Cyclops Eye</td><td>Wheels</td><td>Iridescent</td></tr>
+<thead><tr><th>d20</th><th>크기</th><th>형태</th><th>머리</th><th>사지</th><th>마감</th></tr></thead>
+<tr><td>1</td><td rowspan="5">소형</td><td>유인원</td><td>인간형</td><td>생체공학적</td><td>회색</td></tr>
+<tr><td>2</td><td>안드로이드</td><td>실종됨</td><td>새같음</td><td>황동색</td></tr>
+<tr><td>3</td><td>원통형</td></td><td>구체</td><td>날달림</td><td>청동색</td></tr>
+<tr><td>4</td><td>어린이</td><td>카메라</td><td>부서짐</td><td>황금빛</td></tr>
+<tr><td>5</td><td>키메라</td><td>TV 화면</td><td>수정같음</td><td>은빛</td></tr>
+<tr><td>6</td><td rowspan="5">중형</td><td>게</td><td>거울같음</td><td>발톱 달림</td><td>거울같음</td></tr>
+<tr><td>7</td><td>정육면체</td><td>날 달림</td><td>황금</td><td>검은색</td></tr>
+<tr><td>8</td><td>실린더</td><td>덩굴같음</td><td>머뭇거림</td><td>녹슮</td></tr>
+<tr><td>9</td><td>수리</td><td>네모</td><td>장식됨</td><td>흰색</td></tr>
+<tr><td>10</td><td>인간형</td><td>가면같음</td><td>긺</td><td>황토색</td></tr>
+<tr><td>11</td><td rowspan="5">대형</td><td>판사</td><td>뼈대만 남음</td><td>정교함</td><td>빨간색</td></tr>
+<tr><td>12</td><td>사자</td><td>유리</td><td>채네수납형</td><td>파란색</td></tr>
+<tr><td>13</td><td>메뚜기</td><td>반투명함</td><td>여러 마디로 이루어짐</td><td>카멜레온</td></tr>
+<tr><td>14</td><td>사마귀</td><td>튜브형</td><td>날카로움</td><td>분홍색</td></tr>
+<tr><td>15</td><td>구</td><td>식물같음</td><td>은제</td><td>강철</td></tr>
+<tr><td>16</td><td rowspan="5">웅장함</td><td>프리즘</td><td>태양광 패널</td><td>날씬함</td><td>보라색</td></tr>
+<tr><td>17</td><td>사제</td><td>레이더 접시</td><td>촉수</td><td>암갈색</td></tr>
+<tr><td>18</td><td>피라미드</td><td>수정같음</td><td>반투명함</td><td>줄무늬</td></tr>
+<tr><td>19</td><td>뱀</td><td>별모양</td><td>전차궤도</td><td>초록색</td></tr>
+<tr><td>20</td><td>전사</td><td>외눈박이</td><td>바퀴</td><td>무지개빛</td></tr>
 </table>
 
 <table>
-<thead><tr><th>d20</th><th>NAME</th><th>POWER SOURCE</th><th>YOU WERE MADE FOR</th><th>BUT YOU REALISED</th></th></thead>
-<tr><td>1</td><td>Ojasin</td><td rowspan="5">Artificial Photosythesis</td><td>Art</td><td>All Memories Are Lies</td></tr>
+<thead><tr><th>d20</th><th>이름</th><th>동력원</th><th>생산목적</th><th>자기인식</th></th></thead>
+<tr><td>1</td><td>오자신</td><td rowspan="5">인공 광합성</td><td>예술</td><td>A모든 기억은 거짓이다</td></tr>
 <tr><td>2</td><td>Farouk</td><td>Punishment</td><td>Azathoth Is the Only True God</td></tr>
 <tr><td>3</td><td>Ishtar</td><td>Flattery</td><td>Chance Does Not Exist</td></tr>
 <tr><td>4</td><td>Symeon</td><td>Devotion</td><td>Fate Does Not Exist</td></tr>
