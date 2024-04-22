@@ -1,32 +1,33 @@
-# Ancestries
-_Ancestries describe what kind of being you are. Choose one of the nine and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only._
+# 기원(Ancestries)
+_기원은 당신이 어떤 종류의 존재인지를 설명합니다. 아홉 가지 중 하나를 선택하고 튀는 면 표를 참고하여 영감을 받으세요. 캐릭터의 비전과 일치하지 않는 결과는 무시해도 괜찮습니다. 이것들은 창의적인 자극을 위한 것입니다._
 
-## True-Kin
-_The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony._
+## 트루킨(True-Kin)
+_대붕괴가 발생할 때, 트루킨은 숨겨진 아콜로지(arcologies) 안으로 자신들을 봉인시켰으며, 이 방식으로 지표면에 남아있는 사람들에게 영향을 주는 퇴화로부터 몸을 보호하였습니다. 트루킨은 돌연변이와 기생 나노기계의 영향에서 혈통을 철저하게 유지하며, 고대 기술의 숙련도를 엄중하게 지켜왔습니다. 그들이 은둔한 아르콜로지 내에서 구축한 사회는 계급적이고 카스트 기반으로 구성되었습니다. 이러한 전통은 트루킨이 표면 세계 재정착과 신정부(New Hegemony) 설립 시에도 계속해서 간직되었습니다._
 
-<table>
-<thead><th>d20</th><th>Name</th><th>Caste</th><th>Demeanour</th><th>Distinct Feature</th></thead>
-<tr><td>1</td><td>Benjoe</td><td rowspan="4">Servitor (labourer caste)</td><td>Amused</td><td>Ritual Scars</td></tr>
-<tr><td>2</td><td>Leif</td><td>Bitter</td><td>Face Tattoos</td></tr>
-<tr><td>3</td><td>Xurm</td><td>Morbid</td><td>Slave Brand</td></tr>
-<tr><td>4</td><td>Kazor</td><td>Bony</td><td>Heavy Jewellery</td></tr>
-<tr><td>5</td><td>Essana</td><td rowspan="5">Freeholder (merchant caste)</td><td>Cheerful</td><td>Synthetic Limb</td></tr>
-<tr><td>6</td><td>Calista</td><td>Cruel</td><td>Strange Voice</td></tr>
-<tr><td>7</td><td>Jinny</td><td>Flamboyant</td><td>Clone Brand</td></tr>
-<tr><td>8</td><td>Vela</td><td>Glowering</td><td>Limp</td></tr>
-<tr><td>9</td><td>Leksei</td><td>Impish</td><td>Strange Pet</td></tr>
-<tr><td>10</td><td>Ippash</td><td rowspan="5">Optimate (administrator caste)</td><td>Lanky</td><td>Lacquered Teeth</td></tr>
-<tr><td>11</td><td>Lagad</td><td>Patrician</td><td>Burn Scars</td></tr>
-<tr><td>12</td><td>Myli</td><td>Reckless</td><td>Octarine Eyes</td></tr>
-<tr><td>13</td><td>Nirid</td><td>Rough</td><td>Dyed Skin</td></tr>
-<tr><td>14</td><td>Ardel</td><td>Rude</td><td>Golden Teeth</td></tr>
-<tr><td>15</td><td>Senefer</td><td rowspan="3">Armiger (warrior caste)</td><td>Sly</td><td>Silver Tongue</td></tr>
-<tr><td>16</td><td>Pharmon</td><td>Sour</td><td>Missing Limb</td></tr>
-<tr><td>17</td><td>Mesu</td><td>Stoic</td><td>Missing Eye</td></tr>
-<tr><td>18</td><td>Lenta</td><td rowspan="3">Exultant (sacred aristocracy)</td><td>Foolish</td><td>Religious Apparel</td></tr>
-<tr><td>19</td><td>Goza</td><td>Warm</td><td>Synthetic Eyes</td></tr>
-<tr><td>20</td><td>Babl</td><td>Wolfish</td><td>Visibly Diseased</td></tr>
-</table>
+<table><thead><tr><th><strong>이름</strong></th><td><strong>계급</strong></th><th><strong>태도</strong></th><th><strong>특색</strong></th><th><strong>D20</strong></th></tr></thead>
+<tr><td>1</td><td>벤조</td><td rowspan="4">하인 (노동 계급)</td><td>즐거움</td><td>의식 흉터</td></tr>
+<tr><td>2</td><td>레이프</td><td></td><td>냉소적</td><td>얼굴 문신</td></tr>
+<tr><td>3</td><td>주름</td><td></td><td>병적임</td><td>노예 낙인</td></tr>
+<tr><td>4</td><td>주름</td><td></td><td>쿨함</td><td>무거운 장신구</td></tr>
+<tr><td>5</td><td>에산나</td><td rowspan="5">자유보유권자 (상인 계급)</td><td>발랄함</td><td>인조 팔다리</td></tr>
+<tr><td>6</td><td>칼리스타</td><td></td><td>잔혹함</td><td>이상한 목소리</td></tr>
+<tr><td>7</td><td>지니</td><td></td><td>대담함</td><td>복제인간 낙인</td></tr>
+<tr><td>8</td><td>벨라</td><td></td><td>노려봄</td><td>절뚝거림</td></tr>
+<tr><td>9</td><td>렉세이</td><td></td><td>버릇없음</td><td>이상한 반려동물</td></tr>
+<tr><td>10</td><td>이파시</td><td rowspan="5">귀족 (관리자 계급)</td><td>멀쑥함</td><td>옻칠한 이빨</td></tr>
+<tr><td>11</td><td>라가드</td><td></td><td>귀족적</td><td>화상 흉터</td></tr>
+<tr><td>12</td><td>마일리</td><td></td><td>무모함</td><td>무지개빛 눈</td></tr>
+<tr><td>13</td><td>니리드</td><td></td><td>거침</td><td>염료로 물든 피부</td></tr>
+<tr><td>14</td><td>아르델</td><td></td><td>무례함</td><td>황금 이빨</td></tr>
+<tr><td>15</td><td>세네퍼</td><td rowspan="3">갑옷 시종 (전사 계급)</td><td>교활함</td><td>은제 혀</td></tr>
+<tr><td>16</td><td>파르몬</td><td></td><td>심술궂음</td><td>사지 결손</td></tr>
+<tr><td>17</td><td>메수</td><td></td><td>금욕적임</td><td>눈 없음</td></tr>
+<tr><td>렌타</td><td rowspan="3">환희 (신성한 상류층)</td><td>멍청함</td><td>종교적 차림새</td><td>18</td></tr>
+<tr><td>19</td><td>고자</td><td></td><td>따뜻함</td><td>인조 눈</td></tr>
+<tr><td>20</td><td>바블</td><td></td><td>탐욕스러움</td><td>확연히 병듦</td></tr></tbody></table>
+
+
+
 
 |d20|BODY|FACE|HAIR|ATTIRE|
 |-|----|----|----|------|
