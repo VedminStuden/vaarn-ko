@@ -1,25 +1,25 @@
-# Exotica
-Exotica are strange, rare objects that are highly sought after. Each PC may begin play with one item of Exotica. Roll once on the table below. If you roll the same Exotica as another player, take the next available option down.
+# 엑조티카 (Exotica)
+엑조티카는 이상하고 희귀한 물건으로, 모두가 매우 갈망하는 물건입니다. 각 PC는 엑조티카 중 하나의 아이템을 시작할 때 가질 수 있습니다. 아래 표에서 한 번 굴려주세요. 다른 플레이어와 동일한 엑조티카를 굴리면, 다음으로 가능한 옵션을 선택하세요.
 
-|d20|EXOTICA|DESCRIPTION|
+| D20 | 엑조티카 | 설명 |
 |---|-------|-----------|
-|1|Mirror Ring|Projects a hologram copy of the wearer that mimics their actions.|
-|2|A Fool’s Head|The severed head of a synthetic jester. Not in great condition but can still remember some jokes.|
-|3|Singing Crystal|When struck, sings loudly and beautifully for up to an hour.|
-|4|Nightmare Box|Small cube of unbreakable, dark-tinted glass. One small peephole. Anyone looks inside will be paralysed by horror.|
-|5|Sandworm Horn|Blow outdoors to summon a sandworm, if you are bold enough.|
-|6|Midas Bomb|Transforms organic matter into gold.|
-|7|Sky-seeking Salve|Reverses effect of gravity on object it coats. Take care when outdoors|
-|8|Chameleon Cloak|Perfectly matches the colour of its surroundings|
-|9|Desiccated Mycomorph|Tiny dried out fungus-man. A drop of blood will revive him.|
-|10|Flesh of the Honeyed Lamb|Stolen from the Cult of the Honeyed Lamb; meat imbued with a powerful medicinal psychedelic.|
-|11|Agoniser|A barbaric relic. Silver needle that causes unbearable pain to organic creatures without leaving a mark.|
-|12|Exultant’s Hawk|Cybernetic hunting animal, bound to you telepathically. 3 HP, Armour 17, d4 claw damage.|
-|13|Black Heart|Repulsive twitching cyborg organ. Will slowly and painfully revive a single dead body.|
-|14|All-Purpose Idol|Imbued with powerful neuro-active programming. Observers always believe idol represents the deity they worship.|
-|15|Ulfire Candle|Ulfire is the ninth colour; its light has the unusual quality of shining through solid objects. It is blocked by lead.|
-|16|Vial of ICE-9|Alchemical substance that transforms all water it touches into un-meltable ice.|
-|17|Pale Blade of Amun-Oh|Priests of Amun-Oh pledged never to take a life; their white knives will cut through anything except living flesh.|
-|18|Blasphemies of the Binary Demon|A tablet engraved with a series of quantum-logical propositions. Poses little threat to organic life, but can be deadly to sentient machines.|
-|19|Helpful Snake|It lives up your sleeve and tries, whenever it can, to help.|
-|20|Dried Crypt Lotus|Grim flower that sprouts from the forehead of corpses. Sometimes kept as a keepsake of a lost companion.|
+| 1 | 거울 반지 | 착용자의 행동을 모방한 홀로그램 복사본을 투사합니다. |
+| 2 | 어느 광대의 머리 | 잘린 인조 광대 머리. 상태는 좋지 않지만 약간의 농담은 기억할 수 있다. |
+| 3 | 노래하는 수정 | 부딪히면 최대 1시간 동안 크고 아름답게 노래한다. |
+| 4 | 악몽의 상자 | 깨지지 않는 어두운 색조의 유리로 된 작은 정육면체. 작은 엿보는 구멍 하나. 안을 들여다보는 사람은 누구나 공포로 마비될 것이다. |
+| 5 | 모래벌레의 뿔 | 용기가 있다면 모래벌레를 소환하기 위해 밖에서 불어보시오. |
+| 6 | 미다스 폭탄 | 살아있는 무언가를 금으로 바꿉니다. |
+| 7 | 하늘을 찾는 연고 | 중력이 물체에 미치는 영향을 반대로 합니다. 야외에서 주의하세요. |
+| 8 | 카멜레온 망토 | 주변 환경의 색상과 완벽하게 일치합니다 |
+| 9 | 건조 버섯체 | 아주 작고 말라붙은 곰팡이같은 놈. 피 한 방울이면 되살아날 것입니다. |
+| 10 | 꿀 먹은 양의 살점 | 꿀 먹은 양의 숭배자들에게 훔친 것으로, 강력한 약용 환각 성분이 스며든 고기입니다. |
+| 11 | 고문자 | 야만적인 유물로, 흔적도 남기지 않고 유기체에 견딜 수 없는 고통을 주는 은침입니다. |
+| 12 | 허영자의 매 | 사이버네틱 사냥 동물, 텔레파시로 당신에게 묶여 있습니다. 3 HP, 장갑 17, d4 발톱 피해. |
+| 13 | 검은 심장 | 반발하는 경련성 사이보그 기관. 하나의 시체를 천천히 고통스럽게 되살릴 것입니다. |
+| 14 | 모든 이들의 우상 | 강력한 신경 활성 프로그래밍에 배어있습니다. 이를 관찰하는 이들은 항상 이 우상이 그들이 숭배하는 신을 상징한다고 믿게 됩니다. |
+| 15 | 울파이어 양초 | 울파이어는 아홉 번째 색입니다. 이 양초의 빛은 고체 물체 사이로 비치는 특이한 특성을 가지고 있습니다. 납에는 막힙니다. |
+| 16 | ICE-9 한 병 | 닿는 모든 물을 녹지 않는 얼음으로 바꾸는 화학물질입니다. |
+| 17 | 아문-오의 창백한  칼날 | 아문오의 사제들은 목숨을 끊지 않겠다고 맹세하였습니다. 그들의 흰 칼날은 살아 있는 살점을 제외하고는 어떤 것도 베지 못할 것입니다. |
+| 18 | 이분법적 악마의 신성모독 | 일련의 양자 논리 명제가 새겨진 태블릿. 유기체의 생명에는 거의 위협이 되지 않지만 지각 있는 기계에는 치명적일 수 있습니다. |
+| 19 | 도우미 뱀 | 당신의 소매 안에 살며, 언제든지 가능한 한 도움을 주려고 노력합니다. |
+| 20 | 말린 암호 연꽃 | 시체의 이마에서 자라는 어두운 꽃입니다. 때때로 잃어버린 동료의 기념품으로 간직되곤 합니다. |
