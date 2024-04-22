@@ -4,7 +4,7 @@ _기원은 당신이 어떤 종류의 존재인지를 설명합니다. 아홉 �
 ## 트루킨(True-Kin)
 _대붕괴가 발생할 때, 트루킨은 숨겨진 아콜로지(arcologies) 안으로 자신들을 봉인시켰으며, 이 방식으로 지표면에 남아있는 사람들에게 영향을 주는 퇴화로부터 몸을 보호하였습니다. 트루킨은 돌연변이와 기생 나노기계의 영향에서 혈통을 철저하게 유지하며, 고대 기술의 숙련도를 엄중하게 지켜왔습니다. 그들이 은둔한 아르콜로지 내에서 구축한 사회는 계급적이고 카스트 기반으로 구성되었습니다. 이러한 전통은 트루킨이 표면 세계 재정착과 신정부(New Hegemony) 설립 시에도 계속해서 간직되었습니다._
 
-<table><thead><tr><th><strong>이름</strong></th><td><strong>계급</strong></th><th><strong>태도</strong></th><th><strong>특색</strong></th><th><strong>D20</strong></th></tr></thead>
+<table><thead><tr><th><strong>D20</strong></th><th><strong>이름</strong></th><th><strong>계급</strong></th><th><strong>태도</strong></th><th><strong>특색</strong></th></tr></thead>
 <tr><td>1</td><td>벤조</td><td rowspan="4">하인 (노동 계급)</td><td>즐거움</td><td>의식 흉터</td></tr>
 <tr><td>2</td><td>레이프</td><td></td><td>냉소적</td><td>얼굴 문신</td></tr>
 <tr><td>3</td><td>주름</td><td></td><td>병적임</td><td>노예 낙인</td></tr>
