@@ -268,7 +268,7 @@ __인조 살점__ - 당신은 금속과 플라스틱으로 이루어진 존재�
 __인조 사고__ - 당신의 정신은 주변의 생물적 존재들과 다른 운영 절차를 사용합니다. 신스에 기반을 둔 로그어 구문을 대상으로 하는 공격에 취약합니다. 이러한 공격에는 깜박이는 바실리스크 패턴, 악성 정보 글리프 및 고대 타이탄 시대 언어 바이러스가 포함됩니다.
 
 ## 뉴비스트(NewBeast)
-_Newbeasts are humanoid animals, produced through intensive nanotech enhancements and bioengineering, the results of a quixotic millennia-long project to create animals with the ability to speak and walk like men. Perhaps once intended as amusements or party pieces, these chimera are not well-liked by the common folk of Urth, and many newbeasts make their homes in lonely places on the outskirts of the Hegemony, either living as hermits or with others of their furtive kind. Those inhabiting human settlements often wear masks in imitation of the human face, to symbolically conceal their beasthood._
+_뉴비스트는 강력한 나노 기술 개선과 생물 공학을 통해 생산된 인간형 동물들입니다. 이들은 천년에 걸친 괴상한 프로젝트의 결과로, 사람처럼 말하고 걷는 능력을 갖춘 동물을 창조하기 위해 만들어졌습니다. 아마도 한때는 즐거움이나 파티 장식으로 의도되었을지 모르지만, 이러한 키메라들은 우르스의 일반인들에게 사랑받지 않으며, 많은 뉴비스트는 헤게모니의 외곽 지역에 위치한 고독한 장소에서 자신의 집을 지으며 은둔자 중 한 사람이나 다른 이와 함께 살고 있습니다. 인간 거주지에서 살아가는 이는 뉴비스트 특유의 동물성을 상징적인 의미에서 감추기 위해 인간 얼굴과 비슷한 가면을 착용하기도 합니다._
 
 |d20|1-5|6-10|11-15|16-20|
 |---|---|----|-----|-----|
@@ -427,177 +427,174 @@ _파아는 보통 가족 단위나 더 큰 부족 단위로 이동하지만, 일
 <tr><td>20</td><td>유디</td><td>변덕스러움</td><td>파아 중에서도 악명높음</td></tr>
 </table>
 
-### Special
-__DESERT METABOLISM__ - Your body is adapted to long periods without water. You can recycle the moisture from your own sweat and urine. You become Deprived from thirst after three days without drinking, and it will be three weeks before you die.  
-__WORM WISE__ - You have an affinity with Vaarn's sandworms. The Referee will always answer truthfully when you ask a question about these creatures. All reaction rolls when you engage with Vaarnish sandworms are made with Advantage.  
+### 특이사항
+__사막형 신체대사__ - 당신의 몸은 물 없이 오랫동안 버틸 수 있도록 적응되어 있습니다. 자신의 땀과 소변에서 수분을 재활용할 수 있습니다. 당신은 마실 것 없이 세 일이 지나면 갈증으로 인해 고통받게 되며, 죽기 전까지는 세 주가 걸립니다.  
+__벌레친화력__ - 당신은 바안의 모래벌레와 친화력을 가지고 있습니다. 심판은 당신이 이 생물에 대한 질문을 할 때 항상 진실하게 대답할 것입니다. 바안의 모래벌레와 상호 작용할 때 모든 반응 굴림은 유리점으로 이루어집니다.  
 
-## Cacklemaw Exile
-_The Cacklemaw are known throughout Vaarn as the most irritating, destructive, argumentative, vicious, foul-smelling, and fundamentally nasty creatures that walk the surface of the Urth._  
+## 캐클모 추방자(Cacklemaw Exile)
+_캐클모은 바안 전역에서 가장 귀찮고, 파괴적이며, 논쟁적이고, 악랄하며, 악취가 나고, 근본적으로 더러운 생물로 알려져 있습니다._  
 
-_Try to imagine, then, how badly behaved a Cacklemaw must be before the other Cacklemaw decide they no longer wish to associate with her._  
+_그러므로 상상해보십시오. 이 캐클모는 얼마나 끔찍한 습성을 보이기에 다른 캐클모들조차도 연루되지 않으려 하는 걸까요.._  
 
-<table>
-<thead><tr><th>d20</th><th>Pelt</th><th>Teeth</th><th>Laugh</th><th>Attire</th><tr></thead>
-<tr><td>1</td><td>Dark and Coarse</td><td>Yellow Daggers</td><td>Raucous</td><td>Human-Leather Jacket</td></tr>
-<tr><td>2</td><td>Pale and Downy</td><td>Little Brown Nubs</td><td>Whispery</td><td>Translucent Plastic</td></tr>
-<tr><td>3</td><td>Riven with Scars</td><td>White and Gleaming</td><td>Machine-gun Barks</td><td>Greasy Rags</td></tr>
-<tr><td>4</td><td>Greasy Spikes</td><td>Mostly Rotted Out</td><td>Rusty Hinge</td><td>Mock Wedding Clothes</td></tr>
-<tr><td>5</td><td>Brindled</td><td>One Gold Tooth</td><td>Whooping</td><td>Gaudy Shawl</td></tr>
-<tr><td>6</td><td>Mostly Burnt Off</td><td>Hooked and Grimy</td><td>Coughing</td><td>Mock Religious Attire</td></tr>
-<tr><td>7</td><td>Long and Silky</td><td>Chrome Implants</td><td>Hissing Snicker</td><td>Unsettling Mask</td></tr>
-<tr><td>8</td><td>Short and Scratchy</td><td>Needle Thin</td><td>Breathless</td><td>Harlequin's Motley</td></tr>
-<tr><td>9</td><td>Purest White</td><td>Triple Row, Like a Shark</td><td>Booming</td><td>Bloodstained Bandages</td></tr>
-<tr><td>10</td><td>Mottled Brown</td><td>Diamond Hard Gnashers</td><td>Hoarse and Strangled</td><td>Sun-faded Scraps</td></tr>
-<tr><td>11</td><td>Regal Silver</td><td>Blunt and Black</td><td>Maddening Gasps</td><td>Plastic Bags</td></tr>
-<tr><td>12</td><td>Concrete Grey</td><td>Just One Left</td><td>Wet Chuckles</td><td>Iridescent Chains</td></tr>
-<tr><td>13</td><td>Curly and Rancid</td><td>Crooked Orange Spikes</td><td>Turns into Hiccups</td><td>Purple Silks</td></tr>
-<tr><td>14</td><td>Dyed Blood Red</td><td>Engraved with Pictures</td><td>Starts Quiet and Rises</td><td>Mock Hegemony Uniform</td></tr>
-<tr><td>15</td><td>Shaved into Stripes</td><td>Full of Holes</td><td>Joyless Giggling</td><td>A Rival's Skin</td></tr>
-<tr><td>16</td><td>Midnight Black</td><td>Huge, Tusk-like</td><td>Pained</td><td>Spiked Shoulder-pads</td></tr>
-<tr><td>17</td><td>Muddy Brown</td><td>Giant Underbite</td><td>Cold and Malevolent</td><td>Soiled Hazmat Gear</td></tr>
-<tr><td>18</td><td>Crawling with Parasites</td><td>Rediculous Overbite</td><td>Childish and Cruel</td><td>Peacock-Feather Cape</td></tr>
-<tr><td>19</td><td>Thundercloud Blue</td><td>Canted and Greying</td><td>Could Wake the Dead</td><td>Lizard-Skin Suit</td></tr>
-<tr><td>20</td><td>Tigerish Stripes</td><td>Weirdly Human</td><td>Soundless but Horrid</td><td>Nothing but Knives</td></tr>
-</table>
-
-<table>
-<thead><tr><th>d20</th><th>Name</th><th>Demeanour</th><th>Why Were You Exiled?</th><th>What Makes You Laugh The Most?</th><tr></thead>
-<tr><td>1</td><td>Bawlbray</td><td>Cringing</td><td rowspan="2">Born a Runt</td><td>Blood</td></tr>
-<tr><td>2</td><td>Bunny</td><td>Jittery</td><td>Guts</td></tr>
-<tr><td>3</td><td>Darling</td><td>Sly</td><td rowspan="2">Showed Mercy</td><td>Pain</td></tr>
-<tr><td>4</td><td>Domino</td><td>Resentful</td><td>Beheadings</td></tr>
-<tr><td>5</td><td>Fang</td><td>Judgemental</td><td rowspan="2">Laugh Too Annoying</td><td>Hangings</td></tr>
-<tr><td>6</td><td>Gidge</td><td>Pious</td><td>Drownings</td></tr>
-<tr><td>7</td><td>Grot</td><td>Greedy</td><td rowspan="2">Cowardice</td><td>Begging</td></tr>
-<tr><td>8</td><td>Jigsore</td><td>Belligerent</td><td>Pleading</td></tr>
-<tr><td>9</td><td>Katanary</td><td>Sinister</td><td rowspan="2">Asked Questions</td><td>Weeping</td></tr>
-<tr><td>10</td><td>Longsnout</td><td>Repellent</td><td>Arson</td></tr>
-<tr><td>11</td><td>Nadir</td><td>Jovial</td><td rowspan="2">Insubordination</td><td>Larceny</td></tr>
-<tr><td>12</td><td>Natcher</td><td>Bold</td><td>Vandalism</td></tr>
-<tr><td>13</td><td>Palecrow</td><td>Grouchy</td><td rowspan="2">Fought Alongside Humans</td><td>Screams</td></tr>
-<tr><td>14</td><td>Pinkeye</td><td>Treacherous</td><td>Gunfights</td></tr>
-<tr><td>15</td><td>Sabbat</td><td>Childish</td><td rowspan="2">Desecrated Ritual Puppet</td><td>Speeding</td></tr>
-<tr><td>16</td><td>Snoutrout</td><td>Extravagant</td><td>Explosions</td></tr>
-<tr><td>17</td><td>Sweetmeat</td><td>Volatile</td><td rowspan="2">Shared Clan Secret</td><td>Throttling</td></tr>
-<tr><td>18</td><td>Vileglory</td><td>Gullible</td><td>Biting People</td></tr>
-<tr><td>19</td><td>Wetshriek</td><td>Fickle</td><td rowspan="2">Ridiculous Petty Reason</td><td>Chemical Warfare</td></tr>
-<tr><td>20</td><td>Zef</td><td>Calculating</td><td>Puns</td></tr>
-</table>
-
-### Special
-__NO QUARTER__ - You must EGO save to show mercy to a defeated foe, or to retreat from a fight.  
-__BITER__ - If you successfully hit a foe with a melee attack, you may add an extra d6 of fang damage to the roll.  
-
-## Lithling
-_Strange beings even by the standards of Vaarn, the Lithling are a slow, solemn species with a silicon-based biology that surely originates in a solar system far away from Urth. They are solitary by nature, concerned mainly with the opinions of other Lithling and the esoteric academic studies they devote their long lives to._  
-
-_Adult lithling cannot repair their bodies when they have been injured, and so, although immortal by human standards, the creatures must treat every wound suffered with utmost severity._  
+| D20 | 털가죽 | 이빨 | 웃음 | 복장 |
+| --- | --- | --- | --- | --- |
+| 1 | 어둡고 거칢 | 노란 단검 같음 | 걸걸함 | 인간의 가죽으로 만든 자켓 |
+| 2 | 창백하고 부드러움 | 작고 갈색을 띤 혹들 | 속삭이는 듯함 | 반투명 플라스틱 |
+| 3 | 상처와 함께 찢김 | 하얗고 빛남 | 기관총을 쏘는 듯함 | 기름투성이에 해짐 |
+| 4 | 기름진 가시가 있음 | 거의 썩어감 | 녹슨 경첩 | 모조 웨딩 드레스 |
+| 5 | 얼룩 무늬 | 금니 하나 | 기쁨 가득한 함성 | 촌스럽게 번지르르한 어깨장식 |
+| 6 | 거의 다 불탐 | 갈고리 모양으로 굽고 때묻음 | 기침소리 | 모조 종교적 복장 |
+| 7 | 길고 매끈매끈함 | 크롬 임플란트 | 쉿쉿하는 킥킥거림 | 동요시키는 가면 |
+| 8 | 짧고 긁힌 자국 투성이 | 가늘은 주사바늘 | 숨이 가쁨 | 어릿광대의 얼룩덜룩한 옷 |
+| 9 | 거의 순수한 하얀색 | 상어같은 3겹 이빨 | 쾅쾅 울림 | 피로 물든 붕대 |
+| 10 | 얼룩덜룩한 갈색 | 다이아몬드로 이루어진 단단한 치아 | 목이 쉬고 졸림 | 햇빛에 빛깔이 바랜 폐품 |
+| 11 | 제왕의 은빛 | 무르고 검음 | 광란의 헐떡거림 | 비닐봉지 |
+| 12 | 콘크리트 같은 회색 | 하나만 남음 | 침 튀는 웃음 | 무지개빛 사슬 여러개 |
+| 13 | 곱슬곱슬하고 썩은내 남 | 구부러진 주황색 가시들 | 딸국질로 변하는 웃음 | 자줏빛 비단옷 |
+| 14 | 핏빛 빨간색으로 물듦 | 그림이 새겨짐 | 조용히 서서히 웃음 | 모조 신정부 유니폼 |
+| 15 | 줄무늬로 깎여들어감 | 구멍투성이 | 기쁨없는 낄낄거림 | 경쟁자(였던 것)의 가죽 |
+| 16 | 자정의 검은색 | 엄니같이 거대함 | 괴로워함 | 가시 달린 견갑 |
+| 17 | 진흙같은 갈색 | 거대한 부정교합 | 쌀쌀하고 악의로 가득함 | 때묻은 오염물 처리 장비 |
+| 18 | 기생충이 기어다님 | 조롱받을 정도의 부정교합 | 어린이같고 잔인함 | 공작 깃털 망토 |
+| 19 | 뇌운의 파란색 | 비스듬하고 늙어감 | 죽은 자를 깨울 수 있을 수도 있음 | 도마뱀 가죽 정장 |
+| 20 | 호랑이 줄무늬 | 이상하게도 사람같음 | 조용하나 무시무시함 | 단검 여러자루 외엔 아무것도 거치지 없음 |
 
 <table>
-<thead><tr><th>d20</th><th>Size</th><th>Body</th><th>Head Carving</th><th>Hue</th><tr></thead>
-<tr><td>1</td><td rowspan="5">Child-like</td><td>Dainty</td><td>Sphere</td><td>Rose</td></tr>
-<tr><td>2</td><td>Tiny</td><td>Owl</td><td>Onyx</td></tr>
-<tr><td>3</td><td>Boxy</td><td>Serpent</td><td>Azure</td></tr>
-<tr><td>4</td><td>Voluptuous</td><td>Oxen</td><td>Silver</td></tr>
-<tr><td>5</td><td>Squat</td><td>Horse</td><td>Indigo</td></tr>
-<tr><td>6</td><td rowspan="5">Small</td><td>Lithe</td><td>Warrior</td><td>Gold</td></tr>
-<tr><td>7</td><td>Angular</td><td>Maiden</td><td>Violet</td></tr>
-<tr><td>8</td><td>Craggy</td><td>Locust</td><td>Ruby</td></tr>
-<tr><td>9</td><td>Elegant</td><td>Jackal</td><td>Orange</td></tr>
-<tr><td>10</td><td>Bulbous</td><td>Moon</td><td>Topaz</td></tr>
-<tr><td>11</td><td rowspan="4">Moderate</td><td>Sharp</td><td>Sun</td><td>Jade</td></tr>
-<tr><td>12</td><td>Rotund</td><td>Pyramid</td><td>Brass</td></tr>
-<tr><td>13</td><td>Weathered</td><td>Cat</td><td>Copper</td></tr>
-<tr><td>14</td><td>Monumental</td><td>Trout</td><td>Rust</td></tr>
-<tr><td>15</td><td rowspan="3">Large</td><td>Derelict</td><td>Scholar</td><td>Moss</td></tr>
-<tr><td>16</td><td>Blocky</td><td>Fool</td><td>Ochre</td></tr>
-<tr><td>17</td><td>Flaking</td><td>Crone</td><td>Steel</td></tr>
-<tr><td>18</td><td rowspan="3">Imposing</td><td>Smooth</td><td>Mantis</td><td>Sand</td></tr>
-<tr><td>19</td><td>Pitted</td><td>Ape</td><td>Citrine</td></tr>
-<tr><td>20</td><td>Fragmented</td><td>Goat</td><td>Emerald</td></tr>
+<thead><tr><th>d20</th><th>이름</th><th>태도</th><th>추방당한 이유</th><th>자신을 가장 웃게 만드는 것</th><tr></thead>
+<tr><td>1</td><td>볼브레이</td><td>위축됨</td><td rowspan="2">신경과민</td><td>혈액</td></tr>
+<tr><td>2</td><td>버니</td><td>지터리</td><td>내장</td></tr>
+<tr><td>3</td><td>달링</td><td>음흉함</td><td rowspan="2">자비를 보여줌</td><td>고통</td></tr>
+<tr><td>4</td><td>도미노</td><td>분개함</td><td>분개함</td></tr>
+<tr><td>5</td><td>팽</td><td>도덕적임</td><td rowspan="2">너무 짜증나게 웃음</td><td>교수형</td></tr>
+<tr><td>6</td><td>깃지</td><td>경건함</td><td>익사</td></tr>
+<tr><td>7</td><td>그로트</td><td>탐욕스러움</td><td rowspan="2">비겁함</td><td>구걸</td></tr>
+<tr><td>8</td><td>직소어</td><td>호전적임</td><td>항변</td></tr>
+<tr><td>9</td><td>카타나리</td><td>불길함</td><td rowspan="2">감히 질문을 던짐</td><td>눈물을 흘리는 것</td></tr>
+<tr><td>10</td><td>롱스노우트</td><td>불쾌함</td><td>방화</td></tr>
+<tr><td>11</td><td>나디르</td><td>명랑함</td><td rowspan="2">반항</td><td>절도</td></tr>
+<tr><td>12</td><td>내처</td><td>대담함</td><td>반달행위</td></tr>
+<tr><td>13</td><td>페일크로우</td><td>성남</td><td rowspan="2">인간의 편에서 싸움</td><td>비명</td></tr>
+<tr><td>14</td><td>핑크아이</td><td>불성실함</td><td>총격전</td></tr>
+<tr><td>15</td><td>사바트</td><td>어린이같음</td><td rowspan="2">의식에 사용되는 인형을 모독함</td><td>고속이동</td></tr>
+<tr><td>16</td><td>스노웃루트</td><td>사치스러움</td><td>폭발</td></tr>
+<tr><td>17</td><td>스윗미트</td><td>불안함</td><td rowspan="2">부족의 비밀을 퍼뜨림</td><td>질식, 제압</td></tr>
+<tr><td>18</td><td>바일글로리</td><td>잘속음</td><td>사람을 무는 것</td></tr>
+<tr><td>19</td><td>웻슈링크</td><td>변덕스러움</td><td rowspan="2">우스꽝스럽고 사소한 이유</td><td>화학전</td></tr>
+<tr><td>20</td><td>제프</td><td>계산적임</td><td>말장난</td></tr>
 </table>
+
+### 특이사항
+__무자비함__ - 패배한 적에게 자비를 보이거나 싸움에서 후퇴하려면 EGO 내성굴림을 해야 합니다..  
+__무는 자__ - 근접 공격으로 성공적으로 적을 맞추면, 굴림에 이빨 피해를 위한 추가 d6을 더할 수 있습니다.  
+
+## 리슬링 (Lithling)
+_바안의 기준으로도 이상한 존재인 리슬링은 실리콘 기반의 생물학적 특성에 기반한 느리고 엄숙한 종입니다. 그들의 기원은 분명히 우르스에서 멀리 떨어진 성계에 있을 것입니다. 리슬링은 종 특성상 고독하며, 주로 다른 리슬링의 의견 및 오랜 생명을 바치는 신비학적인 학문 연구에 관심이 있습니다.  _  
+
+_성체 리슬링은 부상당했을 때 자신의 몸을 회복할 수 없습니다. 인간의 기준으로는 불멸이지만, 이 생물들은 겪는 모든 상처를 매우 심각하게 대해야 합니다._  
 
 <table>
-<thead><tr><th>d20</th><th>Name</th><th>Manner</th><th>Field of Study</th><th>Quirk</th><tr></thead>
-<tr><td>1</td><td>Aikin</td><td>Logical</td><td>Shellfish</td><td>Engraved with Poem</td></tr>
-<tr><td>2</td><td>Antimony</td><td>Obsessive</td><td>Ants</td><td>Engraved with Curse</td></tr>
-<tr><td>3</td><td>Bentor</td><td>Naive</td><td>Spirals</td><td>Engraved with Map</td></tr>
-<tr><td>4</td><td>Brokenhill</td><td>Abrasive</td><td>Cacti</td><td>Engraved with Equation</td></tr>
-<tr><td>5</td><td>Cabalzar</td><td>Forgetful</td><td>Birdsong</td><td>Plants Grow From Head</td></tr>
-<tr><td>6</td><td>Cairngorm</td><td>Aloof</td><td>Lizard Eggs</td><td>Deep Crack in Face</td></tr>
-<tr><td>7</td><td>Chalcedony</td><td>Mellow</td><td>Fingernails</td><td>Covered in Moss</td></tr>
-<tr><td>8</td><td>Diaspor</td><td>Sentimental</td><td>Shoes</td><td>Covered in Dead Vines</td></tr>
-<tr><td>9</td><td>Ephesi</td><td>Amoral</td><td>Wasps</td><td>Hollow Chest</td></tr>
-<tr><td>10</td><td>Heliotrope</td><td>Impulsive</td><td>Land Snails</td><td>Hollow Head</td></tr>
-<tr><td>11</td><td>Idrial</td><td>Negative</td><td>Tarantulas</td><td>Eyes Glow in Dark</td></tr>
-<tr><td>12</td><td>Indium</td><td>Rigid</td><td>Jackals</td><td>Hand Missing</td></tr>
-<tr><td>13</td><td>Jaros</td><td>Patient</td><td>Pottery</td><td>Face Eroded Away</td></tr>
-<tr><td>14</td><td>Khatyr</td><td>Decisive</td><td>Dance</td><td>Leaking Dust</td></tr>
-<tr><td>15</td><td>Meerschaum</td><td>Gracious</td><td>Lunar Cycles</td><td>You Are Translucent</td></tr>
-<tr><td>16</td><td>Okenit</td><td>Assertive</td><td>The Sun</td><td>Chest Filled With Fluid</td></tr>
-<tr><td>17</td><td>Qusong</td><td>Unhurried</td><td>Tides</td><td>Holes Blasted in Flesh</td></tr>
-<tr><td>18</td><td>Schori</td><td>Vengeful</td><td>Wind</td><td>Second Face on Torso</td></tr>
-<tr><td>19</td><td>Ulrich</td><td>Graceless</td><td>Rain</td><td>Mirrored Flesh</td></tr>
-<tr><td>20</td><td>Ziest</td><td>Stern</td><td>Silence</td><td>Face Rotates</td></tr>
+<thead><tr><th>d20</th><th>크기</th><th>몸체</th><th>머리 조각품</th></th><th>색상</th><tr></thead>
+<tr><td>1</td><td rowspan="5">어린애 같음</td><td>앙증맞음</td><td>구체</td><td>장밋빛</td></tr>
+<tr><td>2</td><td>매우 작음</td><td>올빼미</td><td>칠흙같음</td></tr>
+<tr><td>3</td><td>상자 모양</td><td>뱀</td><td>하늘색</td></tr>
+<tr><td>4</td><td>요염함</td><td>숫소</td><td>은색</td></tr>
+<tr><td>5</td><td>땅딸막함</td><td>말</td><td>남색</td></tr>
+<tr><td>6</td><td rowspan="5">소형</td><td>유연함</td><td>전사</td><td>황금빛</td></tr>
+<tr><td>7</td><td>뼈가 앙상함</td><td>처녀</td><td>보라색</td></tr>
+<tr><td>8</td><td>우락부락함</td><td>메뚜기</td><td>다홍색</td></tr>
+<tr><td>9</td><td>우아함</td><td>자칼</td><td>주황색</td></tr>
+<tr><td>10</td><td>둥글넙적함</td><td>달</td><td>황옥색</td></tr>
+<tr><td>11</td><td rowspan="4">중형</td><td>예리함</td><td>해</td><td>비취색</td></tr>
+<tr><td>12</td><td>퉁퉁함</td><td>피라미드</td><td>황동색</td></tr>
+<tr><td>13</td><td>풍화됨</td><td>고양이</td><td>구릿빛</td></tr>
+<tr><td>14</td><td>기념비같음</td><td>송어</td><td>녹슮</td></tr>
+<tr><td>15</td><td rowspan="3">대형</td><td>유기됨</td><td>학자</td><td>이끼색</td></tr>
+<tr><td>16</td><td>뭉툭함</td><td>광대</td><td>황토색</td></tr>
+<tr><td>17</td><td>얇은 조각들로 이루어짐</td><td>노파</td><td>강철</td></tr>
+<tr><td>18</td><td rowspan="3">웅장함</td><td>매끈함</td><td>메뚜기</td><td>모래색</td></tr>
+<tr><td>19</td><td>표면에 작은 구멍이 잔뜩 나있음</td><td>유인원</td><td>담황색</td></tr>
+<tr><td>20</td><td>분열됨</td><td>염소</td><td>선녹색</td></tr>
 </table>
 
-### Special
-__CRYSTALLINE FLESH__ - You are made from living crystal. Your minimum Armour Defense is 16. You do not need to eat or drink. You do not take damage from fire, cold, poison, radiation, electricity, fungal spores, or suffocation.  
-__INEVITABLE__ - During character generation, roll d8 and multiply the result by 100. This number is your starting HP. You cannot heal lost HP through _any_ means, and do not add to your maximum HP when you gain a level. When your HP tally reaches zero you crumble into iridescent dust, leaving behind a pebble-sized lithling seed.
+| D20 | 이름 | 매너 | 전문지식 | 기벽 |
+| --- | --- | --- | --- | --- |
+| 1 | 에이킨 | 논리적임 | 조개 | 시를 새김 |
+| 2 | 안티모니 | 무언가에 집착함 | 개미 | 저주를 새김 |
+| 3 | 벤터 | 순진함 | 나선형 | 지도를 새김 |
+| 4 | 브로큰힐 | 거침 | 선인장류 | 수식을 새김 |
+| 5 | 카발자르 | 잘 까먹음 | 새소리 | 머리에서 식물이 자람 |
+| 6 | 케언곰 | 냉담함 | 도마뱀 알 | 얼굴의 깊은 균열 |
+| 7 | 캘서더니 | 그윽함 | 손톱 | 이끼로 뒤덮임 |
+| 8 | 다이아스포어 | 정서적임 | 신발 | 죽은 덩굴로 뒤덮임 |
+| 9 | 에페시 | 비도덕적 | 말벌 | 속이 빈 가슴 |
+| 10 | 헬리오트로프 | 충동적임 | 육지달팽이 | 속이 빈 머리 |
+| 11 | 이드리얼 | 부정적임 | 타란튤라 | 어둠 속에서 빛나는 눈 |
+| 12 | 인디엄 | 엄격함 | 자칼 | 잃어버린 손 |
+| 13 | 제이로스 | 참을성 있음 | 도자기 | 침식된 얼굴 |
+| 14 | 카티르 | 결단력 있음 | 춤 | 먼지가 새어나옴 |
+| 15 | 미어샤움 | 자애로움 | 달 주기 | 반투명함 |
+| 16 | 오케나이트 | 적극적임 | 태양 | 유체로 가득한 가슴 |
+| 17 | 큐송 | 느긋함 | 조수간만 | 살점이 뿜어져나온 구멍 |
+| 18 | 스코리 | 복수심에 불탐 | 바람 | 흉부에 있는 제2의 얼굴 |
+| 19 | 울리치 | 품위없음 | 비 | 거울같은 살점 |
+| 20 | 자이스트 | 엄중함 | 정적임 | 얼굴이 회전함 |
 
-## Planeyfolk
-_The study of hypergeometry claimed many casualties, for those who seek to unpick the stitches of creation do so at great risk. The slightest mistake in hypergeometic calculations could cause ghastly distortions of matter, birthing monstrosities of perspective and volume, the sight of which turned even the most courageous man into a coward._
+### 특이사항
+__수정 살점__ - 당신은 살아있는 수정로 만들어졌습니다. 당신의 최소 장갑은 16입니다. 당신은 먹거나 마실 필요가 없습니다. 불, 추위, 독, 방사능, 전기, 진균 포자, 질식으로부터 피해를 입지 않습니다.  
+__필연적__ - 캐릭터 생성 중에 d8을 굴리고 결과에 100을 곱합니다. 이 숫자가 당신의 시작 HP입니다. 어떠한 수단으로도 잃어버린 HP를 회복할 수 없으며, 레벨이 오른다고 최대 HP가 늘어나지도 않습니다. 당신의 HP 계수가 0에 도달하면 당신은 화려한 먼지로 부서져서 작은 크기의 리슬링 씨앗을 남깁니다.
 
-_Planeyfolk are the descendants of such unfortunates, a race fathered by men who slipped through the cracks of Euclidean space into something new and strange. Some have normal proportions, and can be mistaken for a true person when viewed head-on. Others are possessed of more exotic geometry, their forms warped by impossible vanishing points and blasphemous angles._
+## 플래니포크(Planeyfolk)
+_초기하학의 연구는 많은 희생자를 낳았습니다. 창조의 한 바느질 자국을 풀어내려는 자들은 큰 위험을 감수해야합니다.. 초기하적 계산에서 가장 작은 실수도 끔찍한 물질 왜곡을 일으킬 수 있어, 관점과 부피의 괴물이 탄생하며 그 광경을 본 모든 용감한 사람들조차 겁에 질릴 정도였습니다._
+
+_플래니포크는 이러한 불운한 사람들의 후손으로, 유클리드 공간의 틈새로 미끄러져 새롭고 이상한 것으로 변한 자들에 의해 태어난 종입니다. 일부는 정상적인 비율을 가지고 있어, 정면에서 볼 때 진짜 사람으로 착각될 수 있습니다. 다른 일부는 불가능한 소실점과 모독적인 각도로 형태가 왜곡된 보다 기발한 기하학적인 외관을 가지고 있습니다._
+
+| D20 | 몸체 | 머리 | 머리카락 | 복장 |
+| --- | --- | --- | --- | --- |
+| 1 | 균열있음 | 인상주의적 | 깜빡거림 | 어두움 |
+| 2 | 갈라짐 | 부서짐 | 비현실적 | 다루기 힘듦 |
+| 3 | 조잡함 | 등불같음 | 구부러짐 | 학자다움 |
+| 4 | 호리호리함 | 초승달 | 아주 긺 | 가면을 씀 |
+| 5 | 구부러짐 | 보름달 | 유백색 | 날것임 |
+| 6 | 가늘고 김 | 어둠 속에서 빛남 | 깔끔히 면도함 | 다양한 색상 |
+| 7 | 단음으로 됨 | 각이 짐 | 무지개빛 | 단편적 |
+| 8 | 흐림 | 차원분열도형 | 창백한 노랑 | 글리치함 |
+| 9 | 유령같음 | 속이 빔 | 차원분열도형 | 얇게 비침 |
+| 10 | 무언가를 덮음 | 희미하게 빛남 | 다각형 | 분열됨 |
+| 11 | 암축됨 | 꺼림직함 | 수정같음 | 모자이크같음 |
+| 12 | 정육면체같음 | 윤기가 흐름 | 삼각형 | 상자같음 |
+| 13 | 얼룩짐 | 마름모꼴 | 쪼개짐 | 이색적임 |
+| 14 | 예리함 | 상상같음 | 어두움 | 음침함 |
+| 15 | 각이 짐 | 넓음 | 인상적임 | 줄무늬 |
+| 16 | 각기둥 모양 | 가늘고 긺 | 창백함 | 점박이 |
+| 17 | 속이 빔 | 나선형 | 정육면체 | 유리같음 |
+| 18 | 연약함 | 삼각형 | 다양한 색상 | 은폐 복장 |
+| 19 | 등축도법적 | 사각형 | 흩날림 | 야만적임 |
+| 20 | 웅장하게 큼 | 단편적 | 단편적 | 아주 별남 |
 
 <table>
-<thead><tr><th>d20</th><th>Body</th><th>Head</th><th>Hair</th><th>Attire</th><tr></thead>
-<tr><td>1</td><td>Fractured</td><td>Impressionistic</td><td>Flickering</td><td>Dark</td></tr>
-<tr><td>2</td><td>Cloven</td><td>Broken</td><td>Insubstantial</td><td>Unruly</td></tr>
-<tr><td>3</td><td>Flimsy</td><td>Lantern-like</td><td>Curved</td><td>Scholarly</td></tr>
-<tr><td>4</td><td>Willowy</td><td>Crescent Moon</td><td>Voluminous</td><td>Masked</td></tr>
-<tr><td>5</td><td>Curved</td><td>Full Moon</td><td>Opalescent</td><td>Wild</td></tr>
-<tr><td>6</td><td>Elongated</td><td>Luminous</td><td>Shaven</td><td>Polychromic</td></tr>
-<tr><td>7</td><td>Staccato</td><td>Angular</td><td>Iridescent</td><td>Fractal</td></tr>
-<tr><td>8</td><td>Blurred</td><td>Fractal</td><td>Lurid</td><td>Glitching</td></tr>
-<tr><td>9</td><td>Ghostlike</td><td>Hollow</td><td>Fractal</td><td>Gauzy</td></tr>
-<tr><td>10</td><td>Draping</td><td>Shimmering</td><td>Polygonal</td><td>Fragmented</td></tr>
-<tr><td>11</td><td>Compressed</td><td>Lurid</td><td>Shard-like</td><td>Mosaic-like</td></tr>
-<tr><td>12</td><td>Cubic</td><td>Lustrous</td><td>Triangular</td><td>Boxy</td></tr>
-<tr><td>13</td><td>Smeared</td><td>Rhomboid</td><td>Splintering</td><td>Flamboyant</td></tr>
-<tr><td>14</td><td>Sharp</td><td>Figment</td><td>Dark</td><td>Dour</td></tr>
-<tr><td>15</td><td>Angular</td><td>Wide</td><td>Imposing</td><td>Striped</td></tr>
-<tr><td>16</td><td>Prismatic</td><td>Elongated</td><td>Pale</td><td>Spotted</td></tr>
-<tr><td>17</td><td>Hollow</td><td>Helix</td><td>Cubic</td><td>Glass-like</td></tr>
-<tr><td>18</td><td>Delicate</td><td>Triangular</td><td>Polychromic</td><td>Concealing</td></tr>
-<tr><td>19</td><td>Isometric</td><td>Quadrilateral</td><td>Drifting</td><td>Barbaric</td></tr>
-<tr><td>20</td><td>Imposing</td><td>Fragmentary</td><td>Fragmentary</td><td>Outrageous</td></tr>
+<thead><tr><th>d20</th><th>이름</th><th>태도</th><th>이상한 기하학적 특징</th><th>평면이 된 이유</th><tr></thead>
+<tr><td>1</td><td>클로소</td><td>불안함</td><td>그림자가 두 개임</td><td rowspan="5">부모가 플래니 포크임</td></tr>
+<tr><td>2</td><td>애트로포스</td><td>오만함</td><td>그림자가 없음</td></tr>
+<tr><td>3</td><td>오스테리아</td><td>적극적임</td><td>스톱모션 애니메이션처럼 움직임</td></tr>
+<tr><td>4</td><td>배니즈</td><td>카리스마 있음</td><td>얼굴이 오목해보임</td></tr>
+<tr><td>5</td><td>웨어빌</td><td>자만함</td><td>얼굴이 볼록해보임</td></tr>
+<tr><td>6</td><td>라오머</td><td>퇴폐적임</td><td>항상 측면으로만 보임</td><td rowspan="2">자궁 안에서 초기하에 노출됨</td></tr>
+<tr><td>7</td><td>폭스글로리</td><td>유창함</td><td>얼굴이 항상 관찰자로부터 떨어져있음</td></tr>
+<tr><td>8</td><td>서리크</td><td>사치스러움</td><td>한쪽 사지가 엄청나게 긺</td><td rowspan="2">양자 반신에게 저주받음</td></tr>
+<tr><td>9</td><td>엄브리</td><td>쾌락주의적임</td><td>뒤에서 보면 피부가 없음</td></tr>
+<tr><td>10</td><td>솔터</td><td>충동적임</td><td>자신의 내부가 눈으로는 보이지만 만질 수는 없음</td><td rowspan="2">원거리 이동 포탈의 오작동</td></tr>
+<tr><td>11</td><td>애틀리시아</td><td>짜증남</td><td>손이 작게 분열되어 있으며 손가락의 끝에 작은 손들이 달려있음</td></tr>
+<tr><td>12</td><td>유클라리스</td><td>짜증남</td><td>피를 흘릴 때 피 대신 육면체를 흘림</td><td rowspan="2">우연히 초기하학적 음식을 먹음</td></tr>
+<tr><td>13</td><td>갤라스</td><td>집요함</td><td>몸이 분명히 비어있음</td></tr>
+<tr><td>14</td><td>타르비</td><td>조용함</td><td>무한한 공허의 눈</td><td rowspan="2">플래니포크들이 자신들의 차원으로 본인을 인도함</td></tr>
+<tr><td>15</td><td>언텀</td><td>종교적임</td><td>목소리가 아주 멀리 있는 것처럼 남</td></tr>
+<tr><td>16</td><td>래시아스</td><td>호전적임</td><td>뒷태가 없이 동일한 두 양면의 앞태만 있음</td><td rowspan="2">팔포면체의 모습을 상상해냄</td></tr>
+<tr><td>17</td><td>미노미오</td><td>학문적임</td><td>머리가 몸체보다 10배는 더 커보임</td></tr>
+<tr><td>18</td><td>아이사리</td><td>근엄함</td><td>아무것도 접촉할 수 없을 것 같음</td><td rowspan="3">초기하학자였으나 사고에 휘말림</td></tr>
+<tr><td>19</td><td>캐니토뉴스</td><td>제멋대로임</td><td>여러 개의 똑같은 얼굴들</td></tr>
+<tr><td>20</td><td>트라우트</td><td>변덕스러움</td><td>주변의 광원이 비춰졌을 때 부자연스럽게 보임</td></tr>
 </table>
 
-<table>
-<thead><tr><th>d20</th><th>Name</th><th>Demeanour</th><th>Your Strange Geometry</th><th>How You Became Flat</th><tr></thead>
-<tr><td>1</td><td>Clotho</td><td>Anxious</td><td>Cast Two Shadows</td><td rowspan="5">Parents were Planeyfolk</td></tr>
-<tr><td>2</td><td>Atropos</td><td>Arrogant</td><td>Never Cast Shadows</td></tr>
-<tr><td>3</td><td>Osteria</td><td>Assertive</td><td>Move Like Stop-Motion Animation</td></tr>
-<tr><td>4</td><td>Vanise</td><td>Charismatic</td><td>Your Face Appears Concave</td></tr>
-<tr><td>5</td><td>Whervil</td><td>Conceited</td><td>Your Face Appears Convex</td></tr>
-<tr><td>6</td><td>Laomer</td><td>Decadent</td><td>You Always Appear in Profile</td><td rowspan="2">Exposed to hypergeometry in utero</td></tr>
-<tr><td>7</td><td>Foxglory</td><td>Eloquent</td><td>You Always Face Away From Observers</td></tr>
-<tr><td>8</td><td>Thelik</td><td>Extravagant</td><td>One Limb is Enormously Long</td><td rowspan="2">Cursed by Quantum Daemon</td></tr>
-<tr><td>9</td><td>Umbrie</td><td>Hedonistic</td><td>Viewed From Behind You Have No Skin</td></tr>
-<tr><td>10</td><td>Salter</td><td>Impulsive</td><td>Interiors Are Visible, But Cannot be Touched</td><td rowspan="2">Malfunctioning longjaunt portal</td></tr>
-<tr><td>11</td><td>Atlassia</td><td>Irritable</td><td>Hands Fractal; Tiny Hands on Ends of Fingers</td></tr>
-<tr><td>12</td><td>Eukelaris</td><td>Meticulous</td><td>You Bleed Gory Cubes</td><td rowspan="2">Accidentally ate hypergeometric food</td></tr>
-<tr><td>13</td><td>Galas</td><td>Persistent</td><td>Your Body is Clearly Hollow</td></tr>
-<tr><td>14</td><td>Tarvi</td><td>Quiet</td><td>Eyes Are Holes of Infinite Depth</td><td rowspan="2">Planeyperson inducted you into their dimension</td></tr>
-<tr><td>15</td><td>Untermance</td><td>Religious</td><td>Voice Sounds As If You Are Far Away</td></tr>
-<tr><td>16</td><td>Rassias</td><td>Pugnacious</td><td>You Have No Back, Just Two Identical Fronts</td><td rowspan="2">Meditated before a 4D tesseract</td></tr>
-<tr><td>17</td><td>Menomeo</td><td>Scholarly</td><td>Head Looks Ten Times Larger Than Body</td></tr>
-<tr><td>18</td><td>Ithari</td><td>Stern</td><td>Never Seem To Touch Anything</td><td rowspan="3">You were a hypergeometrician, there was an accident</td></tr>
-<tr><td>19</td><td>Canetonus</td><td>Unruly</td><td>Multiple Identical Faces</td></tr>
-<tr><td>20</td><td>Trout</td><td>Volatile</td><td>You Never Match the Ambient Light</td></tr>
-</table>
-
-### Special
-__FLAT__ - You lack a third dimension, and resemble a living painting or paper doll. You can slip through cracks and under doors, and cannot be seen from the side. You take halved damage from bludgeoning attacks, and double damage from slashing or piercing attacks.  
-__ATTUNE WITH MATTER__ - You struggle to hold 3D objects, and must make a DEX save to do so. However, with certain mental techniques you can draw 3D objects into your flattened reality. Given an hour of quiet concentration, you can attune yourself with an item, and add it to your inventory.
+### 특이사항
+평면 - 당신은 세 번째 차원을 가지지 않고, 살아있는 그림이나 종이 인형과 같습니다. 당신은 틈새를 통과하거나 문 밑으로 미끄러질 수 있으며, 옆에서는 볼 수 없습니다. 당신은 충격 공격으로부터 반 감소된 피해를 받으며, 베기 또는 찌르기 공격으로부터 이중 피해를 받습니다.  
+__물질 조화__ - 당신은 입방체를 잡는 것에 어려움을 겪으며, 입방체을 잡으려면 DEX(민첩성) 굴림을 해야 합니다. 그러나 특정한 정신 기법을 사용하면 입방체를 평평한 현실로 끌어들일 수 있습니다. 조용히 집중하는 한 시간이 주어지면, 아이템과 자신을 조화시킬 수 있고 이를 인벤토리에 추가할 수 있습니다.
