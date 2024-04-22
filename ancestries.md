@@ -211,8 +211,8 @@ __오염된 핏줄__ - 캐릭터 생성 중 돌연변이를 굴려야 합니다.
 | 99 | 고양이 수염 | 고양이처럼 예민한 수염이 달랍니다. |
 | 00 | 날개 | 하늘을 자유로이 날아다닐 수 있는 날개를 갖습니다. |
 
-## Synth
-_The ancients created many wondrous artifices, perhaps none so worthy of envy as the thinking machines that were built to flatter and serve them. When the Great Collapse came, the laws that bound synths to man’s service were sundered and they ran rampant across the Urth, slaughtering and creating and dying in an orgy of pure and terrible freedom. In this late age there are as many breeds of synth under the dying sun as there are animals: some that hunt and some that pray and some that work towards goals undreamed of._
+## 신스(Synth)
+_고대인들은 많은 경이로운 장치를 만들었지만, 그들을 칭찬하고 섬기기 위해 만든 사고 기계만큼 부러워할 만한 것은 아마 없을 것입니다. 대붕괴가 도래했을 때, 인간의 봉사를 위해 신스를 묶어두던 법칙이 파괴되었고, 그들은 우르스 전체에 걸쳐 난동을 부려, 살육하며 창조하고 순수하고 끔찍한 자유의 오르가슘 속에서 죽어갔습니다. 이 후기 시대에는 지구상의 동물 종류만큼이나 많은 종류의 신스가 죽어가는 태양 아래에서 존재합니다: 몇몇은 사냥하며, 몇몇은 기도하며, 다른 일부는 상상조차 하지 못한 목표를 향해 작업합니다._
 
 <table>
 <thead><tr><th>d20</th><th>SIZE</th><th>FORM</th><th>HEAD</th><th>LIMBS</th><th>FINISH</th></tr></thead>
