@@ -1062,70 +1062,69 @@ _초기하학적 / 인조적_
 </td></tr>
 </table>
 
-## Shriekman
+## 비명인간 (Shriekman)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Claws (d8) / Hypersonic Scream (d6 + DEX save vs Deafened)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Abhuman troglodytes, blind and cunning. Their protruding ears and fanged maws give them a grotesque bat-like aspect. They are excellent climbers and can attack from any angle within the depths they inhabit. 
+<tr><td colspan="2"><b>공격</b>: 2 x Claws (d8) / 발톱 (d8) + 발톱 (d8) / 초음파 비명 (d6 + 청각상실에 대항해 Dex 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 비정상적인 동굴인들은, 눈이 멀고 교활합니다. 비명인간의 돌출된 귀와 이빨이 난 입은 이들에게 기괴한 박쥐 같은 모습을 줍니다. 비명인간은 훌륭한 등반가들이며, 그들이 거주하는 깊은 곳에서 어느 각도에서든 공격할 수 있습니다.
 <br />
-<b>Deafened:</b> PCs who have been deafened by a hypersonic scream gain the Wound ‘Deafened’. They cannot hear the speech of other PCs. When the party rests, Deafened PCs must EGO save to ignore the ringing in their ears and fall asleep. If they fail they do not benefit from a Long Rest.
+<b>Deafened:</b> 초음파 비명에 의해 청력을 잃은 PC는 '청력 상실' 상처를 받습니다. 이러면 다른 PC의 말을 듣지 못합니다. 파티가 휴식을 취할 때, 청력 상실한 PC는 귀에 울리는 소리를 무시하고 잠에 들기 위해 EGO 내성굴림을 해야합니다.. 실패하면 PC는긴 휴식의 혜택을 받지 못합니다.</td></tr>
 </table>
 
-## Spectre of Indifference
+## 무관심의 유령 (Spectre of Indifference)
 _이계체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 11</td></tr>
 <tr><td><b>사기</b>: 15</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: Envelop (d8 EGO drain)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A living fragment of the void between dimensions. A ghastly, hue-less shroud of antilife that feeds upon conscious thought. Encountered near extra-dimensional rifts. For reasons unknown, they cannot feed on children or be perceived by them.
+<tr><td colspan="2"><b>공격</b>: 감싸기 (d8 EGO 흡수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 차원 사이의 공허한 부분인 생명체입니다. 의식적인 생각을 먹는, 색깔 없는 소름 끼치는 반생명의 장막입니다. 차원간 균열 근처에서 만날 수 있습니다. 알 수 없는 이유로, 그들은 어린이를 먹지도 어린이에게 인식되지 않습니다.
 <br>
-<b>Incorporeal:</b> a Spectre is immune to damage from conventional sources. Only 초기하학적 or anti-paradoxical weapons will harm it.
-<br>
-<b>Indifference:</b> those reduced to 0 EGO by a Spectre’s touch do not die, but are empty of intent and consumed by a terrible blankness. They will not react to any stimuli, and die of thirst without intravenous fluids.</td></tr>
+<무형:</b> 유령은 일반적인 출처로부터의 피해에 면역입니다. 오직 초기하학적이거나 역설 방지 무기만이 그것을 해칠 수 있습니다.
+<br>유령의 접촉으로 EGO가 0으로 줄어든 사람들은 죽지 않지만, 자신만의 목표를 잃고 끔찍한 공허함에 시달리게 됩니다. 어떤 자극에도 반응하지 않으며, 정맥 주입 액체 없이는 목말라 죽게 됩니다.</td></tr>
 </table>
 
-## Star Vampire
+## 별 흡혈귀 (Star Vampire)
 _이계체_
 <table>
-<tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 25 (15 Visible)</td></tr>
+<tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 25 (보일 때는 15)</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Tentacles (d8) / Latch (d4 CON drain)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: To Urth they came, long hungering, riding radiation-waves in the silence like fungal spores roil upon the wind. Our light does not love them as it does terrestrial creatures and so these cosmic vagrants are without shadow or hue possessing only unseen form. Those unfortunates who glimpse them are given mind of a withered tree or an octopus inverted and affixed with needles. In their hunger they offer travellers an embrace and flush sunset red when distended with fluid. 
+<tr><td colspan="2"><b>공격</b>: 2 x 촉수 (d8) / 달라붙어 찌르기 (d4 CON 흡수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 그들은 오랜 기아 속에서 우르스에 왔습니다, 방사선 파동을 타고 바람에 굴러가는 곰팡이 포자처럼 조용히 타고 왔습니다. 우리의 빛은 지구의 생물들을 사랑하는 것처럼 이 흡혈귀들를 사랑하지 않아, 이 우주의 방랑자들은 그림자나 색조 없이 보이지 않는 형태만을 가지고 있습니다. 별 흡혈귀를 엿본 불운한 사람들은 말라 버린 나무나 바늘로 고정된 거꾸로 된 문어를 마음에 그립니다. 자신들의기아 속에서, 여행자에게 포옹을 제공하며, 액체로 팽창할 때 석양같이 붉게 변합니다.
 <br>
-<b>Invisible:</b> Star Vampires are invisible under conventional light sources. Infrared or ulfire light will reveal their true shapes. Once the Vampire latches and begins feeding the creature is visible, as red blood flows through its occluded body. When visible their 장갑 Defense drops to 15. Star Vampires always surprise when encountered.
-<br>
-<b>Star Flesh:</b> the Vampire takes minimum damage from kinetic 공격. 초기하학적 and electrified weapons deal damage as normal.</td></tr>
+<보이지 않늠:</b> 별 흡혈귀는 일반적인 광원 아래에서 보이지 않습니다. 적외선 또는 초월광선이 진짜 모양을 드러낼 것입니다. 한번 흡혈귀가 붙잡고 흡혈하기 시작하면, 생물체는 보입니다. 왜냐하면 붉은 피가 탁한 몸체를 통해 흐르기 때문입니다. 이런 모습이 보일 때 방어력은 15로 떨어집니다. 별 흡혈귀는 만날 때 항상 기습합니다.
+<br>흡혈귀는 충격 공격으로부터 최소한의 피해만 받습니다. 초기하학적인 및 전기 무기는 정상적으로 손상을 입힙니다.
+</td></tr>
 </table>
 
-## Stumbling Drone
+## 비틀거리는 드론 (Stumbling Drone)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Plasma-rifle (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Staggering boxy war-synths. When flipped on their backs they cannot right themselves. When their plasma-rifle deals maximum damage they suffer equal damage from overheating.</td></tr>
+<tr><td colspan="2"><b>공격</b>:플라스마 소총 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 휘청거리는 상자 모양의 전쟁 신스입니다. 등을 뒤집히면 스스로를 다시 뒤집지 못합니다.플라즈마 소총이 최대 피해를 입히면, 자신도 과열로 인해 동일한 피해를 입습니다.</td></tr>
 </table>
 
-## Subtle Stalker
+## 은은한 추적자 (Subtle Stalker)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 22 (11)</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slash (d8) + Slash (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Sadistic mantis-shaped synth. Permanently cloaked; always surprises unless opponents have infrared vision. If the cloaking field is disrupted, the Stalker’s 장갑 Defense drops to 11.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 베기 (d8) + 베기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 가학적인 사마귀같은 신즈입니다. 영구적으로 은폐되어 있으며, 상대방이 적외선 시력을 가지고 있지 않는 한 항상 기습합니다. 은폐장이 부서지면 추격자의 방어력은 11로 감소합니다.</td></tr>
 </table>
 
-## Thermasaur
+## 서마사우르스 (Thermasaur)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 12</td><td><b>장갑</b>: 16 </td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: 4 x Claws (d6) + Bite (2d6) + Aura (d8 unblockable, Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Believed to have originated on another world, this rare predator is able to alter its body temperature using unusual chemical reactions inside its leathery skin. The creature resembles the terrestrial salamander, but has six limbs and attains the size of an 장갑ed vehicle. It 공격 from ambush and rapidly raises the temperature of its flesh to furnace-like 레벨, cooking its prey alive via mere proximity. The Thermasaur is also capable of lowering its body temperature to sub-zero, draining heat from the air around it. The creature uses this ability to flash-freeze cooked meat for later consumption.
+<tr><td colspan="2"><b>공격</b>: 4 x 발톱 (d6) + 물기 (2d6) + 오라 (d8 못막음, 특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 다른 세계에서 기원한 것으로 생각되는 이 드문 포식자는 그의 가죽 같은 피부 내부의 특이한 화학 반응을 사용하여 몸의 온도를 변화시킬 수 있습니다. 이 생물체는 지구의 도롱뇽을 닮았지만, 여섯 개의 팔다리를 가지고 있으며, 장갑차 크기에 이릅니다. 매복하여 공격하고, 공격한 살점의 온도를 급속히 높여 가마솥 같은 수준으로 만들어, 단순히 근접함으로써 먹이를 살아있는 상태로 요리합니다. 서마사우르스는 또한 자신의 체온을 영하로 낮추고 주변 공기에서 열을 흡수하는 능력이 있습니다. 이 생물체는 요리된 고기를 나중에 먹기 위해 순간동결하는 데 이 능력을 사용합니다.
 <br>
-<b>Aura:</b> Each round, the Thermasaur can change its body temperature between searingly hot and bitterly cold. The heat or chill is so intense that anyone near the creature suffers d8 automatic damage per round. In addition, the heat forces PCs carrying metal items to EGO save or drop the item due to its scalding temperature. If the Thermasaur’s aura is cold, any liquids near the creature freeze solid, and all ranged 공격 are made with disadvantage due to shivering.</td></tr>
+<b>오라:</b> 매 턴마다 서마사우르스는 몸의 온도를 찌르듯이 뜨겁게 혹은 참혹하게 추워질 수 있습니다. 열이나 추위가 너무 심해서 생물체 근처에 있는 사람들은 매 턴마다 d8 무조건 피해를 입습니다. 추가로, 열 때문에 금속 아이템을 가지고 있는 PC들은 EGO 내성에 실패했을 때 뜨거워진 아이템을 버립니다. 만약 서마사우르스의 오라가 차가우면, 생물체 근처에 있는 모든 액체들은 얼어붙고 모든 원거리 공격들은 오한 때문에 불리점과 함께 진행됩니다.</td></tr>
 </table>
 
 ## Thornthrower Cactus
@@ -1139,44 +1138,43 @@ _유기체_
 <b>Spines:</b> if an opponent misses a melee attack against the Thornthrower cactus, they take d4 damage from the long spines.</td></tr>
 </table>
 
-## Thunderstrike Bird
+## 천둥번개 새 (Thunderstrike Bird)
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 12</td><td><b>장갑</b>: 20 (15)</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Harpoon (d12) / Talons (2d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Terrifying biomechanical predator. Will fire an electrical harpoon which punches straight through 장갑. Attempts to reel character back in - STR save to break free. Otherwise it pulls you up into the sky and tears at you with claws. 장갑 drops to 15 if grounded.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 작살 (d12) / 발톱 (2d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 무서운 생체공학적 포식자입니다. 장갑을 직접 관통하는 전기 작살을 발사합니다. 전기 작살로 캐릭터를 끌어당기려고 시도하며 STR 내성굴림으로 해야합니다. 실패했을 때 당신을 하늘로 끌어올려 발톱으로 찢습니다. 천둥번개 새는 지상에 있다면 장갑이 15로 떨어집니다.</td></tr>
 </table>
 
-## Tiger Fly
+## 호랑이 파리 (Tiger Fly)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Sting (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Dog-sized mutant wasps. Highly protective of their nests. If you kill one, d6 more Tiger Flies will arrive to investigate within three rounds.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 독침 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 개 크기의 돌연변이 말벌입니다. 둥지를 철저히 보호합니다. 만약 하나를 죽이면, 3 라운드 안에 d6마리의 추가적인 호랑이 파리가 조사하러 옵니다.</td></tr>
 </table>
 
-## Troika
+## 트로이카 (Troika)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: 8</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Kick (d6) + Kick (d6) + Kick (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Pinwheel of 인조적 legs that tumbles through the blue wastelands kicking everything it can find. Utterly inexplicable and widely hated.</td></tr>
+<tr><td><b>사기</b>: 8</td><td><b>수량</b>: d6</td></tr>발차기 (d6) + 발차기 (d6) + 발차기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 인조 다리의 회전추가 파란 황무지를 굴러다니며 찾을 수 있는 모든 것을 걷어차는 모습입니다. 완전히 설명할 수 없는 이 회전추는 황무지에서 널리 미움받습니다.</td></tr>
 </table>
 
-## Tumblesnare
+## 회전올가미 (Tumblesnare)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 언제나 도망침</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Grab (followed by rolling damage)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.
+<tr><td colspan="2"><b>공격붙잡기 (구르기 피해를ㅡ 따름)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 은색 와이어의 덩굴과 닮은 포식성 신스입니다. 발을 밟을 때까지 모래 아래에서 기다린 후 공격합니다.
 <br />
-After a successful grab, the snare will roll away across the dunes with its prey still entangled in its body, causing increasing bludgeoning damage each round. The damage starts at d4 and will rise to d12. Prisoners of the tumblesnare must make an opposed DEX save to work their way free. Once the snare has killed a victim it will spend days refuelling, using the fluids and proteins from the broken body.
+성공적인 붙잡기 이후, 회전올가미은 그 몸에 엉켜 있는 먹이와 함께 모래언덕을 가로질러 굴러갑니다, 매 턴마다 증가하는 충격 피해를 줍니다. 피해는 d4에서 시작하여 d12까지 상승합니다. 회전올가미에 붙잡힌 대상은 풀려나기 위해 DEX 대항 판정을 해야 합니다. 한번 올가미가 희생자를 죽이면, 부서진 몸에서 유체와 단백질을 사용하여 수일 동안 연료를 보충합니다.
 <br />
-Tumblesnares have no means of aggression besides their ambushes, and always flee if their attack fails.</td></tr>
+회전 올가미는 매복 외에 공격 수단이 없으며, 공격이 실패하면 항상 도망칩니다.</td></tr>
 </table>
 
 ## Viridian Ooze
