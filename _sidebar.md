@@ -14,7 +14,7 @@
   - [노몬](regions/gnomon.md)
   - [내륙](regions/the-interior.md)
 - [볼트 생성](VaultsGenerator.md)
-- [연금숭](alchemy.md)
+- [연금술](alchemy.md)
 - [괴물 도감](bestiary.md)
 - [바안의 언어](tongues-of-vaarn.md)
 - [희미한 시대의 타이탄](titans.md)
