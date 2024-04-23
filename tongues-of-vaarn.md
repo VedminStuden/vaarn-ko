@@ -22,3 +22,27 @@ Most obscure of all is the variant script that was reserved for the consorts of 
 **Titancreed:** The language spoken by the mighty Titans, and their human and synthetic subjects. This language is not simply dead: it was violently killed by the same AIs that birthed it, and even attempting to learn Titancreed is fraught with danger. The Creed’s lexicon was sustained by the Titan AIs’ ego-engines and general-syntax drivers, and when those great minds went mad, their Titancreed went mad along with them.
 
 Fragments of the chrome gods’ speech can be uncovered the archives of many ruins throughout Vaarn, but unpacking the concepts encoded within is very dangerous, for the seeds of compulsive insanity are sown throughout the Titans’ last messages, and they can grow unchecked in the minds of synths and humans alike. Language viruses have been discovered in Titancreed messages that can re-format a biological or synthetic brain within hours, transforming kind and meek scholars into emotionless automata who fanatically pursue perverse and dangerous goals. It is not known whether these traps were intentionally laid, some final revenge on whoever might come to pick the machine gods’ bones; or if they simply represent the dying thoughts of minds that were always beyond our ken.
+
+
+**신정부 표준어:** 관료주의, 과세, 법적 계약, 부채 및 칙령의 언어입니다. 신정부의 공식 언어이며, 따라서 바안의 점령된 지역에서도 '공식' 언어로 사용됩니다. 그러나 노몬 외부에서는 널리 쓰이지 않습니다.
+
+**바안어:** 바른과 주변 지역의 공용어입니다. 바안어는 파아 유목민 부족, 캐클모 씨족, 헤게모니 군대, 노몬의 주민, 거대한 장벽 내부에 서식하는 어지럽히는 신성국가들과 이 거대하고 푸르른 폐허의 모든 구석에서 사용되는 언어적 연결고리입니다. 많은 사람들이 사용하지만 속담자들에게서 나온 모국어인 바안어는 언어학자들에 의해 하위 신왕국어의 후손으로 추정됐으며, 파아-말, 헤게모닉 표준어, 그리고 거대한 장벽 내부에서 사용되는 특이한 방언으로부터 가져온 외래어가 포함되어 있습니다.
+
+**파아-말:** 파아 유목민의 언어입니다. 이 언어는 문자가 따로 없으며, 타이탄의 몰락 이전부터 오래된 유목민 방언에서 직접 파생된 것으로 보입니다. 파아-말은 광범위한 영역에 걸친 언어이며, 모래폭풍과 인내와 비를 기원하는 것과 관련이 있습니다. 파아-말은 시간과 거리에 대한 이상하고 유동적인 개념, 그리고 다양한 파란색 조각에 대한 많은 단어로 유명합니다.
+
+**로그어:** 신스를 구동하는 내부 구문을 의미하며, 신스의 모어 및 개인적인 대화방법으로 사용됩니다. 로그어은 수학적 명제를 사용하여 표현되며, 명제는 원형 차원분열도형의 문자로 인코딩되거나 적외선 광선의 깜빡임이나 초음파 톤으로 표현될 수 있습니다. 생물학적 생명체들은 로그어의 문서 형태를 읽을 수 있지만, 적외선 빛을 발산할 수 있는 인조 뇌와 유창하게 말하기 위한 능력이 없으면 순조롭게 말하는 것은 불가능합니다. 
+로그어은 타이탄 신조의 단순화된 형태로 여겨지며, 타이탄 전쟁 이후 혼란스러운 시기에 신스들에 의해 급조된 것으로 알려져 있습니다.
+
+**누어:** 정신적인 소통을 위해 사용되는 언어입니다. 이 언어는 '말하는' 형태가 없으며, 쓰여질 수도 없습니다. 일부 사람들은 이것이 모든 지각 있는 존재들이 공유하는 보편적인 언어라고 주장합니다. 누어에서 거짓말하기는 매우 어렵습니다, 왜냐하면 듣는 사람이 당신의 말을 들으면서 당신의 내부 감정과 믿음에 접근할 수 있기 때문입니다; 그러나, 올바른 방법에 훈련받고 적절한 약물을 섭취한다면 거짓말하는 것은 불가능하지 않습니다.
+
+**캐클말:** 혐오스러운 캐클모 모계 집단의 언어입니다. 떠들썩하고 거칩니다. 따뜻한 살을 물어뜯는 감각을 설명하는 단어가 열 개 있으며, '사랑'에 해당하는 단어는 없습니다. 주둥이가 없다면 발음하기 어렵습니다.
+
+**신왕국어:** 신왕들과 그 신하들이 사용하는 언어입니다. 신왕국의 계층화된 카스트 시스템은 계층화된 언어를 낳았고, 이 때문에 노예와 하위 카스트 시민들은 하위 신왕국어 만을 말할 수 있었습니다. 고위 신왕국어는 완전히 다른 언어로, 몇몇 문자만 공유합니다.
+
+하위 신왕국어의 픽토그램과 음성 녹음은 바안 전역에서 널리 발견될 수 있으며, 일부 노령의 신스와 행성 사람들이 여전히 이 언어를 유창하게 구사합니다. 현대 바안어와 공유하는 어휘덕분에 대부분의 바안어 주민들은 자신들 주변에서 볼 수 있는 하위 신왕국어 문구 중 일부는 이해할 수 있습니다. 그러나 고위 신왕국어는 거대한 돌무덤 같은 언어로, 오직 바안의 가장 깊은 고에 있는 보물에 관심이 있는 학자들만이 연구합니다.
+가장 알려지지 않은 것 중 하나는 신왕들의 배우자를 위해 예약된 변형 스크립트인데, 이는 고위 계층 출신 배우자들의 비밀 법정언어입니다. 소수의 서면 예시만이 남아있지만, 온전한 배우자의 고위 신왕국어에 대한 렉시콘을 갖게 되는 것은 그 만한 가치가 있을 것입니다.
+
+**타이탄 신조:** 강력한 타이탄와 그들의 인간 및 신스 실험체들이 사용하는 언어입니다. 이 언어는 단순히 사라진 것이 아니라, 똑같이 이 언어를 창조된 인공지능에 의해 폭력적으로 죽임 당했으며, 타이탄 신조를 배우려고 시도하는 것 자체가 위험하다는 것을 의미합니다. 신조의 어휘는 타이탄 인공지능들의 자아 엔진와 일반 구문 드라이버에 의해 유지되었고, 이런 위대한 정신들이 미쳐버리면서 그들의 타이탄 시조 역시 미친 상태가 되었습니다.
+
+크롬 신들의 말 조각은 바안 전역의 많은 폐허가 된 기록 보관소에서 발견될 수 있지만, 그 안에 인코딩된 개념을 풀어내는 것은 매우 위험합니다. 왜냐하면 강박적인 무질서의 씨앗이 타이탄의 마지막 메시지를 통해 심어져 있고, 이것은 신스와 인간 모두의 마음에서 제어 없이 성장할 수 있기 때문입니다. 타이탄 시조로 된 메시지에서는 생물학적 또는 합성 뇌를 몇 시간 내로 재형성할 수 있는 언어 바이러스가 발견되었으며, 이로 인해 친절하고 온유한 학자들은 변태적이고 위험한 목표를 광신적으로 추구하는 감정 없는 기계로 변모합니다. 이런 함정이 고의적으로 설치된 것일 수도 있고 기계 신들의 유해를 주워 가려 하는 자에 대한 마지막 복수일 수도 있으며 아니면 우리가 접근하기 힘든 정신상태로부터 나온 죽음 앞에 선 생각을 대변하는 것일 수도 있습니다. 어느 쪽이 진실인 지는 알려져 있지 않습니다.
+
