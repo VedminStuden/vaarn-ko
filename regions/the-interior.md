@@ -310,23 +310,23 @@ __모래의 책__
 <tr><td>9</td><td>타이탄 숭배자</td><td rowspan="2">처벌하기</td><td>낙타 기수</td><td>짝사랑</td></tr>
 <tr><td>10</td><td>향신료 상인</td><td>질투심 많은 미망인</td><td>치명적인 결투</td></tr>
 <tr><td>11</td><td>현학적인 이단</td><td rowspan="2">위치를 알아내기</td><td>쾌락주의적인 시인</td><td>정신 능력자 어린이</td></tr>
-<tr><td>12</td><td>Escaped Slave</td><td>Cruel Inquisitor</td><td>Murderious Clone</td></tr>
-<tr><td>13</td><td>Sin Eater</td><td rowspan="2">Abduct</td><td>Naive Philosopher</td><td>Carnivorous Tree</td></tr>
-<tr><td>14</td><td>Retired Gladiator</td><td>Beautiful Sniper</td><td>Malfunctioning AI</td></tr>
-<tr><td>15</td><td>Tiny Cacogen</td><td rowspan="2">Divorce</td><td>Enormous Cacogen</td><td>Poisoned Harvest</td></tr>
-<tr><td>16</td><td>Amorous New-Beast</td><td>Alchemist</td><td>Secret Cult</td></tr>
-<tr><td>17</td><td>Exorcist</td><td rowspan="2">Cure Sickness Of</td><td>Synth Surgeon</td><td>Rigged Chariot Race</td></tr>
-<tr><td>18</td><td>Monkey Breeder</td><td>Possessed Barber</td><td>Mistaken Identity</td></tr>
-<tr><td>19</td><td>Wandering Musician</td><td rowspan="2">Discredit</td><td>Card Cheat</td><td>Blackmail</td></tr>
-<tr><td>20</td><td>Clone Catcher</td><td>Wealthy Layabout</td><td>Psychedelic Visions</td></tr>
+<tr><td>12</td><td>탈주노예</td><td>잔인한 조사관</td><td>살인적인 복제인간</td></tr>
+<tr><td>13</td><td>죄를 먹는 자</td><td rowspan="2">유괴하기</td><td>순진한 철학자</td><td>식인나무</td></tr>
+<tr><td>14</td><td>은퇴한 검투사</td><td>아름다운 저격수</td><td>고장난 AI</td></tr>
+<tr><td>15</td><td>매우 작은 캐커젠</td><td rowspan="2">이혼하기</td><td>거대한 캐커젠</td><td>독이 든 수확물</td></tr>
+<tr><td>16</td><td>호색적인 뉴비스트</td><td>Alchemist</td><td>비밀 사교도</td></tr>
+<tr><td>17</td><td>퇴마사</td><td rowspan="2">병을 치료하기</td><td>신스 수술의</td><td>조작된 채리엇 경주</td></tr>
+<tr><td>18</td><td>원숭이 사육사</td><td>빙의당한 이발사</td><td>잘못된 정체성</td></tr>
+<tr><td>19</td><td>방랑 음악가</td><td rowspan="2">신뢰를 떨어뜨리기</td><td>카드 사기꾼</td><td>공갈</td></tr>
+<tr><td>20</td><td>복제인간 추노</td><td>부유한 게으름뱅이</td><td>환각 시야</td></tr>
 </table>
 
-## Ruin
+## 폐허 (Ruin)
 
-_Vaarn is studded with the fractured remnants of the works of the ancients; the desert a dolorous mosaic of squandered ambitions and forgotten marvels. Broken by time and eroded by the mastication of the azure sands, these hollow vessels are known nonetheless to house both horrors and wonders._
+_바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다. 사막은 낭비된 야망과 잊혀진 경이로움의 비애로 가득한 슬픈 모자이크 작품입니다. 시간에 의해 부서지고 푸른 모래에 의해 침식된 이 빈 공간들은 여전히 공포와 경이로움을 숨기고 있다는 것으로 알려져 있습니다._
 
 <table>
-<thead><th>d20</th><th>What Was It?</th><th>And Then?</th><th>And Now?</th><th>Appearance</th><th>Shape</th><th>Other Feature</th></thead>
+<thead><th>d20</th><th>이전 용도</th><th>그리고</th><th>현재 상태</th><th>외관</th><th>형태</th><th>기타 특징</th></thead>
 <tr><td>1</td><td>Interrogation Halls</td><td>Brewery</td><td rowspan="2">Desolate Shell</td><td>Opulent</td><td>Dome</td><td>Inhabited by Planeyfolk</td></tr>
 <tr><td>2</td><td>Cryogenic Chambers</td><td>Criminal's Hideout</td><td>Fragmented</td><td>Arch</td><td>Choked with Synthetic Vines</td></tr>
 <tr><td>3</td><td>Orbital Defence Turret</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
