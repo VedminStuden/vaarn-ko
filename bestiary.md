@@ -186,113 +186,116 @@ _유기체_
 <tr><td colspan="2"><b>참고사항</b>: 사이버네틱스와 마법적인 유전 조작의 결합에서 탄생한 괴상한 혼종들. 키메라는 세 가지 동물의 조합입니다. 전통적으로는 사자, 염소, 뱀의 몸이 사용되었지만, 때때로 다른 동물들이 대신 사용되기도 했습니다. 훈련된 키메라는 몰락한 신왕국 시대에 전쟁의 무기로 활용되었으며, 화염방사기와 기타 장치가 이식되었습니다.</td></tr>
 </table>
 
-## Chrome-Feathered Sailback
+## 크롬 깃털 돛등뱀 (Chrome-Feathered Sailback)
 _유기체_ / _인조적_
 <table>
 <tr><td><b>레벨</b>: 10</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Heavy Laser Cannon (d12 beam)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Graceful sky-serpents, which warm their cold-blooded bodies with rows of solar panels. These vast creatures generally do not notice travellers on foot, but they will viciously attack vehicles and flying machines without provocation. It is theorised that the Sailbacks interpret the glinting of sunlight on metal as a dominance challenge.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 중량 레이저포 (d12 광선)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 태양광판으로 차가운 혈액을 따뜻하게 덥히는 우아한 하늘 뱀입니다. 이 거대한 생물들은 일반적으로 도보 여행자들을 주목하지 않지만, 차량이나 비행기은 딱히 도발을 안해도 맹렬히 공격합니다. 돛등뱀은 햇빛이 금속에 반짝이는 모습을을 지배력에 대한 도전으로 해석한다는 이론이 있습니다.
+</td></tr>
 </table>
 
-## Chromavore
+## 색깔 포식자 (Chromavore)
 _이계체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 11</td></tr>
 <tr><td><b>사기</b>: 15</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: CON drain (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Living shrouds of impossible colour from a dimension adjacent to ours. They take no damage from conventional weapons. They take d10 damage per round if they are exposed to sunlight, or artificial light that mimics the sun's rays. When they attack successfully they drain d8 CON per round until the victim is a colourless husk.</td></tr>
+<tr><td colspan="2"><b>공격</b>: CON 흡수 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 세상에 없는 색깔의 살아 움직이는 장막들은 우리와 인접한 차원에서 옵니다. 일반적인 무기로부터 피해를 입지 않습니다. 태양 빛이나 태양 광선을 모방하는 인공 조명에 노출되면 매 라운드마다 d10의 피해를 입습니다. 색깔 포식자의 공격에 적중당하면 희생자는 매 라운드마다 d8의 CON을 빨립니다. 색깔 없는 껍질이 될 때까지 생명력을 흡수합니다.</td></tr>
 </table>
 
-## Cliff Ghul
+## 절벽의 굴 (Cliff Ghul)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Festering Bite (d6 + d6 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Hideous hybrids of human, bat, and jackal, these winged carrion-eaters are known for the guttural ugliness of their cries, the gusto with which they will devour anything, alive or dead, and the rancid foulness of their stink. Their needle-thin teeth are so riddled with blight that Cliff Ghuls are known to bite their prey just once and withdraw into the sky, waiting for the unfortunate victim to succumb to the infection.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 곪는 물기 (d6 + d6 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 인간, 박쥐, 그리고 자칼의 끔찍한 혼종인 이들 날개 달린 청소부들은 그들의 울음소리의 거친 추함, 살아있든 죽어있든 무엇이든 열정적으로 먹어치우는 습성, 그리고 악취가 특징입니다. 이들의 바늘처럼 얇은 이빨은 병균에 너무나도 가득 차 있기에 절벽의 굴은 희생자를 한 번만 물고 하늘로 사라져버린 후, 불행한 희생자가 감염에 의해 쓰러지기를 기다리는 것으로 알려져 있습니다.</td></tr>
 </table>
 
-## Cobra-Moth
+## 코브라 나방 (Cobra-Moth)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 11</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d6) + Sting (d8 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A strange hybrid of a cobra and a moth. Its body is a mix of scales and white fur, with a long, segmented tail. It has four wings and two large fangs, and a curved stinger at the end of its tail. The beast is nocturnal, but unfortunately is drawn to investigate torchlight and campfires. </td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d6) + 독침 (d8 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 코브라와 나방의 기묘한 혼종입니다. 코브라 나방의 몸은 비늘과 흰색 털이 섞여 있고, 길고 분할된 꼬리가 있습니다. 네 개의 날개와 두 개의 큰 송곳니, 그리고 꼬리 끝에는 구부러진 침이 있습니다. 이 짐승은 야행성이지만, 불행하게도 횃불과 캠프파이어를 조사하려는 경향이 있습니다. </td></tr>
 </table>
 
-## Copy Cat
+## 카피 캣 (Copy Cat)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d8) / Clone Cough (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Pink-furred carnivore that reproduces exponentially, coughing up new copies like hairballs. Used as a 유기체 weapon in a long-lost era.
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) / 복제 기침 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 분홍색 털의 육식동물로, 헤어볼을 뱉어내듯이 기침하여 기하급수적으로 번식합니다. 오래전 잃어버린 시대에 생물학병기로 사용되었습니다.
 <br>  
-  <b>Clone Cough:</b> The Copy Cat coughs up a perfect copy of itself, with full HP.</td></tr>
+  <b>복제 기침:</b> 복제 고양이는 완벽한 복제본을 기침하여 뱉어냅니다. 이 복제본은 꽉 찬 HP를 가지고 있습니다.
+</td></tr>
 </table>
 
-## Cosseting Chrysalid
+## 번데기 키우미 (Cosseting Chrysalid)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1 / d6 in lair</td></tr>
-<tr><td colspan="2"><b>공격</b>: Sting (CON save vs Sleep) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Flying, moth-like surgeons. Driven to abduct human beings and subject them to dubious medical interventions. Their sting forces 유기체 creatures make a CON save: failure results in the creature falling into a deep, dreamless sleep for several hours. The Chrysalid will then wrap them inside a cocoon, where they will sleep for d6 days. Upon awakening, patients of the Chrysalid will find their HP restored to maximum, all Wounds or other ailments healed, and must roll on the <a href="vaarn.github.io/#/ancestries?id=mutations">mutations</a> table to discover how the Chrysalid’s imperfect medical knowledge has impacted them.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 독침 (수면에 대해 CON 내성굴림) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 나방 같은 비행 수술의입니다. 인간을 납치하고 의심스러운 의료 조치를 가하는 것에 몰두합니다. 그들의 침은 생체적인 생물체가 CON 내성굴림에 실패했을 때 몇 시간 동안 깊고 꿈이 없는 잠에 빠지게 합니다. 그런 다음 키우미는 그들을 번데기 안에 싸서 d6일 동안 잠들게 합니다. 깨어난 후, 번데기가 됐던 환자들은 HP가 최대로 회복되고 모든 상처나 기타 질병이 치유되었다는 것을 발견할 것입니다, 그리고 키우미의 불완전한 의학 지식이 어떻게 영향을 미쳤는지 알아보기 위해 <a href="vaarn.github.io/#/ancestries?id=mutations">돌연변이</a> 표를 굴려야 합니다.</td></tr>
 </table>
 
-## Daggertrunk
+## 단검코 (Daggertrunk)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
-<tr><td><b>사기</b>: Always Flees</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Siphon (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Dwarf vampire elephants. It is unclear if these pests were gene-sculpted for a purpose or simply as a jest, but they escaped into the wild and have become a viable Vaarnish species. Roughly the size of a goat, they feed on blood which their razor-tipped trunks drain from sleeping animals and the folk of Vaarn alike. Daggertrunks are highly intelligent, surprisingly stealthy, and very cowardly. They will approach sleeping PCs at night and attempt to siphon blood from their ankles or necks.</td></tr>
+<tr><td><b>사기</b>: 언제나 도망침</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: 흡관 (d6) (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 난쟁이 흡혈 코끼리입니다. 이 해수들이 특정 목적을 위해 유전 조작되었는지, 아니면 단지 농담으로 만들어진 것인지는 불분명하지만, 이들은 야생으로 도망쳐 바안에서 생존 가능한 종이 되었습니다. 염소 크기 정도로, 그들은 자신의 면도날처럼 날카로운 코로 잠자는 동물과 바안 사람들의 피를 빨아먹습니다. 단검코는 매우 지능적이며 놀랍게도 은밀하며 매우 겁이 많습니다. 이들은 밤에 잠자고 있는 PC에게 접근하여 발목이나 목에서 피를 빨아내려 할 것입니다.</td></tr>
 </table>
 
-## Desiccator
+## 탈수시키는 자 (Desiccator)
 _유기체_  
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 12</td></tr>
-<tr><td><b>사기</b>: Never Flees</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: Desiccate (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Slow-moving fibrous colony organism, resembling a tangle of hairy glass ropes. Driven by a mindless unquenchable thirst. The Desiccator assails other living beings with a multitude of tiny needles and extracts their water with merciless efficiency.
+<tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d3</td></tr>
+<tr><td colspan="2"><b>공격</b>: 탈수 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 털이 난 유리 줄기의 덩굴처럼 보이는 느리게 움직이는 섬유질 군집 생명체입니다. 생각없이 단지 무자비한 갈증에 의해 움직입니다. 이 탈수시키는 자는 수많은 작은 바늘로 다른 생명체를 공격하고, 무자비한 효율성으로 생명체의 수분을 추출합니다.
 <br />
-<b>Desiccate:</b> a 유기체 target loses the water in their body. After one hit, they are Deprived due to thirst. After two hits, they lose d6 CON as the water in their organs is extracted. A third hit is lethal. Additionally, the Desiccator drinks one ration of water from target’s inventory per hit.
+<b>탈수:</b> 생체적인 목표는 몸 속의 수분을 잃습니다. 한 번 맞으면 갈증 때문에 궁핍 상태가 됩니다. 두 번 맞으면, 장기에서 수분이 추출되면서 d6 CON을 잃습니다. 세 번째 공격은 치명적입니다. 추가로, 탈수시키는 자는 매 공격당 대상의 인벤토리에서 한 개의 수분량을 마십니다.
 <br />
-<b>Slow:</b> the Desiccator always loses initiative and cannot surprise.</td></tr>
+<b>느림:</b> 탈수시키는 자는 항상 주도권을 잃고, 기습을 하지 못합니다.</td></tr>
 </table>
 
-## Doppelgeller
+## 복젤인간 (Doppelgeller)
 _유기체_  
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 10</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Special</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Biotech blob. When it successfully scores a hit, it will begin spawning jelly-clones of the PC to hit. It does so once per round. The clones are naked, insane, and homicidally attack the PC they were copied from. They have 5 HP, 장갑 10, and the ability scores of the PC they cloned.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 특수</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 생체공학적인 점액질입니다. 성공적으로 복젤인간의 공격이 적중하면, PC를 복제하여 젤리 복제인간을 생성하기 시작합니다. 이는 한 라운드에 한 번씩만 가능합니다. 복제인간은 벌거벗었으며, 미친 듯이 복제의 대상이 된 PC를 공격합니다. 이 복제인간은 HP 5, 장갑 10과 함께 복제된 PC의 능력치를 갖습니다.</td></tr>
 </table>
 
-## Entropy Wight
+## 엔트로피 망령 (Entropy Wight)
 _초기하학적 / 이계체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Entropic Touch (d3 Max HP reduction + 장갑 damage)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>:Cursed revenants, the remains of those who thought to master entropy and instead became her servants. All things wither at their touch, ageing centuries beneath the Wight’s sour grasp. 
+<tr><td colspan="2"><b>공격</b>: 엔트로피의 손길 (d3 최대 HP 피해  + 장갑 피해)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>:저주 받은 망령들로, 엔트로피를 지배하려다가 도리어 엔트로피의 종복이 된 사람들의 잔해입니다. 모든 것들이 이들의 손길에 시들어버립니다. 즉, 망령의 손아귀 속에서는 수세기 동안 노화합니다.
 <br />
-  <b>Entropic Touch:</b> targets struck by the Wight lose d3 maximum HP, and lose d3 points of 장갑 Defense if they are wearing 장갑. Hit Points lost in this way are never regained, nor can 장갑 eroded by the Wight be repaired. Melee weapons which strike the Wight lose one dice size of damage permanently.</td></tr>
+  <b>Entropic Touch:</b> 망령에게 공격당한 대상은 최대 HP를 d3만큼 잃으며, 갑옷을 입고 있다면 장갑 방어도를 d3만큼 잃습니다. 이런 방식으로 잃어버린 체력 점수는 절대 회복되지 않으며, 유령에 의해 침식된 갑옷도 수리될 수 없습니다. 유령를 공격하는 근접 무기는 영구적으로 피해 주사위 크기가 하나 줄어듭니다.
+</td></tr>
 </table>
 
-## Eyeless Dog
+## 눈 없는 개 (Eyeless Dog)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: 2d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Cacogenic hounds, typically dark-coated, with lighter hairless flesh where their ancestor’s eyes once resided. They lost their bond with humanity along with their eyes and use their acute hearing and sense of smell to hunt the unwary on moonless nights. 
+<tr><td colspan="2"><b>공격</b>: 물기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 캐커젠 사냥개는 조상의 눈이 있던 곳에 있던 털이 없는 살이 더 옅어지고 전형적으로 어두운 색의 털에 뒤덮였습니다. 이들은 눈과 함께 인류와의 유대감을 잃었고, 달이 떠있지 않은 밤에 경계하지 않는 사람들을 사냥하기 위해 날카로운 청각과 후각을 사용합니다. 
 <br />
-  <b>Pack Attack:</b> Eyeless Dogs gain +1 to hit and +1 damage for every other Eyeless Dog that targets their opponent this round.</td></tr>
+  <b>무리 공격:</b> 눈 없는 개는 라운드 안에서 공격할 때마다 각각의 개체가 +1의 명중과 +1의 피해를 얻습니다. 라운드가 끝나면 초기화됩니다.</td></tr>
 </table>
 
 ## Faa Nomad
@@ -308,7 +311,7 @@ _유기체_
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 10</td></tr>
-<tr><td><b>사기</b>: Always Flees</td><td><b>수량</b>: d12</td></tr>
+<tr><td><b>사기</b>: 언제나 도망침</td><td><b>수량</b>: d12</td></tr>
 <tr><td colspan="2"><b>공격</b>: Trample (d6)</td></tr>
 <tr><td colspan="2"><b>참고사항</b>: Placid, genesculpted herd animals. Somewhat like a pig and somewhat like a cow, with a hint of human in their eyes and ears.  
 <br />
@@ -684,7 +687,7 @@ _인조적_
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 14</td></tr>
-<tr><td><b>사기</b>: Never Flees</td><td><b>수량</b>: d6</td></tr>
+<tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d6</td></tr>
 <tr><td colspan="2"><b>공격</b>: 2 x Claws (d6)</td></tr>
 <tr><td colspan="2"><b>참고사항</b>: A desiccated human corpse, filled with necrotech implants that preserve a sort of life-in-death for the unlucky host. So-called ‘Lazarus Regiments’ were created from the corpses of criminals to guard the tombs of Autarchy nobles. Veins of black gallium pulse beneath parchment-like skin, and their despairing eyes resemble sable stones. 
 <br>
@@ -998,7 +1001,7 @@ _유기체_
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
-<tr><td><b>사기</b>: Never Flees</td><td><b>수량</b>: d8</td></tr>
+<tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d8</td></tr>
 <tr><td colspan="2"><b>공격</b>: Claws (d8) </td></tr>
 <tr><td colspan="2"><b>참고사항</b>: What was once a human being, now puppeted by a Scullcrab, twisted by its rider into a goresoaked, dagger-clawed husk. A zombie is forced to seek out new victims for the parasites. Slow moving, relentless, and utterly without fear or mercy. 
 <br>
@@ -1011,7 +1014,7 @@ _유기체_
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 15</td></tr>
-<tr><td><b>사기</b>: Never Flees</td><td><b>수량</b>: d6</td></tr>
+<tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d6</td></tr>
 <tr><td colspan="2"><b>공격</b>: 2 x Claws (d8)/ Pounce (DEX save vs Pinned, 2d6 damage ongoing) </td></tr>
 <tr><td colspan="2"><b>참고사항</b>: Fast Scullcrabs impose a metamorphic horror on their hosts. The zombie’s body sheds skin and fat, becoming a lanky, elongated nightmare of muscle and exposed bone. Razorous claws complete the picture. Fast Zombies are adept climbers and swimmers, unlike their slower relatives. 
 <br>
@@ -1024,7 +1027,7 @@ _유기체_
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: Never Flees</td><td><b>수량</b>: 1</td></tr>
+<tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: 1</td></tr>
 <tr><td colspan="2"><b>공격</b>: 2 x Claws (d8) / Toxic Scullcrab Fling (Special) </td></tr>
 <tr><td colspan="2"><b>참고사항</b>: Toxic Scullcrabs inflict monstrous degradations on the human beings they puppet, their host’s body bloating to twice its natural size due to the constant flow of neurotoxins into their flesh. Their swollen frames become nurseries for a new generation of Toxic Scullcrabs, which roost upon their hunched backs. 
 <br>
@@ -1165,7 +1168,7 @@ _인조적_
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
-<tr><td><b>사기</b>: Always Flees</td><td><b>수량</b>: d8</td></tr>
+<tr><td><b>사기</b>: 언제나 도망침</td><td><b>수량</b>: d8</td></tr>
 <tr><td colspan="2"><b>공격</b>: Grab (followed by rolling damage)</td></tr>
 <tr><td colspan="2"><b>참고사항</b>: Predatory synths that resemble burrs of silver wire. Wait under the sand until stepped on, at which point they strike.
 <br />
