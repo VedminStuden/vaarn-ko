@@ -1,4 +1,4 @@
-- [Home](/)
+- [홈](/)
 - [바안이란 무엇인가](what-is-vaarn.md)
 - [캐릭터 생성](creating-characters.md)
   - [기원](ancestries.md)
