@@ -791,7 +791,7 @@ _유기체_
 </table>
 
 ## 진균거상 (Mycolossus)
-_Fungal_
+_진균체_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
@@ -1024,7 +1024,7 @@ _유기체_
 <b>빠름:</b> 빠른 좀비는 항상 주도권을 가져갑니다.
 </table>
 
-## Scullcrab Zombie, Toxic
+## 독성 스컬크캡 좀비 (Scullcrab Zombie, Toxic)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
@@ -1177,38 +1177,37 @@ _인조적_
 회전 올가미는 매복 외에 공격 수단이 없으며, 공격이 실패하면 항상 도망칩니다.</td></tr>
 </table>
 
-## Viridian Ooze
-_Fungal_
+## 청록색 점액덩어리(Viridian Ooze)
+_진균체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Engulf (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: An antic colony of green slime, like phlegm coughed from the throat of a ravenous god. The Ooze’s embrace marries digestion with cytokinesis, birthing heirs in seconds from the biomass consumed. 
+<tr><td colspan="2"><b>공격</b>: 집어삼키리 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 녹색 점액질의 개미집 같은 군락, 탐욕스러운 신의 목구멍에서 기침한 담즙과 같습니다. 이 점액질의 포옹은 소화와 세포분열을 이어주며, 삼킨 생체물질에서 초당 후계자들을 생산해냅니다.
 <br>
-<b>Engulf:</b> an engulfed 유기체 creature loses d3 CON per round. Each successful engulf attack creates a new Viridian Ooze, with a 레벨 equal to the CON lost. STR save to break free.
+<b>집어삼키기:</b> 덩어리에 집어삼켜먹힌 유기체는 라운드당 d3만큼의 CON을 잃습니다. 각각의 집어삼키기 성공적인 공격은 새로운 청록색 덩어리를 만들어냅니다. 레벨은 잃은 CON과 같습니다. STR 내성굴림으로 벗어날 수 있습니다.
 <br>
-<b>Resistance:</b> the Ooze takes half damage from kinetic 공격. It suffers 3d8 damage per round from exposure to extreme heat.</td></tr>
-</table>
+<b>저항:</b> 덩어리는 물리적인 피해에 절반 만의 피해를 입습니다. 극도로 뜨거운 열에 노출됐을 경우 라운드당 3d8의 피해를 입습니다.</td></tr>
+</table> 
 
-## Void Dragon
+## 공허의 드래곤 (Void Dragon)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 15</td><td><b>장갑</b>: 30</td></tr>
 <tr><td><b>사기</b>: 15</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>:  Annihilation Ray (2d10 + 3d6 blast)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A gigantic flying war-synth, 장갑ed with interlocking plates of void-tempered metal. Its multiple sets of wings are powered by a cold fusion reactor, and it emits a powerful beam of concentrated antimatter that can boil solid rock. The creature is geared to fight in the air, in orbit, beneath the waves, or inside a paradoxical pocket dimension with equal ferocity.
+<tr><td colspan="2"><b>공격</b>:  소멸 광선 (2d10 + 3d6 광역)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 공허로 단련된 금속의 중첩된 판으로 갑옷을 입은 거대한 비행 전쟁 신스입니다. 여러 겹의 날개는 냉핵 반응기에 의해 구동되며, 그것은 고체 바위를 끓일 수 있는 집중된 반물질의 강력한 광선을 방출합니다. 이 생물체는 공중에서, 궤도에서, 파도 아래에서, 또는 이와 맞먹는 잔혹함으로 역설적인 주머니 차원 내에서 싸울 수 있도록 준비되어 있습니다.
 <br>
-These beings are always found dormant, conserving their energy for the apocalypse of all apocalypses, an extrasolar war that never broke out. Some sleep in high-altitude arbors orbiting the Urth, while others slumber upon great hoards of gleaming superconductors, in the deepest lead-lined warvaults beneath Vaarn. A few fools have sought to rouse these giants: none have returned to speak of it.
-<br>
-<b>Enormous:</b> the Void Dragon is so large that PCs can enter its body through coolant vents, if they are able to attach themselves to its carapace as it flies. Finding the Dragon's core reactor and destroying it will send the creature into a lethal meltdown.</td></tr>
+이들 생명체는 항상 휴면 상태에 있어, 모든 종말의 종말, 결코 일어나지 않을 외계 행성 전쟁에 에너지를 보존합니다. 일부는 우르스를 공전하는 고도의 나무 위에서 잠자고 있으며, 다른 일부는 바안 아래 가장 깊은 납으로 라인이 그어진 전쟁 보관소 위에 번질번질한 초전도체 더미 위에서 잠자고 있습니다. 몇몇 어리석은 사람들이 이 거인들을 깨우려고 시도했습니다: 아무도 그것에 대해 말하러 돌아오지 못했습니다.
+<br>공허의 드래곤은 너무 크기 때문에 PC들이 냉풍구를 통해 드래곤의 몸 속으로 들어갈 수 있습니다. 만약 드래곤이 비행하는 동안 드래곤의 몸에 붙을 수 있다면 말입니다. 드래곤의 핵심 반응로를 찾아서 파괴하면 생명체를 치명적인 멜트다운 상태로 보낼 것입니다.</td></tr>
 </table>
 
-## Voidmaw
+## 공허의 위장
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 10</td><td><b>장갑</b>: 20</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d12) + Swallow Whole (Special)</td></tr>
+<tr><td colspan="2"><b물기 (d12) + 통째로 집어삼키기 (특수)</td></tr>
 <tr><td colspan="2"><b>참고사항</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and 인조적 void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.
 <br>
 <b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s 장갑 score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
