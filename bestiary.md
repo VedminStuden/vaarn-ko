@@ -779,200 +779,201 @@ _이계체 / 정신적_
 </td></tr>
 </table>
 
-## Mournfrog
+## 애도개구리 (Mournfrog)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: d6</td></tr>
 <tr><td colspan="2"><b>공격</b>: Bite (d6) / Despair Gas (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Carnivorous frogs, with a bizarre method of overpowering prey. The frogs belch out a gas which induces a fast-acting, catatonic depression. The sadness induced by this toxin is so overwhelming that animals often let the frogs eat them. 
+<tr><td colspan="2"><b>참고사항</b>: 이상한 방법으로 먹이를 제압하는 육식 개구리입니다. 개구리들은 신속하게 작용하는 긴장성 우울증을 유발하는 가스를 내뿜습니다. 이 독소에 의해 유발되는 슬픔은 정말로 압도적이어서 가스에 영향받은 동물들은 종종 순순히 개구리에게 잡아먹힙니다.
 <br>
-<b>Despair Gas:</b> Affected 유기체 creatures must EGO save; failure obliges them to lie on the ground and weep, missing their next action.</td></tr>
+<b>절망 가스:</b> 영향을 받는 생물체는 EGO 내성굴림를 해야 합니다; 실패하면 바닥에 누워 울어야 하며, 다음 행동을 놓칩니다.</td></tr>
 </table>
 
-## Mycolossus
+## 진균거상 (Mycolossus)
 _Fungal_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
 <tr><td colspan="2"><b>공격</b>: 2 x Claw (d8) + Body Slam (2d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A towering amalgam of necrotic flesh and mycomorphic fungal tissue. Mycolossi are formed from up to a dozen humanoid corpses, crudely fused into a large, brutish mass. They are fast-moving, voracious, and completely insane. Choking clouds of spores portend the giant’s approach.
+<tr><td colspan="2"><b>참고사항</b>: 괴사한 살과 진균 조직으로 이루어진 우뚝 솟은 아말감입니다. 진균류는 12개에 이르는 인간형 시체로 만들어졌으며, 조잡하게 융합되어 크고 흉포한 덩어리가 되었습니다. 빠르게 움직이고, 탐욕스럽고, 완전히 미쳤습니다. 숨막히는 포자 구름은 이 거상의 접근을 예고합니다.
 <br>
-<b>Spore Shroud:</b> those in melee range of the Mycolossus take d6 automatic choking damage per round.
+<b>포자구름:</b> 진균거상에게 근거리 공격을 할 정도의 거리에 있으면 라운드 당 d6의 피해를 자등으로 입습니다.
 <br>
-<b>Sun-fearing:</b> Mycolossi must make a 사기 save to fight in sunlight.</td></tr>
+<b>태양공포증:</b> 햇빛 아래에서 싸울 때 거상은 사기 판정을 합니다</td></tr>
 </table>
 
-## Negativfolk
+## 반전인간 (Negativfolk)
 _이계체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Hug (d6 damage) / Knife (d6 heal)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Inverted, photonegative-hued people who walk and speak backwards. They wander the blue dunes in family groups, receding from their point of origin in strange halting meanders.
+<tr><td colspan="2"><b>공격</b>: 포옹하기 (d6 피해) / 나이프 (d6 치료)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 거꾸로 걷고 거꾸로 말하는 마치 색상이 반전된 것 같은 사람들입니다. 그들은 가족 단위로 파란 능선을 헤매며, 자신들의 기원지에서 이상하게 멈칫거리며 뒤로 물러납니다.
 <br>
-<b>Opposite Day:</b> Negativfolk always do the opposite of what you ask them, and make every action in reverse. They eject un-chewed food back onto empty plates, blue negativblood flows back into their wounds, and the less said about other private functions the better. They react poorly to compliments, hugging or shaking the hand of their foes with lethal results. Hurling abuse at a Negativman may earn you a healing bullet between the eyes. Negativfolk can only be harmed with healing items, and will be healed by damage.
+<b>반전된 삶:</b> 반전인간는 항상 당신이 요청하는 것의 반대를 하고, 모든 행동을 역으로 합니다. 그들은 씹지 않은 음식을 비어 있는 접시에 다시 뱉어내고, 파란색 반전혈액이 그들의 상처로 돌아갑니다. 개인적인 기능에 대해서는 말할수록 좋습니다. 그들은 칭찬에 대해 부정적으로 반응하며, 적이 손을 흔들거나 포옹하는 것은 치명적인 결과를 초래합니다. 반전인간에게 욕설을 퍼붓는 것은 당신이 눈 사이에 치유용 총알을 받게 만들 수 있습니다. 반전인간은 치유 아이템으로만 해를 입힐 수 있으며, 손상으로 인해 치유됩니다.
 </td></tr>
 </table>
 
-## Nerve Crawler
+## 신경 크롤러 (Nerve Crawler)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Nerve-lash (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Victims of an insidious nanotech infestation, Nerve Crawlers are decaying human corpses whose neural pathways have been supplanted by a virulent nexus of silvery nano-nerves. These revenants crawl on their hands and knees, stiffly and slowly, seeking new hosts for the infection. When in range of prey, whips of silver nano-nerve burst from their spinal cord, lacerating anything in reach.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 신경채찍 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 음흉한 나노기술 감염의 희생자인 신경 크롤러는 신경계가 악성의 은색 나노-신경 네트워크로 대체된 부패한 인간 시체입니다. 이 망령은 손과 무릎으로 기어다니며, 딱딱하고 느리게, 감염을 위한 새로운 숙주를 찾습니다. 먹이가 범위 내에 있을 때, 은색 나노-신경의 채찍이 그들의 척수에서 터져나와, 도달할 수 있는 모든 것을 찢어놓습니다.</td></tr>
 </table>
 
-## Occulith
+## 신경 크롤러 (Nerve Crawler)
 _무기질_
 <table>
 <tr><td><b>레벨</b>: 12</td><td><b>장갑</b>: 20</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Lithifying Gaze (auto-hit, d6 DEX drain, +2 장갑)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A great grey serpent, cast from innumerable scales of living shale. In the stony hollows of its stalactite-fanged skull, twin baleful lanterns cast a metamorphic gaze upon the tender flesh of the world.
+<tr><td colspan="2"><b>공격</b>: 석화 시선 (무조건 명중 d6 DEX 흡수, +2 장갑)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 수많은 살아있는 혈암의 비늘로 만들어진 큰 회색 뱀입니다. 이 종유석 이빨을 가진 두개골의 돌덩이 같은 공동체에서, 쌍둥이 악랄한 등불들이 세상의 연약한 육체에 대해 변형된 시선을 던집니다.
 <br />
-<b>Lithifying Gaze:</b> automatically hits a target in line of sight. Target loses d6 DEX and gains +2 장갑 per round; must break line of sight to stop the attack. Both effects fade at the rate of one point per day. An Occulith is immune to its own gaze.
+<b>석화 시선:</b> 시야 내의 대상에게 자동으로 명중합니다. 대상은 매 라운드마다 DEX를 d6만큼 잃고 방어력을 +2 얻습니다; 공격을 멈추려면 시야를 벗어나야 합니다. 두 효과 모두 하루에 한 점씩 사라집니다. 오큘리스는 자신의 시선에 면역입니다.
 <br />
-<b>Surprise:</b> the Occulith appears to be inanimate stone until it moves, and always surprises unless the PCs are informed of its exact location.</td></tr>
+<b>기습:</b> 오큘리스는 움직일 때까지 비활성 돌처럼 보입니다, 그리고 PC들은 정확한 위치에 대한 정보가 없다면 항상 기습당합니다.</td></tr>
 </table>
 
-## Parched Man's Snare
+## 메마른 자의 올가미(Parched Man's Snare)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: Rooted, Cannot Flee</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Snare (d6), followed by drowning (STR save vs d6 damage per round)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A giant, carnivorous plant that lurks in pools and oases, waiting to devour unwary travellers. The fleshy body of the Snare roots at the bottom of a pool, while its thorny vines trail in the water, moving towards any disturbances. The Snare hunts by grabbing animals while they drink and dragging them to the bottom of the lake or river, there to be drowned and absorbed into the Snare’s root structure. Cautious travellers know to test the water’s surface with a long pole before drinking, but those who have lost their wits from thirst find themselves easy prey to these plants.</td></tr>
+<tr><td><b>사기</b>: 고정됨, 도망치지 못함</td><td><b>수량</b>: d4</td></tr>
+<tr><td colspan="2"><b>공격</b>: 올가미 (d6), 익사 규칙을따름 (라운드 당 d6 피해에 대항해 STR 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 호수와 오아시스에 숨어서 무심코 지나가는 여행자들을 잡아먹는 거대한 육식 식물입니다. 올가미의 살점으로 된 몸체는 수면 아래에 뿌리를 내리고, 가시가 달린 덩굴은 물 위에서 흔들리며 어떤 소동이라도 따라갑니다. 올가미는 동물들이 마실 때 그들을 잡아 호수나 강 바닥으로 끌어당겨 익사시키고, 그곳에서 올가미의 뿌리 구조로 흡수합니다. 조심스러운 여행자들은 마시기 전에 긴 막대로 물 표면을 시험해 보지만, 갈증으로 정신을 잃은 사람들은 이 식물에게 쉽게 포식당하게 됩니다.</td></tr>
 </table>
 
-## Phase Panther
+## 위상 흑표범 (Phase Panther)
 _초기하학적_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 11</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d10 초기하학적) / Pounce</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Creatures woven from predatory hypergeometry, summoned by the mystics of lost eras to guard their mansions. They resemble great cats made of swirling colours, and can phase in and out of existence at will.
+<tr><td colspan="2"><b>공격</b>: 발톱 (d10 초기하학적임) / 덮치기</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 잔혹한 초기하도형에서 짠 생명체들로, 잃어버린 시대의 신비주의자들이 자신들의 저택을 지키기 위해 소환했습니다. 위상 흑표범은 소용돌이 치는 색상으로 만들어져 큰 고양이를 닮았고, 존재와 비존재 사이를 자유자재로 오갈 수 있습니다.
   <br>
-<b>Phase:</b> At the start of each combat round, the Phase Panther may choose to phase out of reality. While phased, the panther can be seen but cannot be touched or damaged; it likewise cannot touch or harm any non-phased creature.
+<b>위상:</b> A각 전투 라운드가 시작할 때마다, 위상 표범은 현실에서 사라지도록 선택할 수 있습니다. 위상 상태에서는 표범을 볼 수 있지만 만질 수 없으며, 마찬가지로 어떤 비-위상 생물도 만지거나 해치지 못합니다.
   <br>
-<b>Pounce:</b> Targets of the Panther’s pounce must make an opposed DEX save; failure means that the target is pinned and will take 2d6 damage per round until the Panther can be dissuaded from mauling them.</td></tr>
+<b>덮치기:</b> 표범의 덮치기 대상은 표범을 피하기 위해 DEX 대항 판정을 해야 합니다; 실패하면 대상은 표범에게 붙잡혀 표범이 물어뜯는 것을 그만둘 때까지 매 라운드마다 2d6의 피해를 입게 됩니다.</td></tr>
 </table>
 
-## Phthalo-Jackal
+## 하늘빛 자칼 (Phthalo-Jackal)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 4 (1)</td><td><b>수량</b>: 3d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Cautious, clever, cerulean-coated pack hunters. 사기 drops when outnumbered.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 조심스럽고, 영리하며, 밝은 청색으로 덮인 무리 사냥꾼들입니다. 수적으로 밀릴 때 사기가 떨어집니다.
+</td></tr>
 </table>
 
-## Planeyfolk
+## 플래니포크 (Planeyfolk)
 _초기하학적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 4</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: STR drain (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: 초기하학적 humans that only have two dimensions. They can appear to be shadows or wall frescoes and surprise on 5-in-6. When they attack, they drain 1d4 points of STR from their target, as their touch pulls you into their flattened dimension. This 초기하학적 effect fades over time.
+<tr><td colspan="2"><b>공격</b>: STR 흡수 (d4) (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이차원에서만 존재하는 초기하 형태의 인간들입니다. 이들은 그림자나 벽화처럼 보이며 6분의 5의 확률로 기습합니다. 공격할 때, 이들의 접촉은 당신을 평면 차원으로 끌어들이면서 STR 1d4를 흡수합니다. 이 초기하 효과는 시간이 지남에 따라 사라집니다.
 <br />
-Planeyfolk ignore all even-numbered damage rolls.</td></tr>
+플레인포크는 모든 짝수 피해 굴림을 무시합니다.</td></tr>
 </table>
 
-## Pontiff Scorpion
+## 교황전갈 (Pontiff Scorpion)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d4) + Claw (d4) + Sting (d10 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Named for its colouring, which resembles the red 장갑 worn by the battle-crazed Pontiffs of the Church of the Everbleeding Wound. These scorpions are nocturnal predators, usually encountered in Vaarn’s southern badlands and the foothills of the Mooncradle Mountains. Adults have been seen to grow to four feet in length, smaller than the Giant Azure Scorpions of the Interior, but still perfectly capable of overpowering a goat or its herdsman.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d4) + 발톱 (d4) + 독침 (d10 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 전투에 미친 영원히 피 흘리는 상처의 교회의 교황들이 입는 붉은 갑옷을 닮은 색깔 때문에 그 이름이 붙었습니다. 이 전갈들은 야행성 포식자로, 주로 바안의 남부 황무지와 달의 요람 산맥의 구릉지에서 만날 수 있습니다. 성체가 길이 4피트까지 자라는 것으로 보아, 내부 지역의 거대 하늘색 전갈보다는 작지만 염소나 목동을 압도하는 데 충분합니다.</td></tr>
 </table>
 
-## Prism Drone
+## 프리즘 드론
 _인조적 / 무기질_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: 7</td><td><b>수량</b>: d3 (with Prism Strider)</td></tr>
-<tr><td colspan="2"><b>공격</b>: Prismatic Ray (d10 beam) / Repair Protocol (+d8 HP to 인조적 target)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Small tripedal servitors that accompany Prism Striders into battle, providing recon and repairs for the towering attack synths. Their repeater ray-emitters are used to aim and supercharge the beams fired from their parent unit.</td></tr>
+<tr><td><b>사기</b>: 7</td><td><b>수량</b>: d3 및 프리즘 스트라이더 한 대</td></tr>
+<tr><td colspan="2"><b>공격</b>: 프리즘 광선 (d10 광선) / 수리 프로토콜 (인조적 대상에 +d6 HP)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 프리즘 스트라이더와 함께 전투에 참여하는 작은 세 대의 보조기로, 우뚝 솟은 공격 합성물에 대한 정찰 및 수리를 제공합니다.드론의 중계 광선방출기는 프리즘 스트라이더에서 발사되는 빔을 조준하고 과급하는 데 사용됩니다.</td></tr>
 </table>
 
 ## Prism Strider
 _인조적 / 무기질_
 <table>
 <tr><td><b>레벨</b>: 9</td><td><b>장갑</b>: 18</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1 (with d3 Prism Drones)</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1 및 프리즘 드론 3대</td></tr>
 <tr><td colspan="2"><b>공격</b>: 3 x Trample (d8) / Prismatic Array (d10 beam, +3 to hit and +d6 damage per active Drone)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Colossal war machines from the Long Ago, built to incinerate entire armies from afar. A tripod of spindle-sharp legs supports a humming cradle of death-ray prisms. These war-synths travel with an entourage of smaller Drones, drawing additional accuracy and power from each servitor.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 멀리서 온 군대를 소각하기 위해 만들어진 오래 전의 거대한 전쟁 기계입니다. 방추처럼 날카로운 다리의 삼각대는 죽음의 프리즘 광선에서 비롯된 웅얼거리는 요람을 지탱합니다. 이러한 전쟁 신스는 더 작은 드론 보조기들과 함께 여행하며 각 보조기으로부터 높은 정확성과 힘을 끌어냅니다.</td></tr>
 </table>
 
-## Quicksilver Exterminator
+## 수은 절멸자 (Quicksilver Exterminator)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 10</td><td><b>장갑</b>: 20</td></tr>
 <tr><td><b>사기</b>: 15</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slash (d12) + Laser Eyes (d10 beam)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Merciless shapeshifting liquid metal war-synth. Immune to kinetic damage, fire, acid, radiation, and all poisons. Can only be harmed with extreme cold, or with 초기하학적 weapons.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 베기 (d12) + 레이저 안광 (d10 광선)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 무자비한 형태변화 액체금속 전쟁 신스입니다. 이 신스는 운동 에너지, 불, 산, 방사선 및 모든 독에 면역을 가지고 있습니다. 극저온이나 초기하학적인 무기로만 피해를 입을 수 있습니다.</td></tr>
 </table>
 
-## Quill Spider
+## 가시 거미 (Quill Spider)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d6) + Quill Spray (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Loathsome arachnid, with a bloated body that bristles with hollow quills like those of a porcupine. When threatened it will rapidly brush its back legs across its back, showering the surrounding area with quills.
+<tr><td colspan="2"><b>공격</b>: 물기(d6) + 가시 분사 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 호저처럼 뾰족한 털이 나 있는 부푼 몸을 가진 혐오스러운 거미입니다. 위협을 받으면 빠르게 뒷다리를 등에 문지르며, 주변 지역에 가시를 퍼뜨립니다.
 <br />
-Quill-spiders are not venomous and rely on brute strength to subdue their prey, breaking the necks of addax and phthalo-jackals and dragging them into sheltered burrows to be devoured. These creatures are a menace to travellers in the Interior: they are inquisitive, fast-moving, aggressive, and will devour anything that fails to outrun them or fight them off.</td></tr>
+가시거미는 독성이 없으며, 먹이를 제압하기 위해 거친 힘에 의존합니다. 애덕스와 하늘색 자칼의 목을 부러뜨리고 안전한 굴로 끌어들여 삼킵니다. 이 생물들은 내부 지역의 여행자들에게 위협입니다: 가시 거미는 호기심 많고, 빠르게 움직이고, 공격적이며, 그들을 따라잡거나 막아서는 것에 실패한 모든 것을 삼키게 됩니다.</td></tr>
 </table>
 
-## Regenerator
+## 재생하는 자 (Regenerator)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d6) + Claw (d6) + Bite (d8) if both claws hit same target</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Towering tumorous mutant. Will regenerate d8 HP per round unless burned or covered in acid.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d6) + 발톱 (d6) 두 발톱이 동일한 대상을 적중했을 경우 + 물기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 거대한 종양 돌연변이입니다. 불에 타거나 산성물질로 덮이지 않는 한, 매 라운드마다 HP를 d8만큼 회복합니다.</td></tr>
 </table>
 
-## Rustacean
+## 녹슮게 (Rustacean)
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1</td></tr>
 <tr><td colspan="2"><b>공격</b>: Big Claw (d10, corrosive) + Small Claw (d6, corrosive)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A crab-like amalgam of chitinous shell and rampant nanotech. The Rustacean feeds on metal corroded by its unusual biology. It is highly territorial and will attack non-metallic creatures as part of a dominance display. 
+<tr><td colspan="2"><b>참고사항</b>: 갑각류의 껍질과 만연한 나노기술이 합쳐진 꽃게같은 생물체입니다. 녹슮게는 특이한 생물학적 특성에 의해 부식된 금속을 먹습니다. 매우 영역을 중요시하며, 우월성을 과시하기 위해 비금속 생물도 공격합니다. 
 <br>
-<b>Corrosion:</b> a hit from the Rustacean’s claws will corrode a metal item in the target’s inventory, rendering it useless. 장갑 corroded in this fashion loses -1 Defence per hit. 인조적 PCs damaged by corrosive claws also suffer d4 CON loss. 
+<b>부식:</b> 녹슮게의 집게에서 맞으면 대상의 인벤토리에 있는 금속 아이템이 부식되어 쓸모가 없어집니다. 이런 방식으로 부식된 갑옷은 맞을 때마다 -1의 방어력을 잃습니다. 부식 집게에 상처를 입은 신스 PC들도 d4 CON 손실을 겪습니다. 
 <br>
-If there is debate about which item should be corroded by a hit, flip a coin. On heads the players choose, on tails the Rustacean does. </td></tr>
+만약 어떤 아이템이 부식되어야 하는지에 대해 논란의 여지가 있다면, 동전을 공중으로 띄워보세요. 앞면이 나오면 플레이어가 선택하고, 뒷면이 나오면 녹슮게가 선택합니다. </td></tr>
 </table>
 
-## Sandworm (Adult)
+## 모래벌레 성체 (Sandworm (Adult))
 _유기체_
 <table>
 <tr><td><b>Hull Points</b>: 20</td><td><b>장갑</b>: 25</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slam (5d10) / Swallow Whole</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The grandest inhabitant of the Interior. Adult sandworms have no natural predators, and have a lifespan of several millennia. They do not usually notice human-sized travellers, but will attack noisy vehicles if provoked. They will usually seek to swallow the offending machine whole.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 밀치기 (5d10) / 통째로 집어 삼키기</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 내륙의 가장 웅장한 생물입니다. 성체 모래벌레는 자연적인 포식자가 없으며, 수 천년에 걸친 수명을 가지고 있습니다. 모래벌레는 보통 인간 크기의 여행자들을 주목하지 않지만, 도발당하면 시끄러운 차량을 공격합니다. 보통 불쾌한 기계를 통째로 삼키려고 합니다.</td></tr>
 </table>
 
-## Sandworm (Juvenile)
+## 모래벌레 유체 (sandworm (Juvenile))
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slam (2d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Vaarnish sandworms live the first two stages of their lifecycle as microscopic organisms, before undergoing a rapid metamorphosis into huge majestic filter-feeders. Juveniles, between one and five centuries of age, are the size of passenger trains. Some are trained by the Faa to pull sand-sleds, while others roam free in the deepest Interior. Although not predatory, they can be very aggressive towards sources of unwelcome vibration, like heavy machinery or warding field technology.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 밀치기 (2d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 모래벌레는 생애의 첫 두 단계를 초미세 생명체로 살아가며, 이후에는 거대하고 웅장한 여과식 먹이 섭취자로 급속히 변태합니다. 1세기에서 5세기 사이의 어린 개체들은 여객열차 크기입니다. 일부는 파아에 의해 모래 썰매를 끌도록 훈련받고, 다른 일부는 가장 깊은 내륙에서 자유롭게 방황합니다. 모래벌레는 포식성이 아니지만, 무거운 기계나 방어 필드 기술과 같은 원치 않는 진동의 원인에 대해 매우 공격적일 수 있습니다.</td></tr>
 </table>
 
-## Scullcrab
+## 스컬크랩 (Scullcrab)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 0 (1 HP)</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: d10</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A reviled parasite, somewhat like a flabby shell-less crab, which seeks to latch onto the skull of a human being and chew through it, taking control of their brain. Characters reduced to 0 EGO by the Scullcrab become a Zombie, still conscious but unable to control their body, piloted around by the parasite.
+<tr><td colspan="2"><b>공격</b>: 물기 (d4) / 두개골 덮치기 (d4 Ego 피해, 지속피해, DEX 내성굴림으로 d4 Ego 피해에서 벗어남) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 인간의 두개골에 붙어서 이를 통해 뇌를 조종하려는, 약간은 살이 많고 껍질이 없는 게 같은 혐오스러운 기생충입니다. 스컬크랩에 의해 EGO가 0으로 줄어든 캐릭터들은 좀비가 되며, 여전히 의식은 있지만 몸을 제어할 수 없고 기생충에 의해 조종당합니다.
 </table>
 
 ## Scullcrab, Fast
