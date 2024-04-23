@@ -91,97 +91,99 @@ _유기체_
 <tr><td colspan="2"><b>참고사항</b>:바안의 수원 근처에 서식하는 거대하고 유연한 두꺼비들입니다. 이들의 혀 공격을 맞으면, PC들은 STR 내성굴림에 실패했을 때 개구리의 입으로 끌려가 매 라운드마다 d8의 피해를 입습니다.</td></tr>
 </table>
 
-## Blightbeast
+## 황폐짐승 (Blightbeast)
 _유기체_ / _인조적_
 <table>
 <tr><td><b>레벨</b>: 10</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d10) + Bite (2d6) / Blight Breath (d12 TOX, blast)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Colossal cacogenic Gila Monsters, imbued with nanomachinery and 장갑ed with thick black scales. Keratin bristles sprout from their backs in burnt-looking clumps. Their eyes and throats gleam with a sickly green radiance. If threatened they will breathe out a noxious cloud of radioactive gas before lunging to attack with their powerful jaws.  
+<tr><td colspan="2"><b>공격</b>: 발톱 (d10) + 물기 (2d6) / 황폐 숨결 (d12 TOX, 광역)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 거대한 캐커젠  독도마뱀 괴물들은 나노기계로 가득 차 있고 두꺼운 검은 비늘로 무장되어 있습니다. 케라틴 수염이 이들의 등에서 불탄 것 같은 덩어리로 자랍니다. 그들의 눈과 목은 병든 듯한 녹색 광선을 뿜어냅니다. 위협받으면 강력한 턱을 가지고 돌진하기 전에 방사능 가스로 구성된 유해한 구름을 내뿜습니다.  
 <br />
-The creatures seek out radioactive blightstone and gain sustenance from basking near it, although they supplement this nourishment with a more conventional diet of raw meat. Blightbeasts are immune to damage caused by energy weapons or radiation, and heal d8 HP per round when in the presence of radioactive material. Blightbeasts have no natural predators, their flesh and blood being thoroughly poisonous. Their corpses cannot be used as a source of rations.</td></tr>
+이 생물들은 방사능 황폐석을 찾아내고, 그 근처에서 일광욕하면서 영양분을 얻습니다. 하지만 이 영양분을 원시적인 고기 식단으로 보충합니다. 황폐짐승는 에너지 무기나 방사선에 의한 손상에 면역이며, 방사성 물질이 있는 곳에서는 매 턴마다 HP를 d8 만큼 회복합니다. 황폐짐승은 천적이 없으며, 황폐짐승의 살과 피는 완전히 독성입니다. 그들의 시체는 식량원으로 사용될 수 없습니다.</td></tr>
 </table>
 
-## Blightstone Knight
+## 황폐석 기사 (Blightstone Knight)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 19</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Tarnished Greatsword (d10) + Shield Bash (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Vengeful radioactive revenant. Withered corpse inside sentient powered 장갑. Fanatically guards buried blightstone mines. 유기체 creatures who attack the Blightstone Knight at melee range must make a CON save each round or suffer d8 CON damage from the leaking radiation.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 검게 물든 대검 (d10) + 방패로 밀치기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 복수심에 불타는 방사능 유령이자 의식 있는 동력 갑옷 안의 시든 시체. 매섭게 황폐석이 매장된 광산을 지키고 있습니다. 황폐석를 근접 범위에서 공격하는 생물은 매 라운드마다 CON 내성굴림에서 실패했을 때 누출되는 방사능으로 인해 d8의 CON 손상을 입습니다.</td></tr>
 </table>
 
-## Blue Baboon
+## 파란 개코원숭이 (Blue Baboon)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 0 (1 HP)</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 4 (2)</td><td><b>수량</b>: 3d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Predatory blue apes of the Vaarnish wastes. Intelligent and carnivorous, hunt in packs. 사기 drops when outnumbered.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 바안 황무지의 포식성 푸른 원숭이들입니다. 지능적이고 육식성으로, 무리를 지어 사냥합니다. 수적 열세에 놓이면 사기가 떨어집니다</td></tr>
 </table>
 
-## Brood Mother
+## 군집 어미 (Brood Mother)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d8) / Grapple (DEX save vs Webbed)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A mother’s first duty is to her children, and she is no exception. In fungal forests and wind-swept canyons she hunts, nurturing her brood inside her swollen abdomen. She approaches sleeping travellers from above, swaddling them in blankets tight enough to hush their cries before her sons and daughters emerge to feast.
+<tr><td colspan="2"><b>공격</b>:발톱 (d8) / 불잡기 (그물걸림에 대해 DEX 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 어머니의 첫번째 의무는 자신의 아이들에게 있으며, 그녀 역시 예외는 아닙니다. 그녀는 진균 숲과 바람에 휩쓸린 협곡에서 사냥을 하며, 부풀어 오른 복부에서 자신의 새끼들을 양육합니다. 그녀는 잠든 여행자들을 위에서 접근하고, 그들이 소리를 지르지 못하도록 충분히 타이트한 담요로 덮은 후에야 어미의 아들과 딸들이 나와서 흡수합니다.
 <br />
-<b>The Brood:</b> a Brood Mother births d6 Broodlings [<b>레벨</b> 0 (1 hp), <b>장갑</b> 12, <b>Bite</b> (d4)] per combat round, and 2d6 Broodlings on death. Fire or explosive 공격 prevent this.
+<b>군집:</b> 군집 어미는 전투 라운드마다 d6 군집 새끼 [<b>레벨</b> 0 (1 hp), <b>장갑</b> 12, <b>물기</b> (d4)]를 낳고, 죽음 시에는 2d6 군집 새끼를 낳습니다. 화염이나 폭발 공격은 이를 방지합니다.
 <br />
-<b>Webbed:</b> Webbed characters are hit automatically by enemy 공격. They must make a successful DEX save to break free.</td></tr>
+<b>그물걸림:</b> 그물에 걸린 캐릭터는 적의 공격을 자동적으로 맞습니다. 그들은 성공적인 DEX 저장을 해야만 벗어날 수 있습니다.</td></tr>
 </table>
 
-## Cacklemaw
+## 캐클모 (Cacklemaw)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Weapon (d8) + Bite (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Lurking laughing hyena-women. Fight in packs, with little regard for their own safety. Will snap at opponents’ faces in close quarters with their powerful teeth. A group of eight will always include a War Mama.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 무기 (d8) + 물기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 잠복한 웃는 하이에나 여성들. 이들은 자신의 안전을 거의 고려하지 않고 무리를 이루어 싸웁니다. 강력한 이빨로 근거리에서 상대방의 얼굴을 물어뜯습니다. 여덟 마리으로 구성된 무리는 항상 전쟁 마마를 포함합니다.</td></tr>
 </table>
 
-## Cacklemaw War Mama
+## 캐클모 전쟁 마마 (Cacklemaw War Mama)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Blade (d8) + Blade (d8) + Bite (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: War Mamas are the largest, meanest, and most cunning Cacklemaw in the pack. They lead from the front, and must be seen to savour the violence lest they be challenged by one of their underlings. For this reason War Mamas will never retreat from combat if other Cacklemaw are alive to witness it.</td></tr>
+<tr><td colspan="2"><b>칼날(d8) + 칼날(d8) + 물기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 전쟁 마마들은 무리 중 가장 크고 사나운, 그리고 가장 교활한 캐클모입니다. 선봉장을 담당하며, 부하 중 한 명에게 도전을 받지 않기 위해 무리의 구성원들이 보는 앞에서 폭력을 즐기는 모습을 보여줍니다. 이러한 이유로 다른 캐클모가 살아있다면 전쟁 마마들은 결코 전투에서 물러나지 않습니다.
+</td></tr>
 </table>
 
-## Cacogen Pseudo-Giant
+## 캐커젠 가짜 거인 (Cacogen Pseudo-Giant)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Stomp (d10)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Severely mutated humans that resemble enormous ambulatory torsos. They have a primitive, furious face on their chest, and tiny vestigial arms. They are unintelligent but ferocious and will pursue prey for miles.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 내려찍기 (d10)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 거대하며 보행하는 상체와 비슷한 심각하게 돌연변이가 일어난 인간들입니다. 가슴에 원시적이고 분노에 찬 얼굴을 하고 있으며, 작고 퇴화된 팔을 갖고 있습니다. 그들은 지성은 없지만 사나운데다가 몇 마일 동안도 먹잇감을 추격할 것입니다.</td></tr>
 </table>
 
-## Chernobog
+## 체르노보그 (Chernobog)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 12</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Claw (d10) + Bite (d12) + Black Cloud (2 damage, aura, doubles each round)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A dread creature from beyond the stars, brought to Urth in the hold of an Aurum Barge. The Chernobog is a colossal, black-furred beast, described as 'a child of mongoose and serpent, two foes united under one foul banner'. The creature is an apex predator on the benighted sphere it hails from, hunting by ambush in dark and forgotten places. It prefers caves and the labyrinthine basements of ruined structures as lairs, rarely venturing above ground.
+<tr><td colspan="2"><b>공격</b>: 2 x 발톱 (d10) + 물기 (d12) + 검은 구름 (2 피해, 오라, 라운드 마다 두 배)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 별들 너머에서 온 끔찍한 생물체로 아우룸 바지선의 화물실에 실려 우르스에 왔습니다. 체르노보그는 거대하고 검은 털로 덮인 짐승으로, '오소리와 뱀의 자식, 두 적이 하나의 악의 깃발 아래서 합쳐진 것'으로 묘사됩니다. 이 생물체는 본래 있던 어두운 세계에서 최상위 포식자로, 어두운 잊혀진 곳에서 매복하여 사냥합니다. 체르노보그는 동굴과 폐허가 된 구조물의 복잡한 지하실을 보금자리로 선호하며, 드문드문 지상으로 나옵니다.
+
 <br> 
-If this were not terrible enough, the beast emits a noxious gas from facial glands when enraged, choking and blinding its victims. The Chernobog uses these black clouds to corral prey or cover its escape.
+이것만으로도 충분히 끔찍하지만, 이 짐승은 분노할 때 얼굴의 분비선에서 유독 가스를 방출하여 희생자들을 질식시키고 실명시킵니다. 체르노보그는 이 검은 구름을 사용하여 사냥감을 몰거나 도망칠 때를 위해 사용합니다.
 <br>
-<b>Black Cloud:</b> each round the Chernobog emits a cocktail of corrosive and hazardous fumes, dealing 2 damage to every character in the room. The cloud's strength doubles with each subsequent combat round. After three rounds all PCs are fighting as if blinded. 
+<b>검은 구름:</b> 체르노보그는 매라운드마다 부식성이 있고 위험한 연기 칵테일을 방출하여 방 안의 모든 캐릭터에게 2점의 피해를 입힙니다. 구름의 강도는 이어지는 전투라운드마다 두 배가 됩니다. 세 번째 라운드 후 모든 PC들은 마치 실명한 것처럼 싸웁니다.
 <br>
-<b>Cave Fighter:</b> the Chernobog strikes with Advantage in enclosed spaces or against blinded creatures.</td></tr>
+<b>동굴 싸움꾼:</b> 체르노보그는 좁은 공간이나 실명된 생명체를 공격할 때 유리점을 받습니다.</td></tr>
 </table>
 
-## Chimera
+## 키메라 (Chimera)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d3</td></tr>
-<tr><td colspan="2"><b>공격</b>: Fire Breath (d12 blast) + Goat Horns (d10) + Snake Spit (d8 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Monstrous hybrids, birthed from a marriage of cybernetics and sorcerous gene-sculpting. The Chimera is a combination of three animals: traditionally the bodies of a lion, a goat, and a snake were used, but sometimes other animals were substituted instead. Trained Chimera were utilised as weapons of war during the fallen Autarchy, implanted with flamethrowers and other devices.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 화염 숨결 (d12 광역) + 염소 뿔 (d10) + 뱀의 침뱉기 (d8 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 사이버네틱스와 마법적인 유전 조작의 결합에서 탄생한 괴상한 혼종들. 키메라는 세 가지 동물의 조합입니다. 전통적으로는 사자, 염소, 뱀의 몸이 사용되었지만, 때때로 다른 동물들이 대신 사용되기도 했습니다. 훈련된 키메라는 몰락한 신왕국 시대에 전쟁의 무기로 활용되었으며, 화염방사기와 기타 장치가 이식되었습니다.</td></tr>
 </table>
 
 ## Chrome-Feathered Sailback
