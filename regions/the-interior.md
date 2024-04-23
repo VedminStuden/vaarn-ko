@@ -329,27 +329,27 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 <thead><th>d20</th><th>이전 용도</th><th>그리고</th><th>현재 상태</th><th>외관</th><th>형태</th><th>기타 특징</th></thead>
 <tr><td>1</td><td>취조실</td><td>양조장</td><td rowspan="2">황량한 껍데기</td><td>부유함</td><td>돔</td><td>플래니포크 거주지</td></tr>
 <tr><td>2</td><td>극저온 냉동고</td><td>범죄자의 은신처</td><td>부서진 조각</td><td>아치</td><td>인조 덩굴이 뒤덮음</td></tr>
-<tr><td>3</td><td>궤도 방어 포탑</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
-<tr><td>4</td><td>Cyborg Construction</td><td>Ossuary</td><td>Crumbling</td><td>Orb</td><td>Has Abundant Food Source</td></tr>
-<tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Campsite</a></td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Drugs</td></tr>
-<tr><td>6</td><td>Cloning Facility</td><td>Barracks</td><td>Gigantic</td><td>Knife</td><td>Contains Exotica</td></tr>
-<tr><td>7</td><td>University</td><td>Brothel</td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td><td>Translucent</td><td>Bottle</td><td>Secret Weapons Cache</td></tr>
-<tr><td>8</td><td>Nanotech Forge</td><td>Inn</td><td>Bat-Infested</td><td>Flower</td><td>Contain Wild Animal Nest</td></tr>
-<tr><td>9</td><td>Power Generator</td><td>Theatre</td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Sunbleached</td><td>Hand</td><td>Used for Sacrifices</td></tr>
-<tr><td>10</td><td>Noble's Residence</td><td>Gladiator Pit</td><td>Half-Collapsed</td><td>Eye</td><td>Ancient Defense Systems Active</td></tr>
-<tr><td>11</td><td>Autarch's Tomb</td><td>Madhouse</td><td rowspan="2"><a href="#/regions/the-interior.md?id=hegemony-outpost">Hegemony Outpost</a></td><td>Threatening</td><td>Head</td><td>Upsetting Decorations</td></tr>
-<tr><td>12</td><td>Chemical Plant</td><td>Observatory</td><td>Crooked</td><td>Pyramid</td><td>Swallowed by the Sands</td></tr>
-<tr><td>13</td><td>Psychic Training Facility</td><td>Mystic's Abode</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td><td>Towering</td><td>Slab</td><td>Fire Damaged</td></tr>
-<tr><td>14</td><td>Pleasure Garden</td><td>Titan Cult Shrine</td><td>Monolithic</td><td>Prism</td><td>Radiation Poisoned</td></tr>
-<tr><td>15</td><td>Transit Hub</td><td>Hydroponic Garden</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td><td>Dazzling</td><td>Cube</td><td>Servitor Synths Still Function</td></tr>
-<tr><td>16</td><td>Farm Array</td><td>Battle Site</td><td>Decrepit</td><td>Wheel</td><td>Crashed Vehicle Present</td></tr>
-<tr><td>17</td><td>Bioengineering Facility</td><td>Quantum Daemon Shrine</td><td rowspan="2"><a href="#/regions/the-interior.md?id=grave">Grave Site</a></td><td>Sand-scoured</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
-<tr><td>18</td><td>Medical Facility</td><td>Trading Post</td><td>Ill-Omened</td><td>Needle</td><td>Overgrown with Fungus</td></tr>
-<tr><td>19</td><td>Communications Array</td><td>Slaughterhouse</td><td rowspan="2"><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td><td>Beautiful</td><td>Bowl</td><td>Hypergeometric Portal Inside</td></tr>
-<tr><td>20</td><td>Space Port</td><td>Prison</td><td>Molten</td><td>Ziggurat</td><td>Conceals Long-Burried Threat</td></tr>
+<tr><td>3</td><td>궤도 방어 포탑</td><td>목욕탕</td><td rowspan="2">온전하지만 텅 빔</td><td>어렴풋이 보임</td><td>탑</td><td>숨겨진 수원지가 있음</td></tr>
+<tr><td>4</td><td>사이보그 건축물</td><td>납골당</td><td>부스러짐</td><td>구체</td><td>풍부한 식량원을 보유함</td></tr>
+<tr><td>5</td><td>탄약 공장</td><td>수도원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">파아 유목민 야영지</a></td><td>낙서로 덮임</td><td>Shell</td><td>풍부한 마약</td></tr>
+<tr><td>6</td><td>복제인간 생산시설</td><td>막사</td><td>거대함</td><td>나이프</td><td>C엑조티카가 포함됨</td></tr>
+<tr><td>7</td><td>대학교</td><td>사창가</td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">도적들의 은신처</a></td><td>반투명함</td><td>병</td><td>숨겨진 무기고</td></tr>
+<tr><td>8</td><td>나노기술 대장간</td><td>선술집</td><td>박쥐 똥으로 범벅임</td><td>꽃</td><td>야생동물 둥지가 있음</td></tr>
+<tr><td>9</td><td>발전기</td><td>극장</td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">캐클모 소굴</a></td><td>햇볕으로 탈색됨</td><td>손</td><td>희생에 사용됨</td></tr>
+<tr><td>10</td><td>귀족 거주지</td><td>투기장</td><td>반쯤 무너짐</td><td>눈</td><td>고대의 방어 시스템이 작동함</td></tr>
+<tr><td>11</td><td>신왕의 무덤</td><td>정신병</td><td rowspan="2"><a href="#/regions/the-interior.md?id=hegemony-outpost">신정부 전초기지</a></td><td>위태로움</td><td>머리</td><td>엎질러진 장식물로 어질러짐</td></tr>
+<tr><td>12</td><td>화학공장</td><td>전망대</td><td>구부러짐</td><td>피라미드</td><td>모래에 파묻힘</td></tr>
+<tr><td>13</td><td>정신 능력 훈련시설</td><td>신비주의자의 거주지</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">괴물의 보금자리</a></td><td>우뚝 솟음</td><td>판떼기</td><td>화재로 손상됨</td></tr>
+<tr><td>14</td><td>기쁨의 정원</td><td>타이탄 숭배자의 성소</td><td>돌 바위 하나</td><td>각기둥</td><td>방사능에 오염됨</td></tr>
+<tr><td>15</td><td>교통의 중심지</td><td>수경원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>눈부심</td><td>정육면체</td><td>시종 신스가 여전히 작동함</td></tr>
+<tr><td>16</td><td>농장 배열지</td><td>전투 현장</td><td>노후함</td><td>바퀴</td><td>현재는 박살난 차량</td></tr>
+<tr><td>17</td><td>생물공학시설</td><td>양자 반신의 성소</td><td rowspan="2"><a href="#/regions/the-interior.md?id=grave">무덤가</a></td><td>모래에 파묻힘</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
+<tr><td>18</td><td>의료 시설</td><td>교역소</td><td>불길한 징조를 보임</td><td>바늘</td><td>과성장한 진균</td></tr>
+<tr><td>19</td><td>소통 배열지</td><td>도축장</td><td rowspan="2"><a href="#/regions/the-interior.md?id=holy-place">성지</a></td><td>아름다움</td><td>그릇</td><td>내부의 초기하학적 포탈</td></tr>
+<tr><td>20</td><td>우주 항구</td><td>감옥</td><td>녹아내림</td><td>지구라트</td><td>C오랫동안 숨겨져온 위협이 도사림</td></tr>
 </table>
 
-## Settlement
+## 정착지 (Settlement)
 
 <table>
 <thead><th>d20</th><th>The Houses</th><th>Local Industry</th><th>Notable Structure</th></thead>
