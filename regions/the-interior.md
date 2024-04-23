@@ -352,80 +352,81 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 ## 정착지 (Settlement)
 
 <table>
-<thead><th>d20</th><th>The Houses</th><th>Local Industry</th><th>Notable Structure</th></thead>
-<tr><td>1</td><td>Hide Yurts</td><td>Hunting and Scavenging</td><td>Ancient Forge</td></tr>
-<tr><td>2</td><td>Clay Brick Huts</td><td>Agriculture (Fungi)</td><td>Slave Pit</td></tr>
-<tr><td>3</td><td>Underground Warren</td><td>Agriculture (Cacti)</td><td>Deep Well</td></tr>
-<tr><td>4</td><td>Repurposed Trash</td><td>Agriculture (Seven-Fruit Trees)</td><td>Slender Silver Tower</td></tr>
-<tr><td>5</td><td>Neat Plastic Cubes</td><td>Agriculture (Water Vines)</td><td>Radar Dish</td></tr>
-<tr><td>6</td><td>Grimy Towers</td><td>Metalworking</td><td>Abandoned Theatre</td></tr>
-<tr><td>7</td><td>Vine-covered Villas</td><td>Mining (Glowstone)</td><td>Holy Catacombs</td></tr>
-<tr><td>8</td><td>Huge Eggshells</td><td>Mining (Plastics)</td><td>Birthplace of Famed Musician</td></tr>
-<tr><td>9</td><td>Chrome Spindles</td><td>Mining (Sky-seeking Stone)</td><td>Birthplace of Famed Warrior</td></tr>
-<tr><td>10</td><td>Repurposed Vehicles</td><td>Mining (Synth Parts)</td><td>Birthplace of Famed Tyrant</td></tr>
-<tr><td>11</td><td>Repurposed Weapon Arrays</td><td>Leatherworking</td><td>Glowering Autarch Statue</td></tr>
-<tr><td>12</td><td>Moulded Glass</td><td>Breeding Packbeasts</td><td>Memory Crystal Library</td></tr>
-<tr><td>13</td><td>Hanging from a Cliff</td><td>Breeding Fighting Beasts</td><td><a href="#/regions/the-interior.md?id=grave">Forbidden Grave</a></td></tr>
-<tr><td>14</td><td>Atop Colossal Stilts</td><td>Pottery</td><td>Huge Carnivorous Plant</td></tr>
-<tr><td>15</td><td>Made from Bone</td><td>Carpet Weaving</td><td>Statue of Void Saint</td></tr>
-<tr><td>16</td><td>Living Biotech Structures</td><td>Herding (Lizards)</td><td>Shunned Shrine</td></tr>
-<tr><td>17</td><td>Inside a Cave</td><td>Herding (Zoxen)</td><td>Enigmatic Obelisk</td></tr>
-<tr><td>18</td><td>Inside Vast Corpse</td><td>Herding (Land Parrots)</td><td>Automated Clock Tower</td></tr>
-<tr><td>19</td><td>Inside Mutant Tree</td><td>Herding (Giant Snails)</td><td><a href="#/regions/the-interior.md?id=landmark">Artificial Landmark</a></td></tr>
-<tr><td>20</td><td>Huge Communal Tent</td><td>Brewing</td><td><a href="#/regions/the-interior.md?id=ruin">Central Ruin</a></td></tr>
+<thead><th>d20</th><th>집</th><th>현지 산업</th><th>주목할만한 구조물</th></thead>
+<tr><td>1</td><td>가죽 천막집들</td><td>사냥과 폐품수집</td><td>고대의 대장간</td></tr>
+<tr><td>2</td><td>점토 벽돌 오두막들</td><td>농업 (진균)</td><td>노예 투기장</td></tr>
+<tr><td>3</td><td>지하 땅굴</td><td>A농업 (선인장)</td><td>깊은 우물</td></tr>
+<tr><td>4</td><td>재사용 쓰레기</td><td>농업 (칠과수)</td><td>호리호리한 은빛 탑</td></tr>
+<tr><td>5</td><td>깔끔한 플라스틱 큐브들</td><td>농업 (물 덩굴)</td><td>레이더 접시</td></tr>
+<tr><td>6</td><td>때묻은 탑</td><td>금속가공</td><td>버려진 극장</td></tr>
+<tr><td>7</td><td>덩굴로 뒤덮인 주택가</td><td>채굴 (빛나는 돌)</td><td>신성한 지하 묘지</td></tr>
+<tr><td>8</td><td>거대한 알껍데기들</td><td>채굴 (플라스틱)</td><td>유명한 음악가의 탄생지</td></tr>
+<tr><td>9</td><td>크롬 방추들</td><td>채굴 (하늘을 찾는 돌)</td><td>유명한 전사의 탄생지</td></tr>
+<tr><td>10</td><td>재사용된 차량들</td><td>채굴 (신스 부품)</td><td>유명한 폭군의 탄생지</td></tr>
+<tr><td>11</td><td>재사용된 무기 배열지</td><td>가죽 가공</td><td>빛나는 신왕의 조각상</td></tr>
+<tr><td>12</td><td>주조한 유리</td><td>짐승 짐꾼 기르기</td><td>기억 수정 도서관</td></tr>
+<tr><td>13</td><td>절벽에 매달림</td><td>전투용 짐승 기르기</td><td><a href="#/regions/the-interior.md?id=grave">잊혀진 무덤가</a></td></tr>
+<tr><td>14</td><td>꼭대기의 거상같은 기둥</td><td>도자기</td><td>거대한 식인 식물</td></tr>
+<tr><td>15</td><td>뼈로 만들어짐</td><td>카페트 직조</td><td>공허의 성자 조각상</td></tr>
+<tr><td>16</td><td>살아있는 생체기술 구조물</td><td>방목 (도마뱀)</td><td>기피당하는 성소</td></tr>
+<tr><td>17</td><td>동굴 안</td><td>방목 (족슨)</td><td>수수께끼의 방첨탑</td></tr>
+<tr><td>18</td><td>광활한 시체 안</td><td>방목 (땅앵무새)</td><td>자동 시계탑</td></tr>
+<tr><td>19</td><td>	
+돌연변이 나무 안</td><td>방목 (거대 민달팽이)</td><td><a href="#/regions/the-interior.md?id=landmark">	
+인공 랜드마크</a></td></tr>
+<tr><td>20</td><td>거대한 공동 천막</td><td>양조</td><td><a href="#/regions/the-interior.md?id=ruin">중앙 폐허</a></td></tr>
 </table>
+
+| **D20** | **통치** | **대중의 분위기** | **공동체가 부족한 것** |
+| --- | --- | --- | --- |
+| 1 | 비밀 과두정 | 겁 먹음 | 병사 |
+| 2 | 멍청한 왕 | 반역함 | 음식 |
+| 3 | 두 경쟁 가문 | 창의적임 | 깨끗한 물 |
+| 4 | 꼭두각시 지도자 | 정신없음 | 남자 |
+| 5 | 자동화된 공산주의 | 경건함 | 여자 |
+| 6 | 사교도들에 의해 통치됨 | 호전적임 | 아이 |
+| 7 | 편집증적인 신정 | 파괴적임 | 음악 |
+| 8 | 강한 의지의 모계사회 | 편집증적 | 고요함 |
+| 9 | 퇴폐적인 군주국 | 무관심함 | 평화 |
+| 10 | 위엄있는 잘린 목 | 분열됨 | 책 |
+| 11 | 장로회 | 수상함 | 기억 |
+| 12 | 인조 철학자 | 환영함 | 안전 |
+| 13 | 자비로운 독재자 | 퇴페적임 | 정의 |
+| 14 | 정신 능력을 지닌 하이브 마인드 | 강박증적 | 마약 |
+| 15 | 신-아나키즘적 공산주의 | 좋아함 | 온전한 정신 |
+| 16 | 도적 족장 | 적대적임 | 약품 |
+| 17 | 복권 뽑기로 통치됨 | 어리둥절함 | 정보 |
+| 18 | 총기 신앙을 믿는 사제들 | 광적임 | 희망 |
+| 19 | 별난 인공지능이 통치함 | 호색함 | 기계 부품 |
+| 20 | 권력 투쟁 (두 번 굴려 나온 결과를 합침) | 만족함 | 옷가지 |
 
 <table>
-<thead><th>d20</th><th>Government</th><th>Mood of Populace</th><th>Community Lacks</th></thead>
-<tr><td>1</td><td>Secretive Oligarchy</td><td>Cowed</td><td>Soldiers</td></tr>
-<tr><td>2</td><td>Idiot King</td><td>Rebellious</td><td>Food</td></tr>
-<tr><td>3</td><td>Two Rival Families</td><td>Creative</td><td>Clean Water</td></tr>
-<tr><td>4</td><td>Puppet Ruler</td><td>Manic</td><td>Men</td></tr>
-<tr><td>5</td><td>Automated Communism</td><td>Pious</td><td>Women</td></tr>
-<tr><td>6</td><td>Ruled by Cultists</td><td>Warlike</td><td>Children</td></tr>
-<tr><td>7</td><td>Paranoid Theocracy</td><td>Destructive</td><td>Music</td></tr>
-<tr><td>8</td><td>Strong-willed Matriarch</td><td>Paranoid</td><td>Silence</td></tr>
-<tr><td>9</td><td>Decadent Monarchy</td><td>Complacent</td><td>Peace</td></tr>
-<tr><td>10</td><td>Oracular Severed Head</td><td>Divided</td><td>Books</td></tr>
-<tr><td>11</td><td>Council of Elders</td><td>Suspicious</td><td>Memory</td></tr>
-<tr><td>12</td><td>Synthetic Philosophers</td><td>Welcoming</td><td>Safety</td></tr>
-<tr><td>13</td><td>Benevolent Dictator</td><td>Decadent</td><td>Justice</td></tr>
-<tr><td>14</td><td>Psychic Hive-Mind</td><td>Obsessive</td><td>Drugs</td></tr>
-<tr><td>15</td><td>Neo-Anarchist Commune</td><td>Jubilant</td><td>Sanity</td></tr>
-<tr><td>16</td><td>Bandit Chieftain</td><td>Hostile</td><td>Medicine</td></tr>
-<tr><td>17</td><td>Ruled by Lottery</td><td>Bewildered</td><td>Information</td></tr>
-<tr><td>18</td><td>Gun-worshipping Priests</td><td>Fanatical</td><td>Hope</td></tr>
-<tr><td>19</td><td>Ruled by Eccentric AI</td><td>Lecherous</td><td>Machine Parts</td></tr>
-<tr><td>20</td><td>Power Struggle (Roll twice and combine)</td><td>Contented</td><td>Clothing</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">존경받는 통치 구성원</td><td>질투 (재산)</td><td rowspan="2">바버처럼 여겨지는 거주민</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
+<tr><td>3</td><td rowspan="2">혐오받는 통치 구성원</td><td>사랑 (금지됨)</td><td rowspan="2">바보인 척 하는 거주민</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">종교 지도자</td><td>사랑 (삼각관계)</td><td rowspan="2">주목할만한 구조물과 숨은 연결점을 가진 거주민</td></tr>
+<tr><td>6</td><td>밀린 빚</td></tr>
+<tr><td>7</td><td rowspan="2">종교 지도자</td><td>지루함</td><td rowspan="2">통치자와 숨은 인연잉 있는 거주민</td></tr>
+<tr><td>8</td><td>세금</td></tr>
+<tr><td>9</td><td rowspan="2">존경받는 전사</td><td>Robbery</td><td rowspan="2">정착지 바깥에 사는 은둔자</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">폭력적이고 게으른 깡패</td><td>간통</td><td rowspan="2">논쟁적이며 널리 혐오받는 거주민</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">학자적이며 내성적인 주민</td><td>과음</td><td rowspan="2">순진하고 신뢰받는 거주민</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">존경받는 장인</td><td>거칠고 근거없는 비난</td><td rowspan="2">음모론적이고 누구든지 불신하는 거주민</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">조잡한 작품으로 소문난 멸시받는 장인</td><td>중독 (마취제)</td><td rowspan="2">부당한 이유로 따돌림을 당한 공동체의 부랑자</td></tr>
+<tr><td>18</td><td>결혼식 계획</td></tr>
+<tr><td>19</td><td rowspan="2">평판이 안 좋은 신비주의자</td><td>공갈</td><td rowspan="2">그냥 지나치는 이방인</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Respected Member of Government</td><td>Envy (Property)</td><td rowspan="2">Resident, Correctly Regarded as Foolish</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Loathed Member of Government</td><td>Love (Forbidden)</td><td rowspan="2">Resident, Who Pretends to be Foolish</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Spouse of Governing Figure</td><td>Love (Triangle)</td><td rowspan="2">Resident With A Hidden Connection To The Notable Structure</td></tr>
-<tr><td>6</td><td>Unpaid Debts</td></tr>
-<tr><td>7</td><td rowspan="2">Religious Leader</td><td>Boredom</td><td rowspan="2">Resident With A Hidden Connection To The Government</td></tr>
-<tr><td>8</td><td>Taxes</td></tr>
-<tr><td>9</td><td rowspan="2">Respected Warrior</td><td>Robbery</td><td rowspan="2">Hermit, Who Lives Outside the Settlement</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Violent, Lazy Thug</td><td>Adultery</td><td rowspan="2">Argumentative, Widely-Disliked Resident</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Scholarly, Introverted Citizen</td><td>Gluttony</td><td rowspan="2">Naïve and Trusting Resident</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Respected Artisan</td><td>Wild, Baseless Accusations</td><td rowspan="2">Conspiratorial, Mistrustful Resident</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Despised Artisan, Known for Shoddy Work</td><td>Addiction (Narcotics)</td><td rowspan="2">Community Pariah, Ostracised for Unjust Reasons</td></tr>
-<tr><td>18</td><td>Wedding Plans</td></tr>
-<tr><td>19</td><td rowspan="2">Disreputable Mystic</td><td>Blackmail</td><td rowspan="2">Stranger, Just Passing Through</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
-</table>
+## 오아시스 (Oasis)
 
-## Oasis
-
-_The land parches and withers beneath a wine-red sun, yet even here one may glimpse fragments of paradise._
+_땅은 와인 빛의 태양 아래서 마르고 시들어가지만, 심지어 여기에서도 낙원의 조각을 엿볼 수 있습니다._
 
 <table>
 <thead><th>d20</th><th>The Water</th><th>What's Here? (x2)</th><th>Who's Here? (x2)</th><th>Custom Of The Oasis</th></thead>
@@ -479,33 +480,32 @@ _None can predict the capricious and bemusing vessels through which the divine w
 <tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Ruin</a></td><td>Human Tooth</td><td>Nameless, Forgotten God</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
 </table>
 
-## Wreck
+## (잔해 (Wreck)
 
-_All journeys must end - some more dramatically than others._
+_모든 여정은 끝을 맺습니다. 어떤 여정은 다른 여정보다 더 극적으로 끝나기도 합니다._
 
-<table>
-<thead><th>d20</th><th>Vessel</th><th>Condition</th><th>Original Cargo</th><th>Cause of Wreck</th></thead>
-<tr><td>1</td><td>Wind-barge</td><td>Decrepit</td><td>Spies</td><td>Bandits</td></tr>
-<tr><td>2</td><td>Auto-chariot</td><td>Laser-seared</td><td>Masks</td><td>Sabotage</td></tr>
-<tr><td>3</td><td>Dune Skuggy</td><td>Burned</td><td>Water</td><td>Sandstorm</td></tr>
-<tr><td>4</td><td>Armoured Crawler</td><td>Corrupted</td><td>Soldiers</td><td>Fuel Ran Out</td></tr>
-<tr><td>5</td><td>Stilt Strutter</td><td>Sun Bleached</td><td>Memory Crystals</td><td>Landmines</td></tr>
-<tr><td>6</td><td>Kite Wagon</td><td>Rusted</td><td>Guns</td><td>Disease</td></tr>
-<tr><td>7</td><td>Transport Zeppelin</td><td>Shattered</td><td>Slaves</td><td>Warfare</td></tr>
-<tr><td>8</td><td>Hegemony Ornithopter</td><td>Cloven</td><td>Coffee</td><td>Faulty Machinery</td></tr>
-<tr><td>9</td><td>Orbital Satellite</td><td>Disintegrating</td><td>Prisoners of War</td><td>Simply Abandoned</td></tr>
-<tr><td>10</td><td>Autarchy War Stalker</td><td>Graffiti-coated</td><td>Heretics</td><td>Biotech Infestation</td></tr>
-<tr><td>11</td><td>Water Prospector's Rig</td><td>Riddled with Holes</td><td>Wine</td><td>Nanomachines</td></tr>
-<tr><td>12</td><td>Autarch's Pleasure Barge</td><td>Skeletal</td><td>Refugees</td><td>Faa Nomad Ambush</td></tr>
-<tr><td>13</td><td>Colossal Exosuit</td><td>Shredded</td><td>Fungus</td><td>Cacklemaw Ambush</td></tr>
-<tr><td>14</td><td>Ancient Submarine</td><td>Inside Out</td><td>Embryos</td><td>Faulty Navigation</td></tr>
-<tr><td>15</td><td>Ancient Warship</td><td>Overgrown</td><td>Lithling Seeds</td><td>Drunk Driving</td></tr>
-<tr><td>16</td><td>Ancient Steam Ferry</td><td>Looted</td><td>Bombs</td><td>Incompetent Officers</td></tr>
-<tr><td>17</td><td>Ancient Train</td><td>Halfway Repaired</td><td>Cyborg Parts</td><td>Crew Mutiny</td></tr>
-<tr><td>18</td><td>Ancient Fighter Jet</td><td>Occupied</td><td>Synths</td><td>Attacked by Monster</td></tr>
-<tr><td>19</td><td>Motile Home</td><td>Surprisingly Intact</td><td>Holy Relics</td><td>EMP Blast</td></tr>
-<tr><td>20</td><td>Pre-Collapse Spacecraft</td><td>Some Features Work</td><td>Exotica</td><td>Orbital Weapon Strike</td></tr>
-</table>
+| **D20** | **잔해** | **상태** | **싣고 있던 화물** | **난파의 원인** |
+| --- | --- | --- | --- | --- |
+| 1 | 풍력바지선 | 낡음 | 첩자들 | 도적들 |
+| 2 | 오토 채리엇 | 레이저에 그슬림 | 가면 | 내부공작 |
+| 3 | 듄 스커기 | 불탐 | 물 | 모래폭풍 |
+| 4 | 장갑 크롤러 | 오염됨 | 병사들 | 연료 고갈 |
+| 5 | 스틸트 스트러더 | 햇빛으로 표백됨 | 기억 수정 | 지뢰 |
+| 6 | 연 마차 | 녹슮 | 총기 | 질병 |
+| 7 | 수송 비행선 | 산산조각남 | 노예들 | 전쟁 |
+| 8 | 신정부 오니솝터 | 쪼개짐 | 커피 | 고장난 기계 |
+| 9 | 궤도 위성 | 분해됨 | 포로들 | 그냥 버려짐 |
+| 10 | 신왕국 전쟁 추적자 | 낙서로 덮임 | 이단들 | 생체적 감염 |
+| 11 | 물 탐사자의 장비 | 구멍 투성이 | 와인 | 나노기계 |
+| 12 | 신왕의 영광스러운 바지선 | 골조만 남음 | 난민들 | 파아 유목민의 매복 |
+| 13 | 거상같은 외골격 | 잘게 조각남 | 진균류 | 캐클모의 매복 |
+| 14 | 고대의 잠수함 | 내부가 바깥으로 노출됨 | 태아들 | 잘못된 항해 |
+| 15 | 고대의 전함 | 너무 큼 | 리슬링 종자를 | 음주운전 |
+| 16 | 고대의 증기선 | 약탈당함 | 폭탄 | 무능한 장교들 |
+| 17 | 고대의 열차 | 반쯤 수리됨 | 사이보그 부품 | 선상반란 |
+| 18 | 고대의 제트전투기 | 사용중임 | 신스들 | 괴물들에게 공격당함 |
+| 19 | 이동할 수 있는 집 | 놀랍게도 멀쩡함 | 성유물 | EMP 폭발 |
+| 20 | 붕괴 전 우주선 | 몇몇 기능이 작동함 | 엑조티카 | 궤도 병기의 공격 |
 
 ## Vault
 
