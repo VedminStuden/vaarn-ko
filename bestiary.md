@@ -24,7 +24,7 @@ _유기체_
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: 1</td></tr>
 <tr><td colspan="2"><b>공격</b>: 등치기 (d6) + 독 분사</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: 독 분사는 CON 내성굴림을 강요합니다. PC가 실패하면 '불멸의 독’라는 특별한 상처를 얻습니다. PC의 체력이 0까지 떨어지면, 해독제를 찾기 전까지 회복할 수 없습니다.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 독 분사는 CON 내성굴림을 강요합니다. PC가 실패하면 '불멸의 독’라는 특별한 부상을 입습니다. PC의 체력이 0까지 떨어지면, 해독제를 찾기 전까지 회복할 수 없습니다.</td></tr>
 </table>
 
 ## 은빛 양치기 (Argent Shepherd)
@@ -241,7 +241,7 @@ _유기체_
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1 / d6 in lair</td></tr>
 <tr><td colspan="2"><b>공격</b>: 독침 (수면에 대해 CON 내성굴림) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: 나방 같은 비행 수술의입니다. 인간을 납치하고 의심스러운 의료 조치를 가하는 것에 몰두합니다. 그들의 침은 생체적인 생물체가 CON 내성굴림에 실패했을 때 몇 시간 동안 깊고 꿈이 없는 잠에 빠지게 합니다. 그런 다음 키우미는 그들을 번데기 안에 싸서 d6일 동안 잠들게 합니다. 깨어난 후, 번데기가 됐던 환자들은 HP가 최대로 회복되고 모든 상처나 기타 질병이 치유되었다는 것을 발견할 것입니다, 그리고 키우미의 불완전한 의학 지식이 어떻게 영향을 미쳤는지 알아보기 위해 <a href="vaarn.github.io/#/ancestries?id=mutations">돌연변이</a> 표를 굴려야 합니다.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 나방 같은 비행 수술의입니다. 인간을 납치하고 의심스러운 의료 조치를 가하는 것에 몰두합니다. 그들의 침은 생체적인 생물체가 CON 내성굴림에 실패했을 때 몇 시간 동안 깊고 꿈이 없는 잠에 빠지게 합니다. 그런 다음 키우미는 그들을 번데기 안에 싸서 d6일 동안 잠들게 합니다. 깨어난 후, 번데기가 됐던 환자들은 HP가 최대로 회복되고 모든 부상이나 기타 질병이 치유되었다는 것을 발견할 것입니다, 그리고 키우미의 불완전한 의학 지식이 어떻게 영향을 미쳤는지 알아보기 위해 <a href="vaarn.github.io/#/ancestries?id=mutations">돌연변이</a> 표를 굴려야 합니다.</td></tr>
 </table>
 
 ## 단검코 (Daggertrunk)
@@ -298,241 +298,241 @@ _유기체_
   <b>무리 공격:</b> 눈 없는 개는 라운드 안에서 공격할 때마다 각각의 개체가 +1의 명중과 +1의 피해를 얻습니다. 라운드가 끝나면 초기화됩니다.</td></tr>
 </table>
 
-## Faa Nomad
+## 파아 유목민 (Faa Nomad)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 4</td><td><b>수량</b>: d10</td></tr>
-<tr><td colspan="2"><b>공격</b>: Rifle (d8) / Curved Blade (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The travelling folk of the blue desert. Expert trackers, skilled at ambush and escapes. Parties who wrong the Faa will be subject to pursuit, night-time sabotage, hit-and-run 공격, and every other inconvenience imaginable.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 소총 (d8) / 곡도 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 푸른 사막의 여행하는 민중들은 숙련된 추적자로, 매복과 탈출에 능숙합니다. 파아를 해치는 파티는 추격을 받게 되며, 야간 공작, 치고 빠지는 습격 및 상상할 수 있는 모든 불편함에 시달릴 것입니다.</td></tr>
 </table>
 
-## Feastbeast
+## 잔치짐승 (Feastbeast)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 10</td></tr>
 <tr><td><b>사기</b>: 언제나 도망침</td><td><b>수량</b>: d12</td></tr>
-<tr><td colspan="2"><b>공격</b>: Trample (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Placid, genesculpted herd animals. Somewhat like a pig and somewhat like a cow, with a hint of human in their eyes and ears.  
+<tr><td colspan="2"><b>공격</b>: 짓밟기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 평온한, 유전자 조작된 방목 동물들입니다. 어느 정도는 돼지와 비슷하고 어느 정도는 소와 비슷하며, 그들의 눈과 귀에는 인간의 흔적이 있습니다.  
 <br />
-  <b>Organ Donor:</b> Feastbeasts have spare internal organs, all of which can be transplanted into a human. True-kin will always accept the transplant; cacogen must roll 1d6 for each mutation. If any die shows a 1, the transplant is rejected.</td></tr>
+  <b>장기 기증자:</b> 잔치짐승는 여분의 내장을 가지고 있으며, 이 모든 것들은 인간에게 이식할 수 있습니다. 트루킨은 항상 이식을 받아들일 수 있습니다. 캐커젠은 각각의 돌연변이마다 1d6를 굴려야 합니다. 주사위 중 하나라도 1을 보여주면, 이식은 거부됩니다.</td></tr>
 </table>
 
-## Flabmonger
+## 군살장수 (Flabmonger)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Lipoinduction (+1 Flab)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Resembles a hairless, fleshy anteater. A Flabmonger’s bite triggers a bizarre overproduction of lipids, causing tumorous bags of malignant fat to sprout from the afflicted creature. Once their prey has become too fat to move, a Flabmonger will slowly begin to feed.  
+<tr><td colspan="2"><b>공격</b>: 지방증가 (+1 지방)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 털 없는, 살짝 뚱뚱한 개미핥기와 비슷합니다. 군살장수의 물림은 이상하게도 지방의 과다 생산을 유발하여, 악성 지방의 종양 주머니가 고통 받는 생물체에서 돋아납니다. 그들의 먹이가 움직일 수 없을 만큼 뚱뚱해지면, 군살장수는 천천히 먹기 시작합니다. 
 <br />
-  <b>Lipoinduction:</b> 유기체 creatures bitten by a Flabmonger must fill one item slot with Flab. Filling more than ten slots with Flab is fatal. Flab is cured at the rate of one slot per week.</td></tr>
+  <b>지방증가:</b> 군살장수에게 물린 생명체는 하나의 아이템 칸을 지방(Flab)으로 채워야 합니다. 10개 이상의 칸을 지방으로 채우면 치명적입니다. 지방은 주당 하나의 칸씩 치료됩니다.</td></tr>
 </table>
 
-## Flashund
+## 섬광견 (Flashund)
 _초기하학적_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 4</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Planeydogs, descended from the early test passengers of 초기하학적 gateways. These large, cunning canines are able to teleport short distances at will, bypassing solid objects in a flash of soundless, uncanny light. They use this ability to dance in and out of melee range, harrying their prey to exhaustion.  
+<tr><td colspan="2"><b>공격</b>: 물기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 초기 초기하학적 관문의 실험자들에게서 유래한 플래니도그입니다. 이 크고 영리한 개들은 의지대로 짧은 거리를 순간이동할 수 있으며, 무소음의 기묘한 빛의 번개와 함께 고체 물체를 우회합니다. 그들은 이 능력을 사용하여 근접 범위 안팎으로 춤추며, 먹이를 지치게 만듭니다.
 <br />
-<b>Telefrag:</b> If a Flashund rolls a natural one during its attack, it has misjudged its teleport and is now occupying the same space as a solid object near its target. The Flashund dies instantly, causing 3d6 blast damage to everyone nearby.</td></tr>
+<b>텔레프래그:</b> 섬광견이 공격 중에 자연스럽게 1을 굴릴 경우 순간이동을 잘못 판단하여 이제는 대상 근처의 고체 객체와 같은 공간을 차지하게 됩니다. 섬광견이 즉사함과 함께 주변의 모든 사람에게 3d6의 폭발 피해를 줍니다.</td></tr>
 </table>
 
-## Fleshwarp
+## 뒤틀린살점 (Fleshwarp)
 _유기체_
 <table>
-<tr><td><b>레벨</b>: #Limbs</td><td><b>장갑</b>: 13</td></tr>
-<tr><td><b>사기</b>: #Limbs</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Fists (#Limbs x d4) / Graft (STR Save vs Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Fleshwarps are cacogenic abhumans, consisting of an atrophied, vestigal head and torso, and a multitude of powerful questing limbs. The creatures are blessed with rapid cellular regeneration, and can heal even mortal wounds within minutes. As they grow, more and more biomass is extruded into their limbs, creating skittering spiderlike abominations.
+<tr><td><b>레벨</b>: #팔다리</td><td><b>장갑</b>: 13</td></tr>
+<tr><td><b>사기</b>: #팔다리</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: 주먹 (#팔다리 x d4) / 선사 (STR 내성굴림 특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 뒤틀린살점은 캐커젠 비인간으로, 위축된 잔여 머리와 상체 그리고 강력한 탐색용 팔다리가 있습니다. 이 생물들은 빠른 세포 재생력에 축복을 받아, 심각한 상처도 몇 분 안에 치료할 수 있습니다. 그들이 성장함에 따라 점점 더 많은 살점이 이들의 팔다리로 밀려나와, 거미 같은 혐오스러운 것을 만듭니다.
 <br />
-<b>Limbs:</b> Roll 2d6 to determine the Fleshwarp’s number of limbs (#Limbs). The creature’s 레벨 is equal to this number.
+<b>팔다리:</b> 2d6을 굴려 뒤틀린살점의 팔다리의 수 (#팔다리)를 결정합니다. 이 생물체의 레벨은 이 숫자와 동일합니다.
 <br />
-<b>Regeneration:</b> The Fleshwarp regains 4hp per combat round, unless burned or dipped in acid.
+<b>Regeneration:</b> 뒤틀린살점은 전투 라운드마다 4hp를 회복합니다, 단 화상을 입었거나 산에 담겨있는 경우를 제외합니다.
 <br />
-<b>Grafting:</b>If the Fleshwarp has a 유기체 target to attack, it will pounce. If the victim fails an opposed STR save, the Fleshwarp attaches one of its limbs to the victim’s torso. The Fleshwarp’s #Limbs and corresponding 레벨 are lowered by 1. The victim must fill an item slots with a special Wound: <b>Grafted Arm.</b> The Grafted Arm has 1 레벨 and the 장갑 score of its host. Damage dealt to the Grafted Arm is shared between the host and the limb.</td></tr>
+<b>이식:</b>뒤틀린살점이 공격할 생체적인 대상이 있다면, 그것은 돌진합니다. 희생자가 STR 대항 판정에 실패하면, 뒤틀린살점은 자신의 한 쪽 팔다리를 희생자의 몸통에 붙입니다. 뒤틀린살점의 #팔다리와 레벨이 1만큼 줄어듭니다. 희생자는 아이템 슬롯 하나를 특별한 부상인 이식된 팔로 채워야 합니다. 이식된 팔의 스탯은 팔다리의 소유자 만큼의 방어 점수 및 1 레벨입니다. 이식된 팔에 가해진 피해는 소유자와 팔다리 사이에서 공유됩니다.</td></tr>
 </table>
 
-## Fractalisk
+## 프랙탈리스크 (Fractalisk)
 _초기하학적 / 이계체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d8) + Recursive Gaze (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: An incursion from another fevered sphere of reality, a bizarre 초기하학적 monster which feeds upon paradox and whose mere regard unwinds the weave and weft of space-time. The Fractalisk resembles a lizard from some angles, a blossoming flower from others, and at times can seem no more substantial than a fan of light reflected upon a wall. In all aspects, however, the creature is virulently dangerous.
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) +반복의 시선 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 다른 고열의 현실 구역에서의 침략, 패러독스를 먹는 이상한 초기하학적 괴물로, 그저 바라보는 것만으로도 시공간의 짜임새를 풀어버립니다. 프랙탈리스크는 어떤 각도에서 보면 도마뱀처럼 보이고, 다른 각도에서 보면 꽃이 피어나는 것처럼 보이며, 때로는 벽에 반사된 빛의 부채보다 더 비현실적인 것 같을 수 있습니다. 하지만 모든 면에서 이 생물체는 매우 위험합니다.
 <br />
-<b>Recursive Gaze:</b> Any PC fixed with the Recursive Gaze must repeat the action they took the turn before, with no save allowed. This effect is broken if the Fractalisk’s gaze is interrupted, or if the creature dies.
+<b>반복의 시선:</b> 재귀적인 시선에 고정된 PC는 이전 턴에 취한 행동을 반복해야 하며, 내성굴림이 허용되지 않습니다. 이 효과는 프랙탈리스크의 시선이 방해받거나 프랙탈리스크가 죽으면 깨집니다.
 <br />
-<b>Self Similar:</b> Wounding a Fractalisk without the use of 초기하학적 weaponry or anti-paradoxical normality gas causes the creature to spit into two identical Fractalisks, which can both target separate PCs with their Recursive Gazes.</td></tr>
+<b>자기 유사:</b> 초기하학적 무기나 반-역설 정상화 가스를 사용하지 않고 프랙탈리스크를 상처 입히면, 두 개의 동일한 프랙탈리스크로 분리되어 각각 다른 PC들을 그들의 반복시키는 시선으로 대상으로 삼을 수 있습니다</td></tr>
 </table>
 
-## Gamma Ray
+## 감마가오리 (Gamma Ray)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Sting (d6 + d12 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: These rays are found in the shallows of the Sea of Songs, feeding on crabs, squid, and small fish. The creature is known for its unusual method of defense: it filters heavy metals and toxic waste from the Vaarnish seawater, and concentrates them into a highly radioactive venom, which it injects into predators.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 독침 (d6 + d12 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 가오리들은 노래의 바다의 얕은 곳에서 발견되며, 게, 오징어, 작은 물고기를 먹습니다. 이 생물체는 그 특이한 방어 방법으로 알려져 있습니다: 바안의 바닷물에서 중금속과 독성 폐기물을 걸러내고, 이를 고도로 방사능 있는 독으로 응축하여 포식자에게 주입합니다.</td></tr>
 </table>
 
-## Gene Thief
+## 유전자도둑 (Gene Thief)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Copy-Claws (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Skulking shunned descendants of the Autarch’s feared ‘Face Dancer’ spies. Gene Thieves are paranoid, destructive cacogen, whose malleable faces take on the aspect of those they wound. They are only semi-intelligent and are no longer capable of convincingly impersonating those they mimic. 
+<tr><td colspan="2"><b>공격</b>: 복제발톱 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 신왕국의 두려운 '얼굴 춤꾼' 첩자들의 소외된 후손들이 몰래 숨어있었습니다. 유전자 도둑은 변덕스러운 얼굴을 가진 편집증적이며 파괴적인 캐커젠으로, =상처를 입힌 사람들의 모습을 취합니다. 그들은 반쯤 지능적일 뿐이며, 이제는 흉내 내는 사람들을 설득력 있게 모방하는 능력이 없습니다.
 <br />
-<b>Copy-claws:</b> A Gene Thief can take on the facial appearance of any 유기체 creature it wounds with its claws. Their bodies remain scrawny, pink, and hunched.</td></tr>
+<b>복제 발톱:</b> 유전자 도둑은 발톱으로 상처를 입히는 어떤 생체적인 생물체든지 그 얼굴 모습을 취할 수 있습니다. 유전자 도둑의 몸은 여전히 마르고 분홍색이며 구부러져 있습니다.</td></tr>
 </table>
 
-##  Ghoul
+## 구울 (Ghoul)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Agonising Claws (d6 + CON save vs Agony)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: On moonless nights, a certain breed of furtive autodidact visits battlefields and plague pits and tombs. It is not about the taste. It never has been. It is about knowledge. And where some see a graveyard, others see a library. 
+<tr><td colspan="2"><b>공격</b>: 고통을 유발하는 발톱 (d6 + 고통에 대해 CON 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 달이 없는 어두컴컴한 밤에는 특정한 종류의 은밀한 자기학습자들이 전장과 역병 구덩이, 무덤을 찾아갑니다. 맛에 대한 것이 아닙니다. 맛을 추구한 적은 없었습니다. 바로 지식에 관한 것입니다. 어떤 사람들은 무덤을 보지만, 다른 사람들은 서고을 봅니다. 
 <br />
-<b>Agony:</b> 유기체 characters inflicted with Agony take d6 damage for each combat action they make. Lying still neutralises the venom.</td></tr>
+<b>고통:</b> 고통으로 인해 고통받는 생물적 캐릭터들은 그들이 하는 전투 행동마다 d6의 피해를 입습니다. 가만히 누워있으면 독소가 중화됩니다.</td></tr>
 </table>
 
-## Giant Azure Scorpion
+## 거대 하늘색 전갈 (Giant Azure Scorpion)
 _유기체_ / _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d10) + Claw (d10) + Laser Tail Blast (d8 beam)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Cyborg arachnid. Lies in ambush underneath the blue sands. If their laser-cannon tails are severed they can be used as d8 laser weapons.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d10) + 발톱 (d10) + 레이저 꼬리 발사 (d8 광선)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 사이보그 거미입니다. 파란 모래 아래에서 매복하고 있습니다. 레이저포 꼬리가 잘려나가면 d8 레이저 무기로 사용할 수 있습니다.</td></tr>
 </table>
 
-## Glass Tiger
+## 유리 호랑이 (Glass Tiger)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d4) + Claw (d4) + Maul (d10) if both claws hit same target</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Translucent extraterrestrial hunters, transported to Urth during the reign of the Autarchs. Body like a tiger with a head like an orchid. Very difficult to spot when they're not moving.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d4) + 발톱 (d4) 두 발톱으로 같은 대상을 적중했을 때 + 마울 (d10)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 신왕의 통치기 동안 우르스로 옮긴 반투명 외계인 사냥꾼들입니다. 이들의 몸은 호랑이처럼 보이고 머리는 난초와 같습니다. 움직이지 않을 때 매우 찾기 어렵습니다.</td></tr>
 </table>
 
-## Glider Spider
+## 활강 거미 (Glider Spider)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6</td></tr>
 <tr><td colspan="2"><b>공격</b>: Venomous Bite (d8 + d8 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Man-sized predatory arachnids, which hunt in small packs. The creatures have a parasol-like membrane between their legs, which allows them to swoop down upon their prey. They do not build webs, but nest in crevices and holes.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 작은 무리에서 사냥하는 인간 크기의 포식성 거미류입니다. 이 생물들은 다리 사이에 파라솔처럼 생긴 막이 있어, 자신이 먹이 위로 내려갈 수 있게 합니다. 거미줄을 만들지 않지만, 틈새나 구멍에 둥지를 만듭니다.</td></tr>
 </table>
 
-## Gorgon
+## 고르곤 (Gorgon)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 9</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 12</td><td><b>수량</b>: Unique</td></tr>
-<tr><td colspan="2"><b>공격</b>: Constrict (d10) + 2 x Venom Spit (d8 TOX) / Captivating Gaze (All foes EGO save vs Beguiled)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A monstrous creature with the head of a ferociously beautiful woman and the body of a writhing mass of snakes. She is believed to be a pursuant of the Path Renewed, who sought eternal youth in the image of the Ouroboros, the world-serpent without end or beginning. She achieved the long-sought apotheosis, but at terrible cost, having shed her humanity like a rough and discarded skin, and lives her eternal life as a voracious chimera of odalisque and viper.
+<tr><td colspan="2"><b>공격</b>: 조이기 (d10) + 2 x 독 뱉기 (d8 TOX) / 매혹적인 시선 (모든 적이 매혹에 대항해 EGO 내성굴림을 함)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 사나운 아름다움의 여성의 머리와 뱀의 몸으로 이루어진 괴물 같은 생물체입니다. 그녀는 끝이나 시작이 없는 세계 뱀, 우로보로스의 모습에서 영원한 젊음을 찾고자 했던 갱신의 길의 추구자라고 여겨집니다. 그녀는 오랫동안 찾아온 신격화를 이루었지만, 대단히 큰 비용을 치르면서 거친 피부처럼 인간성을 벗어버렸고, 일기당천한 첩와 독사의 키메라로서 영원한 생명을 살아갑니다.
 <br />
-<b>Beguiled:</b> Characters who have been Beguiled cannot harm the Gorgon, believing her to be the most beautiful creature they have ever seen. They may make an EGO save each round to attempt to fight off this insidious devotion. While Beguiled, they grovel and compete with one another for the Gorgon’s favour.
+<b>매혹:</b> 매혹당한 캐릭터들은 고르곤을 해치지 못하며, 그녀를 그들이 본 것 중 가장 아름다운 생물로 여깁니다. 매혹당한 캐릭터는 매 라운드마다 이 치밀한 헌신심을 벗어던지기 위해 EGO 내성굴림을 할 수 있습니다. 매혹당하는 동안, 그들은 고르곤에게 호감을 얻기 위해 굴복하거나 서로 경쟁합니다.
 <br />
-<b>Harem:</b> The Gorgon is accompanied by d10 personages of exceptional charm and comeliness; these are her favoured suitors, who have so far been spared the Gorgon’s appetites and make every attempt possible to please her. Stats as Bandits.</td></tr>
+<b>하렘:</b> 고르곤은 d10 명의 매력적이고 단정한 사람들과 함께 있습니다; 이들은 그녀가 좋아하는 구혼자들로, 지금까지 고르곤의 욕구를 면하고 가능한 모든 방법으로 그녀를 기쁘게 하려고 합니다. 도적과 같은 스탯입니다.</td></tr>
 </table>
 
-## Gravity Tyrant
+## 중력의 폭군 (Gravity Tyrant)
 _이계체 / 무기질_
 <table>
 <tr><td><b>레벨</b>: 9</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Invert Weight (Special) / Weight of Worlds (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: An extra-dimensional being. Formed from a spiny kernel of sentient hyperdense matter, which vaguely resembles a crowned head. Stones and other debris orbit the creature’s obscured form.
+<tr><td colspan="2"><b>공격</b>: 무게 반전 (특수) / 세계의 무게 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 차원을 넘나드는 존재입니다. 가시 같은 알맹이로 이루어진 지각이 있는 초밀도 물질로 형성되었으며, 이는 대략 왕관을 쓴 머리를 연상시킵니다. 돌과 다른 잔해들이 생물체의 가려진 형태 주변을 공전합니다.
 <br />
-<b>Accretion:</b> each round, all nearby creatures must DEX save or lose the item in their lowest inventory slot. Lost items are drawn into the Tyrant’s orbit and crushed into their component parts. Each successful Accretion adds +1 to the Tyrant’s 장갑 defense.
+<b>축적:</b> 매 라운드마다, 근처의 모든 생물들은 DEX 내성굴림을 해야 하며 그렇지 않으면 그들의 인벤토리 칸을 가장 적게 차지하는 아이템을 잃습니다. 잃어버린 아이템들은 폭군의 궤도로 끌려가서 그들의 구성 부분으로 분쇄됩니다. 각 성공적인 축적은 폭군의 장갑 방어도에 +1을 추가합니다.
 <br />
-<b>Invert Weight:</b> the Tyrant inverts the weight of an opponent, sending them tumbling into the sky. This effect lasts until the Tyrant is killed; allow 12 combat rounds before the character is considered lost forever in the sky. For each combat round a target spends falling skywards, the victim takes d10 damage when they finally fall to Urth.
+<b>무게 반전:</b> 폭군은 상대방의 무게를 반전시켜, 그들을 하늘로 튕겨 보냅니다. 이 효과는 폭군이 죽을 때까지 지속되며, 캐릭터가 영원히 하늘에 사라진 것으로 간주되기 전에 12개의 전투 라운드를 허용합니다. 목표가 하늘로 추락하는 동안 보낸 각 전투 라운드마다, 희생자는 마침내 우르스에 추락할 때 d10 의 피해를 입습니다.
 <br />
-<b>Weight of Worlds:</b> the Tyrant doubles the weight of an opponent and all gear they carry. The PC’s maximum Item Slots are halved, and the slot size of each item is doubled. This effect lasts until the Tyrant is killed.
+<b>세계의 무게:</b> 폭군은 상대방과 그들이 가지고 있는 모든 장비의 무게를 배로 만듭니다. PC 의 최대 아이템 슬롯 수가 절반이 되고, 각 아이템의 슬롯 크기가 배로 됩니다. 이 효과는 폭군이 죽을 때까지 지속됩니다.
 </td></tr>
 </table>
 
-## Greenguard
+## 그린가드 (Greenguard)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Rifle (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Green plastic-fleshed homunculi. They attack from the wastes without warning, seemingly following ancient orders. They take and hold settlements at random, apparently waiting for reinforcements that never arrive.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 소총 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 녹색 플라스틱 살점을 가진 난쟁이입니다. 경고 없이 황무지에서 공격하며, 고대의 명령을 따르는 것처럼 보입니다. 마구잡이로 정착지를 점령하고 있으며, 도착하지 않을 지원 병력을 기다리는 것 같습니다.</td></tr>
 </table>
 
-## Greenwaif
+## 풀빛 방랑자 (Greenwaif)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 4</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Pollen-borne Empathogens (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The sages of the long-vanished world worked many wonders. One of their quixotic tasks was the breaching of the boundaries between the animal and vegetable kingdoms, which has resulted in several abhuman lineages that exist in present-day Vaarn. Greenwaifs are slender humanoids with symbiotic algae and plant species growing within their flesh. They take all their energy from photosynthesis, requiring only water, and claim to enjoy long lifespans as a result.
+<tr><td colspan="2"><b>공격</b>: 꽃가루 매개성 이입체 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 오래 전에 사라진 세계의 현자들은 많은 기적을 이루었습니다. 그들의 독특한 작업 중 하나는 동물의 왕국과 식물의 왕국 사이의 경계를 뚫는 것이었는데, 이로 인해 현재 바안에서 존재하는 몇 가지 반인간 종족이 생겨났습니다. 풀빛 방랑자는 그들의 살에 공생하는 조류와 식물 종이 자라는 날씬한 인간형 생명체입니다. 그들은 모든 에너지를 광합성으로 얻으며, 물만 필요하다고 주장하며, 결과적으로 오랜 수명을 누린다고 합니다.
 <br />
-<b>Empathogens:</b> These abhumans produce a weaponised pollen, which causes hallucinations, delirium, serotonin overproduction, and sometimes death. Each combat round, all 유기체 creatures around the Greenwaif are exposed to a dose of the pollen. They must make an EGO save to remember what they are supposed to be doing, or else fall into a blissful, honeyed stupor. PCs under the effect of the pollen are more open to sharing their secrets and buried emotions, experience instant connections with strangers, and have no desire to harm the Greenwaif.</td></tr>
+<b>공감가루:</b> 이 비인간들은 환각증, 헛소리, 세로토닌 과잉생산, 때로는 죽음을 일으키는 무기화된 꽃가루를 생산합니다. 매 전투 라운드마다, 풀빛 방랑자 주변의 모든 생체적인 생명체들은 꽃가루의 한 용량에 노출됩니다. 그들은 자신이 해야 할 일을 기억하기 위해 EGO 내성굴림을 해야하며 실패했을 때, 달콤한 벌꿀같은 것에 취한 상태에 빠집니다. 꽃가루 효과 아래 있는 PC 들은 비밀과 감추어진 감정을 공유하는 것에 대해 보다 개방적이며, 낯선 사람들과 순간적인 연결을 경험하고 풀빛 방랑자를 해치려는 욕구가 없어집니다.</td></tr>
 </table>
 
-## Grey Cricket
+## 회색 귀뚜라미 (Grey Cricket)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d4) + Noxious Spit</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Creepy gangly giant insects. Normally scavengers, but will attack humans if they think they can get away with it. Their spit forces a CON save. Failure results in disadvantage on all saves for one round due to vomiting.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d4) + 유독성 침</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 소름 끼치는 거대한 곤충들입니다. 일반적으로 황무지의 청소부이지만, 자신들이 상대할 수 있다고 생각하면 인간을 공격합니다. 침에 맞으면 CON 내성굴림을 해야합니다.. 실패하면 구토 때문에 한 라운드 동안 모든 내성굴림에 불리한 조건이 적용됩니다.</td></tr>
 </table>
 
-## Grimpet
+## 그림펫 (Grimpet)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d10 (+ d3 Grimweavers)</td></tr>
-<tr><td colspan="2"><b>공격</b>: Stab (d6) followed by Latch (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Grimpet drones are small, spider-like robots with a thick plasteel shell on their backs. They are usually found within ancient ruins, and have a simple goal: to guard their designated area and capture any intruders. They attempt to do this by swarming over their enemies, before latching onto their bodies and emitting a piercing shriek to alert other security drones. Grimpets will not pursue beyond the boundaries of the ruin they guard.
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d10 (+ d3 그림위버)</td></tr>
+<tr><td colspan="2"><b>공격</b>: 달라붙어 찌르기 (d6) (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 그림펫 드론은 등에 두꺼운 플라스틸 껍질을 지닌 작고 거미 같은 로봇입니다. 그들은 보통 고대의 폐허 내에서 발견되며, 간단한 목표를 가지고 있습니다: 지정된 영역을 지키고 침입자를 포착하는 것입니다. 그들은 적들을 향해 무리지어 달려들어 그들의 몸에 붙는 방식으로 이를 시도하며, 다른 보안 드론을 알리기 위해 귀를 찢는 비명을 내뿜습니다. 그림펫은 자신들이 지키는 폐허의 경계를 넘어 추적하지 않습니다.
 <br>
-<b>Latch:</b> a latched Grimpet has burrowed its clawed legs deep into the flesh of its foe, and will cling on indefinitely. Afflicted PCs must fill one item slot with a Wound: 'Grimpet'. While latched to an intruder, the Grimpet emits a horrid wail, which attracts the attention of all monsters within earshot. The Grimpet will resist attempts to prise it off, and requires surgical attention.</td></tr>
+<b>달라붙기:</b> 달라붙기로 한 그림펫은 자신의 발톱이 달린 다리를 적의 살 속 깊숙이 파묻고, 무기한 기간 동안 붙잡아둡니다. 고통받는 PC 들은 아이템 슬롯 하나를 '그림펫' 부상으로 채워야 합니다. 침입자에게 붙어 있는 동안, 그림펫은 소름 끼치는 울음소리를 내뿜으며, 청력 범위 내의 모든 괴물의 주목을 받게 됩니다. 그림펫은 자신을 벗기려는 시도에 저항하며, 수술적인 처리가 필요합니다.</td></tr>
 </table>
 
-## Grimweaver
+## 그림위버 (Grimweaver)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d3 (+ d10 Grimpets)</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d8) / Web Shot (Entangled + d4 STR drain)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A larger, more powerful cousin of the Grimpet, Grimweavers were created as sentinels for ancient sites. They spit a nanofibre web that can ensnare even the strongest of creatures, immobilising an intruder and draining their strength. They are rarely encountered alone, instead leading swarms of Grimpet drones. Grimweavers will not pursue beyond the boundaries of the ruin they guard.
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d3 (+ d10 그림펫)</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d8) / 거미줄 쏘기 (묶임 + d4 STR 흡수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 그림펫의 더 크고 강력한 친척인 그림위버는 고대 유적의 파수꾼으로 만들어졌습니다. 그들은 심지어 가장 강한 생물조차도 덫에 걸릴 수 있는 나노섬유 거미줄을 뱉어내, 침입자를 움직이지 못하게 하고 힘을 약화시킵니다. 그들은 드물게 단독으로 만나지만 대신 그림펫 드론의 무리를 이끕니다. 그림위버는 그들이 지키는 폐허의 경계를 넘어 추적하지 않습니다.
 <br>
-<b>Entangled:</b> an Entangled creature has an 장갑 Defence of 09, and cannot move freely. The target must make a DEX save to break free.</td></tr>
+<b>묶임:</b> 거미줄에 묶인 생물은 장갑이 9으로 고정되며, 자유롭게 움직일 수 없습니다. 대상은 자유롭게 움직이기 위해 DEX 내성굴림을 해야 합니다.</td></tr>
 </table>
 
-## Gruk
+## 그러크 (Gruk)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 0 (1 HP)</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 0</td><td><b>수량</b>: 2d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Diminutive abhumans, which resemble bipedal mole-rats. They dress in hooded robes to shield their  hairless scalps from the sun. Gruks are eusocial creatures, dwelling in underground hives of 8d10 individuals. A single fertile Queen bears litters of sterile, short-lived children, who shoulder the work of the hive: digging tunnels, farming fungus, and keeping their mother safe from attack. When the reigning Queen dies the hive splits, the suitors of each newly-fertile Princess striking out across the desert in search of a new home.
+<tr><td colspan="2"><b>공격</b>: 물기 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 그러크는 두발로 걷는 두더지쥐를 닮은 작은 비인간 종류입니다. 그들은 태양으로부터 자신들의 무모한 머리를 보호하기 위해 후드가 달린 로브를 입습니다. 그러크는 매우 사회적인 생물로, 8d10 마리의 개체가 있는 지하 둥지에서 살고 있습니다. 한 마리의 생식 가능한 여왕은 불임인 동시에 수명이 짧은 아이들을 낳고, 이 아이들이 둥지의 일을 맡게 됩니다: 터널을 파고, 버섯을 재배하며, 어머니를 공격으로부터 안전하게 보호하는 것입니다. 현재의 여왕이 죽으면 둥지는 분열되고, 각각의 새롭게 생식 가능해진 공주에게 구혼하는 자들이 사막을 가로지르며 새로운 집을 찾아 나섭니다.
 <br>
-Gruks are intelligent, although not very imaginative. They utilise scavenged technology, but cannot learn from what they find. They are born knowing how to make standardised furniture and clothing, and grow uneasy when asked to deviate from these forms. A Gruk would prefer to sleep on the floor than in a bed with an unfamiliar shape.</td></tr>
+그러크는 지능적지만 창의력은 그다지 발달하지 않았습니다. 그들은 찾아낸 기술을 활용하지만, 근본적으로 기술을 배울 수는 없습니다. 그들은 그러크 사이에서 표준적인 가구와 옷을 만드는 방법에 대해 알고 태어나며, 이런 형태에서 벗어나라고 요구 받으면 불안해합니다. 그러크는 익숙하지 않은 모양의 침대보다 바닥에서 잠자는 것을 선호합니다.</td></tr>
 </table>
 
-## Hagfluke
+## 노파흡충 (Hagfluke)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Siphon (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Sinuous parasites with the faces of fanged crones. With each successful attack on a 유기체 target they gain 1 레벨 and heal d6 HP.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 흡관 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 송곳니가 달린 노파의 얼굴을 가진 뱀 모양의 기생충들입니다. 생체적 목표에 대한 성공적인 공격마다 1 레벨을 얻고 d6 HP를 치유합니다.</td></tr>
 </table>
 
-## Harlequin Serpent
+## 어릿광대 뱀 (Harlequin Serpent)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d8) / Venom Spray</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Large desert snakes, with colouration on their heads that resembles the makeup worn by sacred fools. Their venom forces a CON save; failure results in a convulsive laughter-like reaction to the serpent’s neurotoxins. Afflicted creatures laugh for d6 hours; they cannot speak until the venom wears off.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d8) / 독 분사</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 큼지막한 사막뱀들은 성스러운 어릿광대가 착용하는 화장과 비슷하게 머리를 장식했습니다. 어릿광대 뱀의 독은 CON 내성굴림을 요구하며, 실패할 경우 뱀의 신경독으로 인해 경련과 같은 웃음 반응이 나타납니다. 영향을 받은 생물은 d6 시간 동안 계속 웃으며, 독이 사라질 때까지 말할 수 없습니다.</td></tr>
 </table>
 
 ## Hegemony Centurion
@@ -540,243 +540,243 @@ _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Autorifle (d8) + Rapier (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The Hegemony's officer caste are famed for their extravagant facial hair, their gaudy epaulettes, and their contempt for weakness. Legionaries in presence of Centurion use the Centurion’s 사기 score.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 자동소총 (d8) + 레이피어 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 신정부의 장교 계급은 화려한 얼굴털, 촌스러운 견장, 그리고 약함에 대한 경멸로 유명합니다. 백인대장의 휘하에 있는 군단원들은 백인대장의 사기 점수를 사용합니다.</td></tr>
 </table>
 
-## Hegemony Legionary
+## 신정부 군단병 (Hegemony Legionary)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Red 장갑ed true-kin soldiers. The backbone of the Hegemon's occupying forces in Vaarn. If outnumbered, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 자동소총 (d8) / 수류탄 (d10 광역, DEX 내성굴림으로 회피)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 붉은 갑옷을 입은 트루킨 병사들입니다. 바안에서 신정부 점령군의 근간입니다. 수적으로 밀릴 경우, 매 두 번째 턴마다 지원군을 호출하여 추가로 d8의 군단원을 소환합니다.</td></tr>
 </table>
 
-## Hiveyman
+## 벌집인간 (Hiveyman)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bludgeon (d8) + Swarm Damage (d6 area, unblockable)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Human corpses that have been infested by fearsome colonies of Sable Bees. They crawl across the sands, their bellies swollen with a throbbing hive structure. The angry bees deal d6 unblockable damage per round to everyone in reach.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 타격 (d8) + 벌레떼 피해 (d6 범위, 방어불가)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 무서운 흑담비 벌의 집단에 감염된 인간의 시체들입니다. 이 시체들은 모래 위를 기어다니며, 배는 두근거리는 벌집 구조로 부풀어 올랐습니다. 화난 벌들은 도달할 수 있는 모든 사람에게 막을 수 없는 d6 피해를 매 라운드마다 줍니다.</td></tr>
 </table>
 
-## Hollow Maiden
+## 할로우 메이든 (Hollow Maiden)
 _초기하학적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: d4</td></tr>
 <tr><td colspan="2"><b>공격</b>: Claws (d8) / Special Grab</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Spectral women in elegant attire, with wounds in their chests that bleed un-Urthly colours. Embrace grabbed victims and pull them into the 초기하학적 rift in their bodies. While inside the victim takes d6 CON damage per round as their body dissolves. Must make STR save to pull themselves out.
+<tr><td colspan="2"><b>참고사항</b>: 우아한 복장을 한 유령 여성들로, 가슴에는 비현실적인 색상으로 피를 흘리는 상처가 있습니다. 이들은 피해자를 포옹해 몸 속의 초기하 공간으로 끌어당깁니다. 내부에 있는 동안 피해자는 매 라운드마다 d6의 CON 피해를 받으며 몸이 용해됩니다. 스스로 빠져나오기 위해서는 힘(STR) 내성굴림을 해야 합니다.
 <br />
-Hollow Maidens ignore all even-numbered damage rolls.</td></tr>
+할로우 메이든은 짝수로 이루어진 모든 피해를 무시합니다.</td></tr>
 </table>
 
-## Hydra Colony
+## 히드라 군락 (Hydra Colony)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 20</td><td><b>장갑</b>: 09</td></tr>
-<tr><td><b>사기</b>: Immobile; Cannot Flee</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: via d3 <b>Hydra Tentacles</b> + Fresh Growth (special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A vast immobile colony of semi-intelligent hydrozoa. A mature Hydra is a mass of translucent blue jelly, roughly the size and weight of an adult elephant. The colony takes root in an aquatic environment and exudes hunting tentacles to ensnare prey, destined to be absorbed by the bulk of the colony. The Hydra Colony regenerates 10 hp per round unless burnt or doused in acid.
+<tr><td><b>사기</b>: 이동불능, 도망칠 수 없음</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: <b>히드라 촉수</b>당 d3+ 갓자란 성장체 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 반쯤 지능적인 수생동물로 구성된 거대하고 움직일 수 없는 군락입니다. 성장한 히드라는 투명한 파란색 젤리의 덩어리로, 성인 코끼리의 크기와 무게에 대략 맞습니다. 이 집단은 수생 환경에 뿌리를 내리고 사냥용 촉수를 분비하여 먹이를 잡아내, 대부분의 집단에 의해 흡수되도록 합니다. 히드라 군럭은 태워지거나 산으로 뒤집어쓰지 않는 한 매 라운드마다 10 hp를 회복합니다.
 <br>
-<b>Fresh Growth:</b> the colony spends 20 hp to produce a new Hydra Tentacle. This may be performed once per round.</td></tr>
+<b>갓자란 성장체:</b> 군락은 20 hp를 사용하여 새로운 히드라 촉수를 생성합니다. 이 행동은 한 라운드에 한 번만 수행할 수 있습니다.</td></tr>
 </table>
 
-## Hydra Polyp
+## 히드라 폴립 (Hydra Polyp)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 12</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d8 per Colony</td></tr>
-<tr><td colspan="2"><b>공격</b>: Engulf (d6 ongoing, STR save to break free)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The slow-moving offshoot of a Hydra colony. Lurid blue, translucent jelly-flesh. The Polyp seeks to absorb enough biomass to root and establish a fully-fledged colony. Hydra Polyps regenerate 2 hp per round unless burnt or doused in acid.</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: 군락당 d8</td></tr>
+<tr><td colspan="2"><b>공격</b>: 사로잡기 (d6 지속피해, STR 내성굴림으로 풀려남)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>:  히드라 군락에서 느린 움직임을 보이는 분기체입니다. 선명한 파란색, 반투명한 젤리 형태의 살입니다. 폴립은 뿌리를 내리고 완전히 성장한 집단을 이루기 위해 충분한 양의 생물을 흡수하려고 합니다. 히드라 폴립은 태워지거나 산으로 뒤집어쓰지 않는 한 매 라운드마다 2 hp를 회복합니다.</td></tr>
 </table>
 
-## Hydra Tentacle
+## 히드라 촉수 (Hydra Tentacle)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 7</td><td><b>장갑</b>: 17</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d3 per Colony</td></tr>
-<tr><td colspan="2"><b>공격</b>: Strangle (d10 ongoing, STR save to break free)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The hunting appendage of a Hydra colony. Lurid blue, translucent jelly-flesh. Hydra tentacles are fast-moving, strong, and fearless. The tentacles are blind but have acute hearing, and attempt to throttle their prey, and draw them down into the main body of the colony to be devoured. Hydra Tentacles regenerate 4 hp per round unless burnt or doused in acid. If severed they reanimate within an hour.</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: 군락당 d3</td></tr>
+<tr><td colspan="2"><b>공격</b>: 조이기 (d10 지속피해, STR 내성굴림으로 풀려남)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 히드라 집단의 사냥용 부속기입니다. 선명한 파란색, 반투명한 젤리 형태의 살입니다. 히드라의 촉수는 빠르게 움직이며, 강하고 두려움을 모릅니다. 촉수는 시력이 없지만 청각은 매우 예민하며, 먹이를 조르고 군락으로 끌어내려서 잡아먹으려고 시도합니다. 히드라 촉수는 태워지거나 산으로 뒤집어쓰지 않는 한 매 라운드마다 4 hp를 회복합니다. 만약 잘렸다면 한 시간 내에 다시 움직일 수 있게 됩니다.</td></tr>
 </table>
 
-## Indigo Servitor
+## 남색 시종 (Indigo Servitor)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 11</td></tr>
 <tr><td><b>사기</b>: n/a</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bludgeon (d4) or As Weapon</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: An indigo-robed corpse, re-animated by the necrotech implants of the College of Indigo Tigers. Obeys the wearer of a Dominion Ring without question. Mute, obedient, fearless.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 타격 (d4) 또는 들고 있는 무기</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 남색 호랑이 대학의 사령기술 임플란트에 의해 다시 살아난 남색 로브를 입은 시체입니다. 지배자의 반지를 착용한 사람의 명령을 무조건 따릅니다. 말 없이, 복종하며, 두려움을 모릅니다.</td></tr>
 </table>
 
-## Iridium Vulture
+## 이리듐 독수리 (Iridium Vulture)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 3</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d6) / Corpseshuck (takes one round, instant death when target at 0 HP)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Silvery 인조적 carrion eaters that ride the air currents above the blue sands, scent-sensors attuned for the slightest hint of decay. They are not interested in living beings, but will attack to defend a carcass. 
+<tr><td colspan="2"><b>공격</b>: 발톱 (d6) / 시체털기 (1라운드 소모, 0HP에 도달한 대상을 즉사시킴)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 푸른 모래 위의 공기 흐름을 타고 다니는 은빛 인조 도살자들입니다. 그들의 후각센서는 가장 미미한 부패의 흔적에도 반응합니다. 그들은 생명체에는 관심이 없지만, 시체를 얻기 위해 공격할 것입니다. 
 <br>
-<b>Corpseshuck:</b> Iridium Vultures fanatically attack 유기체 PCs who fall to 0 HP or less, attempting to break their body open and drain out the innards. This lethal attack takes a whole combat round to execute and can be interrupted by other PCs</td></tr>
+<b>시체털기:</b> 이리듐 독수리들은 0 HP 이하로 떨어진 생체적 PC를 맹렬히 공격하여, PC의 몸을 깨트리고 내장을 배출하려고 합니다. 이 치명적인 공격은 전투 라운드 전체를 소요하며, 다른 PC에 의해 방해받을 수 있습니다.</td></tr>
 </table>
 
-## Juggernaut
+## 저거너트 (Juggernaut)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 22</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Crush (d12)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Colossal sentient spinning wheel of ferrosteel, which rumbles through the blue wastelands bellowing resonant hymns of loneliness. What it sees it covets, but lacking limbs the Juggernaut can only express affection by attempting to crush the object of its desire, and in so doing make them one with its ever-roving axis.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 으스러뜨리기 (d12)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 철강으로 만들어진 거대한 지성적인 회전 바퀴로, 푸른 황무지를 통해 외로움의 울림 있는 찬송을 울려 퍼뜨립니다. 보는 이들이 모두 탐낼 정도지만, 팔다리가 없는 저거너트는 그것의 욕망의 대상을 짓밟으려고 시도함으로써 애정을 표현할 수밖에 없습니다. 그리하여 그들을 항상 떠돌아다니는 축과 일체화시킵니다.</td></tr>
 </table>
 
-## Kerberos
+## 케르베로스 (Kerberos)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 7</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The platonic ideal of a hound, a faithful companion forged from plasteel and synthskin. The Kerberos is designed to bond with one primary user, and will obey their every command. A Kerberos synth is compassionate, intelligent, and devoted: once thought the ideal gift for a nobleborn child.
+<tr><td colspan="2"><b>공격</b>: 물기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 플라스틸과 합성 피부로 만들어진, 이상적인 사냥개의 형상을 가진 충실한 동반자입니다. 케르베로스는 한 명의 주 사용자와 결속하도록 설계되었으며, 그들의 모든 명령을 따를 것입니다. 케르베로스 합성체는 공감이 뛰어나고 지능적이며 헌신적입니다: 이것은 고위층 아이에게 이상적인 선물로 생각되었습니다.
 <br>
-Sadly the designers of this machine did not consider the effect upon the Kerberos unit when its bonded user died of old age. Grief-stricken packs of synth-hounds wander the blue ruins, howling to the ailing sun and praying for the day their undying bodies fail them. Sometimes the beasts mistake a traveller for their lost master, although the inevitable discovery of their error can drive the synth-dogs into mad fits of rage.
+안타깝게도, 이 기계를 설계한 사람들은 그 결속된 사용자가 늙어 죽었을 때 케르베로스 유닛에 미치는 영향을 고려하지 않았습니다. 슬픔에 잠긴 인조 개 무리들이 푸른 폐허를 배회하며 병든 태양에게 울부짖고, 그들의 불멸의 몸이 끝장나는 날을 기다립니다. 때때로 이 짐승은 여행자를 자신의 잃어버린 주인으로 착각하지만, 필연적으로 오류를 발견하면 인조 개들은 분노에 차서 화를 내기도 합니다.
 <br>
-<b>Exotica:</b> an inactive Kerberos, still sealed in its factory packing, can serve as an item of Exotica. If a PC places a single drop of blood on the synth-hound's tongue, the Kerberos will awaken and bond with them, becoming the PC's loyal follower for the rest of the campaign.</td></tr>
+<b>엑조티카:</b> 비활성화된 케르베로스가 아직 공장 포장에서 밀봉되어 있다면 엑조티카라는 아이템으로 사용될 수 있습니다. PC가 인조 개의 혀에 한 방울의 피를 떨어트리면, 케르베로스는 깨어나고 PC에게 결속되어 나머지 캠페인 동안 PC의 충실한 추종자가 됩니다.</td></tr>
 </table>
 
-## Kronophage
+## 시간을 먹는 자 (Kronophage)
 _이계체_ / _무기질_
 <table>
 <tr><td><b>레벨</b>: 7</td><td><b>장갑</b>: 22</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: Unique</td></tr>
-<tr><td colspan="2"><b>공격</b>: Borrowed Time (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Manifold crystals orbit a nucleus of collapsing space-time. A paradox made sentient, an ulcer on causality that steals the past from those it beholds.
+<tr><td colspan="2"><b>공격</b>: 빌려온 시간 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 다양한 수정이 붕괴하는 시공간의 핵을 공전합니다. 역설이 지성을 가진 것, 인과성에 대한 궤양으로 자신이 바라보는 사람들의 과거를 훔칩니다.
 <br>
-<b>Borrowed Time:</b> the Kronophage drains years from its victim’s past, present, and future. The target loses a 레벨. They must roll 1d8 and subtract the result from their maximum HP, and subtract three points from their maximum ability defences. The Kronophage gains a 레벨 permanently. PCs reduced below 레벨 0 by the Kronophage are worse than dead; they never existed at all, and their equipment vanishes with them.
-Slaying the monster restores all lost time to those it fed upon. PCs regain their lost 레벨.</td></tr>
+<b>빌려온 시간:</b> 시간을 먹는 자는 희생자의 과거, 현재, 미래에서 수년을 빨아들입니다. 대상은 레벨을 하나 잃습니다. 그들은 1d8을 굴려서 그 결과를 최대 HP에서 빼고, 최대 능력 방어도에서 3 점을 뺍니다. 시간을 먹는 자는 영구적으로 1 레벨 올라갑니다. 시간을 먹는 자에 의해 0레벨 이하로 감소된 PC는 단순히 죽는 것이 아닙니다. PC는 전혀 존재하지 않는 것처럼 됨과 동시에 장비도 함께 사라집니다. 이 괴물을 처치하면 모든 잃어버린 시간이 다시 본래 주인에게 돌아갑니다. PC는 잃어버린 레벨을 회복합니다.</td></tr>
 </table>
 
-## Lambent Lynx
+## 깜빡이 스라소니 (Lambent Lynx)
 _유기체_ / _인조적_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Electric Claws (d6) / Blinding Pelt</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Lurid cyborg feline. Feeds on sources of electrical power, including synths. The lynx can ignite every filament in its 인조적 pelt like a flash-bang, forcing DEX saves to avoid d6 rounds of blindness; they will use this technique to ambush potential prey or to escape a lost fight.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 전기 발톱 (d6) / 눈먼 모피</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 선명한 사이보그 고양잇과입니다. 신스를 포함한 전기동력을 쓰는 먹이를 찾습니다. 이 스라소니는 합성모피의 모든 필라멘트를 섬광탄처럼 점화시켜서 d6 라운드 동안 실명시킬 수 있습니다. 이 빛을 보면 DEX 내성굴림을 해야합니다. 스라소니는 이 기술을 잠재적인 먹이에게 매복하거나 패배한 싸움에서 탈출하기 위해 사용할 것입니다.</td></tr>
 </table>
 
-## Lamigator
+## 합판악어 (Lamigator)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 8</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d6), followed by Deathroll (d10) in water</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Great pallid crocodilian coated in a symbiotic layer of living plastic. Following a successful bite, the Lamigator will deathroll its prey if it is in water. This deals d10 damage per turn with no to-hit roll needed. Victim must make an opposed STR save to break free.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d6), 물 속에서 데스롤 (d10)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 살아있는 플라스틱의 공생층으로 덮인 큰 창백한 악어입니다. 성공적인 한 입에 이어, 합판악어는 물 속에 있다면 먹이를 죽음의 굴레로 말아올릴 것입니다. 이것은 매 턴마다 d10 피해를 주며, 명중 굴림이 필요하지 않습니다. 희생자는 STR 대항 으로 이 상태에서 벗어날 수 있습니다.</td></tr>
 </table>
 
-## Laser Shrimp
+## 레이저 새우 (Laser Shrimp)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 10</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Lasers (d4 beam)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Small 인조적 shrimp that fire lasers. They are often used as guard animals.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 레이저 (d4 광선)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 레이저를 발사하는 작은 인조 새우입니다. 종종 경비 동물로 사용됩니다.</td></tr>
 </table>
 
-## Lazarus Guard
+## 라자루스 경비병 (Lazarus Guard)
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Claws (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A desiccated human corpse, filled with necrotech implants that preserve a sort of life-in-death for the unlucky host. So-called ‘Lazarus Regiments’ were created from the corpses of criminals to guard the tombs of Autarchy nobles. Veins of black gallium pulse beneath parchment-like skin, and their despairing eyes resemble sable stones. 
+<tr><td colspan="2"><b>공격</b>: 2 x 발톱 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 불운한 숙주를 위해 일종의 죽음을 보존하는 괴사 물질로 가득 찬 건조한 인간의 시체입니다. 이른바 '라자루스 연대'는 범죄자들의 시체로 만들어진 것으로, 독재 귀족들의 무덤을 지키기 위해 만들어졌습니다. 양피지 같은 피부 밑에는 검은 갈륨 펄스가 흐르는 정맥이 있고, 절망적인 눈빛은 검정담비색 돌을 닮았습니다.
 <br>
-<b>Resurrection:</b> Lazarus Guards will resurrect after 3 combat rounds if slain, the black cyborg hearts within their breasts unwilling to let their hosts die. These hearts must be cut from the guard’s body and destroyed in order to stop the resurrection. Once the secret is known, players may wish to target the guard’s heart directly. The cyborg organ has 1 HP and 장갑 20.</td></tr>
+<b>부활: </b> 라자루스 경비병는 3번의 전투를 거치면 자신의 가슴에 있는 검은 사이보그 심장이 숙주를 죽게 내버려 두지 않을 것입니다. 부활을 막으려면 이 심장을 가드의 몸에서 잘라내 파괴해야 합니다. 일단 그 비밀이 알려지면 플레이어는 가드의 심장을 직접 겨냥할 수도 있습니다. 사이보그 기관은 HP가 1이고 장갑 20입니다.</td></tr>
 </table>
 
-## Leopard Worm
+## 표범 벌레 (Leopard Worm)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 9</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d8) + Glue Spit</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Sinuous ambush predators. The worm's gluey spit is highly adhesive; when covered in spit all STR and DEX rolls are at disadvantage. The spit is dissolved by salt water.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d8) + 접착 침</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 굽이진 매복 포식자들입니다. 이 벌레의 점착성 있는 침은 매우 접착력이 강하며, 침으로 덮여 있을 때 모든 STR와 DEX 굴림은 불리점을 적용받습니다. 이 침은 소금물에 의해 해결됩니다.</td></tr>
 </table>
 
-## Lithling Scholar
+## 리슬링 학자
 _무기질_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 24</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Swipe (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Wandering scholar from the Lithic Lyceum. Generally pacifists, and have little desire to harm living beings. Will attempt to reason with their assailants, even during deadly combat.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 휩쓸기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 리슬링 학원의 방랑하는 학자입니다. 일반적으로 평화주의자이며, 생명체를 해치려는 욕구가 거의 없습니다. 심지어 치명적인 전투 중에도 공격자와 이성적인 대화를 시도할 것입니다.</td></tr>
 </table>
 
-## Lizard Lion
+## 도마뱀 사자 (Lizard Lion)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Frill-necked reptiles. Ill-tempered, territorial, like a crocodile that can sprint. Their skin is highly prized as a material for boots.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 털목도마뱀과 같은 파충류입니다. 성격이 더럽고 영토를 중요시하며, 악어처럼 달립니다. 같습니다. 이들의 가죽은 장화 소재로 매우 가치가 있습니다.</td></tr>
 </table>
 
-## Lurid Lobster
+## 번쩍이는 랍스터 (Lurid Lobster)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claw (d8) + Claw (d8) / Lurid Spray (blast, CON save vs d6 rounds of Blindness)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: An enormous, ill-tempered lobster with an abdomen filled with luminous toxins. The creature ambushes prey from underwater, spewing incandescent ink everywhere before attempting to grab a single group member and escape with the living prize. 
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) + 발톱 (d8) / 번쩍이는 분사 (광역, 실명에 대항해 CON 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 빛나는 독소로 가득 찬 배를 가진 거대하고 성미가 나쁜 랍스터입니다. 이 생물은 물 밑에서 먹이를 매복하며, 반짝이는 먹물을 곳곳에 튀기면서 단 한 명의 무리 구성원을 잡고는 이 살아있는 먹이감을 붙잡은 채 시도합니다. 
 <br>
-<b>Blindness:</b> Characters blinded by the Lobster’s spit make melee 공격 with Disadvantage. They cannot use ranged weapons.</td></tr>
+<b>실명:</b> 랍스터의 침에 의해 실명한 캐릭터들은 근접 공격에 불리점을 받습니다. 실명 상태가 되면 원거리 무기를 사용할 수 없습니다.</td></tr>
 </table>
 
-## Luxfoe Beetle
+## 광혐오 딱정벌레 (Luxfoe Beetle)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A nocturnal insect, enraged by artificial light. The beetle has a hard dark carapace and long, sharp mandibles. It will relentlessly attack any lantern or torch-bearing hand it comes across. Sometimes called helldiver bugs, due to their ill-fated penchant for assaulting the embers of a campfire.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 물기 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 인공 빛에 광분하는 야행성 곤충입니다. 이 딱정벌레는 단단한 어두운 외피와 긴, 날카로운 턱을 가지고 있습니다. 그것은 자신이 마주치는 모든 등불이나 손에 든 횃불을 끊임없이 공격할 것입니다. 그들의 운명에 거스르는 캠프파이어의 불씨를 공격하는 경향 때문에, 때로는 불로 자살하는 벌레라고도 불립니다.</td></tr>
 </table>
 
-## Mandrake
+## 맨드레이크 (Mandrake)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d6) + Parasite Seeds (CON save vs Incubation)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Small, humanoid creatures, half-plant and half-crazed child. Hated due to their parasitic reproductive cycle. Mandrakes rest underground by day, before emerging from the desert soil by night to go hunting. Their aim is to cause humans to ingest their seeds, which will germinate into new Mandrakes.
+<tr><td colspan="2"><b>공격</b>: 발톱 (d6) + 기생씨앗 (잠복기에 대항해 CON 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 작고, 인간형의 생물체로, 반은 식물이고 반은 미친 아이입니다. 그들의 기생적인 생식 주기 때문에 미움을 받습니다. 만드레이크는 낮에는 지하에서 쉬다가 밤에 사막 토양에서 나와 사냥을 합니다. 맨드레이크의 목표는 사람들이 맨드레이크의 씨앗을 섭취하게 하여 새로운 만드레이크로 발아시키는 것입니다.
 <br>
-  <b>Incubation:</b> The afflicted character fills an item slot with a Wound: ‘Incubating Mandrake’. Each day the Wound goes untreated, a new item slot is filled by an Incubating Mandrake. After seven days, the Mandrakes burrow out of the character, causing d6 damage per item slot occupied.</td></tr>
+  <b>잠복기:</b> 고통받는 캐릭터는 아이템 슬롯 하나를 '맨드레이크 잠복기' 상처로 채웁니다. 상처가 치료되지 않으면 매일 '맨드레이크 잠복기'가 새로운 아이템 슬롯을 차지합니다. 일주일 후, 만드레이크들은 캐릭터 안에서 밖으로 파고 나와, 점유된 아이템 칸당 d6 피해를 입힙니다.</td></tr>
 </table>
 
-## Memory Eater
+## 기억을 먹어치우는 자 (Memory Eater)
 _인조적_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Special Grab</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Biomechanical memory vampire. Like a giant mosquito cast from living steel. Cranial-bore proboscis drains d6 INT from target per round.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 특수한 붙잡기</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 생체역학적 기억 흡혈귀입니다. 생체 강철로 만들어진 거대한 모기와 같습니다. 두개골에 있는 거대한 모기 주둥이로 매 라운드마다 대상으로부터 d6 INT를 흡수합니다.</td></tr>
 </table>
 
-## Moonbeast (Imago)
+## 달짐승 성충 (Moonbeast (Imago))
 _이계체 / 정신적_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
-<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d4 (+d6 Nymphs in Lair)</td></tr>
-<tr><td colspan="2"><b>공격</b>: Lunatic Gaze (EGO Save vs d6 EGO damage) / Radioactive Vomit (Blast, d8 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Luna, once the stepping stone to the stars, was lost to the Autarchs and is no longer under the dominion of man. The squamous pallid monstrosities known as ‘Moonbeasts’ may be the cause of this defeat or merely a symptom of it; in either case the creatures are inimical to humanity, hated interlopers that dwell in flooded caverns below Luna’s surface. They are somewhat like a toad and somewhat like an insect, although such phrases only capture a fragment of their extra-dimensional morphology.</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: d4 (보금자리에서 +6 유충)</td></tr>
+<tr><td colspan="2"><b>공격</b>: 달빛 응시 (d6 EGO 피해에 대항하는 EGO 내성굴림) / 방사능 구토 (광역, d8 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 별들로의 발판이었던 루나는 신왕들에게 잃어버려져 더 이상 인류의 지배 하에 있지 않습니다. '달짐승'라고 알려진 비늘 같은 창백한 괴물들은 이 패배의 원인일 수도 있고 단지 그 증상일 수도 있습니다; 어느 경우든 이 생물들은 인류에게 적대적이며, 루나 표면 아래 침수된 동굴에서 살아가는 누구든 미워하는 간섭자들입니다. 그들은 어느 정도 개구리와 어느 정도 곤충과 같지만, 이런 표현들은 그들의 초차원 형태를 일부분만 설명할 뿐입니다.</td></tr>
 </table>
 
-## Moonbeast (Nymph)
+## 달짐승 유충 (Moonbeast (Nymph))
 _이계체 / 정신적_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6 </td></tr>
-<tr><td colspan="2"><b>공격</b>: Lashing Tendrils (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The immature form of a Moonbeast. Lacking limbs or the projectile vomiting of their parents, they instead swarm over their prey and drain the life from their bodies with questing tendrils.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 밧줄같은 촉수들 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 달짐승의 미성숙한 형태입니다. 그들은 부모와 달리 팔다리가 없고, 토사물을 뱉어내는 능력도 없습니다. 대신 먹이에게 집단으로 몰려들어 꿈틀거리는 촉수로 먹이의 생명력을 흡수합니다.
+</td></tr>
 </table>
 
 ## Mournfrog
