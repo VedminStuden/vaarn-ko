@@ -327,9 +327,9 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 
 <table>
 <thead><th>d20</th><th>이전 용도</th><th>그리고</th><th>현재 상태</th><th>외관</th><th>형태</th><th>기타 특징</th></thead>
-<tr><td>1</td><td>Interrogation Halls</td><td>Brewery</td><td rowspan="2">Desolate Shell</td><td>Opulent</td><td>Dome</td><td>Inhabited by Planeyfolk</td></tr>
-<tr><td>2</td><td>Cryogenic Chambers</td><td>Criminal's Hideout</td><td>Fragmented</td><td>Arch</td><td>Choked with Synthetic Vines</td></tr>
-<tr><td>3</td><td>Orbital Defence Turret</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
+<tr><td>1</td><td>취조실</td><td>양조장</td><td rowspan="2">황량한 껍데기</td><td>부유함</td><td>돔</td><td>플래니포크 거주지</td></tr>
+<tr><td>2</td><td>극저온 냉동고</td><td>범죄자의 은신처</td><td>부서진 조각</td><td>아치</td><td>인조 덩굴이 뒤덮음</td></tr>
+<tr><td>3</td><td>궤도 방어 포탑</td><td>Bath House</td><td rowspan="2">Intact But Empty</td><td>Looming</td><td>Tower</td><td>Has Hidden Water Source</td></tr>
 <tr><td>4</td><td>Cyborg Construction</td><td>Ossuary</td><td>Crumbling</td><td>Orb</td><td>Has Abundant Food Source</td></tr>
 <tr><td>5</td><td>Munitions Factory</td><td>Monastery</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Campsite</a></td><td>Graffiti-Coated</td><td>Shell</td><td>Has Abundant Drugs</td></tr>
 <tr><td>6</td><td>Cloning Facility</td><td>Barracks</td><td>Gigantic</td><td>Knife</td><td>Contains Exotica</td></tr>
