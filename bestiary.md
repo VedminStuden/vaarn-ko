@@ -976,52 +976,52 @@ _유기체_
 <tr><td colspan="2"><b>참고사항</b>: 인간의 두개골에 붙어서 이를 통해 뇌를 조종하려는, 약간은 살이 많고 껍질이 없는 게 같은 혐오스러운 기생충입니다. 스컬크랩에 의해 EGO가 0으로 줄어든 캐릭터들은 좀비가 되며, 여전히 의식은 있지만 몸을 제어할 수 없고 기생충에 의해 조종당합니다.
 </table>
 
-## Scullcrab, Fast
+## 빠른 스컬크랩 (Scullcrab, Fast)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 0 (1 HP)</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: d10</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (d4) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A lanky, fast-moving variant of the Scullcrab. Likely a weaponised evolution of its slower cousin. Characters reduced to 0 EGO by the Fast Scullcrab become a Fast Zombie, still conscious but unable to control their body, piloted around by the parasite.
+<tr><td colspan="2"><b>공격</b>: 물기 (d4) / 두개골 덮치기 (d4 Ego 피해, 지속피해, DEX 내성굴림으로 d4 Ego 피해에서 벗어남) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 스컬크랩의 마르고 빠르게 움직이는 변종입니다. 아마도 더 느린 친척의 무기화된 진화 버전일 것입니다. 빠른 스컬크랩에 의해 EGO가 0으로 줄어든 캐릭터들은 빠른 좀비가 되며, 여전히 의식은 있지만 몸을 제어할 수 없고 기생충에 의해 조종당합니다.
 <br>
-<b>Fast:</b> Fast Scullcrabs always win initiative.
+<b>빠름:</b> 빠른 스컬크랩은 항상 선제공격을 합니다.
 </table>
 
-## Scullcrab, Toxic
+## 독성 스컬크랩 (Scullcrab, Toxic)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 0 (1 HP)</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Bite (CON Save vs Neurotoxin) / Skull Latch (d4 EGO damage, ongoing, DEX save to break free) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A long-legged, black-fleshed variant of the Scullcrab, sporting large poisonous fangs. Likely a weaponised evolution of its non-toxic cousin. Characters reduced to 0 EGO by the Toxic Scullcrab become a Toxic Zombie, still conscious but unable to control their body, piloted around by the parasite.
+<tr><td colspan="2"><b>공격</b>: 물기 (신경독에 대항해 CON 내성굴림) / 두개골 덮치기 (d4 Ego 피해, 지속피해, DEX 내성굴림으로 d4 Ego 피해에서 벗어남) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 긴 다리와 검은 살이 있는 스컬크랩의 변종으로, 큰 독니를 가지고 있습니다. 아마도 비독성 친척의 무기화된 진화형일 것입니다. 독성 스컬크랩에 의해 EGO가 0으로 줄어든 캐릭터들은 독성 좀비가 되며, 여전히 의식은 있지만 몸을 제어할 수 없고 기생충에 의해 조종당합니다.
 <br>
-<b>Neurotoxin:</b> 유기체 creatures inflicted with neurotoxin lose all remaining HP. If inflicted with neurotoxin while in negative HP, the character dies immediately. 
+<b>신경독:</b> 신경독에 감염된 생물체는 남아있는 모든 HP를 잃습니다. HP가 음수치인 상태에서 신경독에 감염되면 캐릭터는 즉시 사망합니다. 
 </table>
 
-## Scullcrab Zombie
+## 스컬크랩 좀비 (Scullcrab Zombie)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d8</td></tr>
-<tr><td colspan="2"><b>공격</b>: Claws (d8) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: What was once a human being, now puppeted by a Scullcrab, twisted by its rider into a goresoaked, dagger-clawed husk. A zombie is forced to seek out new victims for the parasites. Slow moving, relentless, and utterly without fear or mercy. 
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 한때 인간이었던 것이 스컬크랩에 의해 조종되어, 그르 조종하는 것에 의해 피로 물든, 단검 같은 발톱을 가진 껍질로 변형되었습니다. 좀비는 기생충들을 위한 새로운 희생자를 찾아내도록 강요받습니다. 움직임은 느리지만 끊임없이 추적하며, 두려움이나 자비라는 것을 전혀 알지 못합니다. 
 <br>
-<b>Abandon Ship:</b> on death, the Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this.
+<b>배를 버려라:</b> 죽음에 이르러서, 스컬크랩은 좀비의 머리에서 나와 새로운 숙주를 찾습니다. 폭발물이나 화재가 이를 방지합니다.
 <br>
-<b>Slow:</b> Zombies always lose initiative.
+<b>느림:</b> 좀비는 항상 주도권을 내줍니다.
 </table>
 
-## Scullcrab Zombie, Fast
+## 빠른 스컬크랩 좀비 (Fast Scullcrab Zombie)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Claws (d8)/ Pounce (DEX save vs Pinned, 2d6 damage ongoing) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Fast Scullcrabs impose a metamorphic horror on their hosts. The zombie’s body sheds skin and fat, becoming a lanky, elongated nightmare of muscle and exposed bone. Razorous claws complete the picture. Fast Zombies are adept climbers and swimmers, unlike their slower relatives. 
+<tr><td colspan="2"><b>공격</b>: 2 x 발톱 (d8)/ 덮치기 (2d6 지속 피해를 주는 누르기에 대항해 DEX로 내성굴림) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 빠른 스컬크랩은 숙주에게 변형된 공포를 가합니다. 좀비의 몸은 피부와 지방을 벗겨내고, 긴 팔과 노출된 뼈로 이루어진 악몽같은 모습으로 변합니다. 날카로운 발톱이 그림을 완성합니다. 빠른 좀비는 그들의 더 느린 친척들과 달리 등반과 수영에 능숙합니다.
 <br>
-<b>Abandon Ship:</b> on death, the Fast Scullcrab ejects from the zombie’s head to seek a new host. Explosives or fire prevent this.
+<b>배를 버려라:</b> 죽음에 이르러서, 빠른 스컬크랩은 좀비의 머리에서 나와 새로운 숙주를 찾습니다. 폭발물이나 화재가 이를 방지합니다.
 <br>
-<b>Fast:</b> Fast Zombies always win initiative.
+<b>빠름:</b> 빠른 좀비는 항상 주도권을 가져갑니다.
 </table>
 
 ## Scullcrab Zombie, Toxic
@@ -1029,36 +1029,37 @@ _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
 <tr><td><b>사기</b>: 결코 도망치지 않음</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Claws (d8) / Toxic Scullcrab Fling (Special) </td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Toxic Scullcrabs inflict monstrous degradations on the human beings they puppet, their host’s body bloating to twice its natural size due to the constant flow of neurotoxins into their flesh. Their swollen frames become nurseries for a new generation of Toxic Scullcrabs, which roost upon their hunched backs. 
+<tr><td colspan="2"><b>공격</b>: 2 x 발톱 (d8) / 독성 스컬크랩 던지기 (특수) </td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 독성 스컬크랩은 그들이 조종하는 인간에게 괴상한 변형을 가합니다. 그들의 호스트의 몸은 신경독이 지속적으로 흘러 들어가면서 자연스러운 크기의 두 배로 부풀어옵니다. 그들의 부풀어 오른 틀은 새로운 세대의 독성 스컬크랩를 위한 보육소가 되며, 이들은 그들의 웅크린 등 위에 둥지를 틉니다.
 <br>
-<b>Toxic Scullcrab Fling:</b> the Zombie pulls a Toxic Scullcrab from its back and throws it at a target. On a hit, the target is bitten and must CON save vs Neurotoxin (see Toxic Scullcrab).
+<b>독성 스컬크랩 던지기:</b> 좀비가 등에서 독성 스컬크랩을 잡아 대상에게 던집니다. 맞았을 경우, 대상은 물려서 신경독에 대한 CON 내성굴림을 해야 합니다 (독성 스컬크랩 참조).
 <br>
-<b>Abandon Ship:</b> on death, d4 Toxic Scullcrabs eject from the zombie’s bpdy to seek a new host. Explosives or fire prevent this.
+<b>배를 버려라:</b> 죽음에 이르러서, 독성 스컬크랩은 좀비의 머리에서 나와 새로운 숙주를 찾습니다. 폭발물이나 화재가 이를 방지합니다.
 <br>
-<b>Slow:</b> Toxic Zombies always lose initiative.
+<b>Slow:</b> 독성 좀비는 항상 주도권을 내줍니다.
 </table>
 
-## Scylla
+## 스킬라 (Scylla)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 12</td><td><b>장갑</b>: 18</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: 8 x Tentacles (d8) / Ink Spray (Special)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: A gigantic hybrid of woman and octopus, with eight writhing tentacles. One of the terrible Brides of Rahab, who luxuriate in the abyssal darks of Vaarn’s oceans and pray for the death of the sun.
+<tr><td colspan="2"><b>공격</b>: 8 x 촉수 (d8) / 먹물 분사 (특수)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 여자와 문어의 거대한 혼종, 여덟 개의 쓰라린 촉수가 있습니다. 바른 바다의 어둠 속에서 호화롭게 지내며 태양의 죽음을 기원하는 끔찍한 라합의 신부 중 하나입니다.
 <br>
-<b>Ink Spray:</b> all opponents must DEX save. On failure, they are coated in cloying ink for d4 turns. While coated, they cannot regain HP, and suffer double damage from all sources.</td></tr>
+<b>먹물 분사:</b> 모든 대상은 DEX 내성굴림을 해야합니다. 실패 시 d4턴 동안 기분나쁜 먹물로 뒤덮입니다. 코팅되는 동안 HP를 회복할 수 없으며 모든 피해로부터 두 배의 피해를 입습니다.</td></tr>
 </table>
 
-## Scythesliver
+## 낫은 (Scythesliver)
 _초기하학적 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 15</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Blades (d10)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: The Ideal Image of Sharpness, an ever-morphing cruciform of 초기하학적 metal that cuts through the hardest 장갑 like it were wet paper. The being is forged of quicksilver poured into 2D rifts in the sky, a whirring flickering knife angel that strikes without mercy and spares without explanation. Presumed to be a creation of the Titans, these synths number amongst the most inscrutable and fearsome creatures that can be found in Vaarn’s sealed vaults.
+<tr><td colspan="2"><b>공격</b>: 칼날 (d10) + 칼날 (d10)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이상적인 날카로움에 대한 형태, 초기하학적 금속으로 이루어진 계속 변형되는 십자형이 가장 단단한 갑옷을 마치 젖은 종이처럼 자르고 나갑니다. 이 존재는 하늘에 있는 이차원 균열에 수은을 부어 만들어져, 선풍기처럼 돌아가며 깜박거리는 나이프 천사로, 자비없이 공격하고 설명할 시간을 내주지 않습니다. 타이탄들의 창조물로 추정되는 이 합성 생물들은 바안의 밀폐된 볼트에서 발견할 수 있는 가장 알 수 없고 두려운 생물 중 하나입니다.
 <br />
-<b>Sharpness Beyond Measure:</b> Scytheslivers can cut through any material, and hit as though their target were un장갑ed (장갑 10). If a Scythesliver rolls a natural 20 while attacking, it inflicts a Wound: <b>Severed Limb</b> (3 Slots, -10 STR, -10 DEX).</td></tr>
+<b>낫은은 어떤 재료라도 잘라낼 수 있으며, 대상이 갑옷을 입지 않은 것처럼 공격합니다 (장갑 10). 낫은이 공격하는 동안 자연스러운 20을 굴리면, 상처를 입힙니다. 부상: <b>절단된 팔다리</b> (3 칸, -10 STR, -10 DEX).
+</td></tr>
 </table>
 
 ## Shriekman
