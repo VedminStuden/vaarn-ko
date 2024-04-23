@@ -295,21 +295,21 @@ __모래의 책__
 <tr><td>20</td><td>(d20를 두 번 굴려 나온 결과를 함침)</td><td>쓰레기 매립지</td></tr>
 </table>
 
-## Story Seeds
+## 스토리 시드 (Story Seeds)
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Wants To</th><th>NPC B</th><th>Added Complication</th></thead>
-<tr><td>1</td><td>Village Elder</td><td rowspan="2">Impress</td><td>Village Fool</td><td>Sandstorms</td></tr>
-<tr><td>2</td><td>Faa Warrior</td><td>Bandit King</td><td>Hungry Alzabo</td></tr>
-<tr><td>3</td><td>Blind Oracle</td><td rowspan="2">Marry</td><td>Tomb Prospector</td><td>Packbeast Stampede</td></tr>
-<tr><td>4</td><td>Sly Bandit</td><td>Wealthy Merchant</td><td>Drunken Bandits</td></tr>
-<tr><td>5</td><td>Uptight Synth</td><td rowspan="2">Betray</td><td>Famous Bounty Hunter</td><td>Pointless Local War</td></tr>
-<tr><td>6</td><td>Cacogen Artist</td><td>Astronomer</td><td>Faa Nomad Wedding</td></tr>
-<tr><td>7</td><td>Hegemony Tax Collector</td><td rowspan="2">Collect Debt From</td><td>Relic Thief</td><td>Family Curse</td></tr>
-<tr><td>8</td><td>Water Prospector</td><td>Boastful Soldier</td><td>An Impostor</td></tr>
-<tr><td>9</td><td>Titan Cultist</td><td rowspan="2">Punish</td><td>Camel Jockey</td><td>Unrequited Love</td></tr>
-<tr><td>10</td><td>Spice Merchant</td><td>Jealous Widow</td><td>A Deadly Duel</td></tr>
-<tr><td>11</td><td>Pedantic Heretic</td><td rowspan="2">Locate</td><td>Hedonistic Poet</td><td>Psychic Children</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>원하는 것</th><th>NPC B</th><th>추가적인 문제</th></thead>
+<tr><td>1</td><td>마을의 장로</td><td rowspan="2">깊은 인상을 남기기</td><td>마을의 광대</td><td>모래폭풍</td></tr>
+<tr><td>2</td><td>파아 유목민</td><td>도적 왕</td><td>배고픈 알자보</td></tr>
+<tr><td>3</td><td>눈 먼 신탁</td><td rowspan="2">결혼하기</td><td>무덤 탐사자</td><td>무리짐승의 집결</td></tr>
+<tr><td>4</td><td>교활한 도적들</td><td>부유한 상인</td><td>술취한 도적들</td></tr>
+<tr><td>5</td><td>초조해하는 신스</td><td rowspan="2">배신하기</td><td>유명한 현상금 사냥꾼</td><td>의미없는 현지 전쟁</td></tr>
+<tr><td>6</td><td>캐커젠 예술가</td><td>천문학자</td><td>파아 유목민의 결혼식</td></tr>
+<tr><td>7</td><td>신정부 세금 징수인</td><td rowspan="2">빚 징수하기</td><td>유물 도둑</td><td>가문의 저주</td></tr>
+<tr><td>8</td><td>물 탐사자</td><td>호언장담하는 병사</td><td>사칭꾼</td></tr>
+<tr><td>9</td><td>타이탄 숭배자</td><td rowspan="2">처벌하기</td><td>낙타 기수</td><td>짝사랑</td></tr>
+<tr><td>10</td><td>향신료 상인</td><td>질투심 많은 미망인</td><td>치명적인 결투</td></tr>
+<tr><td>11</td><td>현학적인 이단</td><td rowspan="2">위치를 알아내기</td><td>쾌락주의적인 시인</td><td>정신 능력자 어린이</td></tr>
 <tr><td>12</td><td>Escaped Slave</td><td>Cruel Inquisitor</td><td>Murderious Clone</td></tr>
 <tr><td>13</td><td>Sin Eater</td><td rowspan="2">Abduct</td><td>Naive Philosopher</td><td>Carnivorous Tree</td></tr>
 <tr><td>14</td><td>Retired Gladiator</td><td>Beautiful Sniper</td><td>Malfunctioning AI</td></tr>
