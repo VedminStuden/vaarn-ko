@@ -36,255 +36,263 @@
 
 캐클모는 전쟁 어미에 충성을 맹세하지만, 이러한 맹세는 구속력이 없습니다. 이들의 정치적 지지는 음식, 음료, 웃음, 그리고 폭력으로 그녀의 딸들을 가장 잘 돌볼 수 있는 마마가 얻습니다. 현재 주요한 전쟁 어미는 접근조차 힘든 내륙에 있는 마마 헤클호, 남부 황무지의 마마 글롯그림, 그리고 남빛 산맥의 마마 요닝입니다. 노쇠한 암컷 우두머리인 나나 블랙러프와 마마 릭터스는 작지만 헌신적인 베테랑 전사들의 소집단을 지휘하며, 이 전사들은 젊은 마마의 야성적인 에너지보다 더 오래된 ‘나나’식의 전술적 지식을 존중합니다.
 
-## Lithling
-The Lithling are formed from a mesh of motile crystals, each shard attracted to its neighbours and animated by an energy field far beyond the understanding of Vaarnish scholars. They walk stiffly and ponderously, but have surprisingly dexterous fingers, and are capable of skilful manipulations of brushes, pens, and other delicate objects. They are fed by wavelengths of energy quite invisible to humanity and thus do not breathe, eat, or drink, a quality that makes them masters of the harshest environments imaginable. Lithling scholars have carried out extensive surveys of the toxic landscapes of Ikor Quag, and think nothing of spending years at a time submerged beneath the ocean or the surface of the desert, composing some treatise in their calcified minds.
+## 리슬링 (Lithling)
+리슬링은 움직이는 결정들의 망으로 이루어져 있으며, 각각의 파편은 서로를 끌어당기는 힘에 의해 움직이며, 바안의 학자들의 이해를 훨씬 초월하는 에너지 필드에 의해 살아있습니다. 그들은 뻣뻣하고 무거운 걸음으로 걷지만, 놀랍게도 손가락은 재치 있게 움직일 수 있으며, 붓, 펜을 비롯한 섬세한 물건을 숙련된 손길로 다룰 수 있습니다. 이들은 인류에게 보이지 않는 파장의 에너지로 영양을 공급받기 때문에 숨을 쉬거나 음식을 먹거나 마시지 않으며, 이러한 특성 때문에 가장 가혹한 환경에서도 활약할 수 있는 대가입니다. 리슬링 학자들은 이코르 수렁의 독성 지역을 광범위하게 조사했으며, 바다나 사막 표면 아래에 몇 년 동안 잠수하는 것조차 문제가 되지 않아 석회화된 마음으로 어떤 논문을 작성합니다.
 
-The lithling life cycle is as alien to humanity as their bloodless bodies. Lithling are grown from a seed, which must crystallise and bloom in a deep bath of alchemical elixirs. After decades of maturation, they are deemed fully-moulded and allowed to awaken, as large and strong as they will ever be. They are inducted into the Lithic Lyceum by their kindred, and instructed in their duties as scholars.
+리슬링의 생이는 인류에게는 완전히 낯선 것이며, 이들의 혈액조차 없는 몸과 마찬가지입니다. 리슬은 씨앗에서 자라며, 깊은 연금술같은 비약 욕조에서 결정화되고 개화해야 합니다. 수십 년의 성장 후, 이들은 완전히 성장한 것이나 마찬가지이며, 그들이 어떤 크기와 힘을 가질지에 따라 깨어나는 시기가 다릅니다. 이들은 동족에 의해 리슬링 학원에 입학해 학자로서의 의무를 배우게 됩니다.
 
-Lithling have a scholarly, enquiring cast of mind, and are endlessly fascinated by the alien world of biological organisms they find themselves marooned on. The Lyceum is devoted to cataloging the minutiae of the natural world, and contains the life’s work of millions of long-dead lithling in its underground archives. Unfortunately, the records of the lithling are often of dubious usefulness to outsiders – their dissertations and essays tend to focus on the minutiae of data and experience while lacking the wider context that a human mind might find meaningful. One celebrated lithling study describes the movements made by generations of land-snails over a hundred year period, with the relative positions of each snail recorded by the second.
+리슬링은 학문적이고 탐구적인 마음을 가지고 있으며, 자신들이 고립되어버린 생물학적 생명체의 이계에 끊임없이 매료되어 있습니다. 학원은 자연 세계의 미세한 부분을 목록으로 만드는 것에 헌신하고 있으며, 그 지하 보관소에는 수백만 명의 이미 죽은 리슬링들이 남긴 평생의 작품이 담겨 있습니다. 불행히도, 리슬링의 기록들은 외부인에게 있어 의구심이 드는데, 그들의 논문과 에세이는 데이터와 경험의 미세한 부분에 초점을 맞추면서 인간에게 있어 상상할 수 있는 넓은 맥락이 부족합니다. 한 유명한 리슬링의 연구에서는 백년 동안 세대를 거치며 만들어진 육지달팽이들의 움직임을 설명하는데, 각 달팽이의 상대적 위치가 초단위로 기록되어 있습니다.	
 
-# Travel Rules
+# 여행 규칙 (Travel Rules)
 ---
 
-Travel is an integral element of running game sessions in Vaarn’s Interior. Although many readers will have travel procedures that they are accustomed to using, I felt it might benefit those who feel less confident about running overland travel to learn how I do it in my own Vaarn games. 
+바안의 내부에서 게임 세션을 운영하는 데 있어 여행은 중요한 요소입니다. 많은 독자들이 자신들이 익숙하게 사용하는 여정에 대한 절차를 가지고 있을 것이지만, 지상에서의 여정을 어떻게 진행할 지 미숙한 사람들에게 바안에서 이러한 여행을 어떻게 처리할 지 배우는 것이 도움이 될 수 있다고 생각했습니다.
 
-I don’t make use of detailed breakdowns of every six-mile hex between one destination or another. I use an abstracted system which boils down travel into two resources: **travel days** and **rations**. Characters need to spend both in order to make progress.
+룰의 제작자는 한 목적지와 다른 목적지 사이의 모든 6마일 헥스에 대한 상세한 계산을 사용하지 않았습니다. 대신 여행을 두 가지 자원, 즉 **여행 일수**와 **식량**으로 축약시키는 추상화된 시스템을 사용합니다. 캐릭터들은 이야기를 진행하기 위해 이 둘 모두를 소비해야 합니다.
 
-## Travel Days
-Vaarn is not well-mapped, and it is not recorded exactly how far one must travel between locations. Distances given by NPCs are approximations, expressed in days: _‘From here it will take five days of travel to reach the circular ruins’_, for example. These estimates apply to speed on foot. If players are using a vehicle, divide the number of travel days in half.
+## 여행 일수
+바안은 지도 기록이 미비하여, 위치 간에 얼마나 멀리 이동해야 하는지 정확히 기록되어 있지 않습니다. NPC들이 제공하는 거리는 대략적인 것이며, 일수로 표현됩니다: 예를 들어 '여기서부터 원형 폐허에 도달하기까지는 걸어서 5일이 걸립니다.' 이러한 추정치는 이동 속도에 적용됩니다. 플레이어가 차량을 사용하고 있다면, 여행 일수를 반으로 나눕니다.
 
-Under normal conditions, the PCs can travel a half day’s worth of distance in the morning, and a half day’s worth of distance in the afternoon. At night they must eat a meal and rest.
+정상적인 조건에서, PC들은 오전에 하루치 거리의 절반을 이동할 수 있으며 오후에 나머지 하루치 거리의 절반을 이동할 수 있습니다. 밤에는 식사를 하고 휴식을 취해야 합니다.
 
-## Rations
-Rations are an abstraction of food and water carried. Three days’ worth of rations can be carried in a single inventory slot. Unless their Ancestry exempts them, PCs must consume a ration each day. If they do not, they become **Deprived**, and cannot recover lost HP. Characters who are Deprived due to hunger and thirst will die after three days.
+## 식량
+식량은 가지고 다니는 음식과 물을 추상화한 것입니다. 하나의 인벤토리 칸에는 3일치의 식량을 담을 수 있습니다. 기원이 조건에 면제를 주지 않는 한, PC들은 매일 식량을 소비해야 합니다. 그렇지 않으면 그들은 궁핍 상태에 놓이게 되며, 잃어버린 HP를 회복할 수 없습니다. 배고픔과 목마름으로 인해 궁핍 상태가 된 캐릭터들은 3 일 후에 죽습니다.
 
-Rations can be obtained from the bodies of dead opponents or allies, so long as the referee rules that the creature is made from an edible material. Convert the dead creature’s Level into rations at a ratio of 1:1.
+식량은 사망한 상대방 또는 동료의 시체에서 얻을 수 있습니다, 만약 심판이 해당 생물이 식용 재료로 만들어졌다고 판단한다면 말입니다. 사망한 생물의 레벨에서 1:1 비율로 식량을 얻습니다. 
 
-_If you find numbers on a character sheet a bit abstract, you could use a bowl of poker chips to represent the players’ total rations. Have each player remove a poker chip from the bowl when they camp for the night, and add chips back in when they find fresh sources of nourishment._
+_캐릭터 시트가 약간 추상적으로 느껴진다면, 포커 칩 한 그릇을 사용하여 플레이어들의 총 식량을 나타낼 수 있습니다. 밤에 캠프를 칠 때마다 각 플레이어가 그릇에서 포커 칩을 하나 제거하고, 신선한 영양원을 찾았을 때 칩을 다시 추가하게 하세요.._
 
-## Exhaustion
-At any point during the travel day, the players may declare that they are exerting themselves in order to walk faster than usual, or are piloting their vehicle at greater speeds than normal. If the party exerts themselves in this manner, they can travel two days’ worth of distance in one day. However, they must fill an inventory slot with **Exhaustion**.
+## 탈진
+여정 동안 언제든지, 플레이어들은 평소보다 빠르게 걷기 위해 애쓰고 있다고 선언하거나, 그들의 차량을 정상보다 더 빠른 속도로 운전하고 있다고 선언할 수 있습니다. 파티가 이런 방식으로 애쓴다면, 하루 안에 이틀치 거리를 이동할 수 있습니다. 하지만 이 경우 파티는 **탈진**으로 인벤토리 칸을 채워야 합니다.
 
-Exhaustion cannot be removed from a PC’s inventory until they rest in one place for an **entire** day and night, with no distance being covered. If a PC has no more spare slots to fill with Exhaustion, they must discard an item to make room. A PC who fills ten inventory slots with Exhaustion will die.
+탈진은 PC가 하루 밤 동안 한 곳에서 쉬며 어떤 거리도 이동하지 않는 경우에만 PC의 인벤토리에서 제거할 수 있습니다. 만약 PC가 탈진으로 채울 추가 칸이 없다면, 공간을 만들기 위해 아이템을 버려야 합니다. 10개의 인벤토리 칸을 탈진으로 채운 PC는 죽게 됩니다.
 
-## Getting Lost
-Losing one’s way has never seemed particularly fun to me, and I assume the PCs are competent desert navigators, who will never get lost as long as they can see the sun and stars. However, some circumstances - players attempting to travel during a sandstorm, for example - demand it. In such cases roll a d6, and add the resulting number of days to their travel schedule.
+## 길잃음 (Getting Lost)
+룰의 제작자가 PC가 조난당하는 상황을 만들고 싶지 않아, PC들이 태양과 별을 볼 수 있는 한 절대 길을 잃지 않는 능숙한 사막의 길잡이라고 가정했습니다.. 그러나 일부 상황들, 예를 들어, 플레이어들이 모래폭풍 도중 이동하려고 시도하는 경우 등은 이를 요구합니다. 이런 경우에는 d6를 굴리고, 결과로 나온 일수를 그들의 여정에 추가하세요.
 
-## Encounters
-The referee should check for an encounter once during the morning of a travel day, once during the afternoon, and once per night. This is done by rolling a d6, and consulting the results below:
+## 조우 (Encounters)
+심판은 여정 도중 매일 아침, 오후 그리고 밤에 한 번씩 조우를 확인해야 합니다. d6를 굴려 나온 아래의 결과를 참조합니다:
 
-**1 - Active Encounter.** The PCs encounter a creature or situation that definitely notices them, and will actively attempt to involve them in their business.  
-**2 - Passing Encounter.** The PCs encounter a creature or situation in passing - it may be happening far away, or be a creature that is not interested in the PCs.  
-**3 - Hint**. The PCs find a hint of an encounter. This may be an object or footprint left in the sand, a flying creature glimpsed on the horizon, or similar. The entity the Hint concerned will always appear as the next Active or Passing Encounter.  
-**4-6 - Nothing.**  
-_If the PCs are traveling in an extremely slow, noisy, or obvious manner, the referee may choose to roll 2d6 or even 3d6 for encounter checks, and use the lowest result._  
+**1 - 적극적인 조우.** PC는 파티를 알아차리고는 자신의 일에 적극적으로 끌어들이려는 생물이나 상황과 마주칩니다.  
+**2 - 지나가는 조우.** PC들은 지나가는 생물이나 상황과 마주칩니다 - 이 상황이 멀리서 일어나거나, 아니면 PC들에게 관심이 없는 생물일 수 있습니다.  
+**3 - 힌트**. PC들은 만남의 힌트를 발견합니다. 이것은 모래 속에 남겨진 물건이나 발자국, 지평선에서 엿본 비행 생물 등일 수 있습니다. 힌트가 관련된 존재는 항상 다음 적극적인 혹은 일시적인 조우로 나타날 것입니다.  
+**4-6 - 아무 일도 일어나지 않음**  
+_PC들이 아주 천천히 시끄럽게, 또는 뻔한 방식으로 이동하고 있다면, 심판은 조우 확인을 위해 2d6 또는 3d6을 굴리고 가장 낮은 결과를 사용할 수도 있습니다._  
 
-## Vigilance
-At the start of each day, as you roll for encounters, the players may collectively roll a Vigilance Dice. This is a single d6, without modifiers. If the players roll a six, they have a guarantee of spotting their next Active or Passing Encounter before the opposing entity or group spots them. If they roll a one, the next Active or Passing Encounter will spot them before they spot it. This vigilance effect resets at the end of each day, whether the players made use of it or not.
+## 경계 (Vigilance)
+하루가 시작할 때마다 조우 주사위를 굴리는 동안, 플레이어들은 함께 경계 주사위를 굴릴 수 있습니다. 이것은 수정자 없는 단일 d6입니다. 플레이어들이 6을 굴리면, 그들은 다음 적극적인 또는 일시적인 조우에서 반대쪽 존재나 무리를 먼저 발견하게 됩니다. 만약 파티가 1을 굴리면, 다음 적극적인 또는 일시적인 만남에서 다른 이들이 먼저 파티를 발견할 것입니다. 이 경계 효과는 플레이어들이 이를 사용하던 사용하지 않던 간에 하루가 끝날 때마다 리셋됩니다.
 
-## Pursuits
-Since the Interior is a large, open desert, there is a good chance that hostile parties will spot one another some time before they are able to engage in combat. In such situations, one party may choose to flee rather than fight. I resolve pursuits as a series of three opposed CON saves. If the pursuers win two of the three saves, they catch up with their quarry and immediately win the initiative in a combat round. If the fleeing party wins two of the three saves, they escape and cannot be caught.
+## 추격 (Pursuits)
+내륙은 크고 드넓은 사막이므로, 적대적인 무리들이 전투를 치루기 전에 서로를 발견할 가능성이 높습니다. 이런 상황에서 파티 중 하나는 싸우기보다 도망치기를 선택할 수 있습니다. 룰의 제작자는 추격을 세 번의 CON 대항 판정으로 처리합니다. 추격자가 세 번의 대항 판정 중 두 번을 이기면, 이들이 사냥감을 따라잡아 즉시 전투 라운드에서 주도권을 얻습니다. 만약 도망치는 파티가 세 번의 대항 판정 중 두 번을 이기면, 무사히 탈출하여 따라잡을 수 없습니다.
 
-Sometimes CON may not be the appropriate attribute to test; pursuits over particularly unsteady ground might require DEX saves, for example. The pursuit rules should only be used if there is a reasonable doubt as to the result of the chase.
+때때로 CON 만으로는 적절한 상황이 아닐 수 있습니다; 특별히 불안정한 지면 위에서의 추격은 DEX 대항 굴림이 필요할 수 있습니다. 추격 규칙은 추격 결과가 모호할 수 있을 때에만 사용할 수 있습니다.
 
-## Night Watches
-When camping in the desert, the PCs may elect a party member to take watch. Whoever is on watch cannot benefit from a Long Rest; instead they will regain only d8 + CON bonus HP. If the party is approached by a hostile creature at night, the referee should ask the character on watch to make a PSY save opposed to the creature’s DEX. Failure grants the monsters a surprise round in combat; the aggressors strike with advantage, and the players cannot respond. After the surprise round is resolved, roll for initiative as normal.
+## 야간 보초 (Night Watches)
+사막에서 야영할 때, PC들은 파티원 중 한 명을 보초 역할에 배정할 수 있습니다. 보초 역할에 있는 사람은 긴 휴식의 이점을 받을 수 없습니다; 대신 d8 + CON 보너스 HP만 회복합니다. 만약 파티에게 밤에 적대적인 생물이 접근당한다면, 심판은 보초 역할의 캐릭터에게 생물의 DEX에 대항하는 PSY 대항 굴림을 요청해야 합니다. 실패하면 괴물들이 전투에서 기습 라운드를 얻게 됩니다; 공격자들은 유리점을 가진 채로 공격하고, 플레이어들은 반응할 수 없습니다. 기습 라운드가 끝난 후, 평소처럼 주도권 순서를 굴립니다.
 
 ## Desert Encounters
 <table>
-<thead><tr><th>d20</th><th>Encounter</th><th>Terrain</th><th>Behaviour</th></th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=yurling">Yurling</a></td><td>Scrubby Bushes</td><td>Sleeping</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=thunderstrike-bird">Thunderstrike Bird</a></td><td>Salt Pan</td><td>Dying</td></tr>
-<tr><td>3</td><td><a href="#/bestiary?id=battle-boar">Battle Boar</a></td><td>Sand Dunes</td><td>Patrolling</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=blue-baboon">Blue Baboon</a></td><td>Heavy Scree</td><td>Mating</td></tr>
-<tr><td>5</td><td><a href="#/bestiary?id=giant-azure-scorpion">Giant Azure Scorpion</a></td><td>Dried Up Stream</td><td>Territorial Display</td></tr>
-<tr><td>6</td><td><a href="#/bestiary?id=lizard-lion">Lizard Lion</a></td><td>Dry Watering Hole</td><td>Eating</td></tr>
-<tr><td>7</td><td><a href="#/bestiary?id=glass-tiger">Glass Tiger</a></td><td>Large Rock</td><td>Relaxing / Nesting</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=greenguard">Greenguard</a></td><td>Cactus Field</td><td>Pursuit / Fleeing</td></tr>
-<tr><td>9</td><td><a href="#/bestiary?id=grey-cricket">Grey Cricket</a></td><td>Grove of Martyr Trees</td><td>Scavenging</td></tr>
-<tr><td>10</td><td><a href="#/bestiary?id=doppelgeller">Doppelgeller</a></td><td>Derelict Vehicle</td><td>Wounded</td></tr>
-<tr><td>11</td><td><a href="#/bestiary?id=leopard-worm">Leopard Worm</a></td><td>Wrecked Spacecraft</td><td>Wounded</td></tr>
-<tr><td>12</td><td><a href="#/bestiary?id=indigo-servitor">Indigo Servitor</a></td><td>Abandoned Town</td><td>Travelling</td></tr>
-<tr><td>13</td><td><a href="#/bestiary?id=bandit">Bandit</a></td><td>Ruined Bell-tower</td><td>Psychedelic State</td></tr>
-<tr><td>14</td><td><a href="#/bestiary?id=phthalo-jackal">Phthalo-Jackal</a></td><td>Toxin Pools</td><td>Sheltering / Hiding</td></tr>
-<tr><td>15</td><td><a href="#/bestiary?id=planeyfolk">Planeyfolk</a></td><td>Caustic Geyser</td><td rowspan="6">Combat with another creature<br />(roll again)</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=regenerator">Regenerator</a></td><td>Crystalline Growths</td></tr>
-<tr><td>17</td><td><a href="#/bestiary?id=tiger-fly">Tiger Fly</a></td><td>Ancient Battlefield</td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=stumbling-drone">Stumbling Drone</a></td><td>Fungus-choked Outpost</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=alzabo">Alzabo</a></td><td>Silent Machinery</td></tr>
-<tr><td>20</td><td><a href="#/bestiary?id=cacogen-pseudo-giant">Cacogen Pseudo-giant</a></td><td>Abandoned Campsite</td></tr>
+<thead><tr><th>d20</th><th>조우</th><th>지형</th><th>행태</th></th></thead>
+<tr><td>1</td><td><a href="#/bestiary?id=yurling">율링</a></td><td>무성한 잡초</td><td>잠듦</td></tr>
+<tr><td>2</td><td><a href="#/bestiary?id=thunderstrike-bird">천둥번개새</a></td><td>소금 평원</td><td>죽어감</td></tr>
+<tr><td>3</td><td><a href="#/bestiary?id=battle-boar">전투 멧돼지</a></td><td>모래 언덕</td><td>순찰함</td></tr>
+<tr><td>4</td><td><a href="#/bestiary?id=blue-baboon">파란 개코원숭이</a></td><td>험한 돌 강</td><td>짝짓기함</td></tr>
+<tr><td>5</td><td><a href="#/bestiary?id=giant-azure-scorpion">거대 하늘색 전갈</a></td><td>메마른 강줄기</td><td>영토 표시함</td></tr>
+<tr><td>6</td><td><a href="#/bestiary?id=lizard-lion">도마뱀 사자</a></td><td>메마른 물웅덩이</td><td>식사중임</td></tr>
+<tr><td>7</td><td><a href="#/bestiary?id=glass-tiger">유리 호랑이</a></td><td>큼지막한 바위</td><td>평온함 / 보금자리를 짓고 있음</td></tr>
+<tr><td>8</td><td><a href="#/bestiary?id=greenguard">그린가드</a></td><td>선인장 지대</td><td>추격중 / 도주중</td></tr>
+<tr><td>9</td><td><a href="#/bestiary?id=grey-cricket">회색 귀뚜라미</a></td><td>순교자의 숲</td><td>고기를 찾아 헤맴</td></tr>
+<tr><td>10</td><td><a href="#/bestiary?id=doppelgeller">복젤인간</a></td><td>버려진 차량</td><td>부상당함</td></tr>
+<tr><td>11</td><td><a href="#/bestiary?id=leopard-worm">표범벌레</a></td><td>난파된 우주선</td><td>부상당함</td></tr>
+<tr><td>12</td><td><a href="#/bestiary?id=indigo-servitor">남색 시종</a></td><td>버려진 마을</td><td>방황함</td></tr>
+<tr><td>13</td><td><a href="#/bestiary?id=bandit">도적</a></td><td>폐허가 된 종탑</td><td>환각 상태에 있음</td></tr>
+<tr><td>14</td><td><a href="#/bestiary?id=phthalo-jackal">하늘색 자칼</a></td><td>독성 웅덩이</td><td>피신함 / 숨음</td></tr>
+<tr><td>15</td><td><a href="#/bestiary?id=planeyfolk">플래니포크</a></td><td>부식성 간헐천</td><td rowspan="6">다른 생명체와 전투<br />(다시 굴림)</td></tr>
+<tr><td>16</td><td><a href="#/bestiary?id=regenerator">재생하는 자</a></td><td>수정 성장체</td></tr>
+<tr><td>17</td><td><a href="#/bestiary?id=tiger-fly">호랑이 파리</a></td><td>고대의 전쟁터</td></tr>
+<tr><td>18</td><td><a href="#/bestiary?id=stumbling-drone">비틀거리는 드론</a></td><td>진균에 먹힌 전초기지</td></tr>
+<tr><td>19</td><td><a href="#/bestiary?id=alzabo">알자보</a></td><td>침묵하는 기계장치</td></tr>
+<tr><td>20</td><td><a href="#/bestiary?id=cacogen-pseudo-giant">캐커젠 가짜거인</a></td><td>버려진 야영지</td></tr>
 </table>
 
 
-# Weather
+# 기후 (Weather)
 ---
 
-The climate of Vaarn’s Interior may be simulated using the following method: first, place a marker in the centre of the hex-chart on the opposite page. Then roll a d6 once at the start of each day the party spends in the desert, moving the marker across the hexes in the direction shown and recording the weather indicated by each. If the marker moves off the edge of the chart, it should wrap around onto the opposite side. The exception to this rule is the edges marked with an X; the marker cannot cross these edges and instead it should stay put for that day.
+바안의 내륙 기후는 다음 방법을 사용하여 시뮬레이션할 수 있습니다. 먼저, 반대 페이지의 헥스 차트 중앙에 마커를 놓습니다. 그런 다음 사막에서 파티가 보내는 각 날이 시작할 때에 한 번씩 d6을 굴려서 나온 결과에 따라 마커를 헥스들을 따라 이동시키고 각각의 날씨를 기록합니다. 마커가 차트의 가장자리로 이동하면 반대편으로 돌아가야 합니다. 그러나 X로 표시된 가장자리는 예외입니다. 마커는 이러한 가장자리를 넘어서지 못하고 대신 그날은 제자리에 머무르게 됩니다.
 
-## Weather Effects
+## 기후 효과 (Weather Effects)
 
-### Still
-The desert landscape is still, untroubled by the susurration of the heavens. Visibility is good.
+### 정적 (Still)
+사막 풍경은 여전히 정적이며, 하늘의 속삭임으로 인해 방해받지 않습니다. 시야가 좋습니다.
 
-### Hazy
-The air is still, but mists of a lurid hue hang over the desert. Visibility is impaired and landmarks cannot be seen from a distance. Vigilance checks are made with disadvantage.
+### 안개 (Hazy)
+공기는 고요하지만, 자욱한 안개가 사막 위에 드리워져 있습니다. 시야가 제한되어 멀리서 랜드마크를 볼 수 없습니다. 경계 판정은 불리점으로 이루어집니다.
 
-### Dust Storm
-The wind blows sheets of blue dust across the desert. Visibility is badly impaired. Traveling under such conditions is possible, but the pace is slowed to half normal speed. A three day journey will take six days, and so on. Vigilance checks are made with disadvantage.
+### 먼지 폭풍 (Dust Storm)
+바람이 사막을 가로질러 푸르른 모래 먼지를 날립니다. 시야가 심각하게 제한됩니다. 이러한 조건에서 이동은 가능하지만, 속도는 정상적인 속도의 절반으로 감소됩니다. 3일 이동은 6일이 걸리게 됩니다. 경계 판정은 불리점으로 이루어집니다.
 
-### Sand Storm
-A howling wind blows a ferocious cloud of azure sand across the desert. Nobody travels in Vaarn’s sandstorms; the PCs must hunker down and wait out the storm. Tents or other makeshift shelters will provide adequate protection. Any encounters rolled during these days are assumed to be seeking shelter from the storm in the same place as the party.
+### 모래 폭풍 (Sand Storm)
+사나운 바람이 사막을 휘몰아치며 강렬한 하늘색 모래 구름을 일으킵니다. 바안의 모래 폭풍에서는 아무도 함부로 움직이지 않습니다. PC들은 앉아서 폭풍이 지나갈 때까지 기다려야 합니다. 천막이나 다른 급조 쉼터는 적절한 보호를 제공할 것입니다. 이러한 날들 동안 발생하는 조우들은 파티와 같은 장소에서 폭풍으로부터 안전한 곳을 찾고 있는 것으로 가정됩니다.
 
-### Heatwave
-Urth’s dying sun musters all the warmth it can. PCs must consume twice their normal ration of water per day if they wish to travel during a heatwave.
+### 열파 (Heatwave)
+우르스의 죽어가는 태양은 가능한 한 모든 온기를 끌어 모읍니다. 열파가 덮친 동안 여행을 위해 이동을 원하는 경우, PC들은 하루에 일반적으로 섭취하는 식량의 두 배에 해당하는 양의 물을 섭취해야 합니다.
 
-### Worm-pollen
-The sandworms of the Interior reproduce through a baroque, decade-long process of parthenogenesis, culminating in the explosive release of thousands of melon-sized spores into the atmosphere. This worm-pollen drifts back to Urth in ponderous sticky deluges that can last for weeks. Progress through shifting mounds of the stuff is slowed to half normal speed; the upside is that worm-pollen is edible, and many a starving man has been saved by the timely arrival of spores from the heavens. Treat worm-pollen days as providing d4 rations per player.
+### 벌레 꽃가루 (Worm-pollen)
+내륙의 모래벌레들은 10년에 걸친 복잡한 처녀생식을 통해 번식합니다. 이 과정은 대기로 수천 개의 수박 크기의 포자가 폭발적으로 방출되는 것으로 마무리됩니다. 이 벌레 꽃가루는 무거운 점성 상태로 호우가 되어 돌아오며, 몇 주 동안 지속될 수 있습니다. 이러한 꽃가루 지대을 통과하는 진행 속도는 일반적인 속도의 절반으로 감소합니다. 긍정적인 면은 벌레 꽃가루는 식용이 가능하며, 많은 굶주린 사람들이 하늘에서 포자가 내려와 살아남았습니다. 벌레 꽃가루 기간 동안 플레이어 당 d4 식량으로 취급합니다.
 
-### Rain
-A rare bounty. The parched blue earth is blessed with water. The party may collect 2d6 days of rations per member. In the aftermath of a rainshower, the desert is conquered by a short-lived imperium of majestic flora.
+### 비 (Rain)
+정말 보기 드문 축복입니다. 갈라진 푸른 대지에 물이 가득합니다. 파티 구성원 당 2d6일치의 식량을 모을 수 있습니다. 이 소나기 이후, 사막은 잠깐동안 웅장한 식물의 왕국으로 정복됩니다.
 
-### Prismatic Tempest
-The sky bruises with clouds of midnight blue. Howling winds carry scouring sheets of sand across the landscape. Thunder rends the air and polychromatic lightning caresses the desert like the tendrils of a jellyfish deity. No travel of any kind is possible, and the PCs will take 3d6 electrical damage every hour they spend above-ground.
+### 빛이 갈라지는 거센 폭풍
+하늘은 한산한 파란색 구름으로 멍들어 있습니다. 비명을 지르는 바람이 풍경을 가로질러 모래 알갱이를 실어 나릅니다. 천둥이 공기를 갈라지며 다색 번개가 물줄기의 신과 같이 사막을 쓸어 넘기듯 내려칩니다. 어떤 종류의 여행도 불가능하며, PC는 지상에서 머무르는 시간당 3d6의 전기 피해를 입게 됩니다.
 
 ![Weather Hex Flower](../images/weather_hex_flower.jpg ':size=70%')
 
-# What You Find In The Sand
-_For use when the party searches a corpse, a wrecked vehicle, a deserted house, etc._
+# 모래사막에서 발견한 것 (What You Find In The Sand)
+_파티가 시체, 버려진 차량, 버려진 집 등을 조사할 때 쓸 수 있습니다._
 
-<table>
-<tr><td>01</td><td>Torn Robe</td><td>51</td><td>Length of Chain</td></tr>
-<tr><td>02</td><td>Black Candle</td><td>52</td><td>Long, Thin Bronze Needle</td></tr>
-<tr><td>03</td><td>Leather Sword Belt</td><td>53</td><td>Mortar and Pestle</td></tr>
-<tr><td>04</td><td>Empty Traveller’s Pack</td><td>54</td><td>Newbeast’s Mask</td></tr>
-<tr><td>05</td><td>Dried Poisonous Plant</td><td>55</td><td>Rusting Padlock</td></tr>
-<tr><td>06</td><td>Bronze Bell</td><td>56</td><td>Pair of Tweezers</td></tr>
-<tr><td>07</td><td>Glass Container of Paprika</td><td>57</td><td>Pair of Spectacles</td></tr>
-<tr><td>08</td><td>Plastic Container of Cooking Oil</td><td>58</td><td>Pair of Chrome Earrings</td></tr>
-<tr><td>09</td><td>Steel Flask of Tea</td><td>59</td><td>Pair of Grimy Goggles</td></tr>
-<tr><td>10</td><td>Silk Glove with Seven Fingers</td><td>60</td><td>Plastic Bottle</td></tr>
-<tr><td>11</td><td>Rusted Key</td><td>61</td><td>Plastic Pouch of Psychedelic Drug</td></tr>
-<tr><td>12</td><td>Cracked Mirror</td><td>62</td><td>Hard Bread and Cheese, Wrapped in Cloth</td></tr>
-<tr><td>13</td><td>Jade Statuette of a Sandworm</td><td>63</td><td>Pouch of Red Wax</td></tr>
-<tr><td>14</td><td>Jackal’s Tooth</td><td>64</td><td>Pouch of Exorcist’s Salt</td></tr>
-<tr><td>15</td><td>Newbeast's Tooth</td><td>65</td><td>Pouch of Cooking Salt</td></tr>
-<tr><td>16</td><td>Bag of Dried Flesh</td><td>66</td><td>Ring with the Seal of an Autarch</td></tr>
-<tr><td>17</td><td>Plastic Bag That Holds Human Teeth</td><td>67</td><td>Rusty Set of Manacles</td></tr>
-<tr><td>18</td><td>Belt Made from the Skin of a Lizard-Lion</td><td>68</td><td>Set of Dominos</td></tr>
-<tr><td>19</td><td>Blood-Soaked Linen Bandage</td><td>69</td><td>Set of Bamboo Eating Utensils</td></tr>
-<tr><td>20</td><td>Broken Spyglass</td><td>70</td><td>Set of Gaming Dice</td></tr>
-<tr><td>21</td><td>Broken Pistol</td><td>71</td><td>Set of Lock-Picks</td></tr>
-<tr><td>22</td><td>Broken Arrow</td><td>72</td><td>Set of Metal Working Tools</td></tr>
-<tr><td>23</td><td>Broken Memory Crystal</td><td>73</td><td>Set of Playing Cards</td></tr>
-<tr><td>24</td><td>Broken Clock</td><td>74</td><td>Shard of Flint</td></tr>
-<tr><td>25</td><td>Cast Iron Skillet</td><td>75</td><td>Shovel</td></tr>
-<tr><td>26</td><td>Metal Disc, with Rune Scratched into the Surface</td><td>76</td><td>Single Feather</td></tr>
-<tr><td>27</td><td>Ceramic Pot Sealed with Wax</td><td>77</td><td>Single Chess Piece</td></tr>
-<tr><td>28</td><td>Ceramic Tiles</td><td>78</td><td>Syntax Engine, Ruined by Sand</td></tr>
-<tr><td>29</td><td>Can of Pre-Collapse Survival Rations</td><td>79</td><td>Small Pouch of Bones</td></tr>
-<tr><td>30</td><td>Coil of Razor-Snare</td><td>80</td><td>Small Hourglass Filled with Strange White Sand</td></tr>
-<tr><td>31</td><td>Ancient Coin, Embossed with an Autarch’s Sigil</td><td>81</td><td>Oxygen Mask</td></tr>
-<tr><td>32</td><td>Plasteel Hunting Knife</td><td>82</td><td>Smoking Pipe</td></tr>
-<tr><td>33</td><td>Crude Map of the Surrounding Area</td><td>83</td><td>Stick of Chalk</td></tr>
-<tr><td>34</td><td>Crumpled Paper, Decorated with Lewd Pictures</td><td>84</td><td>Stick of Charcoal</td></tr>
-<tr><td>35</td><td>Crystalline Vial of Ink</td><td>85</td><td>Synthetic Eye</td></tr>
-<tr><td>36</td><td>Decaying Scroll</td><td>86</td><td>Synthetic Hand</td></tr>
-<tr><td>37</td><td>Desecrated Holy Symbol</td><td>87</td><td>Tangled Bundle of String</td></tr>
-<tr><td>38</td><td>Watercolour Painting of a Monster</td><td>88</td><td>Tattered Elastane Cloak</td></tr>
-<tr><td>39</td><td>Functional Memory Crystal</td><td>89</td><td>Spent Ammunition Case</td></tr>
-<tr><td>40</td><td>Glass Bottle</td><td>90</td><td>Thin Wire with a Hook</td></tr>
-<tr><td>41</td><td>Glass Vial of Blood</td><td>91</td><td>Tinderbox</td></tr>
-<tr><td>42</td><td>Glowstone</td><td>92</td><td>Dice Engraved with Arcane Symbols</td></tr>
-<tr><td>43</td><td>Handful of Stone Spheres</td><td>93</td><td>Vial of Acid</td></tr>
-<tr><td>44</td><td>Handful of Ceramic Shards</td><td>94</td><td>Vial of Indigo Dye</td></tr>
-<tr><td>45</td><td>Golden Container of Ashes</td><td>95</td><td>Vial of Antitoxin</td></tr>
-<tr><td>46</td><td>Large Glass Jar</td><td>96</td><td>Wax Tablet and Stylus</td></tr>
-<tr><td>47</td><td>Large Shard of Stained Glass</td><td>97</td><td>Wooden Flute</td></tr>
-<tr><td>48</td><td>Pouch of Dried Herbs</td><td>98</td><td>Worn Whetstone</td></tr>
-<tr><td>49</td><td>Pouch of Caltrops</td><td>99</td><td>Old, Yellowed, and Illegible Scroll</td></tr>
-<tr><td>50</td><td>Linen Sandal</td><td>00</td><td>Human Embryo, Preserved in Cyro-Flask</td></tr>
-</table>
+| 01 | 찢긴 의복 | 51 | 충분히 긴 사슬 |
+| --- | --- | --- | --- |
+| 02 | 건은 양초 | 52 | 길고 가는 청동 바늘 |
+| 03 | 가죽 검집 | 53 | 절구와 절구공이 |
+| 04 | 빈 여행자 가방 | 54 | 뉴비스트 가면 |
+| 05 | 말린 독초 | 55 | 녹슬어가는 자물쇠 |
+| 06 | 청동 종 | 56 | 핀셋 한 쌍 |
+| 07 | 파프리카가 담긴 유리 용기 | 57 | 보안형 한 쌍 |
+| 08 | 식용유가 담긴 플라스틱 용기 | 58 | 크롬 귀걸이 한 쌍 |
+| 09 | 차가 담긴 금속 용기 | 59 | 때묻은 고글 한 쌍 |
+| 10 | 7 손가락으로 나뉘는 비단 장갑 | 60 | 페트병 |
+| 11 | 녹슨 열쇠 | 61 | 환각제가 들어있는 비닐 주머니 |
+| 12 | 깨진 거울 | 62 | 천으로 감싼 딱딱한 빵과 치즈 |
+| 13 | 모래벌레를 본뜬 옥빛 조각상 | 63 | 붉은 왁스가 든 주머니 |
+| 14 | 자칼의 이빨 | 64 | 퇴마사의 소금 주머니 |
+| 15 | 뉴비스트의 이빨 | 65 | 요리용 소금 주머니 |
+| 16 | 말린 살점 한 자루 | 66 | 신왕의 문양이 있는 반지 |
+| 17 | 인간의 이빨로 물려있는 비닐봉지 | 67 | 녹슬어가는 수갑 |
+| 18 | 도마뱀 사자의 가죽으로 만든 허리띠 | 68 | 도미노 세트 |
+| 19 | 피에 젖은 리넨 붕대 | 69 | 대나무 식기 세트 |
+| 20 | 부서진 망원경 | 70 | 게이밍 다이스 세트 |
+| 21 | 부서진 권총 | 71 | 자물쇠따기 도구 모음 |
+| 22 | 부서진 화살 | 72 | 금속제 연장 세트 |
+| 23 | 부서진 기억 수정 | 73 | 놀이용 카드 세트 |
+| 24 | 부서진 시계 | 74 | 부싯돌 조각 |
+| 25 | 부서진 무쇠 프라이팬 | 75 | 삽 |
+| 26 | 룬이 표면에 긁힌 금속 디스크 | 76 | 깃털 하나 |
+| 27 | 왁스로 밀봉된 세라믹 냄비 | 77 | 체스말 하나 |
+| 28 | 세라믹 타일 | 78 | 모래로 엉망이 된 구문 엔진 |
+| 29 | 붕괴 전 생존배급물 | 79 | 뼈가 든 작은 주머니 |
+| 30 | 가시철사 한 묶음 | 80 | 유독 흰 모래로 가득 찬 작은 모래시계 |
+| 31 | 신왕의 문양이 양각된 고대 동전 | 81 | 산소 마스크 |
+| 32 | 플라스틸 사낭용 나이프 | 82 | 담뱃대 |
+| 33 | 주변 지역 조감도 | 83 | 분필 |
+| 34 | 외설적인 사진으로 장식된 구겨진 종이 | 84 | 숯 막대 |
+| 35 | 잉크가 담긴 수정 병 | 85 | 인조 눈알 |
+| 36 | 썩어가는 두루마리 | 86 | 인조 손 |
+| 37 | 더럽혀진 신성한 상징 | 87 | 엉킨 끈 뭉치 |
+| 38 | 괴물를 묘사한 수채화 | 88 | 너덜너덜해진 엘라스틴 망토 |
+| 39 | 기능성 기억 수정 | 89 | 이미 사용한 탄약 상자 |
+| 40 | 유리병 | 90 | 갈고리가 달린 얇은 철사 |
+| 41 | 피가 담긴 유리병 | 91 | 부싯깃 통 |
+| 42 | 빛나는 돌 | 92 | 의미심장한 상징이 새겨진 주사위 |
+| 43 | 석재 구체 한 움큼 | 93 | 산이 담긴 병 |
+| 44 | 세라믹 조각 한 움큼 | 94 | 남색 염료가 담긴 병 |
+| 45 | 잿더미가 담긴 금빛 용기 | 95 | 해독제가 담긴 병 |
+| 46 | 큰 유리단지 | 96 | 왁스판과 첨필 |
+| 47 | 스테인드 글래스의 큰 파편 | 97 | 목재 피리 |
+| 48 | 말린 허브 주머니 | 98 | 마모된 숫돌 |
+| 49 | 마름쇠 주머니 | 99 | 오래되고 누러며 읽을 수 없는 두루마리 |
+| 50 | 리넨 샌달 | 00 | 냉동 플라스크에 보존된 인간 배아 |
 
-# Exotica
+# 엑조티카 (Exotica)
 
-__Not-Sword__  
-A blade engraved with paradoxical LogLang glyphs. Synthetic creatures cannot recognise this weapon as a blade, nor can they recognise the bearer of the sword as a living being.  
-__Amaranthine Sugar__  
-Fabulously valuable substance, extracted through patient husbandry from the bodies of adult sandworms. Ingestion greatly boosts the psychic strength of biological creatures. Each dose grants one new randomly rolled Mystic Gift.  
-__Bottled Thicket__  
-Glass vial containing weaponised seeds. When the vial is broken, the seeds germinate and begin an astoundingly rapid life cycle, sprouting into a dense tangle of iridescent vines within seconds.  
-__Gecko Gloves__  
-Finely woven nano-cloth gloves. Allow the wearer’s hands to stick to any surface with a near-unbreakable grip.  
-__Tempest Cannon__  
-Heavy weapon (d12, 3 slots). Creates tiny, incredibly violent thunderstorms wherever its shells explode. Must be refilled with a day’s worth of water after each combat.  
-__The Crimson Cantos__  
-Small, unassuming volume of poetry, bound in crimson leather. The book’s contents are neuroactive, and always guaranteed to fling the reader into a murderous rage. Readers must EGO save or violently attack the nearest living creature.  
-__Bedazzling Blade__  
-Off-handed parrying sword, made in the Fallen Autarchy. Has an inbuilt trick - the blade can briefly glow as brightly as the sun, blinding one’s opponent. Of interest to collectors of rare weapons.  
-__Aegis of the Empty-Minded Sage__  
-Golden amulet, worn in the centre of the forehead. Renders the wearer immune to mind control, telepathy, and all other forms of psychic intrusion. The aegis does this by totally suppressing the wearer’s memory and personality, rendering the bearer near catatonic until the amulet is removed by a companion. Of dubious utility.  
-__Exorcist’s Sidearm__  
-The Bullet-witches of Ka-El believed no spirit was beyond the influence of a properly armed gunwoman. This sorcerous sidearm fires a rotating trepanation round, which can violently evict the demons from a possessed man’s skull at an alarmingly long distance.  
-__Holo-Bow__  
-A novelty crossbow, which ‘fires’ very convincing holograms of arrows.  
-__Bounty Beacon__  
-May be used outdoors to signal an ancient supply satellite, which drops a Support Pod containing a week’s rations for a long-dead reconnaissance unit. Only works once.  
-__Lazarus Cap__  
-Grim necrotech helm. If applied to the head of a fresh corpse, will re-activate the brain. The effect only lasts while the cap is worn, and does nothing to arrest the decay of the flesh.  
-__Hedondroid__  
-Synthetic partycrasher. Crude android that is powered by alcohol, and can unerringly locate parties, orgies, weddings etc. within a five mile radius.  
-__Prison Orb of the Miniature Beast__  
-A hypergeometric orb the size of a grapefruit, with a scarlet upper hemisphere and a pallid lower hemisphere. Used by the citizens of a long-faded civilisation to imprison a collection of tiny fighting-beasts, and compel them to do battle with other beast-masters. 4-in-6 chance the Orb still contains a Citrine-coated Volt Rat (HD 1, Armour 13, d6 electric tail), hungry and trained to kill without hesitation. 2-in-6 chance the Orb holds nothing but the desiccated corpse of a forgotten beast.  
-__Autarch’s Nectar__  
-Honeyed golden tonic containing gene-sculpting nanomachines. When drunk by a biological creature, grants a permanent +1 boost to three Ability scores. Only works once.  
-__Babble Grenade__  
-Neuro-active hand grenade. All living creatures caught within the blast will find themselves unable to understand spoken or written language, and their own speech is likewise gibberish. The effect lasts for a day.  
-__Helm of the Unerring Hound__  
-Hunting apparatus from the Fallen Autarchy. Black, hound-shaped mask that fits over the human head and inserts biotech probes up the nostrils. Boosts the wearer’s sense of smell to superhuman levels.  
-__Mr Skuggly-Wuggly__  
-A pink-furred synthetic bear, roughly the size of a domestic cat. Mr Skuggly-Wuggly was designed to amuse the children of a long-lost era, and speaks in comforting rhymes and calming nonsense. Secretly longs for death, but is unable to request this.  
-__Ditto Gun__  
-Revolver that generates weaponised temporal anomalies when its bullets impact a target. These anomalies inflict a wound identical to the most recent injury suffered by the target, with a matching damage value.  
-__The Book of Sand__  
-Hypergeometric book with an infinite number of pages, each filled with dense paragraphs of minuscule, utterly illegible text. All efforts to decode the book will fail, although it could provide the fuel for an eternally burning fire.  
+__아니-검__  
+역설적인 로그어 기호로 새겨진 검입니다. 인조 생명체는 무기를 검으로 인식하지 못하며, 또한 이 검의 소유자를 살아있는 존재로 인식하지 못합니다.  
+__장밋빛 설탕__  
+성체 모래벌레의 몸에서 공을 들여 추출한 매우 값진 물질입니다. 섭취하면 생명체의 정신적 힘이 크게 증가합니다. 먹을 때마다 새롭게 무작위로 굴린 신비로운 재능을 얻습니다.  
+__병에 담긴 덤불__  
+무기화된 씨앗이 들어 있는 유리 약병입니다. 이 약병이 깨지면, 씨앗들이 발아하여 놀랄 만큼 빠른 속도로 자라나, 몇 초 내에 반짝이는 덩굴의 조밀한 혼란으로 자라납니다.  
+__도마뱀붙이 장갑__  
+정교하게 짠 나노 천 장갑입니다. 착용자의 손을 떨어지지 않는 강한 부착력으로 어떤 표면에도 붙을 수 있게 해줍니다.  
+__폭풍포__  
+중병기 (d12, 3 칸). 탄자가 폭발하는 곳마다 작지만 엄청나게 격렬한 뇌우를 만듭니다. 각 전투 후에 하루 분량의 물로 다시 채워야 합니다.  
+__진홍빛 장편 시집__  
+진홍색 가죽으로 묶인 작고 눈에 띄지 않는 장편 시집입니다. 이 책의 내용은 신경활성화되어 있어 항상 독자를 살인적인 분노로 몰아 넣을 것 입니다. 독자는 EGO 내성굴림에 실패했을 때 가장 가까운 생명체를 격렬하게 공격해야 합니다.  
+__광채 칼날__  
+몰락한 신왕국에서 만든 방어용 한손검입니다. 내장된 기능이 있습니다 - 칼날이 잠시 동안 태양처럼 밝게 빛날 수 있어 상대방을 실명시킬 수 있습니다. 이 기능으로 희귀한 것을 수집하는 사람들이 관심을 가질 만합니다.  
+__머리가 텅텅 빈 현자의 보호장치__  
+이마 중앙에 착용하는 황금 아뮬렛입니다. 착용자를 정신 조종, 텔레파시, 그리고 모든 다른 형태의 심리적 침입으로부터 면역으로 만듭니다. 이 보호막은 착용자의 기억과 인격을 완전히 억제함으로써 작동하며, 동료가 아뮬렛를 제거할 때까지 착용자를 거의 혼수상태로 만듭니다. 의심스러운 유용성을 가지고 있습니다. 
+__퇴마사의 보조무기__  
+카-엘 의 총알마녀들은 제대로 무장한 총잡이에게는 어떤 영혼도 영향을 미치지 못한다고 믿었습니다. 이 마법의 보조무기는 회전하는 천공탄을 발사하여, 놀랍도록 긴 거리에서 빙의당한 사람의 두개골에서 악마를 확실히 쫓아낼 수 있습니다.
+__홀로-활__  
+매우 그럴싸한 화살의 홀로그램을 발사하는 진기한 성질의 쇠뇌입니다. 
+__보급-신호기__  
+이 아이템은 야외에서 사용할 수 있으며, 고대의 보급 위성에 신호를 보내는 데 사용됩니다. 위성은 오래 전에 사망한 정찰 부대를 위한 일주일 분량의 식량이 들어 있는 지원 포드를 떨어뜨립니다. 이 아이템은 한 번만 작동합니다.
+__라자루스 모자__  
+무시무시한 사령기술로 만들어진 투구입니다. 신선한 시체의 머리에 적용하면 뇌를 재활성화시킵니다. 이 효과는 투구를 쓴 동안만 지속되며, 썩는 살을 막는 것에는 아무런 효과가 없습니다.
+__쾌락드로이드__  
+인조 파티 훼방꾼입니다. 이는 알코올로 작동하는 원시적인 안드로이드로, 반경 5마일 이내에서 파티, 난교, 결혼식 등을 찾아낼 수 있습니다. 
+__미니어처 짐승이 갇힌 감옥 구체__  
+자몽 크기의 초기하학적 구체로, 붉은색 윗 부분과 창백한 아랫 부분을 가지고 있습니다. 이는 오래 전 사라진 문명의 시민들이 작은 싸움짐승들을 가두고, 다른 조련사의 짐승과 싸우게 만드는 데 사용되었습니다. 이 구체에는 6분의 4의 확률로 레몬색 털의 전기 쥐 (HD 1, 장갑 13, d6 전기 꼬리)가 들어 있을 수 있으며, 항상 굶주리고 죽임에 망설임이 없게끔 훈련 받았습니다. 또한 6분의 2의 확률로 구체 안에는 어느 잊힌 짐승의 건조한 시체만 들어 있을 수 있습니다.
+__신왕의 꽃꿀__  
+꿀처럼 달콤한 이 황금색 토닉은 유전자 조작 나노기계을 함유하고 있습니다. 생명체가 마시면 세 가지 능력치에 영구적으로 +1의 추가치를 제공합니다. 한 번만 작동합니다.  
+__횡설수설 수류탄__  
+신경에 작용하는 수류탄입니다. 이 폭발에 휘말린 모든 생물체는 말하거나 쓰여진 언어를 이해할 수 없게 되며, 자기자신의 말도 마찬가지로 이해할 수 없는 횡설수설이 됩니다. 이 효과는 하루 동안 지속됩니다.
+__틀림없는 사냥개의 투구__  
+몰락한 신왕국에서 나온 사냥용 장비입니다. 이는 검은색, 개 모양의 가면으로, 인간의 머리에 맞게 착용되며 콧구멍 안으로 생체공학적 조사장치를 삽입합니다. 이 장치는 착용자의 후각을 초인적 수준으로 향상시킵니다.
+__포근함 씨__  
+집고양이 크기의 분홍색 모피 인조 곰, 포근함 씨입니다. 이는 오래 전 잊혀진 시대의 아이들을 즐겁게 하기 위해 디자인되었으며, 위로가 되는 운문과 평온하게 이치가 안 맞는 한 말로 말합니다. 사실 비밀스럽게 죽음을 갈망하고 있지만, 이를 요청하지를 못합니다.  
+__동일한 상처의 총__  
+탄환이 목표물에 충돌할 때 무기화된 시간 이상현상을 생성하는 리볼버입니다. 이 이상현상들은 목표물이 가장 최근에 입은 상처와 동일한 상처를 가하며, 동일한 피해 값을 가져옵니다
+__모래의 책__  
+무한한 페이지 수를 가진 초기하적인 책으로, 각 페이지는 엄청 작고, 완전히 읽을 수 없는 텍스트로 가득 찬 빽빽한 문단으로 채워져 있습니다. 이 책을 해독하려는 모든 노력은 실패할 것이지만, 영원히 타오르는 불에 연료로 쓸 수 있습니다.  
 
-# Creating Regions
+# 지역 생성 (Creating Regions)
 ---
 
-The Referee can generate regions of Vaarn using the following method. This technique will not create detailed maps encompassing every feature of the terrain, but rather a simulacra of a landscape that will fuel a few sessions of gaming.
+심판은 다음 방법을 사용하여 바안의 지역을 창조할 수 있습니다. 이 기법은 지형의 모든 특징을 포괄하는 상세한 지도를 만들어내는 것이 아니라, 몇 차례의 게임 세션을 위한 연료가 될 수 있는 풍경의 유사체를 만들어냅니다.
 
-1. Take a sheet of blank paper. A4, or something of equivalent size, will do nicely.
-2. Drop a handful of dice onto the paper. I suggest using five or six dice to create a decent sized region, but there is no upper limit. The more dice you drop, the more regional features you will create. You may use any size of dice up to d20, but be aware that using smaller dice sizes will constrain the results.
-3. Draw circles around the dice where they fell, and note the number showing on the dice. Consult the Location Type table below to find what kind of location has been created.
-4. Draw lines connecting each location to its neighbors. Locations need not connect to every other location on the map; two or three connections per location is quite adequate. These lines represent known travel routes between the locations. If the locations are very close on the page, roll d6. If they are a moderate distance apart, roll 2d6, and if they are very far apart roll 3d6. This dice roll gives you the number of days it will take to travel on foot between the two locations.
-5. Travel routes that connect two even-numbered locations, or an odd and an even-numbered location, are (relatively) safe. Travel routes between two odd-numbered locations, however, have a hazard associated with them. Consult the table below for inspiration.
-6. Now that the broad shape of the region has been created, return to each location and use the tables provided in this zine to generate more specific details about each one. Write down your ideas for each location inside the circles. You are not obliged to abide by the results of the tables if they don’t fit your concept for the region.
-7. If you need more details about the region as a whole, roll on the Landscape Type table below to get an idea of the general terrain. You can also roll to find out the origin of the region’s name.
-8. Build a region-specific encounter table using the <a href="#/bestiary">bestiary</a>. There sample encounter table in VOV #1 if you need inspiration. The character of the region you have generated should inform the encounters you seed it with. A region that contains the ruins of a synth factory will likely have malfunctioning synths lurking around, whereas a region with lots of settlements may have an abundance of trading caravans.
-9. Last but by no means least, think of a few NPCs who might be found in the region, and what they might want from the party. Use the [Story Seeds](regions/the-interior.md?id=story-seeds) table if you are stuck.
+1. 빈 종이 한 장을 준비하세요. A4 사이즈나 그에 상응하는 크기의 종이면 충분합니다.
+
+2. 주사위를 몇 개 종이 위에 떨어뜨립니다. 적당한 크기의 지역을 만들기 위해 5개 또는 6개의 주사위를 사용하는 것을 추천하지만, 상한선은 없습니다. 더 많은 주사위를 떨어뜨릴수록, 만들어낼 지역의 특성도 많아집니다. d20까지의 어떤 눈의 주사위라도 사용할 수 있지만, 작은 눈의 주사위를 사용하면 결과가 제약될 수 있다는 점을 알고 있어야 합니다.
+
+3. 떨어진 주사위 주변에 원을 그리고 주사위에 표시된 숫자를 기록합니다. 어떤 종류의 위치가 만들어졌는지는 아래의 위치 유형 표를 참조하십시오.
+
+4. 각 위치와 인접 지역을 연결하는 선을 그립니다. 위치가 지도의 다른 모든 위치에 연결될 필요는 없습니다. 한 위치당 두 개 또는 세 개의 연결이 꽤 적합합니다. 이 선들은 위치 간의 알려진 이동 경로를 나타냅니다. 페이지에서 두 점 간의 거리가 매우 가까우면 d6을 굴리세요. 중간 간격이면 2d6을 굴리고, 매우 멀리 떨어져 있으면 3d6을 굴리세요. 이 주사위 굴리기는 두 위치 사이를 걸어서 이동하는 데 걸리는 일수를 나타냅니다.
+
+5. 짝수 번호의 위치를 연결하는 이동 경로, 또는 홀수와 짝수 번호의 위치를 연결하는 경로는 (상대적으로) 안전합니다. 그러나, 두 홀수 번호 위치 사이의 여행 경로에는 위험이 동반됩니다. 아래 표를 참고하세요.
+
+6. 이제 지역의 대략적인 형태가 생성되었으니, 각 위치로 돌아가 이 잡지에 제공된 표를 사용하여 각 위치에 대한 더 구체적인 세부 사항을 만드세요. 원 안에 각 위치에 대한 아이디어를 적어놓으세요. 표의 결과가 당신의 지역 개념과 맞지 않는다면, 꼭 표를 따를 필요가 없습니다.
+
+7. 전체 지역에 대한 더 많은 세부 정보가 필요하다면, 아래의 '풍경 유형' 표를 굴려 일반적인 지형에 대한 아이디어를 얻을 수 있습니다. 또한, 지역 이름의 기원을 알아보기 위해 굴릴 수도 있습니다.
+
+8. <a href="#/bestiary">괴물 도감</a>을 사용하여 지역의 특성에 맞는 조우 표를 만드세요. 영감이 필요하다면 VOV #1에 있는 조우 표 예시를 참고하세요. 생성한 지역의 성격은 그곳에 배치하는 조우 상황을 결정해야 합니다. 신스 공장의 폐허가 있는 지역에서는 고장난 신스들이 숨어 있을 가능성이 높으며, 정착지가 많은 지역에서는 행상단이 많을 수 있습니다.
+
+9. 마지막으로, 그리고 결코 중요하지 않은 것은 아니지만, 이 지역에서 발견될 수 있는 몇몇 NPC를 생각해 보고, NPC가 파티로부터 무엇을 원할지 생각해보세요. 무슨 npc를 만들지 막막하다면 [스토리 시드](regions/the-interior.md?id=story-seeds) 표를 사용하세요.
+
 
 <table>
-<thead><th>d20</th><th>Location Type</th><th>Travel Hazard</th><th>Landscape Type</th><th>Region Named For</th></thead>
-<tr><td>1</td><td><a href="#/regions/the-interior.md?id=ruin">Ruin</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">Bandits Control the Road</a></td><td>Featureless Sands</td><td rowspan="2">Famous Resident</td></tr>
-<tr><td>2</td><td><a href="#/regions/the-interior.md?id=settlement">Settlement</a></td><td>Salt Pan</td></tr>
-<tr><td>3</td><td><a href="#/regions/the-interior.md?id=oasis">Oasis</a></td><td rowspan="2">Hunting Ground of Chromavore</td><td>Hard Rocky Plain</td><td rowspan="2">Local Wildlife</td></tr>
-<tr><td>4</td><td><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td><td>Dried-up Lake</td></tr>
-<tr><td>5</td><td><a href="#/regions/the-interior.md?id=wreck">Wreck</a></td><td rowspan="2"><a href="#/bestiary.md?id=argent-shepherd">Prowled by Argent Shepherd</a></td><td>Dried-up River</td><td rowspan="2">Natural Wonder</td></tr>
-<tr><td>6</td><td><a href="#/regions/the-interior.md?id=vault">Vault</a></td><td>Towering Monoliths</td></tr>
-<tr><td>7</td><td><a href="#/regions/the-interior.md?id=landmark">Landmark</a></td><td rowspan="2">Sandworm Spawning Grounds</td><td>Mesas</td><td rowspan="2">Natural Hazard</td></tr>
-<tr><td>8</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Bandit Camp</a></td><td>Low Hills</td></tr>
-<tr><td>9</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">Bounty Hunter's Camp</a></td><td rowspan="2">Very Windy; Guaranteed Sandstorms</td><td>Single Mountain</td><td rowspan="2">Famous Monster</td></tr>
-<tr><td>10</td><td><a href="#/regions/the-interior.md?id=lair">Lair</a></td><td>Toxic Lake</td></tr>
-<tr><td>11</td><td><a href="#/regions/the-interior.md?id=archive">Archive</a></td><td rowspan="2">Roving Cult Searching for Converts</td><td>Toxic River</td><td rowspan="2">Long-Dead Settlement</td></tr>
-<tr><td>12</td><td><a href="#/regions/the-interior.md?id=arcology">Arcology</a></td><td>Fungal Forest</td></tr>
-<tr><td>13</td><td><a href="#/regions/the-interior.md?id=grave">Grave</a></td><td rowspan="2">Malfunctioning Synths Demand a Toll</td><td>Crystal Growths</td><td rowspan="2">Forgotten Religion</td></tr>
-<tr><td>14</td><td><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td><td>Windswept Plateau</td></tr>
-<tr><td>15</td><td><a href="#/regions/the-interior.md?id=trade-post">Trade Post</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">Road Watched by Cacklemaw Clan</a></td><td>Mountainous</td><td rowspan="2">Local Weather</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">Hegemony Camp</a></td><td>Winding Canyons</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomad Camp</a></td><td rowspan="2">Warring Faa Nomads</td><td>Abandoned City</td><td rowspan="2">Natural Resource</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td><td>Cactus Fields</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=anomaly">Anomaly</a></td><td rowspan="2">Unexploded Landmines</td><td>Riddled with Caves</td><td rowspan="2">Name No Longer Understood</td></tr>
-<tr><td>20</td><td>(Roll d20 twice and combine results)</td><td>Garbage-strewn Wastes</td></tr>
+<thead><th>d20</th><th>장소 유형</th><th>여행 중 위험 요소</th><th>풍경 유형</th><th>지명의 유래</th></thead>
+<tr><td>1</td><td><a href="#/regions/the-interior.md?id=ruin">폐허</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=bandit-camp">길목을 점거한 도적들</a></td><td>특색없는 사막</td><td rowspan="2">유명한 거주민</td></tr>
+<tr><td>2</td><td><a href="#/regions/the-interior.md?id=settlement">정착지</a></td><td>소금 평원</td></tr>
+<tr><td>3</td><td><a href="#/regions/the-interior.md?id=oasis">오아시스</a></td><td rowspan="2">색깔포식자의 사냥터</td><td>험난한 자갈밭</td><td rowspan="2">현지 야생동물</td></tr>
+<tr><td>4</td><td><a href="#/regions/the-interior.md?id=holy-place">성지</a></td><td>메마른 호수</td></tr>
+<tr><td>5</td><td><a href="#/regions/the-interior.md?id=wreck">잔해</a></td><td rowspan="2"><a href="#/bestiary.md?id=argent-shepherd">어슬렁거리는 은빛 양치기</a></td><td>메마른 강</td><td rowspan="2">자연적인 경치</td></tr>
+<tr><td>6</td><td><a href="#/regions/the-interior.md?id=vault">볼트</a></td><td>우뚝 솟은 비석</td></tr>
+<tr><td>7</td><td><a href="#/regions/the-interior.md?id=landmark">랜드마크</a></td><td rowspan="2">모래벌레 산란장</td><td>탁상 대지</td><td rowspan="2">자연적인 위험요소</td></tr>
+<tr><td>8</td><td><a href="#/regions/the-interior.md?id=bandit-camp">도적 야영지</a></td><td>낮은 언덕들</td></tr>
+<tr><td>9</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">현상금 사냥꾼의 야영지</a></td><td rowspan="2">바람이 거셈. 모래폭풍이 확실함</td><td>Single 산</td><td rowspan="2">유명한 괴물</td></tr>
+<tr><td>10</td><td><a href="#/regions/the-interior.md?id=lair">보금자리</a></td><td>독성 호수</td></tr>
+<tr><td>11</td><td><a href="#/regions/the-interior.md?id=archive">기록 보관소</a></td><td rowspan="2">귀의자를 찾아다니는 사교도</td><td>독성 강</td><td rowspan="2">오래 전에 망한 정착지</td></tr>
+<tr><td>12</td><td><a href="#/regions/the-interior.md?id=arcology">아콜로지</a></td><td>진균 숲</td></tr>
+<tr><td>13</td><td><a href="#/regions/the-interior.md?id=grave">무덤가</a></td><td rowspan="2">통행료를 요구하는 고장난 신스</td><td>수정 성장체</td><td rowspan="2">잊혀진 종교</td></tr>
+<tr><td>14</td><td><a href="#/regions/the-interior.md?id=science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>바람이 몰아치는 고원</td></tr>
+<tr><td>15</td><td><a href="#/regions/the-interior.md?id=trade-post">교역소</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=cacklemaw-den">캐클모 씨족에게 감시당하는 도로</a></td><td>산악지대</td><td rowspan="2">현지 기후</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">신정부 야영지</a></td><td>바람이 통하는 협곡</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">파아 유목민 야영지</a></td><td rowspan="2">적대하는 파아 유목민들</td><td>버려진 도시</td><td rowspan="2">천연자원</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">캐클모 소굴</a></td><td>선인장 지대</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=anomaly">이상현상</a></td><td rowspan="2">불발된 지뢰 여러 개</td><td>동굴로 가득함</td><td rowspan="2">더 이상 이해할 수 없는 이름</td></tr>
+<tr><td>20</td><td>(d20를 두 번 굴려 나온 결과를 함침)</td><td>쓰레기 매립지</td></tr>
 </table>
 
 ## Story Seeds
