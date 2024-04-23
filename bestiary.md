@@ -889,7 +889,7 @@ _유기체_
 <tr><td colspan="2"><b>참고사항</b>: 이 전투에 미친 영원히 피 흘리는 상처의 교회의 교황들이 입는 붉은 갑옷을 닮은 색깔 때문에 그 이름이 붙었습니다. 이 전갈들은 야행성 포식자로, 주로 바안의 남부 황무지와 달의 요람 산맥의 구릉지에서 만날 수 있습니다. 성체가 길이 4피트까지 자라는 것으로 보아, 내부 지역의 거대 하늘색 전갈보다는 작지만 염소나 목동을 압도하는 데 충분합니다.</td></tr>
 </table>
 
-## 프리즘 드론
+## 프리즘 드론 (Prism Drone)
 _인조적 / 무기질_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 16</td></tr>
@@ -898,7 +898,7 @@ _인조적 / 무기질_
 <tr><td colspan="2"><b>참고사항</b>: 프리즘 스트라이더와 함께 전투에 참여하는 작은 세 대의 보조기로, 우뚝 솟은 공격 합성물에 대한 정찰 및 수리를 제공합니다.드론의 중계 광선방출기는 프리즘 스트라이더에서 발사되는 빔을 조준하고 과급하는 데 사용됩니다.</td></tr>
 </table>
 
-## Prism Strider
+## 프리즈 스트라이더 (Prism Strider)
 _인조적 / 무기질_
 <table>
 <tr><td><b>레벨</b>: 9</td><td><b>장갑</b>: 18</td></tr>
@@ -1127,15 +1127,14 @@ _유기체_
 <b>오라:</b> 매 턴마다 서마사우르스는 몸의 온도를 찌르듯이 뜨겁게 혹은 참혹하게 추워질 수 있습니다. 열이나 추위가 너무 심해서 생물체 근처에 있는 사람들은 매 턴마다 d8 무조건 피해를 입습니다. 추가로, 열 때문에 금속 아이템을 가지고 있는 PC들은 EGO 내성에 실패했을 때 뜨거워진 아이템을 버립니다. 만약 서마사우르스의 오라가 차가우면, 생물체 근처에 있는 모든 액체들은 얼어붙고 모든 원거리 공격들은 오한 때문에 불리점과 함께 진행됩니다.</td></tr>
 </table>
 
-## Thornthrower Cactus
+## 가시방사 선인장 (Thornthrower Cactus)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 6</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: 2 x Thorn Fling (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Ferocious ambulatory cactus, covered in hollow spines the size of daggers. Thornthrowers kill by firing spines into the soft tissue of the throat, before taking root in the corpse and draining it of fluid.
-<br>
-<b>Spines:</b> if an opponent misses a melee attack against the Thornthrower cactus, they take d4 damage from the long spines.</td></tr>
+<tr><td>가시 던지기 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 가시처럼 날카로운 커다란 가시로 덮인 사나운 움직이는 선인장입니다. 가시방사 선인장은 목의 연조직에 가시를 발사여 생명체를 죽인 뒤 시체에 뿌리를 내리고 체액을 흡수합니다.
+<br><b>가시:</b> 선인장을 공격하려는 대상이 근접공격으로 명중하는 것에 실패할 경우 가시로 긴 인해 d4의 피해를 입습니다. </td></tr>
 </table>
 
 ## 천둥번개 새 (Thunderstrike Bird)
@@ -1202,60 +1201,59 @@ _인조적_
 <br>공허의 드래곤은 너무 크기 때문에 PC들이 냉풍구를 통해 드래곤의 몸 속으로 들어갈 수 있습니다. 만약 드래곤이 비행하는 동안 드래곤의 몸에 붙을 수 있다면 말입니다. 드래곤의 핵심 반응로를 찾아서 파괴하면 생명체를 치명적인 멜트다운 상태로 보낼 것입니다.</td></tr>
 </table>
 
-## 공허의 위장
+## 공허의 위장 (Voidmaw)
 _유기체 / 인조적_
 <table>
 <tr><td><b>레벨</b>: 10</td><td><b>장갑</b>: 20</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
 <tr><td colspan="2"><b물기 (d12) + 통째로 집어삼키기 (특수)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Voidmaws are cyborg organisms, designed to live and hunt in the vacuum of space and Urth’s upper atmosphere. They once defended space elevators and orbital structures from sabotage, although the days of their servitude are long gone and they are driven now only to eat and grow. They resemble the Pelican eels that dwelt in Urth’s oceans millennia ago, but large enough to swallow a hippo in one gulp. They are black ropes of muscle and 인조적 void-dermis, blind but attuned to heat signatures, drifting through the dark places behind the sky in search of warm provender.
-<br>
-<b>Swallow Whole:</b> If a Voidmaw’s attack roll exceeds the target’s 장갑 score by five or more, they will be swallowed whole and crushed inside the creature’s body, taking 3d6 damage each round they are inside the Voidmaw.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 공허의 위장는 우주와 어스 위쪽 대기의 진공상태에서 살고 사냥하기 위해 설계된 사이보그 유기체입니다. 이들은 한때 우주 엘리베이터와 궤도 구조물을 파괴 행위로부터 방어하기도 했지만, 이 위장의 노예 생활은 오래 전에 사라졌고 이제는 생존에 내몰리게 되었습니다. 이들은 수 천년 전 우르스의 바다에 살았던 펠리컨 장어와 닮았지만 하마 한 마리를 단숨에 삼킬 수 있을 정도의 크기입니다. 이들은 근육의 검은 밧줄과 인조 공허더미이지만 열 신호에 맞춰 조정된 것으로, 따뜻한 공급자를 찾아 하늘 뒤의 어두운 곳을 표류하고 있습니다.
+<br><b>통째로 삼키기:</b> 공허의 위장의 명중 굴림이 목표물의 장갑 점수를 5점 이상 초과하면, 통째로 삼켜서 생물체의 몸 안에서 으깹니다. 공허의 위장 안에 있을 때 매 라운드마다 3d6의 피해를 입습니다.</td></tr>
 </table>
 
-## Walking Womb
+## 걸어다니는 자궁 (Walking Womb)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 11</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: d4</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slam (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Shambling blind mound of pregnant flesh. On death, births d6 Foetal Predators (레벨 1, 장갑 13, d6 bite). Fire prevents this.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 부딪히기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 비틀거리며 눈먼 임신한 살덩이 덩어리입니다. 죽을 시, d6만큼 태아 포식자들(레벨 1, 장갑 13, d6 물기)을 출산합니다. 불로 막을 수 있습니다.</td></tr>
 </table>
 
-## Xanthous Mycomorph
-_Fungal_
+## 황색 버섯체 (Xanthous Mycomorph)
+_진균체_
 <table>
 <tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 9</td></tr>
 <tr><td><b>사기</b>: 15 (3)</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Slam (d8) + Spore Spray (d8 area)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Mass of yellow necrotech fungus that engulfs corpses and uses them as fuel to grow ever larger. Takes half damage from kinetic weapons and regenerates d6 HP per round, unless burned with fire or acid. Must make 사기 Save at 사기 3 if burned.</td></tr>
+<tr><td colspan="2">부딪히기 (d8) + 포자 분사 (d8 범위)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 시체를 집어삼키고 연료로 사용하여 더욱 커지는, 사령기술로 만들어진 노란색 진균 덩어리입니다. 운동 에너지 무기로부터 받는 피해를 절반으로 줄이고, 화염이나 산으로 태워지지 않는 한 매 라운드마다 d6 HP를 회복합니다. 태워질 경우, 사기 3에서 사기 굴림을 해야 합니다.</td></tr>
 </table>
 
-## Xeric Triffid
+## 내건성 트리피드 (Xeric Triffid)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 10</td><td><b>수량</b>: d10</td></tr>
-<tr><td colspan="2"><b>공격</b>: Lash (d6) / Blinding Spit (CON save vs Blindness for d6 rounds)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Walking, carnivorous plants, descended from a larger and more virulent species that was brought to Urth from the stars in a forgotten era. Xeric Triffids are adapted to a low moisture environment, with tough, thick skin and small waxy leaves. They remain rooted during the heat of the day, but become mobile at dawn and twilight, stalking on three large roots in search of prey.
+<tr><td colspan="2"><b>공격</b>: 후려치기 (d6) / 실명 침 뱉기 (d6 라운드 간의 실명에 대항해 CON 내성굴림)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 걸아다니는 육식성 식물은 잊혀진 시대에 다른 별에서 우르스로 가져온 더 크고 더 독한 종의 후손입니다. 내건성 트리피드는 거칠고 두꺼운 피부와 작은 왁스 같은 잎을 가져 건조한 수분 환경에 적응합니다. 그들은 한낮의 더위 동안 뿌리를 유지하지만 새벽과 황혼에 이동하여 먹이를 찾아 세 개의 큰 뿌리를 내립니다.
 <br>
-<b>Blindness:</b> Characters blinded by Triffid spit make melee 공격 with Disadvantage. They cannot use ranged weapons.</td></tr>
+<b>실명:</b> 트리피드의 침에 눈이 먼 캐릭터는 불리점으로 근거리 공격을 합니다. 원거리 무기를 사용할 수 없습니다.</td></tr>
 </table>
 
-## Yuckhog
+## 윽돼지 (Yuckhog)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 13</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: d6</td></tr>
-<tr><td colspan="2"><b>공격</b>: Gore (d6) / Yuckspray (d6 TOX)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Small, highly toxic wild pigs that root around in the garbage wastes of Ikor Quag. Their pelts are a delicate yellow in colour. When threatened, the Yuckhog spews out a foul-smelling corrosive gas which can severely damage the respiratory system.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 들이받기(d6) / 윽분사 (d6 TOX)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이코르 쿠아그의 쓰레기 폐기물 주변에 자리잡은 작고 독성이 강한 야생 돼지입니다. 가죽은 섬세한 노란색입니다. 위협을 받았을 때, 윽돼지는 호흡기에 심각한 손상을 줄 수 있는 악취가 나는 부식성 가스를 내뿜습니다.</td></tr>
 </table>
 
-## Yurling
-_유기체 / Fungal_
+## 율링 (Yurling)
+_유기체 / 진균체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 1</td><td><b>수량</b>: 2d6</td></tr>
 <tr><td colspan="2"><b>공격</b>: Bite (d4)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Tiny mischievous monkey-like mutants. Covered in symbiotic white fungus. Exclusively eat metal. If a Yurling scores a hit, instead of dealing damage it can choose to steal and devour a metal object from the target's inventory.</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 작고 장난스러운 원숭이 같은 돌연변이입니다. 공생하는 흰색 곰팡이로 덮여 있습니다. 주로 금속을 먹습니다. 만약 율링의 공격이 명중하면, 피해를 주는 대신 대상의 인벤토리에서 금속 물체를 훔쳐서 먹을 수 있습니다.</td></tr>
 </table>
