@@ -16,8 +16,8 @@
 - [볼트 생성](VaultsGenerator.md)
 - [연금숭](alchemy.md)
 - [괴물 도감](bestiary.md)
-- [바안의 방언](tongues-of-vaarn.md)
-- [잊혀진 시대의 타이탄](titans.md)
+- [바안의 언어](tongues-of-vaarn.md)
+- [희미한 시대의 타이탄](titans.md)
 
 - [자료](resources.md)
 - [감사의 말](acknowledgements.md)
