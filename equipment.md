@@ -88,7 +88,7 @@ _Roll Once_
 <tr><td>5</td><td>사기 주사위</td></tr>
 <tr><td>6</td><td>귀에 거슬리는 호루라기</td></tr>
 <tr><td>7</td><td>빛나는 페인트</td></tr>
-<tr><td>8</td><td><a href='#/referee-rules.md?id=바안의-약물-drugs-of-vaarn'>약물</a></td></tr>
+<tr><td>8</td><td><a href='#/content-generators?id=바안의-약물-drugs-of-vaarn'>약물</a></td></tr>
 <tr><td>9</td><td>독이 든 알약</td></tr>
 <tr><td>10</td><td>자동언어 번역기</td></tr>
 <tr><td>11</td><td>자물쇠따기 도구</td></tr>
