@@ -152,7 +152,7 @@ _유기체_
 </td></tr>
 </table>
 
-## 캐커젠 가짜 거인 (Cacogen Pseudo-Giant)
+## 캐커젠 가짜거인 (Cacogen Pseudo-Giant)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 15</td></tr>
