@@ -649,26 +649,26 @@ _바안에서 거주지가 아닌 곳에는 모든 종류건 괴물들로 가득
 
 <table>
 <thead><th>d20</th><th>머무르는 것</th><th>외관</th><th>위험의 징조</th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=argent-shepherd">은빛 양치기</a></td><td>폐허가 된 예배당</td><td>미친 사람들이 은색 후광을 낀 채 파티에게 돌아가라고 애원함</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=chrome-feathered-sailback">크롬 깃털 돛등뱀</a></td><td>햇볕이 고르게 드는 평원</td><td>바람을 타고 크롬 깃털이 흩날림</td></tr>
-<tr><td>3</td><td>d6 <a href="#/bestiary?id=quill-spider">가시거미</a></td><td>땅굴</td><td>다리에 가시가 잔뜩 박힌 채 절뚝이는 영양</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=chromavore">색깔 포식자</a></td><td>무색 선인장 숲</td><td>파아 가족의 색깔없는 껍질</td></tr>
-<tr><td>5</td><td>d6 <a href="#/bestiary?id=hiveyman">벌집인간</a></td><td>섬뜩한 검은 벌집</td><td>땅 위를 기어다니는 흰담비 벌</td></tr>
-<tr><td>6</td><td>d6 <a href="#/bestiary?id=lizard-lion">도마뱀 사자</a></td><td>태양의 입맛춤을 쬔 바위</td><td>허물을 발견함</td></tr>
-<tr><td>7</td><td>d6 <a href="#/bestiary?id=battle-boar">전투 멧돼지</a></td><td>그늘진 흙탕</td><td>엄니 자국이 찍힌 바위</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=alzabo">알자보</a></td><td>깊은 동굴</td><td>이상하게 울려퍼지는 어린 아이의 목소리</td></tr>
-<tr><td>9</td><td>3d6 <a href="#/bestiary?id=pthalo-jackal">하늘색 자칼</a></td><td>얕은 소굴</td><td>바람을 타고 울부짖는 소리</td></tr>
-<tr><td>10</td><td>d4 <a href="#/bestiary?id=pseudo-giant">가짜거인</a></td><td>조잡한 벽돌 오두막</td><td>찌그러진 신정부 스키프의 잔해</td></tr>
-<tr><td>11</td><td>d6 <a href="#/bestiary?id=lambent-lynx">깜빡이 스라소니</a></td><td>절벽 높이의 소굴</td><td>폭풍이 불기 전이라면 공기에서 전기 맛이 느껴짐</td></tr>
-<tr><td>12</td><td>3d6 <a href="#/bestiary?id=blue-baboon">파란 개코원숭이</a></td><td>바위투성이 개활지</td><td>곳곳에 쌓인 배설물</td></tr>
-<tr><td>13</td><td>d6 <a href="#/bestiary?id=walking-womb">걸어다니는 자궁</a></td><td>악취나는 싱크홀</td><td>모래 속의 넓게 끌린 자국</td></tr>
-<tr><td>14</td><td>3d6 <a href="#/bestiary?id=tiger-fly">호랑이 파리</a></td><td>높고 종이같은 둥지</td><td>명확하게 들리는 윙윙거리는 소리</td></tr>
-<tr><td>15</td><td>d4 <a href="#/bestiary?id=regenerator">재생하는 자</a></td><td>인간 가죽 천막</td><td>뼈로 만든 조잡한 우상</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=thunderstrike-bird">천둥번개 새</a></td><td>탁상 대지에있는 보금자리</td><td>선인장에 걸린 거대하고 거무스름한 깃털</td></tr>
-<tr><td>17</td><td>d4 <a href="#/bestiary?id=glass-tiger">유리 호랑이</a></td><td>소금 평원에 잠복함</td><td>입가에 명확히 물린 자국이 있는 시체 </td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=amaranthine-death-worm">불멸의 데스웜</a></td><td>독에 걸린 나무</td><td>흙길에 거대하고 구불구불한 흔적</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=xanthous-mycomorph">황색 버섯체</a></td><td>진균 덤불</td><td>바람을 타고 흩날리는 노란색 포자</td></tr>
-<tr><td>20</td><td>d12 <a href="#/bestiary?id=greenguard">그린가드</a></td><td>버려진 요새</td><td>바위에 박힌 에나멜 탄자</td></tr>
+<tr><td>1</td><td><a href="#/bestiary?id=은빛-양치기-argent-shepherd">은빛 양치기</a></td><td>폐허가 된 예배당</td><td>미친 사람들이 은색 후광을 낀 채 파티에게 돌아가라고 애원함</td></tr>
+<tr><td>2</td><td><a href="#/bestiary?id=크롬-깃털-돛등뱀-chrome-feathered-sailback">크롬 깃털 돛등뱀</a></td><td>햇볕이 고르게 드는 평원</td><td>바람을 타고 크롬 깃털이 흩날림</td></tr>
+<tr><td>3</td><td>d6 <a href="#/bestiary?id=가시거미-quill-spider">가시거미</a></td><td>땅굴</td><td>다리에 가시가 잔뜩 박힌 채 절뚝이는 영양</td></tr>
+<tr><td>4</td><td><a href="#/bestiary?id=색깔포식자-chromavore">색깔 포식자</a></td><td>무색 선인장 숲</td><td>파아 가족의 색깔없는 껍질</td></tr>
+<tr><td>5</td><td>d6 <a href="#/bestiary?id=벌집인간-hiveyman">벌집인간</a></td><td>섬뜩한 검은 벌집</td><td>땅 위를 기어다니는 흰담비 벌</td></tr>
+<tr><td>6</td><td>d6 <a href="#/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>태양의 입맛춤을 쬔 바위</td><td>허물을 발견함</td></tr>
+<tr><td>7</td><td>d6 <a href="#/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>그늘진 흙탕</td><td>엄니 자국이 찍힌 바위</td></tr>
+<tr><td>8</td><td><a href="#/bestiary?id=알자보-alzabo">알자보</a></td><td>깊은 동굴</td><td>이상하게 울려퍼지는 어린 아이의 목소리</td></tr>
+<tr><td>9</td><td>3d6 <a href="#/bestiary?id=하늘빛-자칼-pthalo-jackal">하늘색 자칼</a></td><td>얕은 소굴</td><td>바람을 타고 울부짖는 소리</td></tr>
+<tr><td>10</td><td>d4 <a href="#/bestiary?id=-캐커젠-가짜거인-cacogen-pseudo-giant">가짜거인</a></td><td>조잡한 벽돌 오두막</td><td>찌그러진 신정부 스키프의 잔해</td></tr>
+<tr><td>11</td><td>d6 <a href="#/bestiary?id=깜빡이-스라소니-lambent-lynx">깜빡이 스라소니</a></td><td>절벽 높이의 소굴</td><td>폭풍이 불기 전이라면 공기에서 전기 맛이 느껴짐</td></tr>
+<tr><td>12</td><td>3d6 <a href="#/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>바위투성이 개활지</td><td>곳곳에 쌓인 배설물</td></tr>
+<tr><td>13</td><td>d6 <a href="#/bestiary?id=걸어다니는-자궁-walking-womb">걸어다니는 자궁</a></td><td>악취나는 싱크홀</td><td>모래 속의 넓게 끌린 자국</td></tr>
+<tr><td>14</td><td>3d6 <a href="#/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>높고 종이같은 둥지</td><td>명확하게 들리는 윙윙거리는 소리</td></tr>
+<tr><td>15</td><td>d4 <a href="#/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>인간 가죽 천막</td><td>뼈로 만든 조잡한 우상</td></tr>
+<tr><td>16</td><td><a href="#/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개 새</a></td><td>탁상 대지에있는 보금자리</td><td>선인장에 걸린 거대하고 거무스름한 깃털</td></tr>
+<tr><td>17</td><td>d4 <a href="#/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>소금 평원에 잠복함</td><td>입가에 명확히 물린 자국이 있는 시체 </td></tr>
+<tr><td>18</td><td><a href="#/bestiary?id=불멸의-데스웜-amaranthine-death-worm">불멸의 데스웜</a></td><td>독에 걸린 나무</td><td>흙길에 거대하고 구불구불한 흔적</td></tr>
+<tr><td>19</td><td><a href="#/bestiary?id=황색-버섯체-xanthous-mycomorph">황색 버섯체</a></td><td>진균 덤불</td><td>바람을 타고 흩날리는 노란색 포자</td></tr>
+<tr><td>20</td><td>d12 <a href="#/bestiary?id=그린가드-greenguard">그린가드</a></td><td>버려진 요새</td><td>바위에 박힌 에나멜 탄자</td></tr>
 </table>
 
 ## 기록 보관소 (Archive)
@@ -747,8 +747,8 @@ _바안은 무엇보다도 결말이 무거운 땅이며 무덤은 음울한 규
 <tr><td>13</td><td>우아한 탑</td><td>강력한 정신 능력자</td><td>풍장</td><td>메마른 기념분수</td></tr>
 <tr><td>14</td><td>흐릿하게 보이는 건축물</td><td>유명한 검객</td><td>진균에 먹히게 둠</td><td>의식용 예술품 (끔찍함)</td></tr>
 <tr><td>15</td><td>돌 평원</td><td>도적의 왕</td><td>신성한 꽃의 먹이로 바침</td><td>의식용 예술품 (좋음)</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=wreck">잔해 근처</a></td><td>신정부 레인저</td><td>석총 아래에 묻음</td><td>순례지</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=oasis">오아시스 근처</a></td><td>학살당한 파아 유목민들</td><td>석재 큐브 안에 넣음</td><td>인조 무덤지기</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>신정부 레인저</td><td>석총 아래에 묻음</td><td>순례지</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=오아시스-oasis">오아시스 근처</a></td><td>학살당한 파아 유목민들</td><td>석재 큐브 안에 넣음</td><td>인조 무덤지기</td></tr>
 <tr><td>18</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허 근처</a></td><td>신정부에 기뻐하는 자</td><td>초기하학적 인공물 안에 넣음</td><td><a href="#/regions/the-interior.md?id=도적-야영지-bandit-camp">도적들의 은신처</a></td></tr>
 <tr><td>19</td><td><a href="#/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>신왕</td><td>밖에서 보기엔 시간의 흐름이 멈춘 곳</td><td><a href="#/regions/the-interior.md?id=볼트-vault">Entrance to Vault</a></td></tr>
 <tr><td>20</td><td><a href="#/regions/the-interior.md?id=정착지-settlement">정착지 근처</a></td><td>이계의 탐험가들</td><td>아직 안 죽음</td><td><a href="#/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td></tr>
@@ -801,10 +801,10 @@ _일부 철학적 탐구는 호기심 많은 이웃, 법 집행 기관의 손길
 <tr><td>13</td><td>메마른 오아시스</td><td>용병 무리</td><td>환각제</td></tr>
 <tr><td>14</td><td>오염된 호반</td><td>배회하는 폐품업자들</td><td>꽃</td></tr>
 <tr><td>15</td><td><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지 근처</a></td><td>비밀스러운 은둔자</td><td>신스 부품</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">신정부 야영지 근처</a></td><td>천한 염소치기들</td><td>낙타</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=wreck">잔해 근처</a></td><td>경건한 신스들</td><td>도서</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 야영지 근처</a></td><td>천한 염소치기들</td><td>낙타</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>경건한 신스들</td><td>도서</td></tr>
 <tr><td>18</td><td><a href="#/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>미친 신스들</td><td>카페트</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=oasis">오아시스 옆</a></td><td>뉴비스트 무리</td><td>의약품</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=오아시스-oasis">오아시스 옆</a></td><td>뉴비스트 무리</td><td>의약품</td></tr>
 <tr><td>20</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허 안</a></td><td>타이탄 숭배자들</td><td>엑조티카</td></tr>
 </table>
 
