@@ -1070,7 +1070,7 @@ _신선하게 갈아놓은 모래 위에 흩날리는 낯선 이의 피를 본 �
 <tr><td>12</td><td>음모</td></tr>
 <tr><td>13</td><td rowspan="2">아짓 핏때 묻지 않은 녹색 검투사</td><td>폭식</td><td rowspan="2">피에 굶주린 구경꾼</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>거칠고 근거없는 비난</td><td rowspan="2">싸움에 돈을 거는 도박꾼</td></tr>
+<tr><td>15</td><td rowspan="2">과거에 범죄를 저지른 나이 든 검투사</td><td>거칠고 근거없는 비난</td><td rowspan="2">싸움에 돈을 거는 도박꾼</td></tr>
 <tr><td>16</td><td>중독 (술)</td></tr>
 <tr><td>17</td><td rowspan="2">극단적인 가학성으로 알려진 인기없는 검투사</td><td>중독 (마취제)</td><td rowspan="2">부상당한 투사를 돌보는 치료사</td></tr>
 <tr><td>18</td><td>매칭이 고정됨</td></tr>
@@ -1207,50 +1207,50 @@ _거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Gang Leader</td><td>질투 (재산)</td><td rowspan="2">Retired Master Thief</td></tr>
+<tr><td>1</td><td rowspan="2">갱단의 지도자</td><td>질투 (재산)</td><td rowspan="2">은퇴한 전문 절도범</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>사랑 (금지됨)</td><td rowspan="2">Art Forger</td></tr>
+<tr><td>3</td><td rowspan="2">잔혹한 집행자</td><td>사랑 (금지됨)</td><td rowspan="2">예술 위조범</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>사랑 (삼각관계)</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>5</td><td rowspan="2">어리고 순진한 고아</td><td>사랑 (삼각관계)</td><td rowspan="2">등이 굽은 관세사</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>빚 (물)</td><td rowspan="2">Owner of a Safe House</td></tr>
-<tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
-<tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>강도</td><td rowspan="2">Head of Rival Gang</td></tr>
+<tr><td>7</td><td rowspan="2">재빠른 손재주의 소매치기범</td><td>빚 (물)</td><td rowspan="2">안전가옥 주인</td></tr>
+<tr><td>8</td><td>빚 (프리발 프라이즈에게 짐)</td></tr>
+<tr><td>9</td><td rowspan="2">장물아비</td><td>강도</td><td rowspan="2">경쟁 갱단의 우두머리</td></tr>
 <tr><td>10</td><td>험담</td></tr>
-<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>간통</td><td rowspan="2">Killer for Hire</td></tr>
+<tr><td>11</td><td rowspan="2">매력적인 사기꾼</td><td>간통</td><td rowspan="2">살인청부업자</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>폭식</td><td rowspan="2">Owner of a Passion-House</td></tr>
+<tr><td>13</td><td rowspan="2">늙고 냉소적인 절도범</td><td>폭식</td><td rowspan="2">맞춤형 주택 주인</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Cunning Forger</td><td>A Risky Plan</td><td rowspan="2">Gambling House Owner</td></tr>
+<tr><td>15</td><td rowspan="2">교활한 위조범r</td><td>A Risky Plan</td><td rowspan="2">도박장 주인</td></tr>
 <tr><td>16</td><td>중독 (술)</td></tr>
-<tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>중독 (마취제)</td><td rowspan="2">Street Musician</td></tr>
-<tr><td>18</td><td>Snitching</td></tr>
-<tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>공갈</td><td rowspan="2">Owner of an Orphanage</td></tr>
+<tr><td>17</td><td rowspan="2">보잘 것 없는 밀수업자</td><td>중독 (마취제)</td><td rowspan="2">거리의 음악가</td></tr>
+<tr><td>18</td><td>꼰지름</td></tr>
+<tr><td>19</td><td rowspan="2">날카로운 눈매의 망보기꾼</td><td>공갈</td><td rowspan="2">고아원 주인</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Gang Name (A)</th><th>Gang Name (B)</th><th>Their Leader</th></thead>
-<tr><td>1</td><td>Golden Street</td><td>Mob</td><td rowspan="2">Soft-Spoken Psycho</td></tr>
-<tr><td>2</td><td>Mossy Boot</td><td>Crew</td></tr>
-<tr><td>3</td><td>Graveyard Shift</td><td>Rascals</td><td rowspan="2">Cheerful and Cunning</td></tr>
-<tr><td>4</td><td>Flaming Horse</td><td>Gang</td></tr>
-<tr><td>5</td><td>Big Skull</td><td>Crew</td><td rowspan="2">Hulking Brute</td></tr>
-<tr><td>6</td><td>Jade Scorpion</td><td>Company</td></tr>
-<tr><td>7</td><td>Knucklebone</td><td>Outlaws</td><td rowspan="2">Synthetic Brain Inside Unlikely Object</td></tr>
-<tr><td>8</td><td>Wild Rooster</td><td>Raiders</td></tr>
-<tr><td>9</td><td>Shrieking</td><td>Madmen</td><td rowspan="2">Actual Child</td></tr>
-<tr><td>10</td><td>Ghost Panther</td><td>Ring</td></tr>
-<tr><td>11</td><td>Pink Flamingo</td><td>Squad</td><td rowspan="2">Wears a Weird Mask</td></tr>
-<tr><td>12</td><td>Red Tooth</td><td>Outfit</td></tr>
-<tr><td>13</td><td>Howling Crab</td><td>Troupe</td><td rowspan="2">Parasite Inside Other Gang Member</td></tr>
-<tr><td>14</td><td>Daggerhead</td><td>Posse</td></tr>
-<tr><td>15</td><td>Milkshake</td><td>Cabal</td><td rowspan="2">Blind Psychic</td></tr>
-<tr><td>16</td><td>Rattlesnake</td><td>Bandits</td></tr>
-<tr><td>17</td><td>Smiling Demon</td><td>Clowns</td><td rowspan="2">Creepy Old Woman</td></tr>
-<tr><td>18</td><td>Left Handed</td><td>Rustlers</td></tr>
-<tr><td>19</td><td>Lucky Domino</td><td>Sneaks</td><td rowspan="2">Scion of Minor Noble House</td></tr>
-<tr><td>20</td><td>Harlequin</td><td>Wretches</td></tr>
+<thead><th>d20</th><th>무리 이름 (A)</th><th>무리 이름 (B)</th><th>무리의 지도자</th></thead>
+<tr><td>1</td><td>금빛 거리</td><td>의 군중</td><td rowspan="2">부드러운 말을 하는 또라이</td></tr>
+<tr><td>2</td><td>이끼 낀 장화</td><td>의 부하</td></tr>
+<tr><td>3</td><td>묘지 교대조</td><td>의 악동들</td><td rowspan="2">명랑하고 교활함</td></tr>
+<tr><td>4</td><td>불타는 말</td><td>의 갱단</td></tr>
+<tr><td>5</td><td>큰 두개골</td><td>의 부하</td><td rowspan="2">몸집이 큰 난동꾼</td></tr>
+<tr><td>6</td><td>옥색 전갈</td><td>회사</td></tr>
+<tr><td>7</td><td>손가락뼈</td><td>의 무법자들</td><td rowspan="2">현실적이지 않은 물체 안의 인조 두뇌</td></tr>
+<tr><td>8</td><td>야생 수탉</td><td>의 약탈자들</td></tr>
+<tr><td>9</td><td>비명지르는 자</td><td>의 미치광이들</td><td rowspan="2">진짜로 어린이임</td></tr>
+<tr><td>10</td><td>유령 흑표범</td><td>의 도박사들</td></tr>
+<tr><td>11</td><td>분홍빛 플라밍고</td><td>의 부대</td><td rowspan="2">이상한 가면을 씀</td></tr>
+<tr><td>12</td><td>붉은 이빨</td><td>의 패거리들</td></tr>
+<tr><td>13</td><td>울부짖는 게</td><td>의 공연단</td><td rowspan="2">무리의 구성원 안에 기생함</td></tr>
+<tr><td>14</td><td>혹돔</td><td>의 무장대</td></tr>
+<tr><td>15</td><td>밀크셰이크</td><td>의 결사</td><td rowspan="2">눈 먼 정신능력자</td></tr>
+<tr><td>16</td><td>방울뱀</td><td>의 도적들</td></tr>
+<tr><td>17</td><td>미소짓는 악마</td><td>의 광대들</td><td rowspan="2">소름끼치는 노파</td></tr>
+<tr><td>18</td><td>왼손잡이</td><td>의 도둑들</td></tr>
+<tr><td>19</td><td>운좋은 도미노</td><td>의 좀도둑들</td><td rowspan="2">이류 귀족 가문의 자식</td></tr>
+<tr><td>20</td><td>어릿광대</td><td>의 녀석들</td></tr>
 </table>
 
 | **D20** | **수단** | **그들이 괴롭히는 대상** | **은신처 위치** |
@@ -1282,50 +1282,50 @@ _물의 귀족은 신선한 물에 대한 독점권을 가지고 있을 수 있�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Owner</td><td>질투 (재산)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
+<tr><td>1</td><td rowspan="2">주인</td><td>질투 (재산)</td><td rowspan="2">사랑받지만 멍청한 단골손님</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>사랑 (금지됨)</td><td rowspan="2">Widely Loathed Regular</td></tr>
+<tr><td>3</td><td rowspan="2">주인의 배우자</td><td>사랑 (금지됨)</td><td rowspan="2">광범위하게 불쾌감을 주는 단골손님</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>사랑 (삼각관계)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
+<tr><td>5</td><td rowspan="2">주인의 무모한 아이</td><td>사랑 (삼각관계)</td><td rowspan="2">돈을 흥청망청 쓰는 단골손님</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>빚 (물)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
+<tr><td>7</td><td rowspan="2">주인이 아끼는 아이</td><td>빚 (물)</td><td rowspan="2">주점에 술을 제공하는 양조업자</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Bartender</td><td>강도</td><td rowspan="2">Local Thug</td></tr>
+<tr><td>9</td><td rowspan="2">바텐더</td><td>강도</td><td rowspan="2">동네 깡패</td></tr>
 <tr><td>10</td><td>험담</td></tr>
-<tr><td>11</td><td rowspan="2">Bouncer</td><td>간통</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
+<tr><td>11</td><td rowspan="2">경비원</td><td>간통</td><td rowspan="2">부유하지만 인색한 단골손님</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>폭식</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
+<tr><td>13</td><td rowspan="2">항아리닦이</td><td>폭식</td><td rowspan="2">주점에 사업적인 이유로 있는 성노동자</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Cook</td><td>거칠고 근거없는 비난</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
+<tr><td>15</td><td rowspan="2">요리사</td><td>거칠고 근거없는 비난</td><td rowspan="2">밖에 앉아있는 거지</td></tr>
 <tr><td>16</td><td>중독 (술)</td></tr>
-<tr><td>17</td><td rowspan="2">Hired Musician</td><td>중독 (마취제)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
-<tr><td>18</td><td>Rude Drunken Behaviour</td></tr>
-<tr><td>19</td><td rowspan="2">Dancer</td><td>공갈</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
+<tr><td>17</td><td rowspan="2">고용된 음악가</td><td>중독 (마취제)</td><td rowspan="2">술을 좋아하는 사제</td></tr>
+<tr><td>18</td><td>무례한 술버릇</td></tr>
+<tr><td>19</td><td rowspan="2">춤꾼</td><td>공갈</td><td rowspan="2">경쟁 주점의 주인</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Tavern Name (A)</th><th>Tavern Name (B)</th><th>Tavern Name (C)</th></thead>
-<tr><td>1</td><td>The Jolly</td><td>Sandworm</td><td rowspan="2">Hotel</td></tr>
-<tr><td>2</td><td>The Miserable</td><td>Alzabo</td></tr>
-<tr><td>3</td><td>The Cat and</td><td>Jackal</td><td rowspan="2">Inn</td></tr>
-<tr><td>4</td><td>The Fighting</td><td>Zebra</td></tr>
-<tr><td>5</td><td>The Dancing</td><td>Bull</td><td rowspan="2">Bar</td></tr>
-<tr><td>6</td><td>The Golden</td><td>Boar</td></tr>
-<tr><td>7</td><td>The Red</td><td>Cockerel</td><td rowspan="2">Club</td></tr>
-<tr><td>8</td><td>The Black</td><td>Scorpion</td></tr>
-<tr><td>9</td><td>The Dead</td><td>Cactus</td><td rowspan="2">Tavern</td></tr>
-<tr><td>10</td><td>The Peach and</td><td>Dog</td></tr>
-<tr><td>11</td><td>The Thirsty</td><td>Egg</td><td rowspan="2">Lounge</td></tr>
-<tr><td>12</td><td>The Lonely</td><td>Goat</td></tr>
-<tr><td>13</td><td>The Furious</td><td>Camel</td><td rowspan="2">Saloon</td></tr>
-<tr><td>14</td><td>The Noble</td><td>Autarch</td></tr>
-<tr><td>15</td><td>The Drunken</td><td>Fool</td><td rowspan="2">Taproom</td></tr>
-<tr><td>16</td><td>The Bell and</td><td>Crone</td></tr>
-<tr><td>17</td><td>The Lily and</td><td>Child</td><td rowspan="2">Retreat</td></tr>
-<tr><td>18</td><td>The Pale</td><td>Soldier</td></tr>
-<tr><td>19</td><td>The Sacred</td><td>Nomad</td><td rowspan="2">Cantina</td></tr>
-<tr><td>20</td><td>The Lucky</td><td>Priest</td></tr>
+<thead><th>d20</th><th>주점 이름 (A)</th><th>주점 이름 (B)</th><th>주점 이름 (C)</th></thead>
+<tr><td>1</td><td>쾌활한</td><td>모래벌레</td><td rowspan="2">의 호텔</td></tr>
+<tr><td>2</td><td>가엾은</td><td>알자보</td></tr>
+<tr><td>3</td><td>고양이와</td><td>자칼</td><td rowspan="2">의 여관</td></tr>
+<tr><td>4</td><td>싸우는</td><td>얼룩말</td></tr>
+<tr><td>5</td><td>춤추는</td><td>황소</td><td rowspan="2">의 술집</td></tr>
+<tr><td>6</td><td>황금</td><td>멧돼지</td></tr>
+<tr><td>7</td><td>붉은</td><td>수탉</td><td rowspan="2">의 클럽</td></tr>
+<tr><td>8</td><td>검은</td><td>전갈</td></tr>
+<tr><td>9</td><td>죽은</td><td>선인장</td><td rowspan="2">의 주점</td></tr>
+<tr><td>10</td><td>북숭아와</td><td>개</td></tr>
+<tr><td>11</td><td>목마른</td><td>알</td><td rowspan="2">의 라운지</td></tr>
+<tr><td>12</td><td>외로운</td><td>염소</td></tr>
+<tr><td>13</td><td>맹렬한</td><td>낙타</td><td rowspan="2">의 주옥</td></tr>
+<tr><td>14</td><td>고결한</td><td>신왕</td></tr>
+<tr><td>15</td><td>술취한</td><td>광대</td><td rowspan="2">의 주포</td></tr>
+<tr><td>16</td><td>종과</td><td>노파</td></tr>
+<tr><td>17</td><td>백합과</td><td>어린이</td><td rowspan="2">의 은신처</td></tr>
+<tr><td>18</td><td>창백한</td><td>병사</td></tr>
+<tr><td>19</td><td>T신성한</td><td>유목민</td><td rowspan="2">매줏집</td></tr>
+<tr><td>20</td><td>운좋은</td><td>사제</td></tr>
 </table>
 
 | **D20** | **취급품 (X2)** | **유흥거리 (X2)** | **기타 사항** |
@@ -1355,139 +1355,147 @@ _물의 귀족은 신선한 물에 대한 독점권을 가지고 있을 수 있�
 ---
 
 <table>
-<thead><th>d20</th><th>Ancestry</th><th>Gender</th><th>Body</th><th>Drive</th></thead>
-<tr><td>1</td><td rowspan="5">True-kin</td><td rowspan="8">Male</td><td>Tall</td><td>Craves Drug</td></tr>
-<tr><td>2</td><td>Short</td><td>Craves Drink</td></tr>
-<tr><td>3</td><td>Frail</td><td>Religious Mania</td></tr>
-<tr><td>4</td><td>Muscular</td><td>Seeks Revenge</td></tr>
-<tr><td>5</td><td>Fat</td><td>Pay Off Debt</td></tr>
-<tr><td>6</td><td rowspan="5">Cacogen</td><td>Thin</td><td>Pilgrimage</td></tr>
-<tr><td>7</td><td>Skeletal</td><td>Escaped Slave</td></tr>
-<tr><td>8</td><td>Hunched</td><td>Fleeing the Law</td></tr>
-<tr><td>9</td><td rowspan="8">Female</td><td>Lopsided</td><td>Collect Debt</td></tr>
-<tr><td>10</td><td>Lithe</td><td>Craves Fame</td></tr>
-<tr><td>11</td><td rowspan="5">Newbeast</td><td>Gnarled</td><td>Craves Wealth</td></tr>
-<tr><td>12</td><td>Squat</td><td>Craves Knowledge</td></tr>
-<tr><td>13</td><td>Bloated</td><td>Missing Family</td></tr>
-<tr><td>14</td><td>Gangly</td><td>Missing Friend</td></tr>
-<tr><td>15</td><td>Child-like</td><td>Hates a Rival</td></tr>
-<tr><td>16</td><td rowspan="3">Synth</td><td>Tanned</td><td>Unrequited Love</td></tr>
-<tr><td>17</td><td rowspan="2">Androgynous</td><td>Gigantic</td><td>Forbidden Love</td></tr>
-<tr><td>18</td><td>Wiry</td><td>Craves Power</td></tr>
-<tr><td>19</td><td rowspan="2">Mycomorph</td><td rowspan="2">Nonbinary</td><td>Stout</td><td>Create Art</td></tr>
-<tr><td>20</td><td>Injured</td><td>Carnal Lust</td></tr>
+<thead><th>d20</th><th>기원</th><th>성별</th><th>몸체</th><th>욕구</th></thead>
+<tr><td>1</td><td rowspan="5">트루킨</td><td rowspan="8">남성</td><td>키 큼</td><td>마약을 갈망함</td></tr>
+<tr><td>2</td><td>키 작음</td><td>술을 갈망함</td></tr>
+<tr><td>3</td><td>허약함</td><td>종교 매니아</td></tr>
+<tr><td>4</td><td>근육질</td><td>복수를 꾀함</td></tr>
+<tr><td>5</td><td>뚱뚱함</td><td>빚갚기</td></tr>
+<tr><td>6</td><td rowspan="5">캐커젠</td><td>마름</td><td>순례</td></tr>
+<tr><td>7</td><td>뼈가 앙상함</td><td>탈주 노예</td></tr>
+<tr><td>8</td><td>곱사등이</td><td>법으로부터 도망치기</td></tr>
+<tr><td>9</td><td rowspan="8">여성</td><td>한쪽으로 기울어짐</td><td>부채 회수</td></tr>
+<tr><td>10</td><td>유연함</td><td>명예를 갈망함</td></tr>
+<tr><td>11</td><td rowspan="5">뉴비스트</td><td>혹투성이</td><td>부를 갈망함</td></tr>
+<tr><td>12</td><td>땅딸막함</td><td>지식을 갈망함</td></tr>
+<tr><td>13</td><td>부풂</td><td>잃어버린 가족</td></tr>
+<tr><td>14</td><td>키 크고 여윔</td><td>잃어버린 친구</td></tr>
+<tr><td>15</td><td>어린애 같음</td><td>경쟁자를 증오함</td></tr>
+<tr><td>16</td><td rowspan="3">신스</td><td>구릿빛</td><td>대가없는 사랑</td></tr>
+<tr><td>17</td><td rowspan="2">안드로진</td><td>거대함</td><td>금지된 사랑</td></tr>
+<tr><td>18</td><td>강단있음</td><td>힘을 갈망함</td></tr>
+<tr><td>19</td><td rowspan="2">버섯체</td><td rowspan="2">논바이너리</td><td>튼튼함</td><td>예술 창작</td></tr>
+<tr><td>20</td><td>부상입음</td><td>욕정을 갈망함</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Voice</th><th>Attire</th><th>Demeanour</th><th>Faction Allegiance</th></thead>
-<tr><td>1</td><td>Breathy</td><td>Rags</td><td>Abrasive</td><td>Noble House</td></tr>
-<tr><td>2</td><td>Shrill</td><td>Animal Skins</td><td>Arrogant</td><td>Trade Cartel</td></tr>
-<tr><td>3</td><td>Deep</td><td>Rough Tunic</td><td>Assertive</td><td>Philosopher’s Guild</td></tr>
-<tr><td>4</td><td>Sonorous</td><td>Nomad’s Attire</td><td>Charismatic</td><td>Gang of Criminals</td></tr>
-<tr><td>5</td><td>Mumbles</td><td>Worker’s Attire</td><td>Daring</td><td rowspan="2">The Water Baron</td></tr>
-<tr><td>6</td><td>Spits</td><td>Herdsman’s Attire</td><td>Decadent</td></tr>
-<tr><td>7</td><td>Sing-song</td><td>Slave Clothing</td><td>Eloquent</td><td rowspan="2">House Lonrot</td></tr>
-<tr><td>8</td><td>Drawls</td><td>Merchant’s Livery</td><td>Extravagant</td></tr>
-<tr><td>9</td><td>Raspy</td><td>Shabby Attire</td><td>Hedonistic</td><td rowspan="2">Fifth Hegemony Legion</td></tr>
-<tr><td>10</td><td>Whispers</td><td>Colourful Attire</td><td>Impulsive</td></tr>
-<tr><td>11</td><td>Hasty</td><td>Priest’s Robes</td><td>Irritable</td><td rowspan="2">Friends of Jak</td></tr>
-<tr><td>12</td><td>Weird Laugh</td><td>Clerk’s Uniform</td><td>Melancholy</td></tr>
-<tr><td>13</td><td>Monotone</td><td>Hegemony Garb</td><td>Paranoid</td><td rowspan="2">Prieval’s Crew</td></tr>
-<tr><td>14</td><td>Jovial</td><td>Soldier’s Clothing</td><td>Quiet</td></tr>
-<tr><td>15</td><td>Sinister</td><td>Flamboyant Attire</td><td>Religious</td><td rowspan="2">Church of the Promised Sun</td></tr>
-<tr><td>16</td><td>Husky</td><td>Musician’s Attire</td><td>Romantic</td></tr>
-<tr><td>17</td><td>Smoky</td><td>Veiled Attire</td><td>Scholarly</td><td rowspan="2">Crimson Court</td></tr>
-<tr><td>18</td><td>Smooth</td><td>Sinister Attire</td><td>Stern</td></tr>
-<tr><td>19</td><td>Gravelly</td><td>Philosopher’s Robe</td><td>Vain</td><td rowspan="2">Split Loyalties (Roll x2 Factions)</td></tr>
-<tr><td>20</td><td>Never Speaks</td><td>Expensive Clothing</td><td>Volatile</td></tr>
+<thead><th>d20</th><th>목소리</th><th>복장</th><th>태도</th><th>충성 파벌</th></thead>
+<tr><td>1</td><td>숨소리 섞임</td><td>해짐</td><td>거침</td><td>귀족 가문</td></tr>
+<tr><td>2</td><td>날카로움</td><td>동물 가죽</td><td>오만함</td><td>상인 카르텔</td></tr>
+<tr><td>3</td><td>깊음</td><td>거친 튜닉</td><td>적극적임</td><td>철학자 길드</td></tr>
+<tr><td>4</td><td>듣기 좋음</td><td>유목민 복장</td><td>카리스마 있음</td><td>범죄자 무리</td></tr>
+<tr><td>5</td><td>중얼거림</td><td>일꾼 복장</td><td>대담함</td><td rowspan="2">물의 남작</td></tr>
+<tr><td>6</td><td>침 튐</td><td>양치기 복장</td><td>퇴폐적</td></tr>
+<tr><td>7</td><td>노래하는 듯함</td><td>노예 차림새</td><td>유창함</td><td rowspan="2">론로트 가문</td></tr>
+<tr><td>8</td><td>느릿느릿 말함</td><td>화려한 제복</td><td>사치스러움</td></tr>
+<tr><td>9</td><td>쉰 목소리</td><td>다 낡은 복장</td><td>쾌락주의적</td><td rowspan="2">제5 신정부 군단</td></tr>
+<tr><td>10</td><td>속삭임</td><td>화사로운 복장</td><td>쾌락주의적</td></tr>
+<tr><td>11</td><td>성급함</td><td>사제 의복</td><td>짜증남</td><td rowspan="2">잭의 친구들</td></tr>
+<tr><td>12</td><td>이상하게 웃음</td><td>사무원 유니폼</td><td>우울함</td></tr>
+<tr><td>13</td><td>단조로운 톤</td><td>신정부 의복</td><td>편집증적</td><td rowspan="2">프리발의 부하</td></tr>
+<tr><td>14</td><td>아주 쾌활함</td><td>병사 복장</td><td>조용함</td></tr>
+<tr><td>15</td><td>사악함</td><td>이색적인 복장</td><td>종교적</td><td rowspan="2">약속된 태양의 교회</td></tr>
+<tr><td>16</td><td>약간 쉰 듯 함</td><td>음악가 복장</td><td>낭만적</td></tr>
+<tr><td>17</td><td>마성적임</td><td>베일에 싸인 복장</td><td>학자적</td><td rowspan="2">진홍색 법정</td></tr>
+<tr><td>18</td><td>부드러움</td><td>불길한 복장</td><td>근엄함</td></tr>
+<tr><td>19</td><td>낮고 굵음</td><td>철학자의 의복</td><td>자만심 강함</td><td rowspan="2">두 세력에 충성함 (파벌에서 2번 굴림)</td></tr>
+<tr><td>20</td><td>벙어리</td><td>비싼 복장</td><td>변덕스러움</td></tr>
 </table>
 
 <table>
-<thead><th colspan="5">Common Names</th></thead>
-<tr><td>Adria</td><td>Eschilia</td><td>Kavinder</td><td>Obert</td><td>Sourhow</td></tr>
-<tr><td>Ajishir</td><td>Flammer</td><td>Kiddaw</td><td>Oromiel</td><td>Suffe</td></tr>
-<tr><td>Alaith</td><td>Fokin</td><td>Kimov</td><td>Ostamir</td><td>Touronisi</td></tr>
-<tr><td>Anchat</td><td>Fundil</td><td>Kouri</td><td>Othonous</td><td>Trimona</td></tr>
-<tr><td>Ashali</td><td>Galad</td><td>Leechpie</td><td>Pantperch</td><td>Turlan</td></tr>
-<tr><td>Bellas</td><td>Gandil</td><td>Lemmaith</td><td>Pastan</td><td>Twitchpike</td></tr>
-<tr><td>Blake</td><td>Gartsnake</td><td>Leves</td><td>Phaniel</td><td>Ulfgan</td></tr>
-<tr><td>Bluelady</td><td>Giouri</td><td>Limnos</td><td>Pieta</td><td>Ullsnake</td></tr>
-<tr><td>Brant</td><td>Gorlas</td><td>Liquiem</td><td>Pranbir</td><td>Unukat</td></tr>
-<tr><td>Breeze</td><td>Grapple</td><td>Listheap</td><td>Pulchib</td><td>Vardotas</td></tr>
-<tr><td>Butter</td><td>Greyknott</td><td>Longue</td><td>Rainwrig</td><td>Virinum</td></tr>
-<tr><td>Calmir</td><td>Hadriel</td><td>Maiam</td><td>Rattlemell</td><td>Voussa</td></tr>
-<tr><td>Cassi</td><td>Hallencrag</td><td>Maraki</td><td>Riverhow</td><td>Whipman</td></tr>
-<tr><td>Catscree</td><td>Harptree</td><td>Mathos</td><td>Romseed</td><td>Windir</td></tr>
-<tr><td>Celeg</td><td>Hezen</td><td>Megal</td><td>Safos</td><td>Xiambia</td></tr>
-<tr><td>Cherren</td><td>Histle</td><td>Meisa</td><td>Salaios</td><td>Xidao</td></tr>
-<tr><td>Crowinder</td><td>Homite</td><td>Mendar</td><td>Sallowfell</td><td>Yemell</td></tr>
-<tr><td>Dabia</td><td>Hyssos</td><td>Michess</td><td>Sanger</td><td>Yondersoul</td></tr>
-<tr><td>Dollyn</td><td>Idriel</td><td>Muskmallos</td><td>Saskat</td><td>Zevenon</td></tr>
-<tr><td>Dyland</td><td>Illhead</td><td>Narth</td><td>Sertdeat</td><td>Zwiede</td></tr>
+<thead><th colspan="5">흔한 이름</th></tr></thead>
+<tbody>
+<tr><td>애드리아</td><td>이스킬리아</td><td>캐빈더</td><td>오버트</td><td>수어하우</td></tr>
+<tr><td>아지시어</td><td>플레이머</td><td>키도</td><td>오로미얼</td><td>서프</td></tr>
+<tr><td>알래이스</td><td>포킨</td><td>키모프</td><td>오스태미어</td><td>토로니시</td></tr>
+<tr><td>앤샤</td><td>펀들</td><td>코리</td><td>오소너스</td><td>트리모나</td></tr>
+<tr><td>아샬리</td><td>갤러드</td><td>리치파이</td><td>팬트퍼치</td><td>터를랜</td></tr>
+<tr><td>벨러스</td><td>갠들</td><td>레메이스</td><td>패스탄</td><td>트위치파이</td></tr>
+<tr><td>블레이크</td><td>가트스네이크</td><td>리브스</td><td>패니얼</td><td>울프강</td></tr>
+<tr><td>블루레이디</td><td>기오리</td><td>림노스</td><td>피에이타</td><td>울스네이크</td></tr>
+<tr><td>브랜트</td><td>고를라스</td><td>리퀴엠</td><td>프랜버</td><td>유누카트</td></tr>
+<tr><td>브리즈</td><td>그래플</td><td>리스티프</td><td>펄치브</td><td>바르도타스</td></tr>
+<tr><td>버터</td><td>그레이노트</td><td>롱그</td><td>레인위그</td><td>버리눔</td></tr>
+<tr><td>캘머</td><td>헤이드리엘</td><td>마이엄</td><td>래틀멜</td><td>부사</td></tr>
+<tr><td>캐시</td><td>헬른크래그</td><td>마라키</td><td>리버하우</td><td>휩맨</td></tr>
+<tr><td>캐츠크리</td><td>하프트리</td><td>마소스</td><td>럼시드</td><td>윈더</td></tr>
+<tr><td>셀레그</td><td>헤즌</td><td>메글</td><td>새포스</td><td>지암비아</td></tr>
+<tr><td>체른</td><td>히슬</td><td>마이사</td><td>샐레이오스</td><td>자이다오</td></tr>
+<tr><td>크로와인더</td><td>호마이트</td><td>메인다르</td><td>샐로펠</td><td>예멀</td></tr>
+<tr><td>다비아</td><td>히소스</td><td>미체스</td><td>생거</td><td>욘더소울</td></tr>
+<tr><td>돌린</td><td>이드리얼</td><td>머스크말로스</td><td>새스캐트</td><td>제베논</td></tr>
+<tr><td>딜랜드</td><td>일헤드</td><td>나스</td><td>서디트</td><td>즈위드</td></tr>
+</tbody>
 </table>
 
 <table>
-<thead><th colspan="5">Highborn Family Names</th></thead>
-<tr><td>ul-Adramen</td><td>xan Abeontin</td><td>xan Cupieta</td><td>xan Gallifax</td><td>xan Selabolares</td></tr>
-<tr><td>ul-Aleph</td><td>xan Aequn</td><td>xan Danian</td><td>xan Geffjuno</td><td>xan Sheth</td></tr>
-<tr><td>ul-Behennat</td><td>xan Aeter</td><td>xan Decimaniel</td><td>xan Gorian</td><td>xan Spestus</td></tr>
-<tr><td>ul-Borthemin</td><td>xan Africhar</td><td>xan Deventuru</td><td>xan Gusalemus</td><td>xan Tacitiestus</td></tr>
-<tr><td>ul-Demonetas</td><td>xan Anakios</td><td>xan Devertumus</td><td>xan Herius</td><td>xan Theodorax</td></tr>
-<tr><td>ul-Eishee</td><td>xan Andronos</td><td>xan Dimax</td><td>xan Hermina</td><td>xan Usolyn</td></tr>
-<tr><td>ul-Rahasil</td><td>xan Asuras</td><td>xan Dominus</td><td>xan Herus</td><td>xan Valerita</td></tr>
-<tr><td>ul-Summanes</td><td>xan Austmanela</td><td>xan Fabulian</td><td>xan Isaacrina</td><td>xan Vanitas</td></tr>
-<tr><td>ul-Ukoba</td><td>xan Baphael</td><td>xan Favonikos</td><td>xan Jikinian</td><td>xan Veparcas</td></tr>
-<tr><td>ul-Ulthman</td><td>xan Baraclius</td><td>xan Ferrinus</td><td>xan Joannin</td><td>xan Zimine</td></tr>
+<thead><th colspan="5">고위층 가문 이름</th></tr>
+</thead>
+<tbody>
+<tr><td>울 아드라멘</td><td>산 아베온틴</td><td>산 쿠피에타</td><td>산 갈리팍스</td><td>산 셀라볼라레스</td></tr>
+<tr><td>울 알레프</td><td>산 애쿤</td><td>산 다니안</td><td>산 게프주노</td><td>산 셰스</td></tr>
+<tr><td>울 베헤나트</td><td>산 애테르</td><td>산 데치마니엘</td><td>산 고리안</td><td>산 스페스투스</td></tr>
+<tr><td>울 보르세민</td><td>산 아프리하르</td><td>산 데벤투루</td><td>산 구살레무스</td><td>산 타치티에스투스</td></tr>
+<tr><td>울 데모네타스</td><td>산 아나키오스</td><td>산 데베르투무스</td><td>산 헤리우스</td><td>산 세오도락스</td></tr>
+<tr><td>울 에이셰</td><td>산 안드로노스</td><td>산 디막스</td><td>산 헤르미나</td><td>산 우솔린</td></tr>
+<tr><td>울 라하실</td><td>산 아수라스</td><td>산 도미누스</td><td>산 헤루스</td><td>산 발레리타</td></tr>
+<tr><td>울 수마네스</td><td>산 아우스트마넬라</td><td>산 파불리안</td><td>산 이사크리나</td><td>산 바니타스</td></tr>
+<tr><td>울 우코바</td><td>산 바펠</td><td>산 파보니코스</td><td>산 지키니안</td><td>산 베파르카스</td></tr>
+<tr><td>울 울스만</td><td>산 바라클리우스</td><td>산 페리누스</td><td>산 조아닌</td><td>산 지미네</td></tr>
+</tbody>
 </table>
 
 <table>
-<thead><th colspan="5">Careers</th></thead>
-<tr><td>Alchemist</td><td>Butcher</td><td>Exorcist</td><td>Maskmaker</td><td>Ropemaker</td></tr>
-<tr><td>Apothecary</td><td>Card Cheat</td><td>Falconer</td><td>Mason</td><td>Scullion</td></tr>
-<tr><td>Architect</td><td>Carpenter</td><td>Farrier</td><td>Mercenary</td><td>Sculptor</td></tr>
-<tr><td>장갑er</td><td>Cartwright</td><td>Felt-maker</td><td>Midwife</td><td>Slave (Domestic)</td></tr>
-<tr><td>Astrologer</td><td>Chandler</td><td>Gambler</td><td>Miner</td><td>Slave (Military)</td></tr>
-<tr><td>Bag-maker</td><td>Charcoal Burner</td><td>Gladiator</td><td>Minstrel</td><td>Shepherd</td></tr>
-<tr><td>Baker</td><td>Charioteer</td><td>Glassblower</td><td>Miracle Healer</td><td>Sin Eater</td></tr>
-<tr><td>Bandit</td><td>Cheesemaker</td><td>Goatherd</td><td>Monk (Temple)</td><td>Stonecutter</td></tr>
-<tr><td>Banker</td><td>Chirurgeon</td><td>Goldsmith</td><td>Monk (Beggar)</td><td>Storyteller</td></tr>
-<tr><td>Barber</td><td>Clerk</td><td>Gravedigger</td><td>Needlemaker</td><td>Swineherd</td></tr>
-<tr><td>Basketmaker</td><td>Clockmaker</td><td>Hangman</td><td>Pack Handler</td><td>Tailor</td></tr>
-<tr><td>Bastard Farmer</td><td>Clone Catcher</td><td>Herbalist</td><td>Painter</td><td>Tanner</td></tr>
-<tr><td>Belt-maker</td><td>Cobbler</td><td>Hunter</td><td>Parchment-maker</td><td>Tax Collector</td></tr>
-<tr><td>Blacksmith</td><td>Cook</td><td>Illustrator</td><td>Preacher</td><td>Thatcher</td></tr>
-<tr><td>Bookbinder</td><td>Con Artist</td><td>Inquisitor</td><td>Plasterer</td><td>Thug</td></tr>
-<tr><td>Brassworker</td><td>Cutpurse</td><td>Jailer</td><td>Poet</td><td>Trumpeter</td></tr>
-<tr><td>Brewer</td><td>Drunkard</td><td>Jeweller</td><td>Porter</td><td>Watermonger</td></tr>
-<tr><td>Bridlemaker</td><td>Dyer</td><td>Leadworker</td><td>Potter</td><td>Wet Nurse</td></tr>
-<tr><td>Broommaker</td><td>Embroiderer</td><td>Leatherworker</td><td>Prostitute</td><td>Woodcarver</td></tr>
-<tr><td>Bureaucrat</td><td>Engineer</td><td>Locksmith</td><td>Rag Gatherer</td><td>Woolwinder</td></tr>
+<thead><th colspan="5">직업</th></tr>
+</thead>
+<tbody>
+<tr><td>연금술사</td><td>도축자</td><td>퇴마사</td><td>가면 장인</td><td>밧줄공</td></tr>
+<tr><td>약사</td><td>카드 사기꾼</td><td>매사냥꾼</td><td>석공</td><td>설거지꾼</td></tr>
+<tr><td>건축가</td><td>목수</td><td>편자공</td><td>용병</td><td>조각가</td></tr>
+<tr><td>갑옷장인</td><td>달구지 목수</td><td>털가죽공</td><td>조산사</td><td>노예 (개인소유)</td></tr>
+<tr><td>천문학자</td><td>잡화상</td><td>도박꾼</td><td>광부</td><td>노예 (군사)</td></tr>
+<tr><td>가방장인</td><td>숯꾼</td><td>검투사</td><td>음유시인</td><td>양치기</td></tr>
+<tr><td>제빵사</td><td>채리엇 기수</td><td>유리공</td><td>기적의 치료사</td><td>죄를 먹는 자</td></tr>
+<tr><td>도적</td><td>치즈 장인</td><td>염소치기</td><td>수도사 (사원)</td><td>채석꾼</td></tr>
+<tr><td>은행가</td><td>외과의사</td><td>금 세공인</td><td>수도사 (거지)</td><td>이야기꾼</td></tr>
+<tr><td>이발사</td><td>점원</td><td>도굴꾼</td><td>바늘 장인</td><td>양돈업자</td></tr>
+<tr><td>바구니 제조공</td><td>시계공</td><td>교수형 집행인</td><td>포장업자</td><td>수선업자</td></tr>
+<tr><td>유사 농부</td><td>복제인간 추노</td><td>약초꾼</td><td>화가</td><td>무두질꾼</td></tr>
+<tr><td>허리띠 장인</td><td>구두 수선공</td><td>사냥꾼</td><td>양피지 제조공</td><td>세금징수인</td></tr>
+<tr><td>대장장이</td><td>요리사</td><td>삽화가</td><td>설교자</td><td>지붕 수리공</td></tr>
+<tr><td>제본업자</td><td>사기꾼</td><td>심문자</td><td>석고 세공인</td><td>깡패</td></tr>
+<tr><td>황동 작업자</td><td>소매치기</td><td>간수</td><td>시인</td><td>트럼펫 연주자</td></tr>
+<tr><td>양조업자</td><td>주정뱅이</td><td>보석 세공자</td><td>짐꾼</td><td>물장수</td></tr>
+<tr><td>재갈 제조공</td><td>염색업자</td><td>인솔자</td><td>도공</td><td>유모</td></tr>
+<tr><td>빗자루 제조공</td><td>자수업자</td><td>가죽공</td><td>성노동자</td><td>목각사</td></tr>
+<tr><td>관료</td><td>엔지니어</td><td>열쇠공</td><td>넝마주이</td><td>실 감는 이</td></tr>
+</tbody>
 </table>
 
 # 무작위 상황 (Random Drama)
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Desires To</th><th>NPC B</th></thead>
-<tr><td>1</td><td>Silk Merchant</td><td rowspan="2">Abduct</td><td>Priest of the Promised Sun</td></tr>
-<tr><td>2</td><td>Water Debt Clerk</td><td>Water Baron’s Guard</td></tr>
-<tr><td>3</td><td>Musician</td><td rowspan="2">Profession동맹 Discredit</td><td>Corrupt Scribe</td></tr>
-<tr><td>4</td><td>Mosaic Artist</td><td>Astronomer</td></tr>
-<tr><td>5</td><td>Hired Poet</td><td rowspan="2">Marry</td><td>Silversmith</td></tr>
-<tr><td>6</td><td>Barber Surgeon</td><td>Jeweller</td></tr>
-<tr><td>7</td><td>Synth Expert</td><td rowspan="2">Steal From</td><td>Carpet Merchant</td></tr>
-<tr><td>8</td><td>Gladiator</td><td>Luckless Charioteer</td></tr>
-<tr><td>9</td><td>Natural Philosopher</td><td rowspan="2">Impress</td><td>Rare Book Dealer</td></tr>
-<tr><td>10</td><td>Alchemist</td><td>Opium Farmer</td></tr>
-<tr><td>11</td><td>Fungusmonger</td><td rowspan="2">Arrange the Death Of</td><td>Fortune Teller</td></tr>
-<tr><td>12</td><td>Dancer</td><td>Travelling Singer</td></tr>
-<tr><td>13</td><td>Street Sweeper</td><td rowspan="2">Collect Debt From</td><td>Hired Killer</td></tr>
-<tr><td>14</td><td>Cartel Enforcer</td><td>Fraudulent Psychic</td></tr>
-<tr><td>15</td><td>Goat Herder</td><td rowspan="2">Renege on a Deal With</td><td>Nomad Leader</td></tr>
-<tr><td>16</td><td>Olive Oil Seller</td><td>Hegemony Soldier</td></tr>
-<tr><td>17</td><td>Highborn Layabout</td><td rowspan="2">Locate</td><td>Hegemony Tax Collector</td></tr>
-<tr><td>18</td><td>Famous Duelist</td><td>Bounty Hunter</td></tr>
-<tr><td>19</td><td>Caravan Guard</td><td rowspan="2">Cure the Sickness Of</td><td>Retired Boxer</td></tr>
-<tr><td>20</td><td>Wind-Barge Dockworker</td><td>Wealthy Widow</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>B에게 원하는 것</th><th>NPC B</th></thead>
+<tr><td>1</td><td>비단 상인</td><td rowspan="2">유괴</td><td>약속된 태양의 사제</td></tr>
+<tr><td>2</td><td>물 부채 관리원</td><td>물의 남작의 경비병</td></tr>
+<tr><td>3</td><td>음악가</td><td rowspan="2">의 신용을 전문적으로 떨어뜨리기</td><td>부패한 서기</td></tr>
+<tr><td>4</td><td>모자이크 예술가</td><td>천문학자</td></tr>
+<tr><td>5</td><td>고용된 시인</td><td rowspan="2">와 결혼하기</td><td>은 세공사</td></tr>
+<tr><td>6</td><td>이발사겸 수술의</td><td>보석 세공사</td></tr>
+<tr><td>7</td><td>신스 전문가</td><td rowspan="2">에게서 훔치기</td><td>카페트 상인</td></tr>
+<tr><td>8</td><td>검투사</td><td>재수없는 채리엇 기수</td></tr>
+<tr><td>9</td><td>자연철학자</td><td rowspan="2">에게 깊은 인상을 주기</td><td>희귀 도서 거래자</td></tr>
+<tr><td>10</td><td>연금술사</td><td>아편 농부</td></tr>
+<tr><td>11</td><td>진균장수</td><td rowspan="2">의 죽음을 계획하기</td><td>점쟁이</td></tr>
+<tr><td>12</td><td>춤꾼</td><td>방랑 가수</td></tr>
+<tr><td>13</td><td>길거리 청소부</td><td rowspan="2">에게서 부채를 받아내기</td><td>살인청부업자</td></tr>
+<tr><td>14</td><td>카르텔 집행관</td><td>사기치는 정신 능력자</td></tr>
+<tr><td>15</td><td>염소치기</td><td rowspan="2">와의 계약을 파기하기</td><td>유목민 지도자</td></tr>
+<tr><td>16</td><td>올리브 기름 상인</td><td>신정부 병사</td></tr>
+<tr><td>17</td><td>고위층 부랑자</td><td rowspan="2">의 위치를 알아내기</td><td>신정부 세금 징수인</td></tr>
+<tr><td>18</td><td>유명한 결투가</td><td>현상금 사냥꾼</td></tr>
+<tr><td>19</td><td>행상단 경비원</td><td rowspan="2">의 질병을 치료하기</td><td>은퇴한 권투 선수</td></tr>
+<tr><td>20</td><td>풍력바지선 항만노동자</td><td>부유한 미망인</td></tr>
 </table>
 
 # 노몬의 변화 (Changes in Gnomon)
