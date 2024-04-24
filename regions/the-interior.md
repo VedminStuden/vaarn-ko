@@ -429,27 +429,27 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 _땅은 와인 빛의 태양 아래서 마르고 시들어가지만, 심지어 여기에서도 낙원의 조각을 엿볼 수 있습니다._
 
 <table>
-<thead><th>d20</th><th>The Water</th><th>What's Here? (x2)</th><th>Who's Here? (x2)</th><th>Custom Of The Oasis</th></thead>
-<tr><td>1</td><td>Very Blue</td><td>Date Palms</td><td rowspan="4">Trading Caravan</td><td>Pay Toll</td></tr>
-<tr><td>2</td><td>Leaks from Machinery</td><td>Flamingos</td><td>No Bloodshed</td></tr>
-<tr><td>3</td><td>Incredibly Clear</td><td>Towering Rock</td><td>Moonlit Sacrifices</td></tr>
-<tr><td>4</td><td>Umber and Silty</td><td>Rusted War Machine</td><td>No Bathing</td></tr>
-<tr><td>5</td><td>Still and Glassy</td><td>Autarch Statue</td><td rowspan="3"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomads</a></td><td>Ritual Combat</td></tr>
-<tr><td>6</td><td>Black and Muddy</td><td>Flowering Bushes</td><td>Vow of Silence</td></tr>
-<tr><td>7</td><td>Almost Gone</td><td>Ibis</td><td>Ruled by Chance</td></tr>
-<tr><td>8</td><td>Full of Fish</td><td>Lurking Crocodiles</td><td>Hegemony Scouts</td><td>Sacred to Men</td></tr>
-<tr><td>9</td><td>Tastes Sour</td><td>Black Obelisks</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">Bounty Hunters</a></td><td>Sacred to Women</td></tr>
-<tr><td>10</td><td>Algae-choked</td><td>Decaying Buildings</td><td>Titan Cultists</td><td>Consult Computer</td></tr>
-<tr><td>11</td><td>Fetid</td><td>Addax Herd</td><td>Wandering Mystics</td><td>Consult Oracle</td></tr>
-<tr><td>12</td><td>Full of Plastic</td><td>Solar Panels</td><td>Travelling Circus</td><td>Must be Naked</td></tr>
-<tr><td>13</td><td>Rusty Red</td><td><a href="#/regions/the-interior.md?id=arcology">Arcology Dome</a></td><td>Mendicant Warror</td><td>Must be Veiled</td></tr>
-<tr><td>14</td><td>Warm and Bubbling</td><td>Crystalline Growths</td><td>Escaped Slaves</td><td>An Animal Is Holy</td></tr>
-<tr><td>15</td><td>Champagne Coloured</td><td>Fungal Growths</td><td>Sunburnt Exiles</td><td>An Animal Is Profane</td></tr>
-<tr><td>16</td><td>Deep and Silent</td><td>Broken Pillar</td><td>Pilgrim Monks</td><td>Laughter is Prohibited</td></tr>
-<tr><td>17</td><td>Inside a Cave</td><td><a href="#/regions/the-interior.md?id=grave">Grave</a></td><td>Synths</td><td>Sacred to Petty God</td></tr>
-<tr><td>18</td><td>Healing Properties</td><td>Wrecked Synths</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Warband</a></td><td>Drug Ritual</td></tr>
-<tr><td>19</td><td>Sugary Sweet</td><td>Mud Holes</td><td>Exultant in Disguise</td><td>Water Ritual</td></tr>
-<tr><td>20</td><td>Mildly Psychedelic</td><td>Sacred Caves</td><td>Famous Musician</td><td>Fasting</td></tr>
+<thead><th>d20</th><th>물</th><th>여기 있는 것 (x2)</th><th>여기에 있는 자 (x2)</th><th>오아시스의 관습</th></thead>
+<tr><td>1</td><td>매우 푸르름</td><td>대추야자</td><td rowspan="4">행상단</td><td>통행료를 내기</td></tr>
+<tr><td>2</td><td>기계에서 유출됨</td><td>플라밍고</td><td>피를 흘려선 안됨</td></td></tr>
+<tr><td>3</td><td>믿을 수 없을 정도로 맑음</td><td>우뚝 솟은 바위</td><td>달빛 희생</td></tr>
+<tr><td>4</td><td>암갈색에 모래투성이</td><td>녹슨 전쟁 기계</td><td>여기서 씻지 말 것</td></tr>
+<tr><td>5</td><td>고요하고 잔잔함</td><td>진왕 조각상</td><td rowspan="3"><a href="#/regions/the-interior.md?id=faa-nomad-camp">파아 유목민</a></td><td>의식 전투</td></tr>
+<tr><td>6</td><td>검고 진흙투성이</td><td>꽃이 핀 덤불</td><td>침묵의 맹세</td></tr>
+<tr><td>7</td><td>거의 없음</td><td>따오기</td><td>확률로 통치함</td></tr>
+<tr><td>8</td><td>물고기로 가득함</td><td>잠복한 악어들</td><td>신정부 정찰병들</td><td>남성에게 신성함</td></tr>
+<tr><td>9</td><td>신 맛이 남</td><td>검은 방첨탑</td><td><a href="#/regions/the-interior.md?id=bounty-hunter39s-camp">현상금 사냥꾼들</a></td><td>여성에게 신성함</td></tr>
+<tr><td>10</td><td>녹조가 낌</td><td>썩어가는 건물들</td><td>타이탄 숭배자들</td><td>Consult Computer</td></tr>
+<tr><td>11</td><td>악취가 남</td><td>아닥스 무리</td><td>W방랑 신비주의자들</td><td>신탁과 상담함</td></tr>
+<tr><td>12</td><td>플라스틱으로 가득함</td><td>태양광 패널</td><td>방랑 서커스단</td><td>벌거벗을 것</td></tr>
+<tr><td>13</td><td>녹슨 것처럼 붉음</td><td><a href="#/regions/the-interior.md?id=arcology">아콜로지 돔</a></td><td>구걸하는 전사</td><td>온몸을 싸맬 것</td></tr>
+<tr><td>14</td><td>따뜻하고 거품이 읾</td><td>수정 성장체</td><td>탈주 노예</td><td>특정 동물은 신성함</td></tr>
+<tr><td>15</td><td>샴페인 색</td><td>진균 성장체</td><td>햇볕에 탄 추방자들</td><td>특정 동물은 불결함</td></tr>
+<tr><td>16</td><td>깊고 조용함</td><td>부서진 기둥</td><td>순례 수도승</td><td>웃는 것이 금지됨</td></tr>
+<tr><td>17</td><td>동굴 안</td><td><a href="#/regions/the-interior.md?id=grave">무덤가</a></td><td>신스</td><td>하찮은 신들에게 신성함</td></tr>
+<tr><td>18</td><td>치유 속성</td><td>잔해가 된 신스들</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">캐클모 전쟁무리</a></td><td>마약 의식</td></tr>
+<tr><td>19</td><td>설탕같이 달달함</td><td>진흙 구덩이</td><td>기쁜 것처럼 위장한 이</td><td>물의 의식</td></tr>
+<tr><td>20</td><td>가벼운 환각성</td><td>신성한 동굴</td><td>유명한 음악가</td><td>금식</td></tr>
 </table>
 
 ## Holy Place
@@ -535,31 +535,30 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 <tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Below Ruin</a></td><td>Filled with Garbage</td><td>Recycling Facility</td><td>Contains Exotica</td></tr>
 </table>
 
-## Landmark
+## 랜드마크
 
-<table>
-<thead><th>d20</th><th>Natural Landmark</th><th>Artificial Landmark</th></thead>
-<tr><td>1</td><td>Colossal Cactus</td><td>Flickering Hologram Billboard, In Language No Longer Spoken</td></tr>
-<tr><td>2</td><td>Husk of Dead Sandworm</td><td>Cairn of Blue Stones</td></tr>
-<tr><td>3</td><td>Rock Resembling Hand</td><td>Tall Intimidating Totem</td></tr>
-<tr><td>4</td><td>Rock Resembling Face</td><td>Enigmatic Stone Circle</td></tr>
-<tr><td>5</td><td>Toxic Geyser</td><td>Banquet Table, Laid For A Hundred Guests. Somehow Never Ages or Changes.</td></tr>
-<tr><td>6</td><td>Meteor Impact Crater</td><td>Glowering Statue of an Autarch</td></tr>
-<tr><td>7</td><td>Gigantic Petrified Tree</td><td>Black Rectangular Monolith</td></tr>
-<tr><td>8</td><td>Enormous Humanoid Skeleton</td><td>Statue of Reclining Woman</td></tr>
-<tr><td>9</td><td>Huge Empty Snail Shell</td><td>Cliff Face, Painted with Fresco Honouring The Titans</td></tr>
-<tr><td>10</td><td>Tall Rock with Eye-like Hole</td><td>Indestructible Chrome Tower, Without Windows or Doors</td></tr>
-<tr><td>11</td><td>Vast Network of Termite Mounds</td><td>Ancient Lighthouse, Empty and Decaying</td></tr>
-<tr><td>12</td><td>Single Pale Martyr Tree</td><td>Vast Hologram Projector Array; Displays Glitchy, Obscene Images</td></tr>
-<tr><td>13</td><td>Lonely Blue Mesa</td><td>Gleaming Sword-like Shard of Orbital Debris</td></tr>
-<tr><td>14</td><td>Inexplicable Coral Reef, Long Dead</td><td>Unbreakable Glass Tesseract; Verdant Jungle Dimly Visible Within</td></tr>
-<tr><td>15</td><td>Enormous Glowing Crystal Growth</td><td>Strobing Lattice of Hard Light; Serves No Clear Purpose</td></tr>
-<tr><td>16</td><td>Rock, Resembling A Grieving Widow</td><td>Field of Broken Solar Panels</td></tr>
-<tr><td>17</td><td>Iridescent, Unbearably Salty Lake</td><td>Vast White Marble Hand</td></tr>
-<tr><td>18</td><td>Looming Extinct Volcano</td><td>Fallen War-Synth, So Old It’s Part of a Hillside</td></tr>
-<tr><td>19</td><td>Bulbous Fungal Chimney</td><td>Ancient Siren Pole, Broadcasting Unintelligible Warning</td></tr>
-<tr><td>20</td><td>Plain of Uncountable Bleached Skeletons</td><td>Bottomless Dark Pit, With Unnaturally Smooth Sides</td></tr>
-</table>
+| **D20** | **자연적인 랜드마크** | **인공 랜드마크** |
+| --- | --- | --- |
+| 1 | 거상같은 선인장 | 더 이상 말을 하지 않는 깜박거리는 홀로그램 광고판 |
+| 2 | 죽은 모래벌레 껍질 | 푸른 돌의 석총 |
+| 3 | 손을 닮은 바위 | 키가 큰 위협적인 토템 |
+| 4 | 얼굴을 닮은 바위 | 수수께끼의 돌 원 |
+| 5 | 독성 간헐천 | 100명의 손님을 위한 연회 테이블. 어째서인지 낡지도 변하지도 않음. |
+| 6 | 운석 충돌로 생긴 구멍 | 광채나는 신왕의 조각상 |
+| 7 | 거대하고 석화된 나무 | 검은 직사각형 비석 |
+| 8 | 거대한 인간형 해골 | 기댄 여성의 조각상 |
+| 9 | 거대하고 빈 달팽이 껍질 | 타이탄을 기리는 프레스코 벽화로 그려진 절벽의 수직면 |
+| 10 | 눈알 같은 구멍이 있는 큰 바위 | 창문이나 문이 없으며 파괴되지 않는 크롬 탑 |
+| 11 | 흰개미 언덕의 광활한 둥지 | 텅텅 비고 썩어가는 고대 등대 |
+| 12 | 창백한 순교자 나무 하나 | 지직거리며 외설적인 이미지가 나오는 방대한 홀로그램 투영기 배열 |
+| 13 | 쓸쓸하고 푸른 탁상 대지 | 빛나는 검 모양의 궤도 잔해 파편 |
+| 14 | 설명할 수 없이 오랫동안 죽어있는 산호초 | 내부에 푸른 정글이 어렴풋이 보이며 깨지지 않는 유리 4차원 정육면체 |
+| 15 | 거대하고 빛나는 수정 성장체 | 뚜렷한 용도가 없는 경화 빛이 깜빡거리는 격자문 |
+| 16 | 비통한 미망인을 닮은 바위 | 부서진 태양광판 지대 |
+| 17 | 무지개빛으로 빛나며 참을 수 없이 짠내 나는 호수 | 거대한 흰색 대리석 손 |
+| 18 | 흐릿하게 보이는 휴화산 | 산비탈의 일부가 된 지 아주 오래된 몰락한 전쟁신스 |
+| 19 | 구불구불한 진균 굴뚝 | 알 수 없는 경고 방송이 울리는 고대 사이렌이 달린 지줏대 |
+| 20 | 셀 수 없이 많은 빛 바랜 해골들의 평원 | 옆면이 부자연스럽게 미끄러운 매우 깊은 구덩이 |
 
 ## Bandit Camp
 
