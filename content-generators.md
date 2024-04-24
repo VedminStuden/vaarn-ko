@@ -162,10 +162,10 @@
 | 94 | 결함 추적자 | 망치입니다. 들고 있을 때, 구조물의 약점을 보여줍니다. |
 | 95 | 신왕의 시질 | 신왕을 섬기던 기계들이 당신을 주인으로 인식합니다. |
 | 96 | 깃털달린 파라솔 | 반중력 구슬로 고정되어, 낙하산 효과를 만들어냅니다. |
-| 97 | 사이버네틱 투구 | 무작위 [신비로운 재능](https://vaarn.github.io/#/mystic-gifts).|
-| 98 | 사이버네틱 고치 | 무작위 [사이버네틱 임플란트](https://vaarn.github.io/#/cybernetics).|
-무작위 희귀한 [도서](https://vaarn.github.io/#/content-generators?id=books-of-vaarn).|
-|00|약물|무작위 희귀한 [약물](https://vaarn.github.io/#/content-generators?id=drugs-of-vaarn).|
+| 97 | 사이버네틱 투구 | 무작위 [신비로운 재능](https://vedminstuden.github.io/vaarn-ko/#/basic-rules?id=-%EC%8B%A0%EB%B9%84%EB%A1%9C%EC%9A%B4-%EC%9E%AC%EB%8A%A5-mystic-gifts).|
+| 98 | 사이버네틱 고치 | 무작위 [사이버네틱 임플란트](https://vedminstuden.github.io/vaarn-ko/#/cybernetics).|
+무작위 희귀한 [도서](https://vedminstuden.github.io/vaarn-ko/#/content-generators?id=%eb%b0%94%ec%95%88%ec%9d%98-%eb%8f%84%ec%84%9c-books-of-vaarn).|
+|00|약물|무작위 희귀한 [약물](https://vedminstuden.github.io/vaarn-ko/#/content-generators?id=%eb%b0%94%ec%95%88%ec%9d%98-%ec%95%bd%eb%ac%bc-drugs-of-vaarn).|
 
 ## 바안의 도서 (Books of Vaarn)
 | **D20** | **표지** | **저자** | **스타일** | **주제** | **주의사항** |
