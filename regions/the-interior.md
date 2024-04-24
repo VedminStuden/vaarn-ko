@@ -940,28 +940,28 @@ _The dens of the Cacklemaw are not difficult to locate - one must simply follow 
 
 ## Anomaly
 
-_There are more things in the Heavens and Urth than are dreamed of in your philosophies. There are more things. There are always more._
+_당신의 상상하는 것보다 하늘과 대지에는 더 많은 것들이 있습니다. 더 많은 것들이 있습니다. 항상 더 많은 것들이 있습니다._
 
-<table>
-<thead><th>d20</th><th>Quality</th><th>Form</th><th>Primary Effect</th><th>Secondary Effect</th></thead>
-<tr><td>1</td><td>Dazzling</td><td>Web</td><td>Inverts Local Gravity</td><td>Induces Paranoia</td></tr>
-<tr><td>2</td><td>Nauseating</td><td>Mist</td><td>Heals Injuries</td><td>Total Silence Nearby</td></tr>
-<tr><td>3</td><td>Floating</td><td>Cave</td><td>Translates Languages</td><td>Absorbs Light</td></tr>
-<tr><td>4</td><td>Singing</td><td>Tower</td><td>Reanimates Dead</td><td>Extreme Cold Nearby</td></tr>
-<tr><td>5</td><td>Mist-like</td><td>Lotus</td><td>Merges Creatures Together</td><td>Strange Music Audible</td></tr>
-<tr><td>6</td><td>Glitching</td><td>Tree</td><td>Makes Prophecies</td><td>Strange Voices Echo</td></tr>
-<tr><td>7</td><td>Luminous</td><td>Pool</td><td>Other Universe Visible</td><td>Localised Weather System</td></tr>
-<tr><td>8</td><td>Radioactive</td><td>Fountain</td><td>Implants Memories</td><td>Time Flows Strangely</td></tr>
-<tr><td>9</td><td>Self-replicating</td><td>Stone</td><td>Implants Mystic Gifts</td><td>Induces Mania</td></tr>
-<tr><td>10</td><td>Quicksilver</td><td>Skull</td><td>Induces Amnesia</td><td>Always Nighttime Nearby</td></tr>
-<tr><td>11</td><td>Many-eyed</td><td>Prism</td><td>Induces Delusions</td><td>Induces Mutations</td></tr>
-<tr><td>12</td><td>Iridescent</td><td>Cube</td><td>Kills Indiscriminately</td><td>Rusts All Metal</td></tr>
-<tr><td>13</td><td>Toxic</td><td>Pyramid</td><td>Induces Empathy</td><td>Exudes Lightning</td></tr>
-<tr><td>14</td><td>Crystal</td><td>Sphere</td><td>Transforms Matter</td><td>Exudes Flames</td></tr>
-<tr><td>15</td><td>Speaking</td><td>House</td><td>Teleports Matter</td><td>Exudes Toxins</td></tr>
-<tr><td>16</td><td>Mobile</td><td>Miasma</td><td>Creates Planeyfolk</td><td>Creates Solid Light</td></tr>
-<tr><td>17</td><td>Blossoming</td><td>Waterfall</td><td>Creates Monsters</td><td>Nanomachine Cloud</td></tr>
-<tr><td>18</td><td>Burning</td><td>Infant</td><td>Grants Visions of Past</td><td>Infection with Virus</td></tr>
-<tr><td>19</td><td>Mesmerising</td><td>Shell</td><td>Grants Visions of Future</td><td>Infection with Fungus</td></tr>
-<tr><td>20</td><td>Terrifying</td><td>Helix</td><td>Makes Thoughts Solid</td><td>Infection with Spirit</td></tr>
+| **D20** | **특징** | **형태** | **주요 효과** | **부가 효과** |
+| --- | --- | --- | --- | --- |
+| 1 | 눈부심 | 거미줄 | 근방의 중력이 거꾸로 뒤집힘 | 편집증을 유발함 |
+| 2 | 메스꺼움 | 안개 | 상처를 치유함 | 주변이 완전히 조용해짐 |
+| 3 | 떠다님 | 동굴 | 언어를 번역함 | 빛을 흡수함 |
+| 4 | 노래함 | 탑 | 죽은 자를 되살림 | 근방이 극도로 추움 |
+| 5 | 안개같음 | 연꽃 | 생명체를 합침 | 이상한 음악이 들림 |
+| 6 | 깜빡거림 | 나무 | 예언을 점침 | 이상한 목소리가 메아리침 |
+| 7 | 야광 | 웅덩이 | 다른 평행세계가 보임 | 기후를 알아냄 |
+| 8 | 방사능 | 분수 | 기억을 심음 | 시간이 이상하게 흘러감 |
+| 9 | 자가재생 | 돌 | 신비로운 재능을 심음 | 조증을 유발함 |
+| 10 | 수은 | 두개골 | 기억상실증을 유발함 | 근방은 언제나 밤시간대임 |
+| 11 | 수많은 눈 | 각기둥 | 망상을 유발함 | 돌연변이를 유발함 |
+| 12 | 무지개빛 | 정육면체 | 마구잡이로 죽임 | 모든 금속이 녹슮 |
+| 13 | 독성 | 피라미드 | 공감을 유발함 | 번갯빛이 뿜어져 나옴 |
+| 14 | 수정 | 구체 | 물질을 변형시킴 | 화염을 뿜어냄 |
+| 15 | 말함 | 집 | 물질을 이동시킴 | 독을 뿜어냄 |
+| 16 | 이동함 | 독기 | 플래니포크를 만들어냄 | 고체 빛을 만들어냄 |
+| 17 | 나무꽃 | 폭포 | 괴물을 만들어냄 | 나노기계 구름 |
+| 18 | 불탐 | 유아 | 과거의 모습을 보여줌 | 바이러스로 가득함 |
+| 19 | 매혹적임 | 껍데기 | 미래의 모습을 보여줌 | 진균으로 가득함 |
+| 20 | 무서움 | 나선 | 생각을 고체로 실현시킴 | 영혼으로 가득함 |
 </table>
