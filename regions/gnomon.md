@@ -830,9 +830,9 @@ _노몬의 귀족 가문들은 그들의 기원을 신왕의 통치 시대 이�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">가부장</td><td>Envy (Property)</td><td rowspan="2">경쟁 가문의 가부장</td></tr>
+<tr><td>1</td><td rowspan="2">가부장</td><td>질투 (재산)</td><td rowspan="2">경쟁 가문의 가부장</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">여가장</td><td>Love (Forbidden)</td><td rowspan="2">경쟁 가문의 여가장</td></tr>
+<tr><td>3</td><td rowspan="2">여가장</td><td>사랑 (금지됨)</td><td rowspan="2">경쟁 가문의 여가장</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
 <tr><td>5</td><td rowspan="2">장자, 상속자인 것이 분명함</td><td>사랑 (삼각관계)</td><td rowspan="2">경쟁 가문의 상속자</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
@@ -931,49 +931,49 @@ _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가
 <table>
 <thead><th>d20</th><th>이름 (A)</th><th>이름 (B)</th><th>이름 (C)</th></thead>
 <tr><td>1</td><td>자애로운</td><td rowspan="2">의 협회</td><td>다섯 바퀴</td></tr>
-<tr><td>2</td><td>Auspicious</td><td>Pious Tradesmen</td></tr>
-<tr><td>3</td><td>Felicitous</td><td rowspan="2">Brotherhood Of</td><td>the White Lotus</td></tr>
-<tr><td>4</td><td>Propitious</td><td>Sober Merchants</td></tr>
-<tr><td>5</td><td>Bountiful</td><td rowspan="2">Consortium Of</td><td>the Ebon Shepherd</td></tr>
-<tr><td>6</td><td>Generous</td><td>Thrifty Companions</td></tr>
-<tr><td>7</td><td>Amiable</td><td rowspan="2">Syndicate Of</td><td>Honest Friends</td></tr>
-<tr><td>8</td><td>Congenial</td><td>the Fatted Calf</td></tr>
-<tr><td>9</td><td>Cordial</td><td rowspan="2">Confederation Of</td><td>Charitable Mercers</td></tr>
-<tr><td>10</td><td>Gracious</td><td>Enterprising Fellows</td></tr>
-<tr><td>11</td><td>Cautious</td><td rowspan="2">Union Of</td><td>Resourceful Traders</td></tr>
-<tr><td>12</td><td>Amicable</td><td>Generous Vendors</td></tr>
-<tr><td>13</td><td>Concordant</td><td rowspan="2">Order Of</td><td>the Lucky Heron</td></tr>
-<tr><td>14</td><td>Harmonious</td><td>the Golden Bough</td></tr>
-<tr><td>15</td><td>Courteous</td><td rowspan="2">League Of</td><td>Prosperous Dealers</td></tr>
-<tr><td>16</td><td>Unanimous</td><td>Respectable Neighbours</td></tr>
-<tr><td>17</td><td>Consolidated</td><td rowspan="2">Society Of</td><td>Equitable Brokers</td></tr>
-<tr><td>18</td><td>Affiliated</td><td>Candid Vendors</td></tr>
-<tr><td>19</td><td>Common</td><td rowspan="2">Company Of</td><td>Even-Handed Gentlemen</td></tr>
-<tr><td>20</td><td>Reciprocal</td><td>the Bountiful Urn</td></tr>
+<tr><td>2</td><td>상스러운</td><td>경건한 무역인들</td></tr>
+<tr><td>3</td><td>경사스러운</td><td rowspan="2">의 결사</td><td>흰 연꽃</td></tr>
+<tr><td>4</td><td>상서로운</td><td>맑은 정신의 상인들</td></tr>
+<tr><td>5</td><td>관대한</td><td rowspan="2">의 협력단 Of</td><td>흑단 목양견</td></tr>
+<tr><td>6</td><td>아량 있는</td><td>번영하는 동반자들</td></tr>
+<tr><td>7</td><td>상냥한</td><td rowspan="2">의 연합체</td><td>정직한 친구들</td></tr>
+<tr><td>8</td><td>기분 좋은</td><td>t살찐 송아지</td></tr>
+<tr><td>9</td><td>성심성의껏 대하는</td><td rowspan="2">의 연방</td><td>자비로운 포목상들</td></tr>
+<tr><td>10</td><td>정중한</td><td>진취적인 동료들</td></tr>
+<tr><td>11</td><td>신중한</td><td rowspan="2">의 조합</td><td>수완이 비승한 상인들</td></tr>
+<tr><td>12</td><td>화기애애한</td><td>관대한 공급업체들</td></tr>
+<tr><td>13</td><td>화합하는</td><td rowspan="2">의 질서</td><td>행운의 왜가리</td></tr>
+<tr><td>14</td><td>조화로운</td><td>황금나무 가지</td></tr>
+<tr><td>15</td><td>예의바른</td><td rowspan="2">의 연맹</td><td>번창하는 딜러들</td></tr>
+<tr><td>16</td><td>동의하는</td><td>존경하는 이웃들</td></tr>
+<tr><td>17</td><td>통합된</td><td rowspan="2">의 집단</td><td>공정한 중개인들</td></tr>
+<tr><td>18</td><td>소속된</td><td>솔직한 공급업체들</td></tr>
+<tr><td>19</td><td>흔한</td><td rowspan="2">Company Of</td><td>짝손 신사들</td></tr>
+<tr><td>20</td><td>호혜적인</td><td>유택한 항아리</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Monopoly On</th><th>Shady Dealings</th><th>They Want</th></thead>
-<tr><td>1</td><td>Wine</td><td rowspan="2">Bribery</td><td rowspan="2">Outstanding Debts Collected From a Noble House</td></tr>
-<tr><td>2</td><td>Chocolate</td></tr>
-<tr><td>3</td><td>Carpets</td><td rowspan="2">Arson</td><td rowspan="2">Outstanding Debts Collected From an Urban Shrine</td></tr>
-<tr><td>4</td><td>Honey</td></tr>
-<tr><td>5</td><td>Olives</td><td rowspan="2">Smuggling</td><td rowspan="2">Outstanding Debts Collected From a Philosopher’s Guild</td></tr>
-<tr><td>6</td><td>Cheese</td></tr>
-<tr><td>7</td><td>Bread</td><td rowspan="2">Water 도둑질</td><td rowspan="2">A Business Rival to Disappear</td></tr>
-<tr><td>8</td><td>Paper</td></tr>
-<tr><td>9</td><td>Salt</td><td rowspan="2">Insurance Fraud</td><td rowspan="2">A Hegemony Tax Collector to Disappear</td></tr>
-<tr><td>10</td><td>Camels</td></tr>
-<tr><td>11</td><td>Sacred Puppets</td><td rowspan="2">Price Fixing</td><td rowspan="2">To Hire Guards For a Lucrative Trade Caravan</td></tr>
-<tr><td>12</td><td>Hats</td></tr>
-<tr><td>13</td><td>Boots</td><td rowspan="2">Shoddy Goods</td><td rowspan="2">To Find Out Who Burned One of Their Warehouses Down</td></tr>
-<tr><td>14</td><td>Knives</td></tr>
-<tr><td>15</td><td>Synth Parts</td><td rowspan="2">Intimidation</td><td rowspan="2">A Rival Cartel’s Warehouse Burned Down</td></tr>
-<tr><td>16</td><td>Beer</td></tr>
-<tr><td>17</td><td>Spices</td><td rowspan="2">Tax Evasion</td><td rowspan="2">A Rival Cartel’s Treasurer Kidnapped</td></tr>
-<tr><td>18</td><td>Tea</td></tr>
-<tr><td>19</td><td>Coffee</td><td rowspan="2">살인</td><td rowspan="2">To Have a Rival Cartel’s Trade Caravan Robbed</td></tr>
-<tr><td>20</td><td>Tobacco</td></tr>
+<thead><th>d20</th><th>독점품</th><th>은밀한 거래</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>와인</td><td rowspan="2">뇌물 수수</td><td rowspan="2">귀족 가문에서 미상환 부채 회수하기</td></tr>
+<tr><td>2</td><td>초콜렛</td></tr>
+<tr><td>3</td><td>카페트</td><td rowspan="2">방화</td><td rowspan="2">도심 성소에서 미상환 부채 회수하기</td></tr>
+<tr><td>4</td><td>꿀</td></tr>
+<tr><td>5</td><td>올리브</td><td rowspan="2">밀수 행위</td><td rowspan="2">철학자 길드에서 미상환 부채 회수하기</td></tr>
+<tr><td>6</td><td>치즈</td></tr>
+<tr><td>7</td><td>빵</td><td rowspan="2">물 도둑질</td><td rowspan="2">사업 경쟁자가 사라지는 것</td></tr>
+<tr><td>8</td><td>종이</td></tr>
+<tr><td>9</td><td>소금</td><td rowspan="2">보험 사기</td><td rowspan="2">신정부 세금 징수인이 사라지는 것</td></tr>
+<tr><td>10</td><td>낙타</td></tr>
+<tr><td>11</td><td>신성한 인형</td><td rowspan="2">답합</td><td rowspan="2">수익성이 좋은 행상단을 위해 경비원을 고용하는 것</td></tr>
+<tr><td>12</td><td>모자</td></tr>
+<tr><td>13</td><td>장화</td><td rowspan="2">싸구려 물품</td><td rowspan="2">누가 카르텔의 창고를 불태웠는 지 알아내는 것</td></tr>
+<tr><td>14</td><td>나이프</td></tr>
+<tr><td>15</td><td>신스 부품</td><td rowspan="2">협박</td><td rowspan="2">경쟁 카르텔의 창고를 불태우는 것</td></tr>
+<tr><td>16</td><td>맥주</td></tr>
+<tr><td>17</td><td>향신료</td><td rowspan="2">Tax Evasion</td><td rowspan="2">경쟁 카르텔의 창고를 불태우는 것</td></tr>
+<tr><td>18</td><td>차</td></tr>
+<tr><td>19</td><td>커피</td><td rowspan="2">살인</td><td rowspan="2">경쟁 카르텔의 재무관을 납치하는 것</td></tr>
+<tr><td>20</td><td>담배</td></tr>
 </table>
 
 # 도심 성소 (Urban Shrine)
@@ -982,25 +982,25 @@ _약속된 태양의 교회는 노몬에서 따르는 유일한 신앙이 아닙
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Shrine Keeper</td><td>Envy (Property)</td><td rowspan="2">Widower, Who Often Visits to Worship</td></tr>
+<tr><td>1</td><td rowspan="2">성소 지킴이</td><td>질투 (재산)</td><td rowspan="2">예배에 자주 참석하는 홀아비</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">The Shrine Keeper’s Adopted Child</td><td>Love (Forbidden)</td><td rowspan="2">Dull, Devout Worshipper</td></tr>
+<tr><td>3</td><td rowspan="2">성소 지킴이의 사랑스러운 아이</td><td>사랑 (금지됨)</td><td rowspan="2">덜떨어지고 독실한 예배자</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">The Shrine Keeper’s Wayward Child</td><td>사랑 (삼각관계)</td><td rowspan="2">Ex-Priest, Whose Faith Deserted Them</td></tr>
+<tr><td>5</td><td rowspan="2">성소 지킴이의 고집불통 아이</td><td>사랑 (삼각관계)</td><td rowspan="2">신앙심이 자신을 저버린 전 사제</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Young Oracle, Who Has Visions</td><td>빚 (물)</td><td rowspan="2">Scion of a Noble House</td></tr>
+<tr><td>7</td><td rowspan="2">비전을 가진 어린 신탁</td><td>빚 (물)</td><td rowspan="2">귀족 가문의 자식</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Drunken, Lazy Priest</td><td>Robbery</td><td rowspan="2">Mystic, Who Performs Intense Physical Feats to Prove Devotion</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Master of Sacrifices</td><td>간통</td><td rowspan="2">One Time Worshipper, Who Now Professes Another Faith</td></tr>
+<tr><td>9</td><td rowspan="2">술취하고 게으른 사제</td><td>강도</td><td rowspan="2">헌신을 증명하기 위해 강렬한 신체적인 솜씨를 보여주는 신비주의자</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">희생의 대가</td><td>간통</td><td rowspan="2">한 때 예배자였으나 현재는 다른 신앙을 믿는 이</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Blind Mystic</td><td>폭식</td><td rowspan="2">An Exorcist</td></tr>
+<tr><td>13</td><td rowspan="2">늙고 눈 먼 신비주의자</td><td>폭식</td><td rowspan="2">퇴마사</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Devout and Fanatical Priest</td><td>거칠고 근거없는 비난</td><td rowspan="2">Candlemaker, Who Supplies the Sacred Candles</td></tr>
-<tr><td>16</td><td>Anonymous Letters</td></tr>
-<tr><td>17</td><td rowspan="2">The Keeper of a Sacred Animal</td><td>Demonic Possession</td><td rowspan="2">Ancient Oracle, Who No Longer Sees the Path</td></tr>
-<tr><td>18</td><td>Heresey</td></tr>
-<tr><td>19</td><td rowspan="2">Slave, Who Sweeps the Grounds</td><td>공갈</td><td rowspan="2">Beggar, Who Visits Once A Day For A Meal</td></tr>
+<tr><td>15</td><td rowspan="2">독실하며 광적인 사제</td><td>거칠고 근거없는 비난</td><td rowspan="2">신성한 양초를 공급하는 양초제작자</td></tr>
+<tr><td>16</td><td>익명의 편지</td></tr>
+<tr><td>17</td><td rowspan="2">성소 지킴이의 신성한 동물</td><td>악마의 빙의</td><td rowspan="2">더 이상 앞길을 보지 못하는 고대의 신탁</td></tr>
+<tr><td>18</td><td>이단</td></tr>
+<tr><td>19</td><td rowspan="2">바닥을 청소하는 노예</td><td>공갈</td><td rowspan="2">일용할 양식을 얻기 위해 방문한 거지</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
@@ -1056,25 +1056,25 @@ _신선하게 갈아놓은 모래 위에 흩날리는 낯선 이의 피를 본 �
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Owner of the Pit</td><td>Envy (Property)</td><td rowspan="2">Narcotics Seller, Who Supplies the Gladiators</td></tr>
+<tr><td>1</td><td rowspan="2">투기장의 주인</td><td>질투 (재산)</td><td rowspan="2">검투사에게 공급하는 마취제 판매자</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Ticket Tout, Who Works the Street Outside</td></tr>
+<tr><td>3</td><td rowspan="2">주인의 배우자</td><td>사랑 (금지됨)</td><td rowspan="2">길거리에서 일하는 입장권 판매원</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Son or Daughter</td><td>사랑 (삼각관계)</td><td rowspan="2">Servant, Who Rakes the Sand Between Fights</td></tr>
+<tr><td>5</td><td rowspan="2">주인의 아들 또는 딸</td><td>사랑 (삼각관계)</td><td rowspan="2">싸움 사이에서 모래를 긁어모으는 하인</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Champion Gladiator</td><td>빚 (물)</td><td rowspan="2">Masseuse, Who Treats the Fighters</td></tr>
+<tr><td>7</td><td rowspan="2">챔피언 검투사</td><td>빚 (물)</td><td rowspan="2">투사들을 돌보는 마사지사</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Retired Champion, Now a Trainer</td><td>Robbery</td><td rowspan="2">Wealthy Patron, Who Pays To Spend the Night With Champions</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Rival to the Champion</td><td>간통</td><td rowspan="2">Obsessive Fan of One Fighter</td></tr>
+<tr><td>9</td><td rowspan="2">현재는 트레이너가 된 은퇴한 챔피언</td><td>강도</td><td rowspan="2">챔피언들과 하룻밤을 보내기 위해 돈을 지불하는 부유한 후원자</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">챔피언의 경쟁자</td><td>간통</td><td rowspan="2">한 투사에 집착하는 팬</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Green Gladiator, As Yet Unblooded</td><td>폭식</td><td rowspan="2">Bloodthirsty Spectator</td></tr>
+<tr><td>13</td><td rowspan="2">아짓 핏때 묻지 않은 녹색 검투사</td><td>폭식</td><td rowspan="2">피에 굶주린 구경꾼</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>거칠고 근거없는 비난</td><td rowspan="2">Gambler, Who Bets on the Fights</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Unpopular Gladiator, Known For Extreme Sadism</td><td>Addiction (Narcotics)</td><td rowspan="2">Healer, Who Treats Wounded Fighters</td></tr>
-<tr><td>18</td><td>Match Fixing</td></tr>
-<tr><td>19</td><td rowspan="2">Retired Gladiator, Kept Employed Out Of Sentiment</td><td>공갈</td><td rowspan="2">Owner of a Rival Pit</td></tr>
+<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>거칠고 근거없는 비난</td><td rowspan="2">싸움에 돈을 거는 도박꾼</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">극단적인 가학성으로 알려진 인기없는 검투사</td><td>중독 (마취제)</td><td rowspan="2">부상당한 투사를 돌보는 치료사</td></tr>
+<tr><td>18</td><td>매칭이 고정됨</td></tr>
+<tr><td>19</td><td rowspan="2">감정에 얽매이지 않고 고용되어있는 은퇴한 검투사</td><td>공갈</td><td rowspan="2">경쟁 투기장의 주인</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
@@ -1102,27 +1102,27 @@ _신선하게 갈아놓은 모래 위에 흩날리는 낯선 이의 피를 본 �
 | 20 | 헬모니아 | 황금빛을 띤 자 | 아름다움 |
 
 <table>
-<thead><th>d20</th><th>Signature Weapon</th><th>Outlandish 장갑</th><th>They Want</th></thead>
-<tr><td>1</td><td>Bare Fists</td><td>Fights Naked</td><td rowspan="2">Information on the Training Methods of a Rival</td></tr>
-<tr><td>2</td><td>Esoteric Martial Art</td><td>Mystical Tattoos</td></tr>
-<tr><td>3</td><td>Razor Whip</td><td>Dried Snake Skin</td><td rowspan="2">Prophecies Relating to the Manner of their Death</td></tr>
-<tr><td>4</td><td>Net and Spear</td><td>Rusted Iron</td></tr>
-<tr><td>5</td><td>Vibro-Axe</td><td>Iridescent Chainmail</td><td rowspan="2">A Rival Gladiator Sabotaged</td></tr>
-<tr><td>6</td><td>Flex-Glass Knife</td><td>Hardened Tree-Bark</td></tr>
-<tr><td>7</td><td>Bladed Shield</td><td>Symbiotic Psuedoflesh</td><td rowspan="2">A Rival Gladiator Discredited</td></tr>
-<tr><td>8</td><td>Searing Gauntlets</td><td>Plates of Crimson Enamel</td></tr>
-<tr><td>9</td><td>Gelatinous Parasite</td><td>Encrusted with Teeth</td><td rowspan="2">Someone to Bet Big On Them</td></tr>
-<tr><td>10</td><td>Carnivorous Plant</td><td>Encrusted with Vines</td></tr>
-<tr><td>11</td><td>Oar From Ancient Boat</td><td>Hardened Fungus</td><td rowspan="2">Someone to Bet Big Against Them</td></tr>
-<tr><td>12</td><td>Sandworm Tooth</td><td>Plates of Bone</td></tr>
-<tr><td>13</td><td>Gilded Spear</td><td>Covered in Spikes</td><td rowspan="2">Legendary Weapon, Believed Lost in Vaarn’s Vaults</td></tr>
-<tr><td>14</td><td>Crystal Great-sword</td><td>Engraved with Void-Psalms</td></tr>
-<tr><td>15</td><td>Shock Trident</td><td>Black Glass</td><td rowspan="2">A Rare, Potent Drug</td></tr>
-<tr><td>16</td><td>Venomous Mace</td><td>Beautiful Extra-Solar Silk</td></tr>
-<tr><td>17</td><td>Heavy Chain</td><td>Nanoweave Shirt</td><td rowspan="2">An Introduction to Nyxia, the Wall Shadow</td></tr>
-<tr><td>18</td><td>Lethal Poem</td><td>Crystalline Lattice</td></tr>
-<tr><td>19</td><td>Plasma Scimitar</td><td>Ancient Spacesuit</td><td rowspan="2">To Win Their Freedom</td></tr>
-<tr><td>20</td><td>Sacred Flamberge</td><td>Solid Gold</td></tr>
+<thead><th>d20</th><th>상징적인 무기</th><th>색다른 방어구</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>맨주먹</td><td>벌거숭이인 채로 싸움</td><td rowspan="2">경쟁자의 훈련 방법에 대한 정보</td></tr>
+<tr><td>2</td><td>극비로 전해지는 무술</td><td>신비로운 문신</td></tr>
+<tr><td>3</td><td>칼날채찍</td><td>건조시킨 뱀 가죽</td><td rowspan="2">자신의 죽음 방식과 관련된 예언</td></tr>
+<tr><td>4</td><td>그물과 창</td><td>녹슨 철재</td></tr>
+<tr><td>5</td><td>전동도끼</td><td>무지개빛 사슬갑옷</td><td rowspan="2">경쟁 검투사를 훼방놓는 것/td></tr>
+<tr><td>6</td><td>유연한 유리 나이프</td><td>단단한 나무껍질</td></tr>
+<tr><td>7</td><td>칼달린 방패</td><td>공생하는 가짜살점</td><td rowspan="2">경쟁 검투사가 신뢰를 잃는 것</td></tr>
+<tr><td>8</td><td>타는 듯한 건틀렛</td><td>진홍색 에나멜 판금</td></tr>
+<tr><td>9</td><td>젤라틴 기생체</td><td>이빨로 뒤덮임</td><td rowspan="2">자신에게 큰 돈을 걸 사람</td></tr>
+<tr><td>10</td><td>식인 식물</td><td>덩굴로 뒤덮임</td></tr>
+<tr><td>11</td><td>고대 뗏목의 노</td><td>경화진균</td><td rowspan="2">자신에게 대적할 누군가</td></tr>
+<tr><td>12</td><td>모래벌레 이빨</td><td>뼈 판큼</td></tr>
+<tr><td>13</td><td>금빛 창</td><td>C가시로 보호받음</td><td rowspan="2">바안의 볼트에서 잊혀진 것으로 추정되는 전설의 무기</td></tr>
+<tr><td>14</td><td>수정 대검</td><td>공허의 시편이 새겨짐</td></tr>
+<tr><td>15</td><td>전기충격 삼지창</td><td>검은 유리</td><td rowspan="2">희귀하고 강력한 약물</td></tr>
+<tr><td>16</td><td>독 묻은 메이스</td><td>아름다운 이계의 비단</td></tr>
+<tr><td>17</td><td>무거운 사슬</td><td>나노섬유 셔츠</td><td rowspan="2">벽의 그림자 닉시아의 소개</td></tr>
+<tr><td>18</td><td>치명적인 시</td><td>수정 격자</td></tr>
+<tr><td>19</td><td>플라스마 시미터</td><td>고대의 우주복</td><td rowspan="2">자유를 얻기 위해 승리하는 것</td></tr>
+<tr><td>20</td><td>신성한 플랑베르주</td><td>고체 금</td></tr>
 </table>
 
 # 철학자 길드 (Philosopher's Guild)
@@ -1132,25 +1132,25 @@ _대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Haughty, Proud Philosopher</td><td>Envy (Property)</td><td rowspan="2">Former Student, Who Has Renounced the Guild</td></tr>
+<tr><td>1</td><td rowspan="2">거만하고 자존심 있는 철학자</td><td>질투 (재산)</td><td rowspan="2">길드를 탈퇴한 전 학생</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Kind and Naive Philosopher</td><td>Love (Forbidden)</td><td rowspan="2">Ageing Philosopher, Respected But Now Bereft of Their Wits</td></tr>
+<tr><td>3</td><td rowspan="2">친절하고 순진한 철학자</td><td>사랑 (금지됨)</td><td rowspan="2">노쇠한 철학자, 존경받지만 이제 철학자로서의 지혜가 없다.</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">Accomplished, Respected Philosopher</td><td>사랑 (삼각관계)</td><td rowspan="2">The Head of a Rival Guild</td></tr>
+<tr><td>5</td><td rowspan="2">훌륭하고 존경받는 철학자</td><td>사랑 (삼각관계)</td><td rowspan="2">경쟁 길드의 우두머리</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Loathed, Rude Philosopher</td><td>빚 (물)</td><td rowspan="2">The Wealthy Parent of a Student</td></tr>
+<tr><td>7</td><td rowspan="2">지겨워하고 무례한 철학자</td><td>빚 (물)</td><td rowspan="2">학생의 부유한 부모</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Philosopher, Driven Mad By Their Research</td><td>Robbery</td><td rowspan="2">Spouse of A Philosopher</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Talented, Arrogant Student</td><td>간통</td><td rowspan="2">Former Student, Who Broke the Guild’s Code</td></tr>
+<tr><td>9</td><td rowspan="2">자신의 연구에 열광한 철학자</td><td>강도</td><td rowspan="2">철학자의 배우자</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">T재능있고 오만한 학생</td><td>간통</td><td rowspan="2">길드의 규약을 깬 전 학생</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Stupid, Wealthy Student</td><td>폭식</td><td rowspan="2">Former Student, Who Founded Rival Guild</td></tr>
+<tr><td>13</td><td rowspan="2">멍청하고 부유한 학생</td><td>폭식</td><td rowspan="2">경쟁 길드를 세운 전 학생</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Dull, but Cheerful Student</td><td>도둑질 of Rare Manuscripts</td><td rowspan="2">Rough Adventurer, Who Provides the Guild With Scavenged Technology</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Visiting Translator or Other Expert</td><td>Addiction (Narcotics)</td><td rowspan="2">Rich, Idle Noble, Who Fancies Themselves A Thinker</td></tr>
-<tr><td>18</td><td>Violation of the Guild’s Code</td></tr>
-<tr><td>19</td><td rowspan="2">Synth, Who Assists With Experiments</td><td>공갈</td><td rowspan="2">Psychic, Who Channels Unearthly Powers for the Philosophers</td></tr>
+<tr><td>15</td><td rowspan="2">멍청하지만 쾌활한 학생</td><td>희귀한 원고를 훔침</td><td rowspan="2">길드에 자신이 폐허에서 건져온 기술을 제공하는 거친 모험가</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">방문 번역가 또는 기타 전문가</td><td>중독 (마취제)</td><td rowspan="2">자신을 사랑사라고 여기는 부유하고 게으른 귀족</td></tr>
+<tr><td>18</td><td>길드 규약 위반</td></tr>
+<tr><td>19</td><td rowspan="2">실험을 돕는 신스</td><td>공갈</td><td rowspan="2">철학자들에게 세속적인 힘을 실어주는 정신 능력자</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
@@ -1178,27 +1178,27 @@ _대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거�
 | 20 | 상서로운 | 의 연합체 | 후회없는 발견 |
 
 <table>
-<thead><th>d20</th><th>They Study</th><th>Guild Custom</th><th>They Want To</th></thead>
-<tr><td>1</td><td>Biology</td><td>Only Wear White</td><td rowspan="2">Upend the Governing Powers of Gnomon</td></tr>
-<tr><td>2</td><td>Geology</td><td>Only Wear Crimson</td></tr>
-<tr><td>3</td><td>Poetry</td><td>Only Men Allowed to Join</td><td rowspan="2">Discredit a Rival Guild</td></tr>
-<tr><td>4</td><td>Hypergeometry</td><td>Only Women Allowed to Join</td></tr>
-<tr><td>5</td><td>Telepathy</td><td>Only Synths Allowed to Join</td><td rowspan="2">Obtain Item of Exotica; Currently Possessed By Rival Guild</td></tr>
-<tr><td>6</td><td>Cloning</td><td>Only Mycomorphs Allowed to Join</td></tr>
-<tr><td>7</td><td>Gene-sculpting</td><td>Must Remove Body-part to Join</td><td rowspan="2">Obtain Item of Exotica; Believed Lost Somewhere in Vaarn</td></tr>
-<tr><td>8</td><td>History of Vaarn</td><td>All Members Are ‘Married’</td></tr>
-<tr><td>9</td><td>Quantum Physics</td><td>Fast Between Dawn and Dusk</td><td rowspan="2">Obtain Item of Exotica; Currently Possessed By a Noble House</td></tr>
+<thead><th>d20</th><th>배우는 것</th><th>길드의 관례</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>생물학</td><td>흰 옷만 입음</td><td rowspan="2">노몬의 통치권을 뒤엎기</td></tr>
+<tr><td>2</td><td>지리학</td><td>진홍색 옷만 입음</td></tr>
+<tr><td>3</td><td>시</td><td>오직 남성만 가입할 수 있음</td><td rowspan="2">경쟁 길드가 신뢰를 잃는 것</td></tr>
+<tr><td>4</td><td>초기하학</td><td>오직 여성만 가입할 수 있음</td></tr>
+<tr><td>5</td><td>텔레파시</td><td>오직 신스만 가입할 수 있음</td><td rowspan="2">경쟁 길드가 보유한 엑조티카를 획득하는 것</td></tr>
+<tr><td>6</td><td>Cloning</td><td>오직 버섯체만 가입할 수 있음</td></tr>
+<tr><td>7</td><td>유전자조작</td><td>가입하려면 신체 부위를 제거해야 함</td><td rowspan="2">바안 어딘가에서 잊힌 것으로 보이는 엑조티카를 획득하기</td></tr>
+<tr><td>8</td><td>바안의 역사</td><td>모든 구성원은 결혼한 상태여야만 함</td></tr>
+<tr><td>9</td><td>양자물리학</td><td>새벽과 황혼 사이에는 금식해야 함</td><td rowspan="2">귀족 가문이 소유한 엑조티카 획득하기</td></tr>
 <tr><td>10</td><td>Fungus</td><td>Take Vow of Silence</td></tr>
-<tr><td>11</td><td>Xenolinguistics</td><td>Renounce All Worldly Goods</td><td rowspan="2">Send a Message to a Guildmember Elsewhere in Vaarn</td></tr>
-<tr><td>12</td><td>Rhetoric</td><td>Revere an Unintelligible Text</td></tr>
-<tr><td>13</td><td>Astronomy</td><td>Members Wear Masks</td><td rowspan="2">Obtain Live Specimen of a Rare Monster</td></tr>
-<tr><td>14</td><td>Divination</td><td>Members Renounce Their Birth Name</td></tr>
-<tr><td>15</td><td>Mathematics</td><td>Members Ritu동맹 Scarred</td><td rowspan="2">Find a Way of Paying Off the Guild’s Ruinous Debts</td></tr>
-<tr><td>16</td><td>Alchemy</td><td>Members Ritu동맹 Tattooed</td></tr>
-<tr><td>17</td><td>Synthetic Psychology</td><td>Members Never Speak to Outsiders</td><td rowspan="2">Finance an Expedition to Some Remote and Dangerous Location in Vaarn</td></tr>
-<tr><td>18</td><td>Telekinesis</td><td>Take Vow of Chastity</td></tr>
-<tr><td>19</td><td>Music</td><td>Take Vow of Promiscuity</td><td rowspan="2">Discover Who Is Leaking Guild Secrets to Rivals</td></tr>
-<tr><td>20</td><td>Mind Control</td><td>Ritualised Feud With Rival Guild</td></tr>
+<tr><td>11</td><td>이계언아학</td><td>모든 세상물정을 버릴 것</td><td rowspan="2">바안 어딘가에 있는 다른 길드원에게 메세지를 보내기</td></tr>
+<tr><td>12</td><td>수사학</td><td>이해할 수 없는 글귀 보기</td></tr>
+<tr><td>13</td><td>천문학</td><td>모든 구성원이 가면을 씀</td><td rowspan="2">희귀한 괴물의 살아있는 표본 획득</td></tr>
+<tr><td>14</td><td>점괘</td><td>모든 구성원은 태어날 때의 이름을 포기함</td></tr>
+<tr><td>15</td><td>수학</td><td>M구성원은 의례로 흉터를 만듦</td><td rowspan="2">길드의 파멸을 초래할 빚을 갚을 방도 찾아내기</td></tr>
+<tr><td>16</td><td>연금술</td><td>모든 구성원은 의례로 문신을 함</td></tr>
+<tr><td>17</td><td>신스 심리학</td><td>구성원은 외지인에게 말 하나 섞지 않음</td><td rowspan="2">바안에 있는 외지고 위험한 장소로의 탐험에 자금을 지원하는 것</td></tr>
+<tr><td>18</td><td>염동력</td><td>순결 서약을 함</td></tr>
+<tr><td>19</td><td>음악</td><td>난혼의 서약을 함</td><td rowspan="2">길드의 비밀을 경쟁 길드에 누설하는 자를 찾아내기</td></tr>
+<tr><td>20</td><td>정신 조종</td><td>의례적으로 경쟁 길드와 반목함</td></tr>
 </table>
 
 # 범죄자 무리 (Gang of Criminals)
@@ -1207,23 +1207,23 @@ _거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Gang Leader</td><td>Envy (Property)</td><td rowspan="2">Retired Master Thief</td></tr>
+<tr><td>1</td><td rowspan="2">Gang Leader</td><td>질투 (재산)</td><td rowspan="2">Retired Master Thief</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>Love (Forbidden)</td><td rowspan="2">Art Forger</td></tr>
+<tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>사랑 (금지됨)</td><td rowspan="2">Art Forger</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
 <tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>사랑 (삼각관계)</td><td rowspan="2">Crooked Customs Agent</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
 <tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>빚 (물)</td><td rowspan="2">Owner of a Safe House</td></tr>
 <tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
-<tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>Robbery</td><td rowspan="2">Head of Rival Gang</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>강도</td><td rowspan="2">Head of Rival Gang</td></tr>
+<tr><td>10</td><td>험담</td></tr>
 <tr><td>11</td><td rowspan="2">Charming Conartist</td><td>간통</td><td rowspan="2">Killer for Hire</td></tr>
 <tr><td>12</td><td>음모</td></tr>
 <tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>폭식</td><td rowspan="2">Owner of a Passion-House</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
 <tr><td>15</td><td rowspan="2">Cunning Forger</td><td>A Risky Plan</td><td rowspan="2">Gambling House Owner</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>Addiction (Narcotics)</td><td rowspan="2">Street Musician</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>중독 (마취제)</td><td rowspan="2">Street Musician</td></tr>
 <tr><td>18</td><td>Snitching</td></tr>
 <tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>공갈</td><td rowspan="2">Owner of an Orphanage</td></tr>
 <tr><td>20</td><td>살인</td></tr>
@@ -1282,23 +1282,23 @@ _물의 귀족은 신선한 물에 대한 독점권을 가지고 있을 수 있�
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Owner</td><td>Envy (Property)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
+<tr><td>1</td><td rowspan="2">The Owner</td><td>질투 (재산)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Widely Loathed Regular</td></tr>
+<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>사랑 (금지됨)</td><td rowspan="2">Widely Loathed Regular</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
 <tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>사랑 (삼각관계)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
 <tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>빚 (물)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Bartender</td><td>Robbery</td><td rowspan="2">Local Thug</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
+<tr><td>9</td><td rowspan="2">Bartender</td><td>강도</td><td rowspan="2">Local Thug</td></tr>
+<tr><td>10</td><td>험담</td></tr>
 <tr><td>11</td><td rowspan="2">Bouncer</td><td>간통</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
 <tr><td>12</td><td>음모</td></tr>
 <tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>폭식</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
 <tr><td>15</td><td rowspan="2">Cook</td><td>거칠고 근거없는 비난</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Hired Musician</td><td>Addiction (Narcotics)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">Hired Musician</td><td>중독 (마취제)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
 <tr><td>18</td><td>Rude Drunken Behaviour</td></tr>
 <tr><td>19</td><td rowspan="2">Dancer</td><td>공갈</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
 <tr><td>20</td><td>살인</td></tr>
