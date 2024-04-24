@@ -794,7 +794,7 @@ _파티가 용병을 써먹고 싶다면, 노몬의 술집과 광장에는 하�
 | 7 | 카탠자 | 정력적인 뉴-사냥개 | 음치 |
 | 8 | 페스캔트 훈타 | 날카로운 이빨의 캐커젠 | 언제나 침 뱉음 |
 | 9 | ‘어깨’ | 야망이 큰 트루킨 | 낭종투성이 |
-| 10 | Anders Blackfruit | 수다스러운 뉴-긴팔원숭이 | 숨겨진 감염 |
+| 10 | 앤더스 블랙후르츠 | 수다스러운 뉴-긴팔원숭이 | 숨겨진 감염 |
 | 11 | ‘영리한’ 클로르 | 둥근 초록색 신스 | 짜증나는 현학자 |
 | 12 | 매리엘 | 땅딸막한 자주색 신스 | 호색 마니아 |
 | 13 | 프리드 | 적발 트루킨 | 집정관의 첩자 |
@@ -829,27 +829,27 @@ _유기체_
 _노몬의 귀족 가문들은 그들의 기원을 신왕의 통치 시대 이래로 이러집니다. 이들은 수천 년 동안 유지되어온 토지를 소유하고 있습니다. 이 가문들은 타락하고, 무기력하며, 내성적이고, 욕심 많으며, 외부인을 의심스럽게 보며, 생계를 위해 일하는 사람들을 멸시하고 상인 계급의 성장하는 힘에 대해 질투합니다. 많은 귀족들이 꼭대기를 덮는 부식된 저택 복합체 밖으로 발을 내딛은 적이 없습니다. 그들의 집 안에서는 서로 간에 싸우거나 배반하거나 하찮은 집착을 추구합니다._.
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Patriarch</td><td>Envy (Property)</td><td rowspan="2">Patriarch of a Rival House</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Matriarch</td><td>Love (Forbidden)</td><td rowspan="2">Matriarch of a Rival House</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Eldest Child, Heir Apparent</td><td>Love (Triangle)</td><td rowspan="2">Heir of a Rival House</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Second Child, Rival of the Heir</td><td>Debt (Water)</td><td rowspan="2">Artist, Hired to Paint the Family’s Portrait</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
-<tr><td>9</td><td rowspan="2">Estranged Child, Disinherited</td><td>Theft</td><td rowspan="2">Clone of the Patriarch</td></tr>
-<tr><td>10</td><td>Idle Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Reckless Child, Injured in a Duel</td><td>Adultery</td><td rowspan="2">Disgraced Uncle</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Softhearted, Naive Child</td><td>Gluttony</td><td rowspan="2">Head of the Servants</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Cruel and Capricious Child</td><td>Wild, Baseless Accusations</td><td rowspan="2">The Cook</td></tr>
-<tr><td>16</td><td>Obscure Matters of Etiquette</td></tr>
-<tr><td>17</td><td rowspan="2">Dull Child, Promised to the Clergy</td><td>An Impostor</td><td rowspan="2">Captain of the Guards</td></tr>
-<tr><td>18</td><td>Dispute Over Inheritance</td></tr>
-<tr><td>19</td><td rowspan="2">Youngest Child, Coddled Favourite</td><td>Blackmail</td><td rowspan="2">Master of Hounds</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">가부장</td><td>Envy (Property)</td><td rowspan="2">경쟁 가문의 가부장</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
+<tr><td>3</td><td rowspan="2">여가장</td><td>Love (Forbidden)</td><td rowspan="2">경쟁 가문의 여가장</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">장자, 상속자인 것이 분명함</td><td>사랑 (삼각관계)</td><td rowspan="2">경쟁 가문의 상속자</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">둘째, 상속자의 경쟁자</td><td>빚 (물)</td><td rowspan="2">가족의 초상화를 그리기 위해 고용된 예술가</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
+<tr><td>9</td><td rowspan="2">소원해진 아이, 상속받지 못함</td><td>도둑질</td><td rowspan="2">가부장의 복제인간</td></tr>
+<tr><td>10</td><td>나태한 험담</td></tr>
+<tr><td>11</td><td rowspan="2">결투에서 부상당한 무모한 아이</td><td>간통</td><td rowspan="2">망신당한 삼촌</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">마음이 여리고 순진한 아이</td><td>폭식</td><td rowspan="2">하인의 우두머리</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">잔인하고 변덕스러운 아이</td><td>거칠고 근거없는 비난</td><td rowspan="2">요리사</td></tr>
+<tr><td>16</td><td>에티켓에 대한 무모한 사항</td></tr>
+<tr><td>17</td><td rowspan="2">D성직다들에게 헌신된 재능없는 아이</td><td>사칭꾼</td><td rowspan="2">경비대장</td></tr>
+<tr><td>18</td><td>상속에 대한 분쟁</td></tr>
+<tr><td>19</td><td rowspan="2">버릿없이 자란 가장 어린 아이</td><td>공갈</td><td rowspan="2">사냥개들의 주인</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
@@ -905,27 +905,27 @@ _노몬의 귀족 가문들은 그들의 기원을 신왕의 통치 시대 이�
 _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가 그것을 부러워하는 사람들에게 큰 열정을 불러일으킵니다. 성공한 상인들은 서로 연합하여 각 연합원을 보호하고 손실이나 분쟁의 경우 보험 정책을 제공하는 전문적인 의형제같은 단체를 구성하는 것이 신중하고 이익이 된다고 판단했습니다. 외부인들은 불법적인 거래, 가격 고정, 세금 횡령 및 폭력적 강요에 대해 불평할 수 있지만, 이러한 카르텔은 시장의 많은 부분을 확실히 장악하고 있으며, 실패한 사람들의 악담만으로는 그들의 지배를 흔들어 버릴 수 없습니다._.
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Head of the Cartel</td><td>Envy (Property)</td><td rowspan="2">Head of a Rival Cartel</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">The Head’s Trusted Advisor</td><td>Love (Forbidden)</td><td rowspan="2">Scion of a Rival Cartel</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Sour, Cautious Merchant</td><td>Love (Triangle)</td><td rowspan="2">The Cartel’s Major Debt-holder</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Reckless, Dashing Merchant</td><td>Debt (Water)</td><td rowspan="2">The Cartel’s Major Creditor</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">Sour, Cautious Merchant</td><td>사랑 (삼각관계)</td><td rowspan="2">The Cartel’s Major Debt-holder</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Reckless, Dashing Merchant</td><td>빚 (물)</td><td rowspan="2">The Cartel’s Major Creditor</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
 <tr><td>9</td><td rowspan="2">Foolish Merchant</td><td>Robbery</td><td rowspan="2">Delinquent Debtor</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Treasurer</td><td>Adultery</td><td rowspan="2">Crooked Customs Agent</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Respected Merchant</td><td>Gluttony</td><td rowspan="2">Hegemony Tax Collector</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Young, Hungry Merchant</td><td>Wild, Baseless Accusations</td><td rowspan="2">Major Supplier</td></tr>
+<tr><td>11</td><td rowspan="2">The Treasurer</td><td>간통</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Elderly, Respected Merchant</td><td>폭식</td><td rowspan="2">Hegemony Tax Collector</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">Young, Hungry Merchant</td><td>거칠고 근거없는 비난</td><td rowspan="2">Major Supplier</td></tr>
 <tr><td>16</td><td>Anonymous Letters</td></tr>
 <tr><td>17</td><td rowspan="2">Clever, Sly Clerk</td><td>Poisoning</td><td rowspan="2">Major Buyer</td></tr>
 <tr><td>18</td><td>Embezzlement</td></tr>
-<tr><td>19</td><td rowspan="2">Greedy, Corrupt Clerk</td><td>Blackmail</td><td rowspan="2">Difficult but Necessary Customer</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Greedy, Corrupt Clerk</td><td>공갈</td><td rowspan="2">Difficult but Necessary Customer</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
@@ -960,7 +960,7 @@ _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가
 <tr><td>4</td><td>Honey</td></tr>
 <tr><td>5</td><td>Olives</td><td rowspan="2">Smuggling</td><td rowspan="2">Outstanding Debts Collected From a Philosopher’s Guild</td></tr>
 <tr><td>6</td><td>Cheese</td></tr>
-<tr><td>7</td><td>Bread</td><td rowspan="2">Water Theft</td><td rowspan="2">A Business Rival to Disappear</td></tr>
+<tr><td>7</td><td>Bread</td><td rowspan="2">Water 도둑질</td><td rowspan="2">A Business Rival to Disappear</td></tr>
 <tr><td>8</td><td>Paper</td></tr>
 <tr><td>9</td><td>Salt</td><td rowspan="2">Insurance Fraud</td><td rowspan="2">A Hegemony Tax Collector to Disappear</td></tr>
 <tr><td>10</td><td>Camels</td></tr>
@@ -972,7 +972,7 @@ _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가
 <tr><td>16</td><td>Beer</td></tr>
 <tr><td>17</td><td>Spices</td><td rowspan="2">Tax Evasion</td><td rowspan="2">A Rival Cartel’s Treasurer Kidnapped</td></tr>
 <tr><td>18</td><td>Tea</td></tr>
-<tr><td>19</td><td>Coffee</td><td rowspan="2">Murder</td><td rowspan="2">To Have a Rival Cartel’s Trade Caravan Robbed</td></tr>
+<tr><td>19</td><td>Coffee</td><td rowspan="2">살인</td><td rowspan="2">To Have a Rival Cartel’s Trade Caravan Robbed</td></tr>
 <tr><td>20</td><td>Tobacco</td></tr>
 </table>
 
@@ -981,27 +981,27 @@ _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가
 _약속된 태양의 교회는 노몬에서 따르는 유일한 신앙이 아닙니다. 상인들은 그들의 장화에 들어있는 모래와 안장 가방에 들어있는 화물 이상의 것을 그늘진 시장의 도시로 가져왔습니다; 그들의 신조도 함께 가져왔고, 도시 전체의 성소에서 숭배되는 수많은 신들, 반신들, 양자 악마들, 진균 현자들, 그리고 공허 성자들이 있습니다. 이런 성소 중 일부는 수백 명의 사제와 수행생으로 유지되지만 대부분은 작은 규모로, 몇 명의 사제와 숭배자만 자랑합니다. 그럼에도 불구하고 모두가 거룩합니다._.
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Shrine Keeper</td><td>Envy (Property)</td><td rowspan="2">Widower, Who Often Visits to Worship</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">The Shrine Keeper’s Adopted Child</td><td>Love (Forbidden)</td><td rowspan="2">Dull, Devout Worshipper</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">The Shrine Keeper’s Wayward Child</td><td>Love (Triangle)</td><td rowspan="2">Ex-Priest, Whose Faith Deserted Them</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Young Oracle, Who Has Visions</td><td>Debt (Water)</td><td rowspan="2">Scion of a Noble House</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">The Shrine Keeper’s Wayward Child</td><td>사랑 (삼각관계)</td><td rowspan="2">Ex-Priest, Whose Faith Deserted Them</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Young Oracle, Who Has Visions</td><td>빚 (물)</td><td rowspan="2">Scion of a Noble House</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
 <tr><td>9</td><td rowspan="2">Drunken, Lazy Priest</td><td>Robbery</td><td rowspan="2">Mystic, Who Performs Intense Physical Feats to Prove Devotion</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Master of Sacrifices</td><td>Adultery</td><td rowspan="2">One Time Worshipper, Who Now Professes Another Faith</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Blind Mystic</td><td>Gluttony</td><td rowspan="2">An Exorcist</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Devout and Fanatical Priest</td><td>Wild, Baseless Accusations</td><td rowspan="2">Candlemaker, Who Supplies the Sacred Candles</td></tr>
+<tr><td>11</td><td rowspan="2">The Master of Sacrifices</td><td>간통</td><td rowspan="2">One Time Worshipper, Who Now Professes Another Faith</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Elderly, Blind Mystic</td><td>폭식</td><td rowspan="2">An Exorcist</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">Devout and Fanatical Priest</td><td>거칠고 근거없는 비난</td><td rowspan="2">Candlemaker, Who Supplies the Sacred Candles</td></tr>
 <tr><td>16</td><td>Anonymous Letters</td></tr>
 <tr><td>17</td><td rowspan="2">The Keeper of a Sacred Animal</td><td>Demonic Possession</td><td rowspan="2">Ancient Oracle, Who No Longer Sees the Path</td></tr>
 <tr><td>18</td><td>Heresey</td></tr>
-<tr><td>19</td><td rowspan="2">Slave, Who Sweeps the Grounds</td><td>Blackmail</td><td rowspan="2">Beggar, Who Visits Once A Day For A Meal</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Slave, Who Sweeps the Grounds</td><td>공갈</td><td rowspan="2">Beggar, Who Visits Once A Day For A Meal</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 | **D20** | **신의 양상 (A)** | **신의 양상 (B)** | **성물** |
@@ -1055,27 +1055,27 @@ _약속된 태양의 교회는 노몬에서 따르는 유일한 신앙이 아닙
 _신선하게 갈아놓은 모래 위에 흩날리는 낯선 이의 피를 본 후 하루 일을 마치는 것만큼 마음을 맑게 하는 것은 없습니다. 그리고 밤에 도시는 관중들의 포효와 쓰러진 사람들의 울부짖음으로 활기를 띱니다._.
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Owner of the Pit</td><td>Envy (Property)</td><td rowspan="2">Narcotics Seller, Who Supplies the Gladiators</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Ticket Tout, Who Works the Street Outside</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Son or Daughter</td><td>Love (Triangle)</td><td rowspan="2">Servant, Who Rakes the Sand Between Fights</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Champion Gladiator</td><td>Debt (Water)</td><td rowspan="2">Masseuse, Who Treats the Fighters</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">Owner's Son or Daughter</td><td>사랑 (삼각관계)</td><td rowspan="2">Servant, Who Rakes the Sand Between Fights</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Champion Gladiator</td><td>빚 (물)</td><td rowspan="2">Masseuse, Who Treats the Fighters</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
 <tr><td>9</td><td rowspan="2">Retired Champion, Now a Trainer</td><td>Robbery</td><td rowspan="2">Wealthy Patron, Who Pays To Spend the Night With Champions</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Rival to the Champion</td><td>Adultery</td><td rowspan="2">Obsessive Fan of One Fighter</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Green Gladiator, As Yet Unblooded</td><td>Gluttony</td><td rowspan="2">Bloodthirsty Spectator</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>Wild, Baseless Accusations</td><td rowspan="2">Gambler, Who Bets on the Fights</td></tr>
+<tr><td>11</td><td rowspan="2">Rival to the Champion</td><td>간통</td><td rowspan="2">Obsessive Fan of One Fighter</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Green Gladiator, As Yet Unblooded</td><td>폭식</td><td rowspan="2">Bloodthirsty Spectator</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">Ageing Gladiator, Past Their Prime</td><td>거칠고 근거없는 비난</td><td rowspan="2">Gambler, Who Bets on the Fights</td></tr>
 <tr><td>16</td><td>Addiction (Drink)</td></tr>
 <tr><td>17</td><td rowspan="2">Unpopular Gladiator, Known For Extreme Sadism</td><td>Addiction (Narcotics)</td><td rowspan="2">Healer, Who Treats Wounded Fighters</td></tr>
 <tr><td>18</td><td>Match Fixing</td></tr>
-<tr><td>19</td><td rowspan="2">Retired Gladiator, Kept Employed Out Of Sentiment</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Pit</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Retired Gladiator, Kept Employed Out Of Sentiment</td><td>공갈</td><td rowspan="2">Owner of a Rival Pit</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 | **D20** | **검투사 이름 (A)** | **검투사 이름 (B)** | **외관** |
@@ -1131,27 +1131,27 @@ _대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거�
 
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Haughty, Proud Philosopher</td><td>Envy (Property)</td><td rowspan="2">Former Student, Who Has Renounced the Guild</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">Kind and Naive Philosopher</td><td>Love (Forbidden)</td><td rowspan="2">Ageing Philosopher, Respected But Now Bereft of Their Wits</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Accomplished, Respected Philosopher</td><td>Love (Triangle)</td><td rowspan="2">The Head of a Rival Guild</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Loathed, Rude Philosopher</td><td>Debt (Water)</td><td rowspan="2">The Wealthy Parent of a Student</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">Accomplished, Respected Philosopher</td><td>사랑 (삼각관계)</td><td rowspan="2">The Head of a Rival Guild</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Loathed, Rude Philosopher</td><td>빚 (물)</td><td rowspan="2">The Wealthy Parent of a Student</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
 <tr><td>9</td><td rowspan="2">Philosopher, Driven Mad By Their Research</td><td>Robbery</td><td rowspan="2">Spouse of A Philosopher</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Talented, Arrogant Student</td><td>Adultery</td><td rowspan="2">Former Student, Who Broke the Guild’s Code</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Stupid, Wealthy Student</td><td>Gluttony</td><td rowspan="2">Former Student, Who Founded Rival Guild</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Dull, but Cheerful Student</td><td>Theft of Rare Manuscripts</td><td rowspan="2">Rough Adventurer, Who Provides the Guild With Scavenged Technology</td></tr>
+<tr><td>11</td><td rowspan="2">Talented, Arrogant Student</td><td>간통</td><td rowspan="2">Former Student, Who Broke the Guild’s Code</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Stupid, Wealthy Student</td><td>폭식</td><td rowspan="2">Former Student, Who Founded Rival Guild</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">Dull, but Cheerful Student</td><td>도둑질 of Rare Manuscripts</td><td rowspan="2">Rough Adventurer, Who Provides the Guild With Scavenged Technology</td></tr>
 <tr><td>16</td><td>Addiction (Drink)</td></tr>
 <tr><td>17</td><td rowspan="2">Visiting Translator or Other Expert</td><td>Addiction (Narcotics)</td><td rowspan="2">Rich, Idle Noble, Who Fancies Themselves A Thinker</td></tr>
 <tr><td>18</td><td>Violation of the Guild’s Code</td></tr>
-<tr><td>19</td><td rowspan="2">Synth, Who Assists With Experiments</td><td>Blackmail</td><td rowspan="2">Psychic, Who Channels Unearthly Powers for the Philosophers</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Synth, Who Assists With Experiments</td><td>공갈</td><td rowspan="2">Psychic, Who Channels Unearthly Powers for the Philosophers</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 | **D20** | **길드 이름 (A)** | **길드 이름 (B)** | **길드 이름 (C)** |
@@ -1206,27 +1206,27 @@ _대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거�
 _거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래서 그늘진 시장의 도시에는 도둑의 망토를 선택하는 사람이 많은 것은 놀라운 일이 아닙니다._
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">Gang Leader</td><td>Envy (Property)</td><td rowspan="2">Retired Master Thief</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">Brutal Enforcer</td><td>Love (Forbidden)</td><td rowspan="2">Art Forger</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>Love (Triangle)</td><td rowspan="2">Crooked Customs Agent</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>Debt (Water)</td><td rowspan="2">Owner of a Safe House</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">Young, Naïve Orphan</td><td>사랑 (삼각관계)</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Quick-fingered Pickpocket</td><td>빚 (물)</td><td rowspan="2">Owner of a Safe House</td></tr>
 <tr><td>8</td><td>Debt (To Prieval Prise)</td></tr>
 <tr><td>9</td><td rowspan="2">Fence of Stolen Goods</td><td>Robbery</td><td rowspan="2">Head of Rival Gang</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>Adultery</td><td rowspan="2">Killer for Hire</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>Gluttony</td><td rowspan="2">Owner of a Passion-House</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
+<tr><td>11</td><td rowspan="2">Charming Conartist</td><td>간통</td><td rowspan="2">Killer for Hire</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Aged, Cynical Burglar</td><td>폭식</td><td rowspan="2">Owner of a Passion-House</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
 <tr><td>15</td><td rowspan="2">Cunning Forger</td><td>A Risky Plan</td><td rowspan="2">Gambling House Owner</td></tr>
 <tr><td>16</td><td>Addiction (Drink)</td></tr>
 <tr><td>17</td><td rowspan="2">Petty Smuggler</td><td>Addiction (Narcotics)</td><td rowspan="2">Street Musician</td></tr>
 <tr><td>18</td><td>Snitching</td></tr>
-<tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>Blackmail</td><td rowspan="2">Owner of an Orphanage</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Sharp-eyed Lookout</td><td>공갈</td><td rowspan="2">Owner of an Orphanage</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
@@ -1281,27 +1281,27 @@ _거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래�
 _물의 귀족은 신선한 물에 대한 독점권을 가지고 있을 수 있지만, 술에 대한 독점권까지는 없습니다. 노몬은 바안의 네 구석과 그 이상에서 가져온 알코올과 마약으로 범람하고 있습니다. 술집에서는 모든 계층의 노몬 사람들이 모여 하루 동안의 고민을 잊고, 오래된 친구와 새로운 친구를 만나며, 무장한 술에 취한 낯선 사람들과 사소한 갈등에 휘말립니다._
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
 <tr><td>1</td><td rowspan="2">The Owner</td><td>Envy (Property)</td><td rowspan="2">Well-Liked but Foolish Regular</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
 <tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Widely Loathed Regular</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>Love (Triangle)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
-<tr><td>6</td><td>Debt (Gambling)</td></tr>
-<tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>Debt (Water)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
-<tr><td>8</td><td>Debt (Hegemony Taxes)</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">Owner's Reckless Child</td><td>사랑 (삼각관계)</td><td rowspan="2">Regular, Who Spends Too Much</td></tr>
+<tr><td>6</td><td>빚 (도박)</td></tr>
+<tr><td>7</td><td rowspan="2">Owner’s Favoured Child</td><td>빚 (물)</td><td rowspan="2">Brewer, Who Supplies the Tavern</td></tr>
+<tr><td>8</td><td>빚 (신정부 세금)</td></tr>
 <tr><td>9</td><td rowspan="2">Bartender</td><td>Robbery</td><td rowspan="2">Local Thug</td></tr>
 <tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Bouncer</td><td>Adultery</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>Gluttony</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Cook</td><td>Wild, Baseless Accusations</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
+<tr><td>11</td><td rowspan="2">Bouncer</td><td>간통</td><td rowspan="2">Wealthy but Miserly Regular</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">Pot Scrubber</td><td>폭식</td><td rowspan="2">Courtesan, Who Does Business In the Tavern</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">Cook</td><td>거칠고 근거없는 비난</td><td rowspan="2">Beggar, Who Sits Outside</td></tr>
 <tr><td>16</td><td>Addiction (Drink)</td></tr>
 <tr><td>17</td><td rowspan="2">Hired Musician</td><td>Addiction (Narcotics)</td><td rowspan="2">Priest, Who Likes to Drink</td></tr>
 <tr><td>18</td><td>Rude Drunken Behaviour</td></tr>
-<tr><td>19</td><td rowspan="2">Dancer</td><td>Blackmail</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>19</td><td rowspan="2">Dancer</td><td>공갈</td><td rowspan="2">Owner of a Rival Tavern</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
