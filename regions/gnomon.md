@@ -82,34 +82,6 @@
 | 16-19 | 거래가 성사되기를 원함 |
 | 20+ | 좋다 못해 뭔가를 추가로 더 줄 정도 |
 
-<table>
-<thead><td colspan="2">Typical Price In Water Debt Tokens</td></thead>
-<tr><td>A Day’s Water</td><td>1 Token</td></tr>
-<tr><td>Sturdy Boots</td><td>1 Token</td></tr>
-<tr><td>Flash-bangs (5)</td><td>1 Token</td></tr>
-<tr><td>Mortar & Pestle</td><td>1 Token</td></tr>
-<tr><td>Hourglass</td><td>1 Token</td></tr>
-<tr><td>Tube of Omni-Glue</td><td>1 Token</td></tr>
-<tr><td>Flare (5)</td><td>1 Token</td></tr>
-<tr><td>Light Weapon (d6)</td><td>2 Tokens</td></tr>
-<tr><td>Motion Sensor</td><td>2 Tokens</td></tr>
-<tr><td>Autoglot Translator</td><td>2 Tokens</td></tr>
-<tr><td>Magnetic Boots</td><td>2 Tokens</td></tr>
-<tr><td>Hologram Projector</td><td>2 Tokens</td></tr>
-<tr><td>Medium Weapon (d8)</td><td>3 Tokens</td></tr>
-<tr><td>Light 장갑 (12/+2)</td><td>3 Tokens</td></tr>
-<tr><td>Rare Book</td><td>4 Tokens</td></tr>
-<tr><td>Luxury Clothes</td><td>4 Tokens</td></tr>
-<tr><td>Replacement Limb</td><td>5 Tokens</td></tr>
-<tr><td>Heavy Weapon (d10)</td><td>5 Tokens</td></tr>
-<tr><td>Heavy 장갑 (16/+6)</td><td>6 Tokens</td></tr>
-<tr><td>Hypergeometric Object</td><td>15 Tokens</td></tr>
-<tr><td>Pack Camel</td><td>20 Tokens</td></tr>
-<tr><td>Auto-Chariot</td><td>50 Tokens</td></tr>
-<tr><td>Small Wind-Barge</td><td>150 Tokens</td></tr>
-<tr><td>Modest Townhouse</td><td>200 Tokens</td></tr>
-</table>
-
 <table><thead><tr><th colspan="2">물 부채 토큰 가격</strong></th></tr></thead>
 <tbody>
 <tr><td>하루치 식수</td><td>1 토큰</td></tr>
@@ -686,181 +658,175 @@ _무덤지대에서 흔히 볼 수 있는 것들_:
 
 - **물의 남작의 아쿼퍼** - 앙카뮐라의 신비한 수도 펌프 기계는 꼭대기의 기반에서 찾아볼 수 있으며, 높은 벽과 경계하는 경비원들로 보호되어 있습니다. 아쿼퍼 복합체는 특유의 주름진 노란색과 초록색 탑으로 쉽게 구별할 수 있습니다.
 
-# Street Hassle
+# 거리의 혼란 (Street Hassle)
 
-<table>
-<thead><td>1d20</td><td>Group</td><td>Location</td><td>Source of Conflict</td></thead>
-<tr><td>1</td><td>Pickpockets</td><td>Sunbaked Street</td><td>Duel Within Group</td></tr>
-<tr><td>2</td><td>Street Sweepers</td><td>Shaded Street</td><td>Duel With Other Group</td></tr>
-<tr><td>3</td><td>Beggars</td><td>Dingy Alleyway</td><td>Brawl Within Group</td></tr>
-<tr><td>4</td><td>Water Baron’s Militia</td><td>Shabby Courtyard</td><td>Brawl With Other Group</td></tr>
-<tr><td>5</td><td>Hegemony Patrol</td><td>Opulent Courtyard</td><td>Lust</td></tr>
-<tr><td>6</td><td>Hegemony Tax Collectors</td><td>Gambling House</td><td>Betrayal</td></tr>
-<tr><td>7</td><td>Street Magician and Crowd</td><td>Tavern</td><td>Gambling Debts</td></tr>
-<tr><td>8</td><td>Buskers</td><td>Outdoor Market</td><td>Drunkenness</td></tr>
-<tr><td>9</td><td>Curbside Gamblers</td><td>Public Fountain</td><td>Drug Psychosis</td></tr>
-<tr><td>10</td><td>Faa Nomads</td><td>Seedy Passion House</td><td>Theft</td></tr>
-<tr><td>11</td><td>Priest of the Promised Sun</td><td>Upmarket Passion House</td><td>Parasitic Crystals</td></tr>
-<tr><td>12</td><td>Junk Peddler</td><td>Crowded Street</td><td>Dangerous Pet</td></tr>
-<tr><td>13</td><td>Rowdy Apprentices</td><td>Deserted Street</td><td>Misfired Weapon</td></tr>
-<tr><td>14</td><td>Off-Duty Actors</td><td>Derelict House</td><td>Rogue Goats</td></tr>
-<tr><td>15</td><td>Off-Duty Gladiators</td><td>Near Fighting Pits</td><td>Religious Dispute</td></tr>
-<tr><td>16</td><td>Off-Duty Soldiers</td><td>Near Chariot Tracks</td><td>Street Gambling</td></tr>
-<tr><td>17</td><td>Courtesans</td><td>Artisan Street</td><td>Urban Baboons</td></tr>
-<tr><td>18</td><td>Bounty Hunters</td><td>Wealthy Street</td><td>Bigotry</td></tr>
-<tr><td>19</td><td>Water Debt Collectors</td><td>Small Shrine</td><td>Stampeding Packbeast</td></tr>
-<tr><td>20</td><td>Titan Cultists</td><td>Large Shrine</td><td>Upturned Wagon</td></tr>
-</table>
+| **1d20** | **무리** | **장소** | **분쟁의 시작점** |
+| --- | --- | --- | --- |
+| 1 | 소매치기범들 | 태양빛이 내리쬐는 거리 | 무리 안에서 결투함 |
+| 2 | 도로 청소부 | 그늘진 거리 | 다른 무리와 결투함 |
+| 3 | 거지들 | 어두컴컴한 골목길 | 무리 안에서 싸움 |
+| 4 | 물의 남작의 민병대 | 누추한 골목길 | 다른 무리와 싸움 |
+| 5 | 신정부 순찰대 | 부유한 골목길 | 갈망 |
+| 6 | 신정부 세금 징수원 | 도박공간 | 배신 |
+| 7 | 거리 음악가와 군중 | 주점 | 도박 빚 |
+| 8 | 길거리 음악가들 | 노점 | 만취함 |
+| 9 | 보도의 도박꾼들 | 공공 분수대 | 약물 정신이상 |
+| 10 | 파아 유목민들 | 싸구려 맞춤 제작 주택 | 도둑질 |
+| 11 | 약속된 태양의 사제들 | 고급 맞춤 제작 주택 | 기생 수정 |
+| 12 | 고물 보따리상 | 군중으로 가득한 거리 | 위험한 애완동물 |
+| 13 | 난폭한 수습생들 | 버려진 거리 | 무기를 잘못 쏨 |
+| 14 | 비번 배우들 | 폐가 | 도적 염소들 |
+| 15 | 비번 검투사들 | 싸움 투기장 근처 | 종교 분쟁 |
+| 16 | 비번 병사들 | 채리엇 경기장 근처 | 길거리 도박 |
+| 17 | 성노동자들 | 장인 거리 | 도심 개코원숭이 |
+| 18 | 현상금 사냥꾼들 | 부유한 거리 | 고집불통 |
+| 19 | 물 부채 징수원들 | 작은 성소 | 짐승 짐꾼이 달아남 |
+| 20 | 타이탄 숭배자인들 | 큰 성소 | 전복된 마차 |
 
-# Buildings
+# 건물 (Buildings)
 
-<table>
-<thead><td>1d20</td><td>Origin동맹</td><td>And Then</td><td>Now</td></thead>
-<tr><td>1</td><td>Cybernetics Surgery</td><td>Destroyed by Fire</td><td>Abandoned Shell</td></tr>
-<tr><td>2</td><td>House of Healing</td><td>Scribe’s House</td><td>Hegemony Barracks</td></tr>
-<tr><td>3</td><td>Jeweller’s Shop</td><td>Orphanage</td><td>Gambling Den</td></tr>
-<tr><td>4</td><td>Courthouse</td><td>Beggar’s Flophouse</td><td>Passion-House</td></tr>
-<tr><td>5</td><td>Slaughterhouse</td><td>Expensive Townhouse</td><td>Tea Rooms</td></tr>
-<tr><td>6</td><td>Spicer's Storehouse</td><td>Rowdy Tavern</td><td>Martial-Arts School</td></tr>
-<tr><td>7</td><td>Occultist's Abode</td><td>Slave Barracks</td><td>Philosopher’s Guildhall</td></tr>
-<tr><td>8</td><td>Church of the Promised Sun</td><td>Farrier’s Workshop</td><td>Quiet Tavern</td></tr>
-<tr><td>9</td><td>Cobbler's Workshop</td><td>Hydroponic Garden</td><td>Gladiator’s Barracks</td></tr>
-<tr><td>10</td><td>Bath House</td><td>Nunnery</td><td>Cheap Boardinghouse</td></tr>
-<tr><td>11</td><td>Leatherworker's Abode</td><td>Distillery</td><td>Expensive Boardinghouse</td></tr>
-<tr><td>12</td><td>Schoolhouse</td><td>Alchemist’s Abode</td><td>Prison</td></tr>
-<tr><td>13</td><td>Prison</td><td>Weapon Dealer’s Abode</td><td>Music Hall</td></tr>
-<tr><td>14</td><td>Architects’ Guildhall</td><td>Shrine to the Titans</td><td>Puppet Theatre</td></tr>
-<tr><td>15</td><td>Sawmill</td><td>Dry-Goods Store</td><td>Fighting Pit</td></tr>
-<tr><td>16</td><td>Maskmaker's Workshop</td><td>Grocer’s Shop</td><td>Bakery</td></tr>
-<tr><td>17</td><td>Matchmaker's Abode</td><td>Butcher’s Shop</td><td>Pet Shop</td></tr>
-<tr><td>18</td><td>Shrine to Amun-Oh</td><td>Owned by a Madman</td><td>Glassmaker’s Workshop</td></tr>
-<tr><td>19</td><td>Library</td><td>장갑er’s Forge</td><td>Florist’s Shop</td></tr>
-<tr><td>20</td><td>Fortification</td><td>Astrologer’s Tower</td><td>Coffee House</td></tr>
-</table>
+| **1d20** | **본래 용도** | **거쳐온 과정** | **현재** |
+| --- | --- | --- | --- |
+| 1 | 사이버네틱 수술실 | 불타 부서짐 | 버려진 골조 |
+| 2 | 치유 공간 | 서기의 집 | 신정부 막사 |
+| 3 | 귀금속 상점 | 고아원 | 도박굴 |
+| 4 | 법원청사 | 거지들의 값싼 숙박시설 | 현대 주택 |
+| 5 | 도축장 | 비싼 타운하우스 | 찻집 |
+| 6 | 향신료 상점 건물 | 떠들썩한 주점 | 무술학원 |
+| 7 | 주술사의 거주지 | 노예 막사 | 철학자 길드 홀 |
+| 8 | 약속된 태양의 교회 | 편자공의 공방 | 조용한 주점 |
+| 9 | 구두공의 공방 | 수경재배원 | 검투사 막사 |
+| 10 | 목욕탕 | 수녀원 | 저렴한 하숙집 |
+| 11 | 가죽장인의 거주지 | 양조장 | 비싼 하숙집 |
+| 12 | 학교건물 | 연금술사의 거주지 | 감옥 |
+| 13 | 감옥 | 무기상의 거주지 | 음악홀 |
+| 14 | 건축가 길드 홀 | 타이탄을 모시는 성소 | 인형극장 |
+| 15 | 제재소 | 건조품 상점 | 싸움의 투기장 |
+| 16 | 가면공의 공방 | 식료품점 | 빵집 |
+| 17 | 중매상의 거주지 | 정육점 | 애완동물 가게 |
+| 18 | 아문-오의 성소 | 미친 자의 소유 | 유리공의 공방 |
+| 19 | 도서관 | 갑옷장인의 대장간 | 화원 |
+| 20 | 방어 시설 | 점성술사의 탑 | 커피숍 |
 
-<table>
-<thead><td>1d20</td><td>Structure</td><td>Notable Ornamentation</td><td>Reputation</td></thead>
-<tr><td>1</td><td>Opulent</td><td>Heavy Brass Lantern</td><td>Cursed or Haunted</td></tr>
-<tr><td>2</td><td>Crowded</td><td>Monkeys in Cages Outside</td><td>Unfashionable</td></tr>
-<tr><td>3</td><td>Shabby</td><td>Birds in Cages Outside</td><td>Fashionable</td></tr>
-<tr><td>4</td><td>Vine-Coated</td><td>Painted Sigil of an Eye</td><td>Trustworthy</td></tr>
-<tr><td>5</td><td>Graffiti-Coated</td><td>Painted Sigil of a Sunburst</td><td>Disreputable</td></tr>
-<tr><td>6</td><td>Filthy</td><td>Painted Sigil of a Moon</td><td>Disliked</td></tr>
-<tr><td>7</td><td>Lantern-Hung</td><td>Purple Shutters</td><td>Dangerous</td></tr>
-<tr><td>8</td><td>Bat-Infested</td><td>Orange Shutters</td><td>Safe</td></tr>
-<tr><td>9</td><td>Sunbleached</td><td>Yellow Shutters</td><td>Dull</td></tr>
-<tr><td>10</td><td>Half-Collapsed</td><td>Large Golden Door-handle</td><td>Rowdy</td></tr>
-<tr><td>11</td><td>Threatening</td><td>Lemon-tree Outside</td><td>Cheap</td></tr>
-<tr><td>12</td><td>Crooked</td><td>Orange-tree Outside</td><td>Expensive</td></tr>
-<tr><td>13</td><td>Towering</td><td>Large Cactus Outside</td><td>Shunned</td></tr>
-<tr><td>14</td><td>Small</td><td>Automatic Doors</td><td>Well-Liked</td></tr>
-<tr><td>15</td><td>Cramped</td><td>Flags Hang from Each Window</td><td>Unpopular</td></tr>
-<tr><td>16</td><td>Decrepit</td><td>Sign Shaped Like Astrolabe</td><td>Stolen Goods Available</td></tr>
-<tr><td>17</td><td>Sand-scoured</td><td>Sign Shaped Like Sword</td><td>Owner a Cheat</td></tr>
-<tr><td>18</td><td>Ill-Omened</td><td>Sign Shaped Like Fish</td><td>Owner in Debt</td></tr>
-<tr><td>19</td><td>Beautiful</td><td>Sign Shaped Like Cat</td><td>Always Hear Gossip</td></tr>
-<tr><td>20</td><td>Freshly Painted</td><td>Sign Shaped Like Star</td><td>Best of the Best</td></tr>
-</table>
+| **1d20** | **구조물** | **주목할 만한 장식** | **평판** |
+| --- | --- | --- | --- |
+| 1 | 풍요로움 | 무거운 놋쇠 등불 | 저주받음 또는 귀신들림 |
+| 2 | 복잡함 | 외부의 새장 안에 원숭이가 있음 | 인기없음 |
+| 3 | 다 낡음 | 외부의 새장 안에 새가 있음 | 유행함 |
+| 4 | 덩굴로 덮임 | 눈알 하나 인장이 칠해짐 | 신뢰할 수 있음 |
+| 5 | 낙서로 덮임 | 눈부시는 햇살 인장이 칠해짐 | 평판이 안 좋음 |
+| 6 | 아주 더러움 | 달 인장이 칠해짐 | 싫어함 |
+| 7 | 등불이 달림 | 자주색 셔터 | 위험함 |
+| 8 | 박쥐 똥에 덮임 | 주황색 셔터 | 안전함 |
+| 9 | 햇빛에 탈색됨 | 노란색 셔터 | 따분함 |
+| 10 | 반쯤 무너짐 | 문에 달린 큰 황금 손잡이 | 소란스러움 |
+| 11 | 위태로움 | 외부의 레몬 나무 | 값쌈 |
+| 12 | 삐뚤어짐 | 외부의 오렌지 나무 | 비쌈 |
+| 13 | 우뚝 치솟음 | 외부의 큰 선인장 | 외면받음 |
+| 14 | 작음 | 자동문 | 인기있음 |
+| 15 | 비좁음 | 각각의 창문마다 깃발이 걸림 | 인기없음 |
+| 16 | 노후함 | 성반 모양의 간판 | 장물 입수 |
+| 17 | 모래 묻음 | 검 모양의 간판 | 소유자가 사기침 |
+| 18 | 불길한 징조 | 물고기 모양의 간판 | 소유자가 빚이 있음 |
+| 19 | 아름다움 | 고양이 같은 모양의 간판 | 늘 소문이 들림 |
+| 20 | 막 칠해짐 | 별 모양의 간판 | 최고임 |
 
-# Merchants
+# 상인 (Merchants)
 
-<table>
-<thead><td>1d20</td><td>Name</td><td>Manner</td><td>Flavour</td></thead>
-<tr><td>1</td><td>Aakarma</td><td>Unkempt</td><td>Rabid Fan of Odd Sport</td></tr>
-<tr><td>2</td><td>Umatri</td><td>Suave</td><td>Laughs at Own Jokes</td></tr>
-<tr><td>3</td><td>Summine</td><td>Tired</td><td>Goods Comic동맹 Low Quality</td></tr>
-<tr><td>4</td><td>Ratian</td><td>Disfigured</td><td>Carried Around by Their Sons</td></tr>
-<tr><td>5</td><td>Strinch</td><td>Fierce</td><td>Curses the Hegemony</td></tr>
-<tr><td>6</td><td>Meadshark</td><td>Mild</td><td>Curses the Water Baron</td></tr>
-<tr><td>7</td><td>Khatri</td><td>Sleazy</td><td>Curses Consul Lonrot</td></tr>
-<tr><td>8</td><td>Dungbird</td><td>Gaudy</td><td>Looking for Investors</td></tr>
-<tr><td>9</td><td>Attle</td><td>Sullen</td><td>Weird Feud with Other Merchant</td></tr>
-<tr><td>10</td><td>Izberel</td><td>Over-friendly</td><td>Gleeful Gossip</td></tr>
-<tr><td>11</td><td>Olovo</td><td>Suspicious</td><td>In Debt to Prieval Prise</td></tr>
-<tr><td>12</td><td>Goodson</td><td>Talkative</td><td>Obvious Scam Artist</td></tr>
-<tr><td>13</td><td>Fordonn</td><td>Mute</td><td>Religious Maniac</td></tr>
-<tr><td>14</td><td>Leves</td><td>Sickly</td><td>Extremely Bigoted</td></tr>
-<tr><td>15</td><td>Ancia</td><td>Agitated</td><td>Obsessive Haggler</td></tr>
-<tr><td>16</td><td>Griddles</td><td>Dirty</td><td>Trying to Marry off Their Aunt</td></tr>
-<tr><td>17</td><td>Luxie</td><td>Lecherous</td><td>Assisted by Sullen Child</td></tr>
-<tr><td>18</td><td>Jacquen</td><td>Drunken</td><td>Stingy and Cheap</td></tr>
-<tr><td>19</td><td>Obritt</td><td>Helpful</td><td>Knows all the Best Night-Spots</td></tr>
-<tr><td>20</td><td>Zavitsy</td><td>Kindly</td><td>Sells the Best Goods in Gnomon</td></tr>
-</table>
+| **1d20** | **이름** | **태도** | **특징** |
+| --- | --- | --- | --- |
+| 1 | 아카르마 | 단정치 않음 | 이상한 스포츠의 광팬 |
+| 2 | 우마트리 | 상냥함 | 자기 유머에 스스로 웃음 |
+| 3 | 서마린 | 지침 | 웃음이 나올 정도로 품질이 낮은 상품 |
+| 4 | 레이션 | 흉악함 | 자식들에게 업혀 다님 |
+| 5 | 스트린치 | 험악함 | 신정부를 욕함 |
+| 6 | 미드샤크 | 푸근함 | 물의 남작를 욕함 |
+| 7 | 카트리 | 추잡함 | 집정관 론로트를 욕함 |
+| 8 | 덩버드 | 천박함 | 투자자를 찾고 있음 |
+| 9 | 애틀 | 음침함 | 다른 상인과의 기묘한 불화 |
+| 10 | 이즈버럴 | 지나치게 친절함 | 유쾌한 잡담 |
+| 11 | 올로보 | 수상함 | 프리발 프라이즈에게 빚을 짐 |
+| 12 | 굿슨 | 수다스러움 | 명백한 사기꾼 |
+| 13 | 포돈 | 조용함 | 종교광 |
+| 14 | 리브스 | 병약함 | 극단적으로 고집불통임 |
+| 15 | 안시아 | 동요됨 | 강박적인 흥정꾼 |
+| 16 | 그리들 | 더러움 | 삼촌을 시집보내려 함 |
+| 17 | 럭시 | 호색한 | 무뚝뚝한 아이들의 도움을 받음 |
+| 18 | 재큰 | 술 취함 | 인색하고 저속함 |
+| 19 | 오브리트 | 기꺼이 도움 | 최고의 야간 명소를 다 알고 있음 |
+| 20 | 재비치 | 친절함 | 노몬에서 제일가는 물품을 팖 |
 
-<table>
-<thead><td>1d20</td><td>Store Appearance</td><td>Store Location</td><td>They Sell</td></thead>
-<tr><td>1</td><td>Crooked</td><td>Crossroads</td><td>장갑</td></tr>
-<tr><td>2</td><td>Lantern-Strewn</td><td>Basement</td><td>Fungus</td></tr>
-<tr><td>3</td><td>Elegant</td><td>By Public Park</td><td>Jewellery</td></tr>
-<tr><td>4</td><td>Airy</td><td>Near Water Baron’s Fountain</td><td>Olives</td></tr>
-<tr><td>5</td><td>Liter동맹 a Barrel</td><td>Under Lemon Tree</td><td>Roast Chickens</td></tr>
-<tr><td>6</td><td>Crowded</td><td>By Cactus Garden</td><td>Roast Monkeys</td></tr>
-<tr><td>7</td><td>Inviting</td><td>Pleasant Avenue</td><td>Swords</td></tr>
-<tr><td>8</td><td>Half-Burned</td><td>Near Slaughterhouse</td><td>Coffee Beans</td></tr>
-<tr><td>9</td><td>Filthy</td><td>Near Tavern</td><td>Beer</td></tr>
-<tr><td>10</td><td>Neat</td><td>Above Another Store</td><td>Silk Robes</td></tr>
-<tr><td>11</td><td>Sprawling</td><td>Near Fighting Pits</td><td>Carpets</td></tr>
-<tr><td>12</td><td>Compact</td><td>Above a Restaurant</td><td>Pottery</td></tr>
-<tr><td>13</td><td>Smoky</td><td>Inside Apartment Block</td><td>Trained Lizards</td></tr>
-<tr><td>14</td><td>Overladen</td><td>Through Secret Door</td><td>Leather</td></tr>
-<tr><td>15</td><td>Ornate</td><td>Back of a Cart</td><td>Biotech</td></tr>
-<tr><td>16</td><td>Nondescript</td><td>Base of Astronomy Tower</td><td>Books</td></tr>
-<tr><td>17</td><td>Unmissable</td><td>Beside Chariot Tracks</td><td>Memory Crystals</td></tr>
-<tr><td>18</td><td>Greasy</td><td>Inside Attic</td><td>Furniture</td></tr>
-<tr><td>19</td><td>Somber</td><td>A Roof Garden</td><td>Sandworm Skins</td></tr>
-<tr><td>20</td><td>Colourful</td><td>Under Footbridge</td><td>Poetry</td></tr>
-</table>
+| **1d20** | **상점의 외관** | **상점 위치** | **취급품** |
+| --- | --- | --- | --- |
+| 1 | 비뚤어짐 | 건널목 | 방어구 |
+| 2 | 등불로 가득함 | 지하층 | 진균 |
+| 3 | 기품 있음 | 공공 공원 옆 | 장신구 |
+| 4 | 바람이 잘 통함 | 물의 남작의 분수 근처 | 올리브 |
+| 5 | 말 그대로 통 | 레몬 나무 아래 | 닭 구이 |
+| 6 | 사람으로 붐빔 | 선인장 정원 옆 | 원숭이 구이 |
+| 7 | 매력적임 | 즐거운 대로 | 검 |
+| 8 | 반쯤 불탐 | 도축장 옆 | 커피콩 |
+| 9 | 아주 더러움 | 주점 근처 | 맥주 |
+| 10 | 정돈됨 | 다른 상점 위 | 비단옷 |
+| 11 | 불규칙하게 뻗어있음 | 싸움의 투기장 근처 | 카페트 |
+| 12 | 작은 | 레스토랑 위 | 도자기 |
+| 13 | 연기투성이 | 아파트 구역 안 | 길들인 도마뱀 |
+| 14 | 지나치게 장식됨 | 숨겨진 문을 지나서 | 가죽 |
+| 15 | 화려하게 장식됨 | 쇼핑카트 | 생체기술 |
+| 16 | 별 특징 없음 | 점성술사의 탑 안 | 도서 |
+| 17 | 놓칠 수 없을 정도 | 채리엇 경기장 곁 | 기억 수정 |
+| 18 | 기름투성이 | 다락 안쪽 | 가구 |
+| 19 | 어둠침침함 | 정원의 지붕 | 모래벌레 가죽 |
+| 20 | 화사함 | 징검다리 아래 | 시집 |
 
-# Mercenaries
+# 용병 (Mercenaries)
 
-_Should the party wish to engage the services of hired swords, Gnomon’s taverns and courtyards have no end of scoundrels and layabouts who seek a day’s dishonest work. Roll d20 to discern who is available. Sample stats are given below; feel free to modify them as needed._
+_파티가 용병을 써먹고 싶다면, 노몬의 술집과 광장에는 하루짜리 부정한 일을 찾는 악역들과 빈둥거리는 사람들이 넘쳐납니다. 고용할 수 있는 사람을 판별하기 위해 d20을 굴려 보세요. 아래에 예시 표가 주어져 있으며, 필요에 따라 이를 수정하실 수 있습니다._
 
-<table>
-<thead><td>1d20</td><td>Name</td><td>Description</td><td>Flavour</td></thead>
-<tr><td>1</td><td>Bellino Fester</td><td>Bloated True-kin</td><td>No Indoor Voice</td></tr>
-<tr><td>2</td><td>Vigenoa Callant</td><td>Scaly Cacogen</td><td>Gluttonous and Stupid</td></tr>
-<tr><td>3</td><td>Demeter Blue</td><td>Muscular New-Peacock</td><td>Hates Alermo White</td></tr>
-<tr><td>4</td><td>Alermo White</td><td>Burly New-Swan</td><td>Loves Demeter Blue</td></tr>
-<tr><td>5</td><td>Marsalessa</td><td>One-Armed Cacogen</td><td>Hard of Hearing</td></tr>
-<tr><td>6</td><td>Mooncalf</td><td>Synth, Luminous Head</td><td>Suicid동맹 Brave</td></tr>
-<tr><td>7</td><td>Catanza</td><td>Energetic New-Hound</td><td>Tuneless Singing</td></tr>
-<tr><td>8</td><td>Pescand Junta</td><td>Sharp-toothed Cacogen</td><td>Always Spitting</td></tr>
-<tr><td>9</td><td>‘Shoulder’</td><td>Towering True-kin</td><td>Lots of Boils</td></tr>
-<tr><td>10</td><td>Anders Blackfruit</td><td>Talkative New-Gibbon</td><td>Hidden Infection</td></tr>
-<tr><td>11</td><td>‘Clever’ Claure</td><td>Round Green Synth</td><td>Annoying Pedant</td></tr>
-<tr><td>12</td><td>Mariel</td><td>Squat Purple Mycomorph</td><td>Lecherous Maniac</td></tr>
-<tr><td>13</td><td>Freide</td><td>Red-haired True-kin</td><td>Spy for the Consul</td></tr>
-<tr><td>14</td><td>Pretty Sophe</td><td>Dead-eyed New-Shark</td><td>Incredibly Vain</td></tr>
-<tr><td>15</td><td>Lydier Onetooth</td><td>Ancient Cacogen</td><td>Terrible Shot</td></tr>
-<tr><td>16</td><td>Almondseed</td><td>Two-headed Cacogen</td><td>Very Gullible</td></tr>
-<tr><td>17</td><td>Arles Morrow</td><td>Bombastic Mycomorph</td><td>Opium Addict</td></tr>
-<tr><td>18</td><td>‘Lucky’ Patrine</td><td>Nervous New-Locust</td><td>Huge Gambling Debt</td></tr>
-<tr><td>19</td><td>Reina Lurk</td><td>Beautiful ‘True-kin’</td><td>Amnesiac Android</td></tr>
-<tr><td>20</td><td>Parvash Redhand</td><td>Clever, Reliable New-Fox</td><td>Secretly Worships Azathoth</td></tr>
-</table>
+| **1d20** | **이름** | **설명** | **특징** |
+| --- | --- | --- | --- |
+| 1 | 벨리노 페스터 | 뚱뚱한 트루킨 | 실내에서 말 안함 |
+| 2 | 비지노어 캘런트 | 비늘달린 캐커젠 | 욕심많고 멍청함 |
+| 3 | 디미터 블루 | 근육질 뉴-공작새 | 알레모 화이트를 싫어함 |
+| 4 | 알레모 화이트 | 건장한 뉴-백조 | 디미터 블루를 사랑함 |
+| 5 | 마르샐리사 | 외팔 캐커젠 | 난청 |
+| 6 | 문캘프 | 빛나는 머리의 신스 | 자살적인 용맹함 |
+| 7 | 카탠자 | 정력적인 뉴-사냥개 | 음치 |
+| 8 | 페스캔트 훈타 | 날카로운 이빨의 캐커젠 | 언제나 침 뱉음 |
+| 9 | ‘어깨’ | 야망이 큰 트루킨 | 낭종투성이 |
+| 10 | Anders Blackfruit | 수다스러운 뉴-긴팔원숭이 | 숨겨진 감염 |
+| 11 | ‘영리한’ 클로르 | 둥근 초록색 신스 | 짜증나는 현학자 |
+| 12 | 매리엘 | 땅딸막한 자주색 신스 | 호색 마니아 |
+| 13 | 프리드 | 적발 트루킨 | 집정관의 첩자 |
+| 14 | 프레티 소프 | 동태눈 뉴-상어 | 믿을 수 없을 정도로 자만심 강함 |
+| 15 | 리디어 원투스 | 고대의 캐커젠 | 끔찍히도 못 쏨 |
+| 16 | 아몬드시드 | 머리가 둘 달린 캐커젠 | 아주 잘 속음 |
+| 17 | 아를스 머로우 | 말만 번지르르한 버섯체 | 아편 중독자 |
+| 18 | ‘행운아’ 패트린 | 불안해하는 뉴-메두기 | 막대한 도박 빚 |
+| 19 | 레이나 러크 | 아름다운 ‘트루킨’ | 기억상실증 안드로이드 |
+| 20 | 파바시 레드핸드 | 영리하고 믿음직한 뉴-여우 | 아자소스를 몰래 믿음 |
 
-### Inferior Mercenary
+### 못난 용병 (Inferior Mercenary)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
 <tr><td><b>사기</b>: 2</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Crude Weapon (d6)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Will work for meals and water.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 날 것 그대로인 무기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 식량과 물을 얻기 위해 일합니다.</td></tr>
 </table>
 
-### Skilled Mercenary
+### 숙련된 용병 (Skilled Mercenary)
 _유기체_
 <table>
 <tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
 <tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1</td></tr>
-<tr><td colspan="2"><b>공격</b>: Well-Kept Weapon (d8)</td></tr>
-<tr><td colspan="2"><b>참고사항</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
+<tr><td colspan="2"><b>공격</b>: 잘 간직한 무기 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 하루에 두 개의 물 토큰을 보유료로 요구하며, 당사자가 찾은 어떤 귀중품이나 이국적인 것들의 일부를 요구할 것입니다.</td></tr>
 </table>
 
-# Noble House
+# 귀족 가문 (Noble House)
 
-_The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs, with land-holdings that have been maintained for millennia. These families are decadent, lethargic, insular, greedy, suspicious of outsiders, contemptuous of those who work for a living, and seethingly jealous of the growing power of the merchant class. Many nobles have never set foot outside the decaying complex of mansions that encrusts the Apex. Within the cloistered walls of their homes, they set themselves to infighting, treachery, and the pursuit of frivolous obsessions_.
+_노몬의 귀족 가문들은 그들의 기원을 신왕의 통치 시대 이래로 이러집니다. 이들은 수천 년 동안 유지되어온 토지를 소유하고 있습니다. 이 가문들은 타락하고, 무기력하며, 내성적이고, 욕심 많으며, 외부인을 의심스럽게 보며, 생계를 위해 일하는 사람들을 멸시하고 상인 계급의 성장하는 힘에 대해 질투합니다. 많은 귀족들이 꼭대기를 덮는 부식된 저택 복합체 밖으로 발을 내딛은 적이 없습니다. 그들의 집 안에서는 서로 간에 싸우거나 배반하거나 하찮은 집착을 추구합니다._.
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -934,9 +900,9 @@ _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs,
 <tr><td>20</td><td>Secretive</td><td>Music</td></tr>
 </table>
 
-# Trade Cartel
+# 상인 카르텔
 
-_There is lucrative business to be done in Gnomon, and great wealth arouses great passions in those who envy it. Successful merchants have deemed it prudent and profitable to band together into professional fraternities that safeguard each member and provide an insurance policy in case of losses or disputes. Outsiders may complain about shady dealings, price fixing, tax fraud, and violent extortion, but these cartels have a firm hold over much of the market, and it would take more than the sour gossip of the unsuccessful to dislodge their grasp_.
+_노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가 그것을 부러워하는 사람들에게 큰 열정을 불러일으킵니다. 성공한 상인들은 서로 연합하여 각 연합원을 보호하고 손실이나 분쟁의 경우 보험 정책을 제공하는 전문적인 의형제같은 단체를 구성하는 것이 신중하고 이익이 된다고 판단했습니다. 외부인들은 불법적인 거래, 가격 고정, 세금 횡령 및 폭력적 강요에 대해 불평할 수 있지만, 이러한 카르텔은 시장의 많은 부분을 확실히 장악하고 있으며, 실패한 사람들의 악담만으로는 그들의 지배를 흔들어 버릴 수 없습니다._.
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -1010,9 +976,9 @@ _There is lucrative business to be done in Gnomon, and great wealth arouses grea
 <tr><td>20</td><td>Tobacco</td></tr>
 </table>
 
-# Urban Shrine
+# 도심 성소 (Urban Shrine)
 
-_The Church of the Promised Sun is not the only faith followed in Gnomon. Traders have brought more than the sand in their boots and the cargo in their saddle-bags to the city of shaded markets; their creeds have been carried with them, and there are a plethora of gods, demigods, quantum daemons, fungal sages, and void-saints worshipped at shrines throughout the city. Some of these sanctums are tended by hundreds of priests and acolytes, but most are smaller affairs, that boast only a handful of curates and worshippers. They are sacred all the same_.
+_약속된 태양의 교회는 노몬에서 따르는 유일한 신앙이 아닙니다. 상인들은 그들의 장화에 들어있는 모래와 안장 가방에 들어있는 화물 이상의 것을 그늘진 시장의 도시로 가져왔습니다; 그들의 신조도 함께 가져왔고, 도시 전체의 성소에서 숭배되는 수많은 신들, 반신들, 양자 악마들, 진균 현자들, 그리고 공허 성자들이 있습니다. 이런 성소 중 일부는 수백 명의 사제와 수행생으로 유지되지만 대부분은 작은 규모로, 몇 명의 사제와 숭배자만 자랑합니다. 그럼에도 불구하고 모두가 거룩합니다._.
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -1038,58 +1004,55 @@ _The Church of the Promised Sun is not the only faith followed in Gnomon. Trader
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>God Aspect (A)</th><th>God Aspect (B)</th><th>Holy Relic</th></thead>
-<tr><td>1</td><td>Tiger</td><td>Old Man</td><td>Saint’s Finger</td></tr>
-<tr><td>2</td><td>Hippo</td><td>Honey Badger</td><td>Preserved Head</td></tr>
-<tr><td>3</td><td>Warrior</td><td>Horse</td><td>Golden Cup</td></tr>
-<tr><td>4</td><td>Child</td><td>Sandworm</td><td>Ancient Coins</td></tr>
-<tr><td>5</td><td>Bee</td><td>Synth</td><td>Eternal Flame</td></tr>
-<tr><td>6</td><td>Locust</td><td>Fungus</td><td>Mysterious Box</td></tr>
-<tr><td>7</td><td>Shark</td><td>Crystal</td><td>Sacred Flower</td></tr>
-<tr><td>8</td><td>Cockerel</td><td>Crown</td><td>Golden Scythe</td></tr>
-<tr><td>9</td><td>Hawk</td><td>Ibis</td><td>Musical Instrument</td></tr>
-<tr><td>10</td><td>Owl</td><td>Wolf</td><td>Manifold Crystal</td></tr>
-<tr><td>11</td><td>Mother</td><td>Serpent</td><td>Arcane Machinery</td></tr>
-<tr><td>12</td><td>Blacksmith</td><td>Egg</td><td>Unexploded Bomb</td></tr>
-<tr><td>13</td><td>Scorpion</td><td>Fire</td><td>Preserved Heart</td></tr>
-<tr><td>14</td><td>Spider</td><td>Wind</td><td>Immortal Animal</td></tr>
-<tr><td>15</td><td>Crone</td><td>Storm</td><td>Sacred Beehive</td></tr>
-<tr><td>16</td><td>Antelope</td><td>Sword</td><td>Beautiful Robes</td></tr>
-<tr><td>17</td><td>Jackal</td><td>Hammer</td><td>Illuminated Texts</td></tr>
-<tr><td>18</td><td>Sun</td><td>Spacefarer</td><td>Carved Figurine</td></tr>
-<tr><td>19</td><td>Moon</td><td>Lantern</td><td>Black Throne</td></tr>
-<tr><td>20</td><td>Star</td><td>Goat</td><td>Intricate Head-crest</td></tr>
-</table>
+| **D20** | **신의 양상 (A)** | **신의 양상 (B)** | **성물** |
+| --- | --- | --- | --- |
+| 1 | 호랑이 | 노인 | 성자의 손가락 |
+| 2 | 하마 | 벌꿀오소리 | 보존된 머리 |
+| 3 | 전사 | 말 | 황금 컵 |
+| 4 | 어린이 | 모래벌레 | 고대의 주화 |
+| 5 | 꿀벌 | 신스 | 영원의 불 |
+| 6 | 메뚜기 | 진균 | 신비로운 상자 |
+| 7 | 상어 | 수정 | 신성한 꽃 |
+| 8 | 어린 수탉 | 왕관 | 황금 대낫 |
+| 9 | 매 | 따오기 | 악기 |
+| 10 | 올빼미 | 늑대 | 가지각색의 수정 |
+| 11 | 어머니 | 뱀 | 비밀스러운 기계 |
+| 12 | 대장장이 | 알 | 불발탄 |
+| 13 | 전갈 | 불 | 보존된 심장 |
+| 14 | 거미 | 바람 | 불멸의 동물 |
+| 15 | 노파 | 폭풍 | 신성한 벌집 |
+| 16 | 영양 | 검 | 아름다운 의복 |
+| 17 | 자칼 | 망치 | 환한 글귀 |
+| 18 | 해 | 우주 여행자 | 작은 조각상 |
+| 19 | 달 | 등불 | 검은 왕좌 |
+| 20 | 별 | 염소 | 복잡한 머리-장식 |
 
-<table>
-<thead><th>d20</th><th>Domain (A)</th><th>Domain (B)</th><th>Accepts Sacrifice Of</th></thead>
-<tr><td>1</td><td>Travel</td><td>Mystery</td><td>Songbirds</td></tr>
-<tr><td>2</td><td>Marriage</td><td>Memories</td><td>White Goats</td></tr>
-<tr><td>3</td><td>Destruction</td><td>War</td><td>Bulls</td></tr>
-<tr><td>4</td><td>Childbirth</td><td>Sun</td><td>Cows</td></tr>
-<tr><td>5</td><td>Mutation</td><td>Moon</td><td>Sheep</td></tr>
-<tr><td>6</td><td>Business</td><td>Foreknowledge</td><td>Black Goats</td></tr>
-<tr><td>7</td><td>Order</td><td>Fungus</td><td>Sandworms</td></tr>
-<tr><td>8</td><td>Disorder</td><td>Visual Art</td><td>Dogs</td></tr>
-<tr><td>9</td><td>Music</td><td>Poetry</td><td>Cockerels</td></tr>
-<tr><td>10</td><td>Dance</td><td>Justice</td><td>Antelope</td></tr>
-<tr><td>11</td><td>Wine</td><td>Crime</td><td>Camels</td></tr>
-<tr><td>12</td><td>Silence</td><td>Assassins</td><td>Jackals</td></tr>
-<tr><td>13</td><td>Wind</td><td>Livestock</td><td>Tortoises</td></tr>
-<tr><td>14</td><td>Rain</td><td>Weaponry</td><td>Cats</td></tr>
-<tr><td>15</td><td>Despair</td><td>Serpents</td><td>Beetles</td></tr>
-<tr><td>16</td><td>Death</td><td>Oasis</td><td>Memories</td></tr>
-<tr><td>17</td><td>Wisdom</td><td>Wild Beasts</td><td>Scorpions</td></tr>
-<tr><td>18</td><td>Men</td><td>Jealousy</td><td>Specific Body Parts</td></tr>
-<tr><td>19</td><td>Women</td><td>Generosity</td><td>Synths</td></tr>
-<tr><td>20</td><td>Synths</td><td>Good Fortune</td><td>Humans</td></tr>
-</table>
+| **D20** | **권역 (A)** | **권역 (B)** | **제물** |
+| --- | --- | --- | --- |
+| 1 | 여행 | 수수께끼 | 명금 (노래하는 새) |
+| 2 | 혼인 | 기억 | 흰 염소 |
+| 3 | 파괴 | 전쟁 | 황소 |
+| 4 | 아이의 탄생 | 해 | 소 |
+| 5 | 돌연변이 | 달 | 양 |
+| 6 | 업무 | 예지 | 흑염소 |
+| 7 | 질서 | 진균 | 모래벌레 |
+| 8 | 무질서 | 시각 예술 | 개 |
+| 9 | 음악 | 시 | 어린 수탉 |
+| 10 | 춤 | 정의 | 영양 |
+| 11 | 와인 | 범죄 | 작타 |
+| 12 | 침묵 | 암살 | 자칼 |
+| 13 | 바람 | 가축 | 거북이 |
+| 14 | 비 | 무기 | 고양이 |
+| 15 | 절망 | 뱀 | 딱정벌레 |
+| 16 | 죽음 | 오아시스 | 기억 |
+| 17 | 지혜 | 야생동물 | 전갈 |
+| 18 | 남성 | 질투 | 특정 신체 부위 |
+| 19 | 여성 | 너그러움 | 신스 |
+| 20 | 신스 | 행운 | 인간 |
 
+# 투기장의 투사 (Pit Fighters)
 
-# Pit Fighters
-
-_There is nothing that clears the mind after a day of work like the sight of a stranger’s blood on freshly-raked sand, and the city is alive at night with the roars of the spectators and the cries of the fallen_.
+_신선하게 갈아놓은 모래 위에 흩날리는 낯선 이의 피를 본 후 하루 일을 마치는 것만큼 마음을 맑게 하는 것은 없습니다. 그리고 밤에 도시는 관중들의 포효와 쓰러진 사람들의 울부짖음으로 활기를 띱니다._.
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -1115,29 +1078,28 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>Gladiator Name (A)</th><th>Gladiator Name (B)</th><th>Appearance</th></thead>
-<tr><td>1</td><td>Morgo</td><td>The Butcher</td><td>Gaunt</td></tr>
-<tr><td>2</td><td>Agrippa</td><td>The Red</td><td>Jovial</td></tr>
-<tr><td>3</td><td>Gugri</td><td>The Sweetheart</td><td>Burn Scars</td></tr>
-<tr><td>4</td><td>Raiche</td><td>Bonecrusher</td><td>Face Tattoos</td></tr>
-<tr><td>5</td><td>Zakarpino</td><td>The Hammer</td><td>Glum</td></tr>
-<tr><td>6</td><td>Kharye</td><td>The Sly</td><td>Brawny</td></tr>
-<tr><td>7</td><td>Fennik</td><td>The Poet</td><td>Corpulent</td></tr>
-<tr><td>8</td><td>Calmar</td><td>The Unblooded</td><td>Dirty</td></tr>
-<tr><td>9</td><td>Borondorin</td><td>The Mute</td><td>Missing Limb</td></tr>
-<tr><td>10</td><td>Pavgory</td><td>The Strangler</td><td>Missing Eye</td></tr>
-<tr><td>11</td><td>Hallpox</td><td>Ironskull</td><td>Black Teeth</td></tr>
-<tr><td>12</td><td>Bereth</td><td>The Gentle</td><td>Golden Teeth</td></tr>
-<tr><td>13</td><td>Lenna</td><td>The Preacher</td><td>Outrageous Haircut</td></tr>
-<tr><td>14</td><td>Rainadder</td><td>The Fool</td><td>Tot동맹 Hairless</td></tr>
-<tr><td>15</td><td>Yelaspezia</td><td>The Lucky</td><td>Frighteningly Happy</td></tr>
-<tr><td>16</td><td>Diamo</td><td>The Merciful</td><td>Glowering</td></tr>
-<tr><td>17</td><td>Lismus</td><td>The Cheat</td><td>Intense</td></tr>
-<tr><td>18</td><td>Verekholm</td><td>Earthshaker</td><td>Scholarly</td></tr>
-<tr><td>19</td><td>Palatar</td><td>Blacktooth</td><td>Elderly</td></tr>
-<tr><td>20</td><td>Helmonia</td><td>The Golden</td><td>Beautiful</td></tr>
-</table>
+| **D20** | **검투사 이름 (A)** | **검투사 이름 (B)** | **외관** |
+| --- | --- | --- | --- |
+| 1 | 모르고 | 도살자 | 여윔 |
+| 2 | 아그리파 | 붉은 | 명랑함 |
+| 3 | 구그리 | 여보 | 화상 흉터 |
+| 4 | 레이치 | 뼈를 으깨는 자 | 얼굴 문신 |
+| 5 | 자카르피노 | 망치 | 침울함 |
+| 6 | 카리예 | 음흉한 자 | 건장함 |
+| 7 | 페닉 | 시인 | 뚱뚱함 |
+| 8 | 칼마르 | 잡종 | 더러움 |
+| 9 | 보로도린 | 벙어리 | 사지결손 |
+| 10 | 파브고리 | 교살자 | 눈을 잃음 |
+| 11 | 홀폭스 | 무쇠두개골 | 검은 치아 |
+| 12 | 베레스 | 점잖은 자 | 황금 치아 |
+| 13 | 레나 | 전도사 | 무법자 헤어스타일 |
+| 14 | 레이네더 | 광대 | 머리카락이 전혀 없음 |
+| 15 | 옐라스페치아 | 행운아 | 무서울 정도로 행복함 |
+| 16 | 디아모 | 자비로운 자 | 야광 |
+| 17 | 리스무스 | 사기꾼 | 열정적임 |
+| 18 | 베렉홈 | 땅을 뒤흔드는 자 | 학자같음 |
+| 19 | 팰러터 | 검은이빨 | 늙음 |
+| 20 | 헬모니아 | 황금빛을 띤 자 | 아름다움 |
 
 <table>
 <thead><th>d20</th><th>Signature Weapon</th><th>Outlandish 장갑</th><th>They Want</th></thead>
@@ -1163,9 +1125,9 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 <tr><td>20</td><td>Sacred Flamberge</td><td>Solid Gold</td></tr>
 </table>
 
-# Philosopher's Guild
+# 철학자 길드 (Philosopher's Guild)
 
-_The Great Collapse scoured the wisdom of the ancients from the surface of the Urth. Only shards of their discoveries remain, but the merest glimpses of what once was are enough to compel some to dedicate their lives to a desperate search for those squandered truths_.
+_대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거했습니다. 이들이 이룬 발견의 단편적인 조각만이 남아 있지만, 한때 있었던 것들에 대한 가장 사소한 흔적조차도 일부 사람들이 절망적으로 소멸된 진실을 찾기 위해 그들의 삶을 바치게 만듭니다._.
 
 
 <table>
@@ -1192,29 +1154,28 @@ _The Great Collapse scoured the wisdom of the ancients from the surface of the U
 <tr><td>20</td><td>Murder</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>Guild Name (A)</th><th>Guild Name (B)</th><th>Guild Name (C)</th></thead>
-<tr><td>1</td><td>Benevolent</td><td>Order Of</td><td>The Golden Twins</td></tr>
-<tr><td>2</td><td>Hermetic</td><td>Brotherhood Of</td><td>The Alabaster Hound</td></tr>
-<tr><td>3</td><td>Esoteric</td><td>Sisterhood Of</td><td>Learned Masters</td></tr>
-<tr><td>4</td><td>Philanthropic</td><td>College Of</td><td>Quiet Brethren</td></tr>
-<tr><td>5</td><td>Learned</td><td>Association Of</td><td>The Auspicious Owl</td></tr>
-<tr><td>6</td><td>Arcane</td><td>Lyceum Of</td><td>Somber Scholars</td></tr>
-<tr><td>7</td><td>Recondite</td><td>Institute Of</td><td>Theoretical Harmony</td></tr>
-<tr><td>8</td><td>Sagacious</td><td>Organisation Of</td><td>Star-Blessed Unity</td></tr>
-<tr><td>9</td><td>Orphic</td><td>School Of</td><td>Revealed Wisdom</td></tr>
-<tr><td>10</td><td>Wise</td><td>Guild Of</td><td>The Purple Tower</td></tr>
-<tr><td>11</td><td>Rational</td><td>League Of</td><td>The Red Lectern</td></tr>
-<tr><td>12</td><td>Gnostic</td><td>Federation Of</td><td>The Black Stork</td></tr>
-<tr><td>13</td><td>Apt</td><td>Society Of</td><td>Querulous Investigation</td></tr>
-<tr><td>14</td><td>Astute</td><td>Union Of</td><td>Theoretical Surveyors</td></tr>
-<tr><td>15</td><td>Sophic</td><td>Partnership Of</td><td>Harmonious Students</td></tr>
-<tr><td>16</td><td>Brilliant</td><td>Gathering Of</td><td>Humble Philosophers</td></tr>
-<tr><td>17</td><td>Watchful</td><td>Family Of</td><td>Solipsist Lectors</td></tr>
-<tr><td>18</td><td>Judicious</td><td>Fraternity Of</td><td>Ceaseless Scrutiny</td></tr>
-<tr><td>19</td><td>Cordial</td><td>Fellowship Of</td><td>Beneficent Inquiry</td></tr>
-<tr><td>20</td><td>Auspicious</td><td>Syndicate Of</td><td>Remorseless Discovery</td></tr>
-</table>
+| **D20** | **길드 이름 (A)** | **길드 이름 (B)** | **길드 이름 (C)** |
+| --- | --- | --- | --- |
+| 1 | 자애로운 | 의 질서 | 황금 쌍둥이 |
+| 2 | 기밀 | 의 결사 | 흰 석고 사냥개 |
+| 3 | 비전 | 의 자매단 | 박식한 전문가 |
+| 4 | 인자한 | 의 대학 | 고요의 형제들 |
+| 5 | 박식한 | 의 협회 | 상서로운 올빼미 |
+| 6 | 난해한 | 의 회관 | 어둠칙칙한 학자들 |
+| 7 | 심오한 | 의 연구소 | 이론적 조화 |
+| 8 | 현명한 | 의 기구 | 별에 축복받은 통합 |
+| 9 | 숭배받는 | 의 학원 | 드러난 지혜 |
+| 10 | 지혜로운 | 의 길드 | 자줏빛 탑 |
+| 11 | 합리적인 | 의 리그 | 붉은 연설대 |
+| 12 | 영리한 | 의 연방 | 검은 황새 |
+| 13 | 적절한 | 의 집단 | 의문의 수사 |
+| 14 | 영악한 | 의 조합 | 이론 평가관 |
+| 15 | 지혜를 가르치는 | 의 동업자들 | 화목한 학생들 |
+| 16 | 뛰어난 | 의 모임 | 화목한 철학자들 |
+| 17 | 지켜보는 | 의 가문 | 이기적인 강사들 |
+| 18 | 신중한 | 의 형제단 | 끊임없는 조사 |
+| 19 | 다정한 | 의 동료들 | 유익한 탐구 |
+| 20 | 상서로운 | 의 연합체 | 후회없는 발견 |
 
 <table>
 <thead><th>d20</th><th>They Study</th><th>Guild Custom</th><th>They Want To</th></thead>
@@ -1240,9 +1201,9 @@ _The Great Collapse scoured the wisdom of the ancients from the surface of the U
 <tr><td>20</td><td>Mind Control</td><td>Ritualised Feud With Rival Guild</td></tr>
 </table>
 
-# Gang of Criminals
+# 범죄자 무리 (Gang of Criminals)
 
-_Those who cannot buy and sell must either steal or starve. Little wonder that there are many in the city of shaded markets who choose the mantle of the thief._
+_거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래서 그늘진 시장의 도시에는 도둑의 망토를 선택하는 사람이 많은 것은 놀라운 일이 아닙니다._
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -1292,33 +1253,32 @@ _Those who cannot buy and sell must either steal or starve. Little wonder that t
 <tr><td>20</td><td>Harlequin</td><td>Wretches</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>Their Methods</th><th>Who Have They Wronged?</th><th>Hideout Location</th></thead>
-<tr><td>1</td><td>Confidence Tricksters</td><td>Merchant</td><td>Dingy Tavern</td></tr>
-<tr><td>2</td><td>Livestock Rustlers</td><td>Widow</td><td>The Sewers</td></tr>
-<tr><td>3</td><td>Silent Burglars</td><td>Camel Jockey</td><td>Burnt-out House</td></tr>
-<tr><td>4</td><td>Violent Burglars</td><td>Card Sharp</td><td>Empty Tomb</td></tr>
-<tr><td>5</td><td>Protection Racket</td><td>Drunken Highborn Boy</td><td>Nondescript Tent</td></tr>
-<tr><td>6</td><td>Child Pickpockets</td><td>Butcher</td><td>Inside a Dead Tree</td></tr>
-<tr><td>7</td><td>Muggers</td><td>Alchemist</td><td>Derelict Auto-chariot</td></tr>
-<tr><td>8</td><td>Rigged Card Game</td><td>Poet</td><td>Under a Bridge</td></tr>
-<tr><td>9</td><td>Rigged Boxing Match</td><td>Blind Miser</td><td>Disreputable Barbershop</td></tr>
-<tr><td>10</td><td>Smugglers</td><td>Monkey Breeder</td><td>A Florist</td></tr>
-<tr><td>11</td><td>Forged Artwork</td><td>Jeweller</td><td>Empty Warehouse</td></tr>
-<tr><td>12</td><td>False Debt Collectors</td><td>Puppet Maker</td><td>Ramshackle Apartment</td></tr>
-<tr><td>13</td><td>Kidnappers</td><td>Merchant’s Clerk</td><td>Backroom of a Casino</td></tr>
-<tr><td>14</td><td>Sell Dud Technology</td><td>Clowns</td><td>Music Hall</td></tr>
-<tr><td>15</td><td>Street Prostitution</td><td>Pet Shop</td><td>Puppet Theatre</td></tr>
-<tr><td>16</td><td>Loan Sharking</td><td>Nomad Trading Party</td><td>Abandoned Shrine</td></tr>
-<tr><td>17</td><td>Professional Arsonists</td><td>Water Baron’s Militia</td><td>Chess Cafe</td></tr>
-<tr><td>18</td><td>Grave Robbers</td><td>Hegemony Soldiers</td><td>Gladiator Pit</td></tr>
-<tr><td>19</td><td>Assassins</td><td>Courtesan</td><td>Opulent Dining Club</td></tr>
-<tr><td>20</td><td>Psychic Blackmailers</td><td>Another Criminal Gang</td><td>Household of a Noble Family</td></tr>
-</table>
+| **D20** | **수단** | **그들이 괴롭히는 대상** | **은신처 위치** |
+| --- | --- | --- | --- |
+| 1 | 신임받는 책략가 | 상인 | 평판이 나쁜 주점 |
+| 2 | 가축 도둑 | 미망인 | 하수구 |
+| 3 | 조용한 절도범들 | 낙타 기수 | 다 불탄 집 |
+| 4 | 폭력적인 절도범들 | 카드 야바위꾼 | 빈 무덤 |
+| 5 | 보호비 돈벌이 | 술취한 고위층 꼬마 | 형언하기 어려운 천막 |
+| 6 | 어린이 소매치기범들 | 도축꾼 | 죽은 나무 내부 |
+| 7 | 노상강도들 | 연금술사 | 유기된 오토 채리엇 |
+| 8 | 조작된 카드게임 | 시인 | 다리 아래 |
+| 9 | 부정한 권투 시합 | 눈 먼 구두쇠 | 평판이 나쁜 이발소 |
+| 10 | 밀수업자 | 원숭이 사육사 | 꽃가게 |
+| 11 | 사기 예술행위 | 보석 세공사 | 빈 창고 |
+| 12 | 허위 빚 징수인 | 인형장인 | 금방 무너질듯한 아파트 |
+| 13 | 납치범들 | 상인의 점원 | 카지노 뒷방 |
+| 14 | 쓸모없는 기술 판매 | 광대 | 음악홀 |
+| 15 | 길거리 매춘 | 애완동물 상점 | 인형극장 |
+| 16 | 대부업 | 유목민 행산단 | 버려진 성소 |
+| 17 | 전문 방화범들 | 물의 귀족의 민병대 | 체스 카페 |
+| 18 | 도굴꾼들 | 신정부 병사들 | 검투사의 투기장 |
+| 19 | 암살자들 | 성노동자 | 호화식당 |
+| 20 | 정신적 갈취자들 | 또다른 범죄자 무리 | 귀족 가문의 집 |
 
-# Tavern
+# 주점 (Tavern)
 
-_The Water Baron may have a monopoly on fresh water, but he does not have one on booze. Gnomon is awash with alcohol and drugs, brought from the four corners of Vaarn and beyond. In the tavern, Gnomonians from all walks of life gather to forget the day’s troubles, meet friends old and new, and get drawn into petty conflicts with heavily-armed, drunken strangers._
+_물의 귀족은 신선한 물에 대한 독점권을 가지고 있을 수 있지만, 술에 대한 독점권까지는 없습니다. 노몬은 바안의 네 구석과 그 이상에서 가져온 알코올과 마약으로 범람하고 있습니다. 술집에서는 모든 계층의 노몬 사람들이 모여 하루 동안의 고민을 잊고, 오래된 친구와 새로운 친구를 만나며, 무장한 술에 취한 낯선 사람들과 사소한 갈등에 휘말립니다._
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
@@ -1368,29 +1328,28 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>20</td><td>The Lucky</td><td>Priest</td></tr>
 </table>
 
-<table>
-<thead><th>d20</th><th>Serves (x2)</th><th>Entertainment (x2)</th><th>Other Feature</th></thead>
-<tr><td>1</td><td>Cheap Beer</td><td>Bad Musicians</td><td>All Windows Shot Out</td></tr>
-<tr><td>2</td><td>Cheap Wine</td><td>Bad Dancers</td><td>Hole in Ceiling</td></tr>
-<tr><td>3</td><td>Opium</td><td>Chess</td><td>Infested with Baboons</td></tr>
-<tr><td>4</td><td>Psychedelic Mushrooms</td><td>Gambling (Dice)</td><td>Infested with Rats</td></tr>
-<tr><td>5</td><td>Tea</td><td>Gambling (Cards)</td><td>Elaborate Chandelier</td></tr>
-<tr><td>6</td><td>Coffee</td><td>Gambling (Scorpion Fights)</td><td>Pre-Collapse Jukebox</td></tr>
-<tr><td>7</td><td>Hookah</td><td>Poetry Performances</td><td>Toilets Overflowing</td></tr>
-<tr><td>8</td><td>Cigars</td><td>Karaoke</td><td>Bartender Has Odd Pet</td></tr>
-<tr><td>9</td><td>Amphetamines</td><td>Large Fishtank</td><td>Free-Flying Birds</td></tr>
-<tr><td>10</td><td>Olives and Cheese</td><td>Passable Musicians</td><td>Rough Clientele</td></tr>
-<tr><td>11</td><td>Tapas</td><td>Passable Dancers</td><td>Artsy Clientele</td></tr>
-<tr><td>12</td><td>Smoked Meats</td><td>Dominoes</td><td>Rooms for Rent Upstairs</td></tr>
-<tr><td>13</td><td>Shellfish</td><td>Backroom Russian Roulette</td><td>Rumoured Secret Passage</td></tr>
-<tr><td>14</td><td>Flavoured Ice</td><td>Backroom Boxing Ring</td><td>Hegemony Soldiers Drink Here</td></tr>
-<tr><td>15</td><td>Salted Grubs</td><td>Dancing Bear</td><td>Water Baron’s Men Drink Here</td></tr>
-<tr><td>16</td><td>Sweet Buns</td><td>Dartboard</td><td>Prieval’s Gang Drink Here</td></tr>
-<tr><td>17</td><td>Hearty Stews</td><td>Pool Tables</td><td>Nobility Drink Here</td></tr>
-<tr><td>18</td><td>Expensive Wine</td><td>Excellent Dancers</td><td>Weird Signature Drink</td></tr>
-<tr><td>19</td><td>Expensive Beer</td><td>Excellent Musicians</td><td>Entirely Underground</td></tr>
-<tr><td>20</td><td>Hegemony Whiskey</td><td>Seating Opposite Gallows</td><td>Hologram Bartender</td></tr>
-</table>
+| **D20** | **취급품 (X2)** | **유흥거리 (X2)** | **기타 사항** |
+| --- | --- | --- | --- |
+| 1 | 싸구려 맥주 | 나쁜 음악가 | 모든 창문에 총알 구멍이 남 |
+| 2 | 싸구려 와인 | 나쁜 춤꾼 | 천장에 뜷린 구멍 |
+| 3 | 아편 | 체스 | 개코원숭이 똥 범벅 |
+| 4 | 환각을 일으키는 버섯 | 도박 (주사위) | 쥐 똥 범벅 |
+| 5 | 차 | 도박 (카드) | 정교한 샹들리에 |
+| 6 | 커피 | 도박 (전갈 싸움) | 대붕괴 전 주크박스 |
+| 7 | 물담배 | 시 낭송 | 물이 넘치는 변기 |
+| 8 | 담배 | 노래방 | 이상한 동물을 데리고 다니는 바텐더 |
+| 9 | 암페타민 | 거대한 수족관 | 자유롭게 날아다니는 새 |
+| 10 | 올리브와 치즈 | 무난한 음악가 | 껄껄한 단골손님 |
+| 11 | 타파스 | 무난한 춤꾼 | 예술가인 척 하는 단골손님 |
+| 12 | 훈연고기 | 도미노 | 윗층에 세를 놓은 방들 |
+| 13 | 조개 | 뒷방 러시안 룰렛 | 비밀통로에 대한 소문이 돎 |
+| 14 | 얼린 과즙 | 뒷방 권투 시합장 | 신정부 병사들이 여기서 술 마심 |
+| 15 | 소금에 절인 애벌레 | 춤추는 곰 | 민병대들이 여기서 술 마심 |
+| 16 | 달콤한 롤빵 | 다트 던지기 | 프리발의 조직원들이 여기서 술 마심 |
+| 17 | 푸짐한 스튜 | 당구대 | 귀족들이 여기서 술 마심 |
+| 18 | 비싼 와인 | 훌륭한 춤꾼 | 이상한 서명이 담긴 술 |
+| 19 | 비싼 맥주 | 훌륭한 음악가 | 완전 지하에 있음 |
+| 20 | 신정부 위스키 | 교수대 맞은편 좌석 | 홀로그램 바텐더 |
 
 # NPC Creation
 ---
@@ -1531,13 +1490,18 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>20</td><td>Wind-Barge Dockworker</td><td>Wealthy Widow</td></tr>
 </table>
 
-# Changes in Gnomon
+# 노몬의 변화 (Changes in Gnomon)
+_도시의 시간은 결코 멈춰있지 않습니다. 특히 노몬처럼 혼란스럽고 활기찬 도시는 그렇습니다. 플레이어들이 잠시 동안 마을을 떠나 다시 돌아온다면, 파티가 없는 동안 바뀔 수 있는 몇 가지 사항들입니다._
 
-_No city stands still, and certainly no city as chaotic and vibrant as Gnomon. If the players leave town for a while and come back, here are some things that might have changed while they were gone._
+**수사관이 방문함.** 먼 신정부, 그들의 통치가 천년 동안 이어지길 바라지만 노몬에서의 세금 유입에 불만을 가지고 있으며, 더 강력한 손길이 필요하다고 느낍니다. 그리하여 신정부의 수사관들이 도착했고, 그들은 노몬의 정상 위에 새로운 '질문의 집' 지부를 설립했습니. 심지어 론로트 집정관과 룬플라워 사령관조차도 헤게모니의 수사에 면제되지 않습니다. 진실의 신부라는 하얀 로브를 입은 여성들이 마치 유령처럼 도시를 거닐며, 이 뒤 말 없는 검은 로브를 입은 신랑들이 따라다니며, 그들에게 매달려있는 대롱이가 어떤 사람의 두개골에서 거짓말을 빨아내려 근질근질거립니다. 밤에 사람들이 집에서 실종됩니다. 정보를 제공할 만한 이를 아무도 모릅니다. 그리고 대수사관은 정확히 어디서 창문 없는 탑 안에서 어떤 일을 하는 것일까요?
 
-- **An Inspector Calls**. The distant Hegemon, May Their Reign Last One Thousand Years, is displeased with the tax flow from Gnomon, and feels a firmer hand is needed. A cabal of Hegemony Inquisitors have arrived, and they have established a new branch of the House of Questions atop the Apex of Gnomon. Even Consul Lonrot and Commander Loonflower are not immune to the attention of the Hegemon’s Inquisition. The white-robed Brides of Truth walk through the city like ghosts, followed by groups of mute, black-robed Grooms, their dangling proboscises itching to suck the lies out of someone’s skull. People are vanishing from their homes at night. Nobody knows who may be an informant. And what exactly is the Grand Inquisitor doing, up there in his windowless tower?
-- **Rain Will Come**. How much longer must the good people of Gnomon suffer under the Water Baron’s yoke? How many more outrages must they endure? A new voice promises liberation from the Baron’s rule. This preacher stirs the populace with their tales: myths of free water for all, falling from the Vaarnish sky as it did long ago. They call this preacher the Rainmaker. Mobs of their followers gather in the public squares, wailing and lamenting and imploring the sky to bless them. The great and good of Gnomon are, understandably, less than keen on this preacher riling up the masses. Someone re동맹 ought to do something about that fanatic.
-- **The Legions Return**. The Hegemon, May Their Blade Cut Down the Unforgiven, has urgent need of all their Legions in the heartlands of the Hegemony. Nobody’s quite sure when the soldiers will come back. House Lonrot are left in charge of the city, with only their modest household guard to enforce the Consul’s will. If anyone was ever going to make a play for Gnomonian independence, this is their chance.
-- **Language Plague**. A reckless vault-raider brought some awful relic of the Age of Titans into the city, and a rapidly spreading language virus is threatening the populace. The disease compels sufferers to endlessly repeat a strange mantra, and all those who hear the words of the chant run risk of infection themselves. Citizens have stuffed their ears with wax and are ringing every bell they can find to drown out the chants of the infected. The Hegemony Legion struggles to keep order as the Philosopher’s Guilds compete to find a cure.
-- **Great Fire**. Nobody is sure how it started, but a fire is either currently raging or has devastated a great swathe of the city’s crowded townhouses. Choose one of the NPCs the party has grown closest to during the course of the campaign: they have either lost their home or are in imminent danger of doing so. How did the fire start? Was it deliberate? The streets are surely full of gossip.
-- **Gathering of the Nomads**. The disparate clans of the Faa nomads have gathered outside the walls of Gnomon for their once in a decade Great Moot. A tent-metropolis has appeared overnight, dwarfing the aged, rigid construct of stone that calls itself Gnomon. The streets throng with the roaming people of Vaarn’s endless deserts. Toasts are drunk, marriages between clans are arranged, ritual duels end with both participants dead in the ring, and the souks are filled with the bounty of the deepest azure sands.
+**비가 내릴 것임.** 노몬의 선량한 사람들이 더 이상 얼마나 오래 물의 남작의 멍에를 짊어져야 할까? 그들이 견뎌내야 할 더 많은 모욕은 얼마나 될까요? 새로운 목소리는 바론의 통치에서 해방을 약속한다. 이 전도사는 이야기로 대중을 자극헙나다. 오래전처럼 바안의 하늘에서 내려오는 모든 사람들에게 자유롭게 주어지는 물에 대한 신화. 이 전도사를 비를 내리는 자라고 부른다. 그들의 추종자들이 공공 광장에 모여, 통곡하고 애통해하며 하늘이 그들에게 축복을 내릴 것을 간청합니다. 당연히, 노몬의 위대하고 선량한 사람들은 이 전도사가 대중을 선동하는 것에 별로 열성적이지 않다. 정말로 누군가가 그 광신도에 대해 어떤 조치를 취해야 합니다.
+
+**군단의 철수.** 자신들의 칼날이 용서받지 못한 자들을 베어내길 바라는 신정부은  군단이 신정부의 중심지에서 급하게 필요하게 되었습니다. 병사들이 언제 돌아올지 아무도 확실히 모른다. 론로트 가문이 도시를 담당하게 되었고, 집정관의 의지를 집행하기 위해 오직 그들의 소박한 가정 경비원만을 가지고 있습니다. 만약 누군가가 노몬의 독립을 위해 움직일 계획을 세우려 한다면, 이것이 그들에게 주어진 기회입니다.
+
+**언어 역병.** 무모한 볼트 침입자가 타이탄의 시대의 끔찍한 유물을 도시로 가져와급속도로 퍼지는 언어 바이러스가 대중을 위협하고 있습니다. 이 질병은 고통받는 사람들에게 이상한 구호를 끊임없이 반복하도록 강요하며, 그 구호를 듣는 모든 사람들은 감염 위험에 처해 있습니다. 시민들은 귀에 밀랍을 꽂아 넣고, 감염된 사람들의 소리를 가리기 위해 찾을 수 있는 모든 종을 울리고 있습니다. 신정부 군단은 철학자 길드들이 치료법을 찾기 위해 경쟁하는 동안 질서를 유지하기 위해 힘쓰고 있습니다.
+
+**대화재.** 이 화재가 어떻게 시작되었는지 아무도 확실히 모르지만, 화재가 현재 진행 중이거나 도시의 붐비는 연립주택 대부분을 파괴하였습니다. 캠페인 동안 당사자들이 가장 친밀하게 지내온 NPC 중 한 명을 선택하세요: 그들은 자신의 집을 잃었거나 잠시 후에 그럴 위험이 있습니다. 불은 어떻게 시작되었을까요? 고의적인 것이었을까요? 거리는 분명히 온갖 말소리로 가득할 것입니다.
+
+**유목민의 결집.** 파아 유목민의 다양한 부족들이 10년에 한 번씩 열리는 대모임을 위해 노몬의 성벽 밖에 모였습니다. 텐트 도시가 하룻밤 사이에 생겨나, 자신을 노몬이라 부르는 낡고 딱딱한 돌 구조물을 소외시켰습니다. 거리는 바안의 끝없는 사막에서 방랑하는 사람들로 붐비고 있다. 축배가 마셔지고, 클랜 간의 결혼이 정리되며, 의식적인 결투가 양 참가자가 링 안에서 죽어서 끝나며, 시장은 가장 깊은 하늘색 모래의 풍요로움으로 가득 차 있습니다.
+
