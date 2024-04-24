@@ -11,6 +11,7 @@
 [Urth Simulacrum](https://gulluthgulch.itch.io/urth-simulacrum "Urth Simulacrum") - 자동 지역 생성기
 
 [Vaarn Character and Region Generators](https://vaarn-generators.vercel.app/ "Vaarn Character And Region Generators") - 캐릭터 및 지역생성기 
+[캐릭터 및 지역생성기](https://vedminstuden.github.io/vaarn-generators-ko/) - 해당 생성기의 한국어 역본
 
 # 블로그 <!-- {docsify-ignore} -->
 
