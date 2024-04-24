@@ -1188,7 +1188,7 @@ _대붕괴는 고대의 지혜를 우르스의 지표면에서 완전히 제거�
 <tr><td>7</td><td>유전자조작</td><td>가입하려면 신체 부위를 제거해야 함</td><td rowspan="2">바안 어딘가에서 잊힌 것으로 보이는 엑조티카를 획득하기</td></tr>
 <tr><td>8</td><td>바안의 역사</td><td>모든 구성원은 결혼한 상태여야만 함</td></tr>
 <tr><td>9</td><td>양자물리학</td><td>새벽과 황혼 사이에는 금식해야 함</td><td rowspan="2">귀족 가문이 소유한 엑조티카 획득하기</td></tr>
-<tr><td>10</td><td>Fungus</td><td>Take Vow of Silence</td></tr>
+<tr><td>10</td><td>진균</td><td>침묵의 맹세를 함</td></tr>
 <tr><td>11</td><td>이계언아학</td><td>모든 세상물정을 버릴 것</td><td rowspan="2">바안 어딘가에 있는 다른 길드원에게 메세지를 보내기</td></tr>
 <tr><td>12</td><td>수사학</td><td>이해할 수 없는 글귀 보기</td></tr>
 <tr><td>13</td><td>천문학</td><td>모든 구성원이 가면을 씀</td><td rowspan="2">희귀한 괴물의 살아있는 표본 획득</td></tr>
