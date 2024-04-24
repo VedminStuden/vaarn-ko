@@ -452,35 +452,36 @@ _땅은 와인 빛의 태양 아래서 마르고 시들어가지만, 심지어 �
 <tr><td>20</td><td>가벼운 환각성</td><td>신성한 동굴</td><td>유명한 음악가</td><td>금식</td></tr>
 </table>
 
-## Holy Place
+## 성지 (Holy Place)
 
-_None can predict the capricious and bemusing vessels through which the divine will make itself known, but such relics - whenever they manifest themselves - are meticulously preserved, and tended to by venerable orders._
+_신성한 의지가 자기를 알리는 변덕스럽고 당혹스러운 수단을 예측할 수는 없지만, 그러한 유물들은 나타날 때마다 정밀하게 보존되며 공경 받는 단체에 의해 관리됩니다._
 
 <table>
-<thead><th>d20</th><th>Location</th><th>Focus of Worship</th><th>Holy To</th><th>Tended By</th></thead>
-<tr><td>1</td><td>Decrepit Keep</td><td>Ancient Book</td><td>Church of the Promised Sun</td><td>Nobody</td></tr>
-<tr><td>2</td><td>Sand-swallowed</td><td>Holy Bee Hive</td><td>Pale Faith of Amun-Oh</td><td>Family of Tiny Cacogen</td></tr>
-<tr><td>3</td><td>Petrified Trees</td><td>Caged Bird</td><td>The Thrice-Born Sage</td><td>Sentient Plant</td></tr>
-<tr><td>4</td><td>Ring of Stones</td><td>Enormous Gemstone</td><td>Seekers of Eyeless Wisdom</td><td>Eunuch Priests</td></tr>
-<tr><td>5</td><td>Rough Altar</td><td>Beautiful Statue</td><td>Church of Sevenscore Moons</td><td>Chaste Priestesses</td></tr>
-<tr><td>6</td><td>Underground Church</td><td>Ancient Computer</td><td>Temple of the Binary Devotion</td><td>Automated Priests</td></tr>
-<tr><td>7</td><td>Glass Pagoda</td><td>Broken Statue</td><td>The Blue Goddess of Empty Places</td><td>Lithling Monk</td></tr>
-<tr><td>8</td><td>Ziggurat</td><td>Crystal Skull</td><td>Azathoth, the Daemon Sultan</td><td>Blind Old Woman</td></tr>
-<tr><td>9</td><td>Broken Temple</td><td>Wooden Idol</td><td>Cult of KRONOS</td><td>Masked Mutes</td></tr>
-<tr><td>10</td><td>Dried-up Oasis</td><td>Polychrome Throne</td><td>Cult of METIS</td><td>Sentient Wasp Hive</td></tr>
-<tr><td>11</td><td>Looming Statue</td><td>Crystal Diadem</td><td>Cult of MNEMOSYM</td><td>Learned Monks</td></tr>
-<tr><td>12</td><td>Ruined Village</td><td>Ancient Shoe</td><td>Cult of HYPERION</td><td>Warrior Monks</td></tr>
-<tr><td>13</td><td>Fungal Church</td><td>Urn of Ashes</td><td>Cult of GAEA</td><td>Guardian Synth</td></tr>
-<tr><td>14</td><td>Chrome Tower</td><td>Mummified Jackal</td><td>Cult of COEUS</td><td>Pack of New-Jackals</td></tr>
-<tr><td>15</td><td>Windy Hilltop</td><td>Molten Statue</td><td>Cult of THEMIS</td><td>Paranoid Exiles</td></tr>
-<tr><td>16</td><td>Hidden Cave</td><td>Mummified Child</td><td>Faa Nomad Ancestors</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Faa Nomads</a></td></tr>
-<tr><td>17</td><td>Missile Silo</td><td>Ancient Telescope</td><td>A Solar Saint</td><td>Cacogen Oracle</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=wreck">Wreck</a></td><td>Levitating Orb</td><td>A Fungal Saint</td><td>Mycomorph Oracle</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=settlement">Settlement</a></td><td>Synthetic Head</td><td>A Void Saint</td><td>Beggar Monks</td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Ruin</a></td><td>Human Tooth</td><td>Nameless, Forgotten God</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
+<thead>
+<tr><th><strong>D20</strong></th><th><strong>장소</strong></th><th><strong>예배의 초점</strong></th><th><strong>에게 신성함</strong></th><th><strong>가 지키고 있음</strong></th></tr></thead>
+<tbody><tr><td>1</td><td>노쇠한 보존상태</td><td>고대의 책</td><td>약속된 태양의 교회</td><td>아무도 없음</td></tr>
+<tr><td>2</td><td>모래에 파묻힘</td><td>신성한 벌집</td><td>아문-오의 창백한 신앙</td><td>캐커젠 소가족</td></tr>
+<tr><td>3</td><td>석화된 나무</td><td>새장의 새</td><td>세 쌍둥이 현자</td><td>자각하는 식물</td></tr>
+<tr><td>4</td><td>원형 띠 모양으로 쌓은 돌 무더기</td><td>거대한 원석</td><td>눈 없는 지혜의 추구자들</td><td>거세된 사제들</td></tr>
+<tr><td>5</td><td>껄껄한 제단</td><td>아름다운 조각상</td><td>140 달의 교회</td><td>정결한 여사제들</td></tr>
+<tr><td>6</td><td>지하 교회</td><td>고대의 컴퓨터</td><td>양성헌신의 신전</td><td>자동 사제들</td></tr>
+<tr><td>7</td><td>유리탑</td><td>부서진 조각상</td><td>빈터의 푸른 여신</td><td>리슬링 수도사</td></tr>
+<tr><td>8</td><td>지구라트</td><td>수정 두개골</td><td>반신 술탄 아자소스</td><td>눈 먼 노파</td></tr>
+<tr><td>9</td><td>부서진 사원</td><td>목재 우상</td><td>크로노스교</td><td>가면 쓴 벙어리</td></tr>
+<tr><td>10</td><td>마른 오아시스</td><td>다채로운 색의 왕좌</td><td>메티스교</td><td>자각하는 말벌 둥지</td></tr>
+<tr><td>11</td><td>흐 조각상</td><td>수정 왕관</td><td>므네모심교</td><td>학식 있는 수도사들</td></tr>
+<tr><td>12</td><td>폐허가 된 마을</td><td>고대의 신발</td><td>히페리온교</td><td>전사겸 수도사</td></tr>
+<tr><td>13</td><td>진균 교회</td><td>유골함</td><td>가이아교</td><td>수호자 신스</td></tr>
+<tr><td>14</td><td>크롬 탑</td><td>미라화된 자칼</td><td>코에우스교</td><td>뉴-자칼 떼</td></tr>
+<tr><td>15</td><td>바람이 부는 언덕 꼭대기</td><td>녹아내린 조각상</td><td>테미스교</td><td>편집증적인 추방자들</td></tr>
+<tr><td>16</td><td>숨겨진 동굴</td><td>미라화된 아이</td><td>파아 유목민의 조상들</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">파아 유목민들</a></td></tr>
+<tr><td>17</td><td>미사일 격납고</td><td>고대의 망원경</td><td>태양의 성자</td><td>캐커젠 신탁</td></tr>
+<tr><td>18</td><td><a href="/#/regions/the-interior?id=%ec%9e%94%ed%95%b4-wreck">잔해</a></td><td>부유 구체</td><td>진균의 성자</td><td>버섯체 신탁</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=settlement">정착지</a></td><td>인조 머리</td><td>공허의 성자</td><td>거지 수도사</td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">폐허</a></td><td>인간의 이빨</td><td>이름없이 잊힌 신</td><td><a href="#/regions/the-interior.md?id=lair">괴물의 보금자리</a></td></tr></tbody>
 </table>
 
-## (잔해 (Wreck)
+## 잔해 (Wreck)
 
 _모든 여정은 끝을 맺습니다. 어떤 여정은 다른 여정보다 더 극적으로 끝나기도 합니다._
 
@@ -507,33 +508,38 @@ _모든 여정은 끝을 맺습니다. 어떤 여정은 다른 여정보다 더 
 | 19 | 이동할 수 있는 집 | 놀랍게도 멀쩡함 | 성유물 | EMP 폭발 |
 | 20 | 붕괴 전 우주선 | 몇몇 기능이 작동함 | 엑조티카 | 궤도 병기의 공격 |
 
-## Vault
+## 볼트 (Vault)
 
-_The ground beneath the desert is riddled with passageways, tunnels, shafts, and other entrances to the underworld. Who can say what long-buried secrets such locations conceal?_
+_사막 아래의 땅은 통로, 터널, 환기구 및 지하세계로의 다른 입구들로 가득 차 있습니다. 이러한 장소들이 어떤 오랜 기간 동안 감추어진 비밀을 숨기고 있는지를 말할 수 있는 자는 누구일까요?_
 
 <table>
-<thead><th>d20</th><th>Entrance</th><th>Tunnels</th><th>Original Function</th><th>Other Feature</th></thead>
-<tr><td>1</td><td>Steel Blast Doors</td><td>Half-Flooded</td><td>Fallout Shelter</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Bandit Hideout</a></td></tr>
-<tr><td>2</td><td>Back of Tiny Cave</td><td>Filled with Sand</td><td>Transport Tunnels</td><td>Haunted (Planeyfolk)</td></tr>
-<tr><td>3</td><td>Enormous Crater</td><td>Dusty and Silent</td><td>Bioweapon Research</td><td>Haunted (Chromavore)</td></tr>
-<tr><td>4</td><td>Narrow Fissure in Cliff</td><td>Crystal-encrusted</td><td>Time Paradox Research</td><td>Ancient Defence Cannons</td></tr>
-<tr><td>5</td><td>Through Old Sewer</td><td>Blood Red Walls</td><td>Language Virus Research</td><td>Vending Machines Still Function</td></tr>
-<tr><td>6</td><td>Atop Mountain</td><td>Decorated Tiles</td><td>Geothermal Power Station</td><td>Strange Lights</td></tr>
-<tr><td>7</td><td>Opens at Full Moon</td><td>Fire-Damaged</td><td>Nuclear Power Station</td><td>Power Source Active</td></tr>
-<tr><td>8</td><td>Scrawled With Runes</td><td>Winding and Narrow</td><td>Hypergeometry Research</td><td>Hypergeometric Rift</td></tr>
-<tr><td>9</td><td>Functioning Lift</td><td>Descend into the Urth</td><td>Deep Core Mining</td><td>Guard Synths</td></tr>
-<tr><td>10</td><td>Broken Lift</td><td>Somehow Absorb Sound</td><td>Military Command Post</td><td><a href="#/regions/the-interior.md?id=cacklemaw-den">Cacklemaw Den</a></td></tr>
-<tr><td>11</td><td>Functioning Escalator</td><td>Lightless and Dank</td><td>Titan AI Memory Banks</td><td><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Science-Mystic's Abode</a></td></tr>
-<tr><td>12</td><td>Broken Escalator</td><td>Spiralling, Strange</td><td>Titan AI Cooling System</td><td>Poisonous Gases</td></tr>
-<tr><td>13</td><td>Ruined Train Tunnel</td><td>Lit with Bioluminous Moss</td><td>Seed Bank</td><td>Carnivorous Fungus</td></tr>
-<tr><td>14</td><td>Beneath Toxic Water</td><td>Surprisingly Clean</td><td>Interrogation Chambers</td><td>Janitor Synths</td></tr>
-<tr><td>15</td><td>Air Filtration Vent</td><td>Full of Ancient Corpses</td><td>Synth Production</td><td>Hologram Cinema</td></tr>
-<tr><td>16</td><td>Infested with Bats</td><td>Incredibly Cold</td><td>Illicit Cloning Facility</td><td>Frozen Embryos</td></tr>
-<tr><td>17</td><td>Barricaded from Inside</td><td>Enormous and Echoing</td><td>Spy Network Base</td><td><a href="#/regions/the-interior.md?id=archive">Lost Archive</a></td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=arcology">Below Arcology</a></td><td>Battle Damaged</td><td>Autarch's Hideout</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=settlement">Below Settlement</a></td><td>White and Sterile</td><td>Hidden Resrvior</td><td><a href="#/regions/the-interior.md?id=holy-place">Holy Place</a></td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Below Ruin</a></td><td>Filled with Garbage</td><td>Recycling Facility</td><td>Contains Exotica</td></tr>
+<thead>
+<tr><th><strong>D20</strong></th><th><strong>입구</strong></th><th><strong>터널</strong></th><th><strong>본래 기능</strong></th><th><strong>다른 특징</strong</th></tr></thead>
+<tbody>
+<tr><td>1</td><td>철제 방폭문</td><td>반쯤 잠김</td><td>낙진 대피소</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.jni0xxoct6kt">도적 은신처</a></td></tr>
+<tr><td>2</td><td>작은 동굴 뒤</td><td>모래로 채워짐</td><td>수송 터널</td><td>출몰 (플래니포크)</td></tr>
+<tr><td>3</td><td>거대한 구멍</td><td>먼지투성이에 조용함</td><td>생물무기 연구소</td><td>출몰 (색깔 포식자)</td></tr>
+<tr><td>4</td><td>절벽의 좁은 균열</td><td>수정으로 덮임</td><td>시간 역설 연구소</td><td>고대의 방어 대포</td></tr>
+<tr><td>5</td><td>낡은 하수구를 통함</td><td>피칠갑된 붉은 벽</td>
+<td>언어 바이러스 연구소</td><td>여전히 작동하는 자판기</td></tr>
+<tr><td>6</td><td>산꼭대기</td><td>타일로 장식됨</td><td>지열발전소</td><td>이상한 빛</td></tr>
+<tr><td>7</td><td>보름달에 열림</td><td>화재로 손상됨</td><td>원자력발전소</td><td>전원이 활성화됨</td></tr>
+<tr><td>8</td><td>고대 문자로 휘갈겨 씀</td><td>바람이 통하고 좁음</td><td>지열 연구소</td><td>초기하학적 균열</td></tr>
+<tr><td>9</td><td>작동하는 승강기</td><td>우르스 아래로 내려감</td><td>깊은 중심부 광산</td>\<td>경비병 신스</td>
+</tr>
+<tr><td>10</td><td>부서진 승강기</td><td>어째서인지 소리를 흡수함</td><td>군사 지휘기지</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.pcegoxgg48q5">캐클모 소굴</a></td></tr>
+<tr><td>11</td><td>작동하는 에스컬레이터</td><td>어둡고 축축함</td><td>타이탄 인공지능 기억 저장소</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.bttujh9n5msr">과학 신비주의자의 거주지</a></td></tr>
+<tr><td>12</td><td>부서진 에스컬레이터</td><td>나선형에 이상함</td><td>타이탄 인공 지능 냉각 시스템</td><td>독가스</td></tr>
+<tr><td>13</td><td>버려진 열차 통로</td><td>발광하는 이끼</td><td>종자은행</td><td>식인 진균</td></tr>
+<tr><td>14</td><td>독성 물 아래</td><td>놀라울 정도로 깨끗함</td><td>취조실</td><td>문지기 신스</td></tr>
+<tr><td>15</td><td>환풍구</td><td>고대의 시체로 가득함</td><td>신스 생산시설</td><td>홀로그램 상영관</td></tr>
+<tr><td>16</td><td>박쥐 똥으로 가득함</td><td>믿을 수 없을 정도로 추움</td><td>불법 복제 시설</td><td>냉동 배아</td></tr>
+<tr><td>17</td><td>내부에서 바리케이트를 침</td><td>거대하고 메아리침</td><td>네트워크 감시기지</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.i7n4z0kydn3u">잃어버린 기록 보관소</a></td></tr>
+<tr><td>18</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.2d29dqvq57da">아콜로지 아래</a></td><td>전투로 손상됨</td><td>신왕의 은신처</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.ex1oueo0vnh0">괴물의 보금자리</a></td></tr>
+<tr><td>19</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.j76vuo9tutxg">정착지 아래</a></td><td>하얗고 메마름</td><td>숨겨진 저수지</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.i7n4z0kydn3u">성지</a></td></tr><tr><td>20</td><td><a href="https://docs.google.com/document/d/13gOEmLEJc0Vx7Tu-aHEG-PCfbMYoLCWs/edit#heading=h.oywkrjahbu7o">폐허 아래</a></td><td>쓰레기로 채워짐</td><td>재활용 공장</td><td>엑조티카가 포함됨</td></tr>
+</tbody>
 </table>
+
 
 ## 랜드마크
 
@@ -560,54 +566,53 @@ _The ground beneath the desert is riddled with passageways, tunnels, shafts, and
 | 19 | 구불구불한 진균 굴뚝 | 알 수 없는 경고 방송이 울리는 고대 사이렌이 달린 지줏대 |
 | 20 | 셀 수 없이 많은 빛 바랜 해골들의 평원 | 옆면이 부자연스럽게 미끄러운 매우 깊은 구덩이 |
 
-## Bandit Camp
+## 도적 야영지 (Bandit Camp)
+
+| **D20** | **종류** | **지도자** | **무기** | **원하는 것** |
+| --- | --- | --- | --- | --- |
+| 1 | 전직 검투사들 | 부상당한 검투사 | 무술 | 물 |
+| 2 | 교활한 버섯체들 | 작지만 강렬함 | 물기와 비명 | 음식 |
+| 3 | 신정부 탈영병들 | 애꾸눈 여성 | 쇠뇌 | 황금 |
+| 4 | 탈주 노예들 | 불한당 신스 | 바람총 | 무기 |
+| 5 | 운 없는 떠돌이들 | 자칭 왕 | 투척용 도끼 | 희생 |
+| 6 | 최후의 날 사교도들 | 추방당한 귀족 | 검 | 신입 |
+| 7 | 나병 환자들 | 농담을 말함 | 슬링 | 의약품 |
+| 8 | 노예주들 | 악명높은 무법자 | 창과 그물 | 금지된 책 |
+| 9 | 잔인한 인조 어린이들 | 조용한 난동꾼 | 플레일 | 진균 |
+| 10 | 구울 부족 | 여윈 천재 | 로켓발사기 | 신스 |
+| 11 | 가짜 수도승들 | 전직 성노동자 | 독가스 | 아이들 |
+| 12 | 진균으로 가득한 미치광이들 | 웃는 사이코패스 | 리볼버 | 노예들 |
+| 13 | 사무적인 깡패들 | 망상하는 술주정뱅이 | 소총 | 유흥거리 |
+| 14 | 횡설수설하는 캐커젠들 | 가학적인 대식가 | 제자일 그 자체 | 와인 |
+| 15 | 가면 없는 뉴비스트들 | 침착하고 정중함 | 고대의 대포 | 맥주 |
+| 16 | 광대 무리 | 미안해하지만 단호함 | 전투 레이저 | 용서 |
+| 17 | 천한 옷차림의 여성들 | 호색적이며 날 것임 | 음파무기 | 당신을 먹기 |
+| 18 | 나이 든 도둑들 | 삼류만화의 악당처럼 사악함 | 길들인 짐승 | 혼자서 싸우기 |
+| 19 | 신정부 병사들 | 명함을 남김 | 플라스마 소총 | 당신의 눈 |
+| 20 | 신사 강도들 | 로빈 후드 비슷함 | 정신적 힘 | 당신의 이빨 |
 
 <table>
-<thead><th>d20</th><th>Type</th><th>Leader</th><th>Weapons</th><th>They Want</th></thead>
-<tr><td>1</td><td>Ex-Gladiators</td><td>Injured Gladiator</td><td>Martial Arts</td><td>Water</td></tr>
-<tr><td>2</td><td>Sly Mycomorphs</td><td>Small but Intense</td><td>Bite and Scream</td><td>Food</td></tr>
-<tr><td>3</td><td>Hegemony Deserters</td><td>One-Eyed Woman</td><td>Crossbows</td><td>Gold</td></tr>
-<tr><td>4</td><td>Escaped Slaves</td><td>Rogue Synth</td><td>Blowdarts</td><td>Weapons</td></tr>
-<tr><td>5</td><td>Luckless Drifters</td><td>Self-styled King</td><td>Throwing Axes</td><td>Sacrifices</td></tr>
-<tr><td>6</td><td>Doomsday Cult</td><td>Exiled Nobleman</td><td>Swords</td><td>New Recruits</td></tr>
-<tr><td>7</td><td>Lepers</td><td>Tells Jokes</td><td>Slings</td><td>Medicine</td></tr>
-<tr><td>8</td><td>Slavers</td><td>Infamous Outlaw</td><td>Spears and Nets</td><td>Forbidden Books</td></tr>
-<tr><td>9</td><td>Cruel Synthetic Children</td><td>Silent Brute</td><td>Flails</td><td>Fungus</td></tr>
-<tr><td>10</td><td>Ghoul Clan</td><td>Scrawny Genius</td><td>Rocket Launcher</td><td>Synths</td></tr>
-<tr><td>11</td><td>False Monks</td><td>Ex-Courtesan</td><td>Poison Gas</td><td>Children</td></tr>
-<tr><td>12</td><td>Fungus-riddled Maniacs</td><td>Smiling Psychopath</td><td>Revolvers</td><td>Slaves</td></tr>
-<tr><td>13</td><td>Businesslike Thugs</td><td>Delusional Drunkard</td><td>Rifles</td><td>Entertainment</td></tr>
-<tr><td>14</td><td>Gibbering Cacogen</td><td>Sadistic Glutton</td><td>Crude Jezails</td><td>Wine</td></tr>
-<tr><td>15</td><td>Maskless Newbeasts</td><td>Calm and Polite</td><td>Ancient Cannon</td><td>Beer</td></tr>
-<tr><td>16</td><td>Gang of Fools</td><td>Apologetic but Firm</td><td>Combat Lasers</td><td>Forgiveness</td></tr>
-<tr><td>17</td><td>Scantily Clad Women</td><td>Lustful and Crude</td><td>Sonic Weapons</td><td>To Eat You</td></tr>
-<tr><td>18</td><td>Elderly Thieves</td><td>Cartoonishly Evil</td><td>Trained Beasts</td><td>Single Combat</td></tr>
-<tr><td>19</td><td>Hegemony Soldiers</td><td>Leaves a Calling Card</td><td>Plasma Rifles</td><td>Your Eyes</td></tr>
-<tr><td>20</td><td>Gentleman Robbers</td><td>Robin Hood-esque</td><td>Psychic Powers</td><td>Your Teeth</td></tr>
-</table>
-
-<table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Bandit Leader</td><td>Envy (Property)</td><td rowspan="2">Rival to Leader’s Authority</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Leader’s Trusted Underling</td><td>Love (Forbidden)</td><td rowspan="2">Talkative, Annoying Bandit</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Leader’s Ambitious Underling</td><td>Love (Triangle)</td><td rowspan="2">Lazy, Useless Bandit</td></tr>
-<tr><td>6</td><td>Unpaid Debts</td></tr>
-<tr><td>7</td><td rowspan="2">Leader’s Despised Underling</td><td>Boredom</td><td rowspan="2">Scholarly, Educated Bandit</td></tr>
-<tr><td>8</td><td>Petty Rivalry</td></tr>
-<tr><td>9</td><td rowspan="2">The Best Cook (of a Bad Bunch)</td><td>Cheating at Cards</td><td rowspan="2">Religious, Psychotic Bandit</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Best Shot (of a Bad Bunch)</td><td>Adultery</td><td rowspan="2">Sharp-eyed, Paranoid Bandit</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">도적 지도자</td><td>질투 (재산)</td><td rowspan="2">지도자의 권위에 대한 경쟁자</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
+<tr><td>3</td><td rowspan="2">지도자의 신뢰받는 부하</td><td>사랑 (금지됨)</td><td rowspan="2">수다쟁이에 짜증나는 도적</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">지도자의 야심있는 부하</td><td>사랑 (삼각관계)</td><td rowspan="2">게으르고 쓸모없는 도적</td></tr>
+<tr><td>6</td><td>밀린 빚</td></tr>
+<tr><td>7</td><td rowspan="2">지도자에게 멸시받는 부하</td><td>지루함</td><td rowspan="2">학자적이고 학식있는 도적</td></tr>
+<tr><td>8</td><td>사소한 경쟁</td></tr>
+<tr><td>9</td><td rowspan="2">최고의 (까지는 아닌) 요리사</td><td>카드 사기</td><td rowspan="2">종교적이고 정신병적인 도적</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">최고의 (까지는 아닌) 명사수</td><td>Adultery</td><td rowspan="2">날카로운 눈매의 편집증적인 도적</td></tr>
 <tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Widely Disliked Bandit</td><td>Gluttony</td><td rowspan="2">Tough-talking Bandit, Secret Coward</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Ferocious, Feared Bandit</td><td>Wild, Baseless Accusations</td><td rowspan="2">Prisoner, Who Keeps the Camp Tidy</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Very Young Bandit</td><td>Addiction (Narcotics)</td><td rowspan="2">Prisoner, Who Aids with Cooking</td></tr>
-<tr><td>18</td><td>Division of Loot</td></tr>
-<tr><td>19</td><td rowspan="2">Ancient, Decrepit Bandit</td><td>Blackmail</td><td rowspan="2">Wealthy Prisoner, Kept for Ransom</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<tr><td>13</td><td rowspan="2">광범위하게 미움받는 도적</td><td>과음</td><td rowspan="2">사실은 겁쟁이인 험담하는 도적</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">흉포하고 무서운 도적</td><td>거칠고 근거없는 비난</td><td rowspan="2">수용소를 정돈하는 포로</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">아주 어린 도적</td><td>중독 (마취제)</td><td rowspan="2">요리를 돕는 포로</td></tr>
+<tr><td>18</td><td>약탈품의 분할</td></tr>
+<tr><td>19</td><td rowspan="2">고대의 노쇠한 도적</td><td>공갈</td><td rowspan="2">몸값을 노리고 붙잡은 부유한 포로</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
 ## Bounty Hunter's Camp
