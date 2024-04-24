@@ -17,7 +17,7 @@
 - [연금술](alchemy.md)
 - [괴물 도감](bestiary.md)
 - [바안의 언어](tongues-of-vaarn.md)
-- [희미한 시대의 타이탄](titans.md)
+- [빛바랜 시대의 타이탄](titans.md)
 
 - [자료](resources.md)
 - [감사의 말](acknowledgements.md)
