@@ -40,9 +40,9 @@
 | 15 | 환풍구 | 고대의 시체로 가득함 | 신스 생산시설 |
 | 16 | 박쥐 똥으로 가득함 | 믿을 수 없을 정도로 추움 | 불법 복제 시설 |
 | 17 | 내부에서 바리케이트를 침 | 거대하고 메아리침 | 네트워크 감시기지 |
-| 18 | Below an [아콜로지](https://vaarn.github.io/#/regions/the-interior?id=arcology) 아래 | 전투로 손상됨 | 신왕의 은신처 |
-| 19 | Below a [정착지](https://vaarn.github.io/#/regions/the-interior?id=settlement) 아래 | 하얗고 메마름 | 숨겨진 저수지 |
-| 20 | Below a [폐허](https://vaarn.github.io/#/regions/the-interior?id=ruin) 아래 | 쓰레기로 채워짐 | 재활용 공장 |
+| 18 | [아콜로지](https://vaarn.github.io/#/regions/the-interior?id=arcology) 아래 | 전투로 손상됨 | 신왕의 은신처 |
+| 19 | [정착지](https://vaarn.github.io/#/regions/the-interior?id=settlement) 아래 | 하얗고 메마름 | 숨겨진 저수지 |
+| 20 | [폐허](https://vaarn.github.io/#/regions/the-interior?id=ruin) 아래 | 쓰레기로 채워짐 | 재활용 공장 |
 
 ## 방의 특징과 위험요소 (Room Features and Hazards)
 | **D20** | **방의 특징 A** | **방의 특징 B** | **위험요소 예시** |
@@ -66,7 +66,7 @@
 | 17 | 빛나는 역장 투영기 | 고대 언어로 된 경고 | 정신을 사로잡는 최면화면 |
 | 18 | 고대의 곤충 둥지 | 거상같고 죽은 연체동물 | [파아 유목민들](https://vaarn.github.io/#/regions/the-interior?id=faa-nomad-camp)에게 신성한 장소이기에 침입자를 사살함 |
 | 19 | 죽은 덩굴로 뒤덮임 | 부유하는 다색 구체 | 볼트가 [괴물의 보금자리](https://vaarn.github.io/#/regions/the-interior?id=lair)임 |
-| 20 | 스스로를 자각하며 못 움직이는 기계 | 윙윙거리는 순간이동 관문 | 볼트가 [Bandit Hideout](https://vaarn.github.io/#/regions/the-interior?id=bandit-camp)임 |
+| 20 | 스스로를 자각하며 못 움직이는 기계 | 윙윙거리는 순간이동 관문 | 볼트가 [도적의 은신처](https://vaarn.github.io/#/regions/the-interior?id=bandit-camp)임 |
 
 ## 일반 볼트 조우 표 (Generic Vault Encounter Tables)
 | d8 | 1층 | 2층 | 3층 | 4층 | 5층 |
