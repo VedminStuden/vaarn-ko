@@ -1,85 +1,86 @@
-# Gnomon
+# 노몬 (Gnomon)
 ----
 
-Gaudy jewel of Vaarn’s southern badlands, the city of a thousand shaded bazaars, a thirsty, bustling morass of dusty courtyards and guild halls and artisans’ workshops. If there is something to be sold in Vaarn, then Gnomon is the place to buy it. Everything within the crumbling blue walls of the city has a price: water, food, song, love, and death.
+바안의 남부 황야에 위치한 화려한 보석 같은 도시, 노몬은 수천 개의 그늘진 시장, 먼지 투성이의 중심지로서 목마른 북적거리는 마당과 길드 회관, 장인들의 작업장으로 가득 차 있습니다. 바안에서 판매할 것이 있다면, 노몬이 구입하는 곳입니다. 도시 내 파편화된 푸른 벽 안에는 물, 음식, 노래, 사랑과 죽음까지 모든 것에 가격이 붙어 있습니다.
 
-The city’s signature landmark is the Apex of Gnomon, a towering blade of dark metal that stands in the midst of the city, casting a long shadow over the buildings that crowd around it. The Apex is a relic of the lost civilisation that preceded the Age of the Titans, and none now recall its original purpose. The wealthy make their homes upon the arcing back of the Apex; those less fortunate live in the blue dirt. The districts around the Apex are built in traditional Vaarnish style, townhouses moulded from bruise-blue clay and aged wooden beams. The city is defended by a low wall, although the wind-blown sand of a thousand generations has eroded the battlements until their defensive value is largely symbolic.
+도시의 대표적인 유명건물은 노몬의 꼭대기(Apex)로, 도시 중심에 우뚝 솟아있는 어두운 금속으로 만들어진 거대한 칼날입니다. 꼭대기는 타이탄 시대 이전의 잃어버린 문명의 유물로서 현재는 원래 목적을 기억하는 이가 없습니다. 부유층은 꼭대기의 곡선 모양 등받이 위에 집을 짓고 있으며, 불운한 자들은 푸른 흙 위에서 생활합니다. 꼭대기 주변 지구는 전통적인 바안 스타일로 조성되었으며, 멍든 파란색 점토와 오래된 나무 기둥으로 만들어진 타운하우스가 있습니다. 도시는 낮은 담벽으로 방어되고 있지만 천 세대 동안 바람에 맞아 부식된 성곽은 방어력보다 상징적인 가치를 갖게 되었습니다.
 
-## Why Visit Gnomon?
-Vaarnish travellers are drawn to the city for a multitude of reasons.
+## 노몬을 방문할 이유 (Why Visit Gnomon?)
+바안 여행자들은 다양한 이유로 노몬을 찾습니다.
 
-• Some wish to purchase the fine goods that can be found in Gnomon’s markets. Walking through the souks, one can observe stalls selling Vaarnish carpets, trained falcons, smoked meats, lizard-skin boots, psychedelic mushrooms, finely carved violins, elegant glassware, synthetic limbs, spider-silk robes, hardy zoxen, ornate firearms, bottles of dusky champagne, fecund wheels of cheese, and luminous panes of glass, which have been scavenged from the archaic satellites that fall to Urth on summer nights.
+• 일부는 노몬 시장에서 찾을 수 있는 좋은 상품을 구입하고자 합니다. 수크를 거닐며 바안 카펫, 훈련된 매, 훈제 고기, 도마뱀 가죽 장화, 환각적인 버섯, 정교하게 조각된 바이올린, 우아한 유리제품, 합성 팔다리, 거미줄 로브, 강인한 조엑센스를 파는 장롱들과 함께하는 모습을 볼 수 있습니다. 또한 고대 위성에서 우르스로 추락하는 과정에서 회수된 어두운 샴페인 병과 비옥한 치즈 원반이라는 것도 찾아볼 수 있습니다.
 
-• Some visit Gnomon because they seek an audience with officials of the New Hegemony. This august confederation claims to rule over Vaarn, although such edicts ring hollow in the deep desert, where the only law is that the strong survive. Nevertheless, the New Hegemony have conquered the southern badlands of Vaarn, and a garrison of legionaries keeps taxes flowing from Gnomon’s merchants to the distant Hegemon, May Their Name Be Sung Forever.
+• 일부는 신정부의 관료들과의 면담을 위해 노몬을 방문합니다. 이 귀족적인 연합체는 바안을 지배한다 주장하지만 이러한 명령은 깊은 사막 속에서 허망하게 울립니다. 거기서 강자만이 살아남는 법칙이 유효하기 때문입니다. 그러나 신정부은 바안의 남부 황야를 정복하였으며, 군사 단위의 주둔지가 노몬 상인들로부터 떨어진 지역에 위치해 있으며 대원세금이 계속해서 오가게 합니다.
 
-• Some travellers seek entertainment. The city is famed for its open-air theatres, where actors in rigid masks perform the rote and ritualised dramas of the fallen Autarchy. Gnomon is known also for chariot races, for gambling dens and opium sinks, for pillow-lined passionhouses, and for luxurious tea rooms, where those who fancy themselves wits can debate one of Gnomon’s many pontificating sophists.
+• 일부 여행자들은 오락을 찾기 위해 노몬에 방문합니다. 이 도시는 평야극장으로 유명하며 강경한 가면에 몸을 감싼 배우들이 전주되고 예식화된 타락 자치제의 드라마를 연기합니다. 또한 채리엇 경주와 도박 장소와 아픔에 잠긴 열정 집과 호화로운 찻집으로도 알려져 있으며 노몬의 많은 설교하는 철학자 중 한 명과 논쟁할 수 있는 장소입니다.
 
-• Others still approach Gnomon seeking wisdom, for the city is not only home to a thousand shaded markets, but also to a thousand philosopher’s guilds and esoteric colleges. The study of the lost wisdom of the ancients is feverishly pursued. Tech-priests, petty gurus, science mystics, and alchemists compete for patrons, prestige, and precious glimpses of the knowledge that was lost during the Great Collapse.
+• 다른 사람들은 지혜를 얻기 위해 노몬에 다가갑니다. 이 도시는 천 개의 음산 시장뿐만 아니라 천 개의 철학자 길드와 소수 만의 대학도 가지고 있습니다. 옛 잔해의 잃어버린 지혜에 대한 연구가 열광적으로 추구됩니다. 기술 사제, 소위 과학 신비주의자, 박사 및 황금수액 제조사 등이 후원자와 명성 및 중대한 붕궤능력(지식) 습득 경쟁을 벌입니다.
 
-• Some may come to Gnomon seeking justice, for this trader’s city is also the site of the Crimson Court, an ancient fount of bloody judgement. In this roaring crucible steel-swathed and sweat-slick Advocates deliberate in the sight of Gods and beggars alike the merits of legal cases civil and criminal, and in the spray of heartsblood upon the blue sands can a contract be enforced or unmade.
+• 일부는 정의를 찾기 위해 노몬에 올 수도 있습니다. 이 상인 도시는 고대의 피로 얼룩진 심판의 근원인 진홍빛 법정이 위치한 곳입니다. 이 떠들썩한 용광로에서 강철도 도금되고 땀에 흠뻑 젖은 중재자들은 신과 거지들 앞에서 시민 및 형사 사건의 가치를 숙고하며 논의합니다. 그리고 파란색 모래 위에 퍼지는 심장의 피 분무기 속에서 계약이 실행되거나 해체될 수 있습니다.
 
-## What Could the Players Do Here?
+## 여기에서 플레이어가 할 수 있는 것 (What Could the Players Do Here?)
 
-This issue of Vaults of Vaarn is intended to complement and deepen the content found in the first instalment, which sketched out the world of Vaarn and described the misfits who might adventure there. Issue two provides a closer look at an urban location, which could be used by the referee in a few ways.
+'바안의 볼트'의 이번 호는 첫 번째 호에서 그려진 바안 세계와 거기에서 모험을 떠날 수 있는 이상한 사람들에 대한 내용을 보완하고 깊게 알아보기 위해 제작되었습니다. 두 번째 호는 심판이 몇 가지 방식으로 사용할 수 있는 도시적인 장소를 자세히 살펴봅니다
 
-Firstly, the city of Gnomon could act as a home base for a party of vault-raiders. They can rest, relax, spend their ill-gotten loot, and acquire new tools or resources as their adventures demand. If the referee intends to use Gnomon in this way, it is suggested that they tone down the internal conflicts festering within the city, and make Gnomon safer than the wastelands outside its walls.
+첫째로, 노몬은 볼트 약탈자 파티의 거점으로 작용할 수 있습니다. 파티는 모험에서 원하는대로 휴식을 취하고 휴식을 취하며 얻은 전리품을 사용하고 새로운 도구나 자원을 구할 수 있습니다. 심판이 그노몬을 이러한 방식으로 사용하려면 도시 내부에서 굶주림이 고조되는 내부 갈등을 완화시키고, 노몬이 벽 밖의 황야보다 안전한 곳이 되도록 조정하는 것이 좋습니다.
 
-Alternatively, the city can act as a focal campaign setting in itself. In this case, the referee is advised to avail themselves of the major factions detailed in this supplement, and utilise at least one or two of them as recurring antagonists for the players. The referee should also use the generators provided to create minor factions and organisations that could help or hinder the players in their goals.
+또 다른 방법으로, 이 도시는 캠페인의 중심적인 설정 역할을 할 수 있습니다. 이 경우, 심판은 본 보충 자료에 상세히 기술된 주요 팩션들을 활용하고, 그 중 적어도 하나 또는 둘을 주인공들의 계속적인 적으로 활용하는 것이 좋습니다. 심판은 또한 제공된 생성기를 사용하여 주인공들의 목표에 도움이 되거나 방해가 될 수 있는 부수적인 파벌과 조직을 만드는 데 활용해야 합니다.
 
-A solid foundation for a campaign could involve pitting the players against the agents of Ancamulla the Water Baron, adding the Hegemony Consul Larke xan Lonrot and the gangster Prieval Prise into the mix as potential enemies or allies. However, other permutations of hostile and helpful factions are possible. Such techniques are detailed further in the following faction pages.
+캠페인을 위한 견고한 기반은 플레이어들을 물의 남작 앙카뮐라의 대리인들과 맞서게 하는 것으로 구성될 수 있으며, 신정부의 집정관 라르크 산 론로트와 갱스터 프리발 프라이즈를 잠재적인 적이나 동맹으로 추가할 수도 있습니다. 그러나 적대적이고 도움이 되는 다른 팩션들의 조합도 가능합니다. 이러한 기법들은 다음 팩션 페이지에서 자세히 설명되어 있습니다.
 
-Enticing a party into travelling to Gnomon should be reasonably simple. If they have uncovered a mysterious item of exotica in one of the vaults beneath Vaarn, then Gnomon is the place to have it appraised. If they are seeking an elusive NPC, then the bustling squares of Gnomon are surely home to someone who knows their whereabouts. If they wish to hire mercenaries, Gnomon is riddled with such desperate, violent wretches. If a character has had their eye put out by the claws of a ravenous lizard-lion, then Gnomon is the ideal place to locate a replacement. And so on.
+파티를 노몬으로 여행하도록 유인하는 것은 상당히 간단할 것입니다. 만약 그들이 바안 아래의 한 볼트에서 신비로운 이국적인 물건을 발견했다면, 그 물건을 감정하기 위해서는 노몬이 가야 할 곳입니다. 만약 파티가 보기 드문 NPC를 찾고 있다면, 붐비는 노몬의 광장에는 분명히 이들의 행방을 알고 있는 사람이 있을 것입니다. 만약 파티가 용병을 고용하길 원한다면, 노몬은 절망적이고 폭력적인 불쌍한 자들로 가득한 곳입니다. 만약 캐릭터가 굶주린 도마뱀사자의 발톱으로 눈을 잃었다면, 적절한 대체물을 찾기 위해서는 노몬이 이상적인 장소일 것입니다. 이처럼 노몬으로 향할 다양한 이유를 만들 수 있습니다.
 
-## Gnomon is Yours
 
-Gnomon is a kaleidoscope of places, incidents, people, and organisations. The city wears many faces, and no two versions of Gnomon should be the same at different gaming tables. My vision of the city is in the end only a spark; you are invited to kindle it.
+## 노몬은 당신의 것 (Gnomon is Yours)
 
-# Water Debt
+노몬은 장소, 사건, 사람들 및 조직의 다양한 모습으로 이루어진 일종의 화산입니다. 이 도시는 여러 가지 면모을 가지고 있으며, 서로 다른 게임 세션에서도 두 노몬의 모습은 동일하지 않아야 합니다. 제 노몬의 모습은 결국 작은 불꽃에 불과하며, 여러분은 이 도시를 더욱 활기차게 만들 수 있습니다.
+
+# 물 부채 (Water Dept)
 ----
 
-Vaarn is a dry and rain-starved country. In the trackless blue deserts, clans of Faa nomads battle over oases and ancient reservoirs. In Gnomon, the largest city in Vaarn, the need for water is even more desperate and the city’s economy is founded on water debt.
+바안은 건조하고 강우가 없는 나라입니다. 험준한 푸른 사막에서 파아 유목민들은 오아시스와 고대 저수지를 두고 싸웁니다. 바안에서 가장 큰 도시인 노몬에서는 물에 대한 필요성이 더욱 절박하며, 도시의 경제는 물에 대한 부채 위에 세워져 있습니다.
 
-## Where Does the Water Come From?
+## 물의 출처 (Where Does the Water Come From?)
 
-By ancient law, distribution of water in Gnomon is controlled by the Water Baron, Ancamulla. The Baron’s Aquifer machine stands at the base of the Apex, and it draws vast quantities of cool, fresh water from deep within the flesh of the Urth. Through a web of pipes and fountains, the city drinks at the Baron’s pleasure.
+고대의 법에 따라, 노몬에서는 물의 분배가 물의 남작 앙카뮐라(Ancamulla)에 의해 통제됩니다. 남작의 수원 장치인 아쿼퍼 기계는 꼭대기의 기반에 위치하며, 그것은 지하 심장부에서 시원하고 신선한 물을 대량으로 얻어옵니다. 파이프와 분수로 이루어진 망을 통해 도시에서는 물을 남작의 만족에 따라 마십니다.
 
-Access to water is administered by the Water Baron’s clerks and mercenaries. The poor drink from public fountains, while wealthier residents of Gnomon have private pipelines installed in their townhouses. All must pay the water tax, however, exchanging goods at the Baron’s banks for **water debt** tokens that are redeemable at public fountains. Each token is worth a day’s drinking water for one person, if they take small sips. The militiamen who man the water fountains may also exchange water for food, weapons, or other luxuries, depending on their mood. All water in Gnomon belongs to the Baron, and bringing water from outside the city walls is forbidden.
+물에 대한 접근은 물의 남작 앙카뮐라의 서기와 용병들이 관리합니다. 가난한 사람들은 공공 분수대에서 마시지만, 그노몬의 부유한 주민들은 자신들의 타운하우스에 개인용 파이프라인을 설치합니다. 그러나 모든 사람들은 물세를 지불해야 하며, 남작의 은행에서 상품과 바꿔서 공공 분수대에서 사용 가능한 물 부채 토큰으로 바꿉니다. 각각의 토큰은 작게 마실 경우 한 사람당 하루치 음용수로 사용할 수 있습니다. 분수대를 담당하는 자경단들은 물을 자신들의 기분에 따라 음식, 무기 또는 다른 사치품과 같은 것과도 거래할 수 있습니다. 노몬 내 모든 물은 남작 앙카뮐라 소유이며, 도시 벽 밖에서 가져온 물을 가져오는 것은 금지되어 있습니다.
 
-## Ancamulla and the New Hegemony
 
-The New Hegemony claims dominion over Gnomon and taxes all commerce there; this claim is relatively recent, and conflicts with the Water Baron’s ancient rights over the city.
+## 앙카뮐라와 신정부 (Ancamulla and the New Hegemony)
 
-One might ask why the Hegemony does not bring its military might to bear on the Baron, and seize control of his Aquifer. The answer is simple: Ancamulla has a sabotage device implanted within the mechanism. If he is imprisoned or killed, this device will trigger, and the water supply for Gnomon will cease forever. The city will collapse into anarchy and destroy itself within days. The Hegemony could certainly depose the Water Baron; however, his sabotage device gives them pause. Ruling a living city that pays taxes is preferable to ruling a lifeless husk. Therefore an uneasy peace exists between the two factions. Ancamulla provides a water ration to the Hegemony’s troops and administrators free of charge, and in return is left to tyrannise the common folk of Gnomon as he sees fit.
+신정부는 노몬을 지배하며 모든 상업에 세금을 부과합니다. 이 주장은 비교적 최근에 나왔으며, 이는 물의 남작가 도시에 대해 갖는 고대 권리와 충돌할 수 밖에 없습니다.
 
-The precise nature of the Baron’s sabotage device is left to the referee to decide. If it could be uncovered and disabled by the players, the balance of power in Gnomon would change forever.
+신정부가 남작에 대항하기 위해 군사력을 동원하지 않고 아쿼퍼을 차지하지 않는지 의문이 생길 수 있습니다. 답은 간단합니다. 앙카뮐라(Ancamulla)는 기계 내부에 파괴 장치를 심어두었습니다. 그가 구금되거나 죽으면 이 장치가 작동하여 노몬의 물 공급이 영원히 중단됩니다. 도시는 몇 일 안에 혼돈에 빠져 자멸하게 될 것입니다. 신정부는 분명히 물의 남작를 폐위시킬 수 있겠지만, 그의 파괴 장치 때문에 망설임이 생깁니다. 세금을 납부하는 살아있는 도시를 지배하는 것이 죽은 시체와 같은 허무망루를 지배하는 것보다 바람직하기 때문입니다. 따라서 두 팩션 사이에서는 어색한 평화가 유지되고 있습니다. 앙카뮐라는 신정부의 병사들과 관리자들에게 수수료 없이 물 할당량을 제공하고, 그 대가로 노몬 일반 백성들을 자유롭게 탄압할 수 있습니다.
+
+남작의 파괴 장치의 정확한 성격은 심판이 결정할 문제입니다. 만약 플레이어들이 이 장치를 찾아내고 비활성화할 수 있다면, 노몬에서의 권력 배분은 영원히 변화하게 될 것입니다.
 
 
 ## Water Debt and the Players
 
-The players must drink every day (unless they are synthetic). Make them aware of this, and punish them when they aren’t drinking. Inflicting the **Deprived** tag on them, which prevents them from healing lost HP, is a good start. If they go multiple days without drinking, you may impose stiffer penalties. Make it clear that the Water Baron has a monopoly on potable water in Gnomon, and that they’ll need to pay his militia with water debt tokens every day.
+플레이어들은 매일 물을 마셔야 한다는 것 (단, 신스는 제외)을 반드시 알게 해주세요. 그들이 마시지 않을 경우 처벌해야 합니다. **궁핍** 태그를 부여하여 체력 회복을 방해하는 것은 좋은 시작입니다. 만약 그들이 며칠동안 물을 마시지 않는다면, 보다 엄격한 벌칙을 부과할 수 있습니다. 물의 남작가 노몬에서 음용 가능한 물에 대한 독점권을 가지고 있다는 사실과 플레이어들이 매일 남작의 경비병에게 물 부채 토큰으로 지불해야 한다는 점을 명확히 하세요.
 
-You decide how much a token is worth, but I suggest allowing them to trade an item slot’s worth of equipment for a single token at the Baron’s banks.
+토큰의 가치는 당신이 심판으로서 결정할 수 있습니다만, 제안으로는 플레이어들이 아이템 칸 크기의 장비를 하나의 토큰으로 교환할 수 있도록 하는 것입니다.
 
-If your players are anything like mine, they will immediately start trying to find ways around this extortion. They will steal tokens, steal water from NPCs or from the Baron’s mercenaries, tap into private water pipes, or try to overthrow the Baron entirely and make water free for everyone. This is all good, as it drives conflict. Embrace it.
+당신의 플레이어들도 다른 플레이어와 비슷하다면, 그들은 즉시 이 협박에 대항하기 위한 방법을 찾기 시작할 것입니다. 토큰을 훔치거나 NPC나 남작의 용병으로부터 물을 훔칠 수도 있습니다. 개인용 수도관에 연결하거나 완전히 남작을 전복시켜 모든 사람에게 자유로운 물 공급체계를 구축하려고 할 수도 있습니다. 이 모든 시도를 충돌 요소로 받아들여 충돌 요소가 게임 진행에 기여하는 방식으로 받아 들이세요.
 
-# Bartering
+# 거래 (Bartering)
 ----
 
-Gnomon is a trading hub for all of Vaarn, and therefore it is likely that the PCs will find themselves interacting with merchants during their visit. Almost anything imaginable will be for sale somewhere in Gnomon’s **Great Souk**, located in the Morningshade district.
+노몬은 바안 전역의 무역 중심지이므로, 플레이어들은 방문하는 동안 상인들과 상호작용하게 될 가능성이 높습니다. 노몬의 아침그늘 지구에 위치한 **거대한 시장**에서는 상상할 수 있는 거의 모든 것을 판매합니다.
 
-Vaarn has no universally accepted currency, so interactions with shopkeepers and merchants will require the players to intuit what the seller is willing to accept in exchange for their goods.
+바안에는 일반적으로 인정되는 통용 화폐가 없으므로, 상점 주인과 거래할 때 플레이어들은 판매자가 그들의 물품과 교환하기 위해 어떤 것을 원하는지를 직관적으로 파악해야 합니다.
 
-I allow my players to make trades that seem reasonable at a glance, assuming that an item slots’ worth of goods can be exchanged for similar. The referee can use the table of approximate prices on the right to aid their judgement. If they are still uncertain whether a trade would be acceptable, they may roll d20 and refer to the table below, modifying with the PC’s EGO bonus.
+본 룰의 제작자는 플레이어들에게 한눈에 합리적으로 보이는 거래를 할 수 있도록 허용하고 있으며, 아이템 칸 크기의 장비와 유사한 것을 교환할 수 있다고 가정합니다. 심판은 오른쪽의 대략적인 가격 목록으로 판단에 도움을 줄 수 있습니다. 그럼에도 불구하고 거래가 가능한지 여부를 확신하지 못한다면, d20을 굴린 후 아래 표를 참조하되 PC의 EGO 보너스로 수정치를 적용하여 사용할 수 있습니다.
 
-<table>
-<thead><td>1d20</td><td>Merchant's Reaction</td></thead>
-<tr><td>1-3</td><td>They are enraged to the point of physical violence</td></tr>
-<tr><td>4-8</td><td>Time-waster, get out of their sight</td></tr>
-<tr><td>9-12</td><td>They shrug and look at the sky</td></tr>
-<tr><td>13-15</td><td>They want a different item instead</td></tr>
-<tr><td>16-19</td><td>They’re willing to make the trade</td></tr>
-<tr><td>20+</td><td>They like you enough to throw something extra in</td></tr>
-</table>
+| **1d20** | **상인의 반응** |
+| --- | --- |
+| 1-3 | 육체적 폭력행위를 보일 정도로 분노함 |
+| 4-8 | 시간을 낭비시킴. 그냥 시야에서 벗어나는 게 나음. |
+| 9-12 | 어깨를 으쓱하고 하늘을 바라봄 |
+| 13-15 | 대신 다른 물건을 원함 |
+| 16-19 | 거래가 성사되기를 원함 |
+| 20+ | 좋다 못해 뭔가를 추가로 더 줄 정도 |
 
 <table>
 <thead><td colspan="2">Typical Price In Water Debt Tokens</td></thead>
@@ -96,12 +97,12 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 <tr><td>Magnetic Boots</td><td>2 Tokens</td></tr>
 <tr><td>Hologram Projector</td><td>2 Tokens</td></tr>
 <tr><td>Medium Weapon (d8)</td><td>3 Tokens</td></tr>
-<tr><td>Light Armour (12/+2)</td><td>3 Tokens</td></tr>
+<tr><td>Light 장갑 (12/+2)</td><td>3 Tokens</td></tr>
 <tr><td>Rare Book</td><td>4 Tokens</td></tr>
 <tr><td>Luxury Clothes</td><td>4 Tokens</td></tr>
 <tr><td>Replacement Limb</td><td>5 Tokens</td></tr>
 <tr><td>Heavy Weapon (d10)</td><td>5 Tokens</td></tr>
-<tr><td>Heavy Armour (16/+6)</td><td>6 Tokens</td></tr>
+<tr><td>Heavy 장갑 (16/+6)</td><td>6 Tokens</td></tr>
 <tr><td>Hypergeometric Object</td><td>15 Tokens</td></tr>
 <tr><td>Pack Camel</td><td>20 Tokens</td></tr>
 <tr><td>Auto-Chariot</td><td>50 Tokens</td></tr>
@@ -109,524 +110,581 @@ I allow my players to make trades that seem reasonable at a glance, assuming tha
 <tr><td>Modest Townhouse</td><td>200 Tokens</td></tr>
 </table>
 
-# Factions
+<table><thead><tr><th colspan="2">물 부채 토큰 가격</strong></th></tr></thead>
+<tbody>
+<tr><td>하루치 식수</td><td>1 토큰</td></tr>
+<tr><td>낡은 장화</td><td>1 토큰</td></tr>
+<tr><td>섬광탄 (5)</td><td>1 토큰</td></tr>
+<tr><td>절구와 절구공이</td><td>1 토큰</td></tr>
+<tr><td>모래시계</td><td>1 토큰</td></tr>
+<tr><td>만능접착제 튜브</td><td>1 토큰</td></tr>
+<tr><td>조명탄 (5)</td><td>1 토큰</td></tr>
+<tr><td>가벼운 무기 (d6)</td><td>2 토큰</td></tr>
+<tr><td>모션 센서</td><td>2 토큰</td></tr>
+<tr><td>자동언어 번역기</td><td>2 토큰</td></tr>
+<tr><td>자기장 장화</td><td>2 토큰</td></tr>
+<tr><td>홀로그램 투영기</td><td>2 토큰</td></tr>
+<tr><td>보통 무기 (d8)</td><td>3 토큰</td></tr>
+<tr><td>가벼운 방어구 (12/+2)</td><td>3 토큰</td></tr>
+<tr><td>희귀한 책</td><td>4 토큰</td></tr>
+<tr><td>고급스러운 의복</td><td>4 토큰</td></tr>
+<tr><td>팔다리 대체품</td><td>5 토큰</td></tr>
+<tr><td>무거운 무기 (d10)</td><td>5 토큰</td></tr>
+<tr><td>무거운 방어구 (16/+6)</td><td>6 토큰</td></tr>
+<tr><td>초기하표본 물체</td><td>15 토큰</td></tr>
+<tr><td>짐꾼 낙타</td><td>20 토큰</td></tr>
+<tr><td>오토-채리엇</td><td>50 토큰</td></tr>
+<tr><td>작은 풍량바지선</td><td>150 토큰</td></tr>
+<tr><td>보통의 타운하우스</td><td>200 토큰</td></tr>
+</tbody>
+</table>
+
+# 파벌 (Factions)
 ----
 
-## Ancamulla, The Water Baron
+## 물의 남작 앙카뮐라 (Ancamulla, the Water Baron)
 
-- Synthetic. The Baron is a golden box, the size of a heavy dictionary.
-- His original brain was human; Ancamulla copied himself into a mechanical body centuries ago.
-- Has attachments that allow him to see, hear, speak, and manipulate objects. He can walk, but is usually carried around on a pillow by one of his wives.
-- Bored, petty, rude. Enjoys being begged for things.
-- Hoards wealth inside his opulent palace, but gets little joy from it.
-- **The Baron Wants**: to expel the Hegemony from Gnomon.
+- 신스입니다. 남작는 무거운 사전 크기의 황금 상자입니다.
+- 원래 뇌는 인간이었고, 앙카뮐라는 몇 세기 전에 기계적인 몸으로 자신을 복제했습니다.
+- 보기, 듣기, 말하기 및 물체 조작을 가능하게 하는 부속품을 가지고 있습니다. 
+- 걷기는 하지만 대부분의 시간은 아내 중 한 명이 베개 위에 실어다니며 이동합니다. 
+- 호화로운 궁전 안에 재산을 쌓아놓았지만 그것으로부터 큰 즐거움을 얻지 못합니다.
+- **남작이 원하는 것**: 신정부를 노몬에서 쫓아내기
 
-**ALLY**: Ancamulla is envisioned as an antagonist for the players. However, if the referee desires to make him more sympathetic, Ancamulla could be a benevolent figure, giving the water away for free. In this scenario it is Consul Lonrot who wishes to seize control of the Aquifer, thereby securing his hold over the city and perhaps winning the Hegemon’s favour. Alternatively, the Baron could be rarely seen outside the Aquifer; it turns out his own militia captains have held him hostage for years, and it is their corruption and greed that rules Gnomon. Perhaps Ancamulla is devoted to his work within the Aquifer machine, and has little idea of what is being done in his name.
+**동맹**: 앙카뮐라는 플레이어들에게 대항하는 캐릭터로 상상됩니다. 그러나 심판이 그를 더욱 공감할 수 있는 인물로 만들고자 한다면, 앙카뮐라는 자유롭게 물을 제공하는 자비로운 인물로 설정될 수 있습니다. 이 경우에는 집정관 론로트가 아쿼퍼를 차지하여 도시를 통제하고 신정부의 호의를 얻으려는 의도를 가진 인물이 될 수 있습니다. 또 다른 시나리오로는 남작이 아쿼퍼 외부에서 거의 보이지 않는 것이 사실은 그의 경비대장들이 여러 해 동안 그를 인질로 잡아두었으며, 타락과 탐욕으로 노몬을 지배하고 있다는 것입니다. 어쩌면 앙카뮐라는 아쿼퍼 기계 내에서 자신의 일에 전념하고 있으며, 자신의 이름으로 무슨 일이 벌어지고 있는지 잘 모르고 있는 것일지도 모릅니다.
 
-**VILLAIN**: Hopefully a story that writes itself. Ancamulla is a wealthy, cruel monopolist who has a stranglehold on the most valuable resource in the city. As a machine, he can never experience the thirst that terrifies those under him. Show the players the Baron’s militia denying begging families a drink, smashing open barrels of illegal water, and imprisoning people for water debt. They will probably want to do something about this.
+**악역**: 앙카뮐라는 도시에서 가장 가치 있는 자원을 통제하는 부유하고 잔인한 독점자입니다. 기계로서 그는 그를 지배하는 사람들에게 공포를 주는 목마름을 절대로 경험할 수 없습니다. 남작의 경비대가 구걸하는 가족들에게 마실 물을 거부하고, 불법적인 물통을 부수며, 물 부채로 사람들을 구금하는 모습을 플레이어들에게 보여주세요. 그들은 아마도 이 문제에 대해 무언가를 하고 싶어할 것입니다.
 
-### Ancamulla, The Water Baron of Gnomon
-_Synthetic_
+### 노몬의 물의 남작 앙카뮐라
+_인조적_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 24 (Ancient Warding Field)</td></tr>
-<tr><td><b>Morale</b>: 1</td><td><b>Attacks</b>: Feeble Swipe (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Ancamulla does not expect to fight; he has mercenaries for that. If in mortal danger he will likely flee or try to bargain using his wealth. His chassis is fitted with an ancient Warding Field, which renders most kinetic attacks against his person harmless. A well-timed EMP would disrupt the warding field, reducing him to his natural Armour of 11.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 24 (고대의 회피 장벽)</td></tr>
+<tr><td><b>사기</b>: 1</td><td><b>공격</b>: 허약한 강타 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 앙카뮐라는 전투를 원하지 않습니다; 그에게는 용병이 있습니다. 만약 치명적인 위험에 처하면 그는 아마도 도망가거나 자신의 부를 이용해 협상을 시도할 것입니다. 그의 몸체는 고대의 경계 필드로 갖추어져 있어, 대부분의 운동 에너지 공격을 무력하게 만듭니다. 시기를 잘 맞춰서 EMP를 적중시키면 경계 필드를 방해하여, 그의 장갑이 11로 줄어들 것입니다.
+</td></tr>
 </table>
 
-## The Baron's Militia
+## 물의 남작의 민병대 (The Baron’s Militia)
 
-- Rabble of thugs, cutthroats, and layabouts. Used by the Water Baron to collect debt and guard the public fountains.
-- Wear the Baron’s livery: green and yellow. No standard-issue weapons or armour.
-- Known for violence, extortion, and dishonesty.
-- Maintain a master ‘dry list’ of water debtors; helping any of these people drink is a crime.
-- **Faction Base**: the Baron’s Aquifer machine.
+- 폭력적이고 비열하며 게으른 무리의 폭력단, 살인자 및 태만한 사람들입니다. 물의 남작를 위해 빚을 징수하고 공공 분수대를 지키기 위해 동원됩니다. 
+- 남작의 복장인 녹색과 노란색 옷을 입습니다. 표준 무기나 갑옷은 제공되지 않습니다. 
+- 폭력, 갈취 및 부정직함으로 알려져 있습니다. 
+- "메마름 목록"라는 수금 목록을 유지하며, 이 목록에 있는 사람들에게 도움을 주어 물을 마시게 하는 것은 범죄입니다. 
+- **파볼 본진**은 남작의 아쿼퍼 기계입니다. 
 
-**HOW TO JOIN**: Present yourself at the gates of the Aquifer and demand an audition. You must fight bare-handed against a captain. Those who make a good show of the brawl will be offered a job.
+**가입방법**: 아쿼퍼의 대문에 가서 오디션을 요구하십시오. 당신은 대장과 맨손으로 싸워야 합니다. 격투에서 좋은 연기를 보이는 사람들에게 일자리가 제공될 것입니다.
 
-**WHAT’S EXPECTED OF MEMBERS**: You will enforce the Baron’s whims, collect on outstanding debts, and guard the public fountains. You will arrest water thieves, stay alert for water smuggling rings, and guard water convoys that are sent out into the wastes to supply Hegemony estates and outposts. You will do all of this unquestioningly, and with enthusiastic brutality.
+**구성원로서 기대하는 것**: 남작의 변덕을 집행하고 미수금 금액을 수금하며 공공 분수대를 지키게 될 것입니다. 물 도둑들을 체포하고, 물 밀매 조직에 경계를 가지며, 신정부 소속의 영지와 전초기지에 물을 공급하기 위해 황무지로 파견되는 물 군단을 지킬 것입니다. 이 모든 일들은 의심 없이 열성적인 잔인함으로 수행해야 합니다.
 
-**BENEFITS**: You are given a yellow and green jacket to wear. You are guaranteed two meals a day and as much water as you can drink. People on the street will treat you with fearful respect. You can throw people into the Baron’s jails or petition for them to be added to the ‘dry list’. Militiamen who please the Baron may be moved to guard duty within the Aquifer itself, giving them access to the machinery.
+**혜택**: 노란색과 녹색 재킷을 입을 수 있습니다. 하루에 두 끼의 식사와 마실 수 있는 만큼의 물이 보장됩니다. 거리에서 사람들은 당신을 경외하는 존경으로 대합니다. 남작의 감옥으로 사람들을 몰거나 '메마름 목록'에 오르게끔 청원할 수 있습니다. 군단원 중 남작을 기쁘게 하는 사람은 아쿼퍼 자체에서 경비 임무를 맡게 되어 기계 시설에 접근할 수 있습니다.
 
-### Militiaman
-_Biological_
+
+### 민병대 (Militiaman)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 13</td></tr>
-<tr><td><b>Morale</b>: 3</td><td><b>Appearing</b>: d8</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Cheap Blade (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Swaggering bullies who will only attack if they outnumber their opponents.</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 13</td></tr>
+<tr><td><b>사기</b>: 3</td><td><b>수량</b>: d8</td></tr>
+<tr><td colspan="2"><b>공격</b>: 값싼 칼날 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 자신들이 상대보다 수적으로 우위에 있을 때만 공격하는 거만한 깡패들입니다.</td></tr>
 </table>
 
-### Militia Captain
-_Biological_
+### 민병대 대장 (Militia Captain)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 13</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Assault Laser (d8 beam)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Commands a group of militiamen; will always be found guarding a public fountain.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 13</td></tr>
+<tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: 돌격 레이저 (d8 광선)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 민병대를 지휘하는 사람으로, 항상 공공 분수대를 지키는 모습으로 발견됩니다.</td></tr>
 </table>
 
-## Hegemony Consul, Larke Xan Lonrot
+## 신정부 집정관 라르크 산 론로트 (Hegemony Consul, Larke Xan Lonrot)
 
-- True-kin. Assigned to rule Gnomon by the distant Hegemon, Praise Their Name One Thousand Times.
-- Regards the position as a punishment; hates Vaarn, hates Gnomon, wishes he were back in the Hegemony. Has been here for decades.
-- Sophisticated, morose, heavy drinker. Black rages. Often hungover.
-- Tall, handsome, and commanding. Dark hair, dark clothing, never sweats.
-- Sarcastic, shrewd, and deeply depressed.
-- **Larke Wants**: to be relieved of his Consulship in a manner that will allow him to retain his pride. Has no idea how this could be achieved.
+- 트루킨. 먼 신정부에 의해 노몬을 지배하도록 배정되었습니다. 신정부의 이름을 천 번 찬양합니다.
+- 이 위치를 처벌로 여기며, 바안을 싫어하고, 노몬을 싫어하며, 신정부으로 돌아가고 싶어합니다. 수십 년간 여기에 있었습니다.
+- 세심하고 우울한 성격으로, 술을 많이 마시는 경향이 있습니다. 어두운 분노를 느낄 때가 많으며 자주 숙취 상태입니다.
+- 키가 크고 잘생기며 위압적인 외모를 가지고 있습니다. 검은 머리와 어두운 옷을 입으며 절대로 땀을 흘리지 않습니다.
+- 비꼬는 어조로 영리하고 신중하지만 깊은 우울함에 시달립니다.
+- **라르크가 원하는 것:** 자신의 집정관 직위에서 자긍심을 유지한 채 해임되기. 이것이 어떻게 이루어질 수 있는지는 알지 못합니다.
 
-**ALLY**: Larke can be of help to the party, if they have something to offer him. The Consul hates Ancamulla, and will be happy to provide tacit support for a group that plans to topple the Water Baron - so long as they understand that if they are caught, his name is never spoken. Completely securing Hegemony control of the Aquifer machine would be his ticket back to the Hegemon’s good graces.
+**동맹**: 라르크는 파티에 도움을 줄 수 있습니다. 그러나 파티가 그에게 제공할 것이 있어야 합니다. 집정관은 앙카뮐라를 싫어하며, 물의 남작를 전복할 계획을 세운 그룹에 대해 암묵적인 지원을 제공하는 것을 기쁘게 생각할 것입니다. 다만, 만약 이 계획이 발각되어도 그의 이름이 언급되지 않아야 한다는 점을 이해해야 합니다. 아쿼퍼 기계를 완전히 신정부의 통제하에 두는 것은 그를에게 있어 신정부의 신의를 회복할 길일 것입니다.
 
-**VILLAIN**: If the referee desires, Larke can fill the role of a primary campaign villain. Accentuate his black rages, his hatred of Gnomon and its inhabitants, and the ruthless lengths he will go to ensuring a steady flow of taxes to the Hegemon. Show his men taking a well-liked NPC prisoner over a minor violation of Hegemony law. It is recommended that you pair this portrayal of Consul Lonrot with an equally villainous Commander Loonflower, and cast the Water Baron as a sympathetic figure, who is attempting to keep control of the water supply to prevent the Hegemony from gaining an unbreakable grip over the city.
+**악역**: 만약 게임 진행자가 원한다면, 라르크는 주요 캠페인 악역의 역할을 수행할 수 있습니다. 그의 어두운 분노, 노몬과 그곳의 주민들에 대한 증오, 그리고 신정부에게 안정적인 세금 흐름을 보장하기 위해 가장 무자비한 수단까지 사용하는 것을 강조하세요. 신정부 법률의 사소한 위반으로 인해 플레이어들이 좋아하는 NPC를 포로로 잡는 모습을 보여주세요. 이러한 집정관의 묘사와 함께 동등하게 사악한 사령관 룬플라워를 조합하고, 물의 남작을 공감할 수 있는 인물로 배치하여, 신정부이 도시에 절대적인 지배력을 확보하지 못하도록 물 공급을 통제하려는 노력 중인 인물로 설정하는 것이 좋습니다.
 
-### Hegemony Consul, Larke Xan Lonrot
-_Biological_
+### 신정부 집정관 라르크 산 론로트
+_유기체_
 <table>
-<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 16 (Adamant Linen Robes)</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Attacks</b>: Monofilament Sword (2d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Always accompanied by Lictors. Lonrot is a competent enough duelist, but will not have any interest in risking his life in battle. If cornered he will use the active camouflage rig inside his robes to become invisible and attempt to escape.</td></tr>
+<tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 16 (단단한 리넨 의복)</td></tr>
+<tr><td><b>사기</b>: 2</td><td><b>공격</b>: 모노필라멘트 검 (2d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 항상 릭터들와 동행합니다. 론로트는 충분히 능숙한 결투가지만, 전투에서 자신의 생명을 위험에 빠뜨리는 것에는 관심이 없습니다. 궁지에 몰리면 그의 의복 안에 있는 활성화된 위장 장치를 사용하여 투명해져 탈출을 시도할 것입니다</td></tr>
 </table>
 
-## House Lonrot
+## 론로트 가문 (House Lonrot)
 
-- The dominant Noble House in Gnomon. Transplants from the New Hegemony. Big fish in a small pond.
-- Wear livery of black and purple.
-- Equipped with the latest Hegemony tech.
-- Will support the Fifth Legion in operations within the city. Do not police the streets, except on the Apex.
-- **Faction Base**: the Consul’s Manse, at the peak of the Apex.
+- 노몬에서 우세한 귀족 가문입니다. 신정부에서 이주한 가문으로, 작은 연못의 큰 물고기라고 할 수 있습니다.
+- 검은색과 보라색의 복장을 입습니다.
+- 최신 신정부 기술로 장비를 갖추고 있습니다.
+- 도시 내 작전에서 제5 군단을 지원할 것입니다. 그러나 꼭대기를 제외한 거리에는 경찰 역할을 하지 않습니다.
+- **파벌 본진:** 꼭대기 정상에 위치한 집정관의 저택
 
-**HOW TO JOIN**: The Consul has many informants and supplicants. It would not be difficult for the party to join their ranks, if they have useful information. Being sworn into the service of House Lonrot is more difficult. Such an honour might be extended to individuals who greatly aided the Consul, and were willing to swear a blood oath.
 
-**WHAT’S EXPECTED OF MEMBERS**: Your life belongs to House Lonrot. You will obey without question, and will defend the Lonrot family to the death. You will be asked to arrest criminals, spy on the Consul’s enemies, and oversee the collection of Hegemony taxes from Gnomon’s merchant class.
+**가입방법**: 집정관은 많은 정보원과 지원자들을 가지고 있습니다. 파티가 유용한 정보를 가지고 있다면 그들의 행렬에 합류하는 것은 어렵지 않을 것입니다. 하지만 론로트 가문에게 종사하는 것은 더 어렵습니다. 집정관을 크게 도와주며 피로 맹세할 의사가 있는 개인에게만 이러한 명예가 돌아갈 수 있습니다.
 
-**BENEFITS**: You are given black and purple livery. You will eat and drink three times a day, and sleep inside the Consul’s Manse, one of the safest places in Gnomon. You are afforded all the prestige that befits an agent of the city’s governor. Household Guards, Lictors, and Hegemony soldiers will come to your aid if you are in danger.
+**구성원으로서 기대하는 것**: 당신의 목숨은 론로트 가에 속합니다. 의심 없이 순종하고, 죽음을 감수하며 론로트 가문을 보호해야 합니다. 범죄자를 체포하도록 요청받거나, 집정관의 적들을 감시하거나, 노몬의 상인 계급으로부터 신정부 세금 징수를 감독하는 일 등이 요구됩니다.
 
-### Household Guard
-_Biological_
+**혜택**: 검정색과 보라색으로 이루어진 복장이 주어집니다. 하루에 세 번 식사와 음료를 할 수 있으며, 노몬에서 가장 안전한 장소 중 하나인 집정관의 저택에서 잠을 자게 됩니다. 도시 지배자의 대리인으로서 어울리는 모든 명성과 지위를 누릴 수 있습니다. 만약 위험에 처한다면 가정 경비원, 릭터, 신정부 병사들이 당신을 도와줄 것입니다.
+
+### 가정 경비원 (Household Guard)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Pulse Rifle (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Well-equipped and trained, but not as numerous as the Legionaries or the Baron’s militiamen.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 4</td><td><b>수량</b>: d6</td></tr>
+<tr><td colspan="2"><b>공격</b>: 펄스 소총 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 잘 갖추어지고 훈련되었지만, 군단이나 앙카뮐라의 민병대만큼은 수가 많지 않습니다.</td></tr>
 </table>
 
-### Consul's Lictor
-_Biological_
+### 집정관의 릭터 (Consul's Lictor)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 18</td></tr>
-<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Anbaric Pike (d10 electrical)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: When Consul Larke would take lethal damage, a Lictor can choose to die instead.</td></tr>
+<tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 18</td></tr>
+<tr><td><b>사기</b>: 7</td><td><b>수량</b>: d6</td></tr>
+<tr><td colspan="2"><b>공격</b>: 전기 장창 (d10 전기)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 집정관 라르크가 치명적인 피해를 입을 때, 릭터가 대신해서 죽을 수 있습니다.</td></tr>
 </table>
 
-## Commander Loonflower
+## 지휘관 룬플라워 (Commander Loonflower)
 
-- True-kin. Ranking commander of the New Hegemony’s Legion in Gnomon.
-- Big, forceful, jolly, energetic.
-- Moustache, thinning hair, flushed face. Sunburns easily.
-- Cheerfully bigoted towards all non true-kin characters. Knows lots of jokes about cacogen.
-- Loves poetry. Writes bad poetry.
-- Believes he’s engaged in a civilising mission. Vaarn can be tamed.
-- **Loonflower Wants**: to keep order and ensure the Hegemony’s borders are safe.
+- 트루킨. 노몬에서 신정부의 군단에서 손에 꼽히는 지휘관입니다.
+- 큰 키에 힘찬, 명랑하고 활기찬 성격을 가지고 있습니다.
+- 수염이 있으며 머리카락이 적어지고 얼굴이 붉으스름합니다. 쉽게 일광 화상을 입습니다.
+- 비참한 타인들에 대해 유쾌하게 편견을 가지며, 캐커젠에 대한 다양한 농담을 알고 있습니다.
+- 시를 사랑하며, 엉터리 시를 쓰기도 합니다.
+- 자신이 문명화 임무에 참여하고 있다고 믿으며, 바안도 길들일 수 있다고 생각합니다.
+- **룬플라워가 원하는 것:** 질서를 유지하고 신정부 국경의 안전을 보장하는 것입니다.
 
-**ALLY**: Commander Loonflower can be played as a jocular, reassuring presence. He is a good foil for Ancamulla, as he dislikes the Hegemony’s power being compromised by what he sees as a relic of an older Vaarn. He is very aware of the risks involved in deposing Ancamulla, but will be interested in any suggestion the PCs make that could allow this to happen. If they come up with a plausible plan to disable Ancamulla’s sabotage device inside the Aquifer, Loonflower will be eager to assist them - on the condition that control over the water supply is turned over to the New Hegemony.
+**동맹**: 지휘관 룬플라워는 유쾌하고 안심감을 주는 존재로서 연기될 수 있습니다. 그는 신정부의 권력이 오래된 바안의 유물로 인해 손상받는 것을 싫어합니다. 앙카뮐라를 전복하는 것에 따른 위험성을 잘 알고 있지만, PC들이 이를 가능하게 할 제안을 한다면 흥미를 갖게 됩니다. 만약 그들이 아쿼퍼 내부의 앙카뮐라의 파괴 장치를 비활성화할 수 있는 타당한 계획을 내놓으면, 룬플라워는 즉시 그들을 돕기 원할 것입니다 - 다만 물 공급 통제권이 신정부에게 넘어가야 하는 조건으로요.
+ny.
 
-**VILLAIN**: To make Loonflower an antagonist, heighten his bigotry against non-human characters and NPCs. He is still bluff, jovial and playful, but there is real hatred behind his jokes. His soldiers share his prejudice, and the cacogen, newbeasts, mycomorphs and synths of Gnomon are terrorised by the Hegemony’s true-kin soldiers. Loonflower could also be carrying out a campaign of extermination against the tribes of Faa nomads who live in the badlands around Gnomon. Play up the imperialist aspects of the New Hegemony, and make Loonflower the avatar of these tendencies.
+**악역**: 룬플라워를 악역으로 만들기 위해서는 비인간 캐릭터와 NPC에 대한 편견을 강조하세요. 여전히 거짓말을 하는 모습같이 말이에요, 명랑하며 장난스러운 성격은 있지만, 그 농담 뒤에 진정한 증오가 숨어있습니다. 그의 병사들도 같은 편견을 가지고 있으며, 노몬의 캐커젠, 뉴비스트, 버섯체 및 신스는 신정부의 트루킨 병사들에 의해 고통받습니다. 룬플라워는 노몬 주변 황야에서 생활하는 파아 부족들에 대한 멸종도 벌일 수 있습니다. 신정부의 제국주의적 요소를 강조하고, 룬플라워를 이러한 경향성의 상징으로 만드세요.
 
-### Hegemony Commander, Eldwall Loonflower
-_Biological_
+### 신정부 지휘관 엘드웰 룬플라워 (Hegemony Commander, Eldwall Loonflower)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 16 (Hegemony Ferro-Plate)</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Hegemony Sidearm (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Unlikely to fight alone; he will be accompanied by four Hegemony Centurions. Hegemony troops will never fail Morale checks while Loonflower is alive and fighting with them.</td></tr>
+<tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 16  (신정부 철갑)</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>공격</b>: 신정부 부무장 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 혼자 싸울 가능성이 적습니다. 그는 네 명의 신정부 백인대장과 함께 있을 것입니다. 룬플라워가 살아서 함께 싸우는 동안, 신정부 병력들은 결코 사기 판정에 실패하지 않을 것입니다.</td></tr>
 </table>
 
-## The Fifth Hegemony Legion
+## 제5 신정부 군단 (The Fifth Hegemony Legion)
 
-- The Hegemony’s occupying military force in the city.
-- Only true-kin can become legionaries, although cacogen, newbeasts, and synths serve as auxiliary soldiers.
-- Easily recognised by their scarlet uniforms and Hegemony accents.
-- Patrol the city streets and walls, watching for unrest.
-- Rivalry between the Legion and Ancamulla’s militia, which can become violent.
-- **Faction Base**: the Legion barracks at the Noonfort.
+- 도시에서의 신정부 점령군입니다.
+- 군단병이 될 수 있는 것은 트루킨에 한정되지만, 캐커진, 뉴비스트 및 신스는 보조 병사로 복무합니다.
+- 그들은 붉은색 군복과 헤게모니 사투리로 쉽게 알아볼 수 있습니다.
+- 도시의 거리와 성벽을 순찰하며 불안을 주시합니다.
+- 군단과 앙카뮐라의 민병대 간의 경쟁이 있으며, 이는 폭력으로 이어질 수 있습니다.
+- **파벌 본진:** 정오의 요새에 위치한 군단 병영.
 
-**How To Join**: You must be true-kin, and swear an oath to serve the Hegemon all your days. PCs with other ancestries may be employed as auxiliary troops, who wear dull green.
 
-**What's Expected of Members**: You must obey the orders of your Centurion unquestioningly. Failure to do so will result in court martial, and likely your execution. You are expected to police Gnomon, arrest troublemakers, assist tax collectors, and defend the city from outside threats. You may be dispatched to eliminate dangerous monsters that have strayed too near to Gnomon, or to reinforce Hegemony garrisons in other parts of Vaarn.
+**가입방법**: 당신은 트루킨이야 하며, 신정부에 일생을 바치는 맹세를 해야 합니다. 다른 혈통을 가진 PC들은 진녹색 유니폼을 입은 보조 병사로 고용될 수 있습니다.
 
-**Benefits**: You are given a red uniform, standard-issue autorifle, fragmentation grenades, and a Hegemony water pass, which entitles you to a respectable ration of water every day. You will be able to count on your fellow soldiers for backup, and have free reign to bully and extort small traders.
+**구성원으로서 기대하는 것**: 당신은 백인대장의 명령에 의문 없이 순종해야 합니다. 그렇지 않으면 군법회의에 재판되고, 사형될 가능성이 큽니다. 노몬에서 경찰 역할로 수행하고, 문제 일으키는 자를 체포하고, 세금 징수원들을 도와 도시를 외부 위협으로부터 방어해야 합니다. 노몬에 가까워진 위험한 괴물들을 처치하거나, 바안의 다른 지역에서 심왕국 주둔지를 강화하기 위해 파견될 수도 있습니다.
 
-### Hegemony Legionary
-_Biological_
+**혜택**: 붉은색 유니폼과 표준 제식 자동소총, 파편 수류탄 및 신정부 물 이용권가 제공됩니다. 이로써 매일 적절한 양의 물 할당을 받을 수 있습니다. 동료 병사들의 지원에 기댈 수 있으며, 소규모 상인들을 괴롭히고 협박하는 것에 대해서도 자유롭습니다.
+
+### 신정부 군단병 (Hegemony Legionary)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 6</td><td><b>Appearing</b>: d8</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) / Grenade (d10 blast, DEX save to throw back)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: When fought in streets of Gnomon, will call for backup every second turn, summoning another d8 Legionaries.</td></tr>
+<tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 6</td><td><b>수량</b>: d8</td></tr>
+<tr><td colspan="2"><b>공격</b>: 자동소총 (d8) / 수류탄 (d10 범위, DEX 내성굴림으로 회피)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 노몬의 거리에서 싸울 때, 매 두 번째 턴마다 증원을 요청하여 추가로 d8 군단원을 소환합니다.</td></tr>
 </table>
 
-### Hegemony Centurion
-_Biological_
+### 신정부 백인대장 (Hegemony Centurion)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 16</td></tr>
-<tr><td><b>Morale</b>: 8</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Autorifle (d8) + Rapier (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Legionaries in presence of Centurion use the Centurion’s morale score.</td></tr>
+<tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 16</td></tr>
+<tr><td><b>사기</b>: 8</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: 자동소총 (d8) + 레이피어 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 백인대장 휘하에 있는 군단원은 백인대장의 사기 점수를 사용합니다.</td></tr>
 </table>
 
-## Abbess Faunia
+## 여사장 파우니아 (Abbess Faunia)
 
-- New-Sheep. Spiritual leader of the Church of the Promised Sun.
-- Grandmotherly, soft-spoken, frail.
-- Believes her faith will one day lead to the rejuvenation of Urth’s dying sun. Leads long and arduous rituals to this effect.
-- Dresses in the colours of the Sun That Was And Will Be: argent white and gleaming gold.
-- Ambiently psychic; can always tell if someone means her harm.
-- **Faunia Wants**: to grow her flock and live to see the coming of the Promised Sun. She would do almost anything to hasten its arrival.
+- 뉴-양 약속된 태양의 교회의 영적 지도자입니다.
+- 할머니 같은 모습으로 부드럽고 조용하며 허약합니다.
+- 그녀는 자신의 믿음이 언젠가 죽어가는 우르스의 태양을 회복시킬 것이라고 믿습니다. 이를 위해 긴 시간과 고난스러운 의식을 주도합니다.
+- 은백색과 반짝이는 황금색을 띤 "지나온 태양과 다시 될 태양"의 색상으로 옷을 입습니다.
+- 주변적으로 초능력적인 능력을 가지고 있으며, 상대방이 자신에게 해를 가하려는 의도를 항상 감지할 수 있습니다.
+- **파우니아가 원하는 것:** 그녀의 교세을 키우고 약속된 태양의 오래 기다림을 보기 위해 살아남기를 원합니다. 그녀는 약속된 태양의 도래를 서두르기 위해서라면 거의 모든 일을 할 수 있습니다.
 
-**ALLY**: Abbess Faunia can be played as a calming, more gentle presence in Gnomon. She’s the opposite of Ancamulla and the Hegemony. They take; Faunia gives. The Church of the Promised Sun delivers charity to orphans, beggars, and the oppressed, for it is only through grace and mercy that the Sun That Is Promised will ever again light the Urth with its golden rays. Faunia has no great military power or strength of arms, but if the PCs are in her favour, they will be in the favour of anyone else in the city who worships the Promised Sun. This is no small matter, and the support of the great mass of worshippers could be a decisive factor in toppling one of the other factions.
+**동맹**: 여사장 파우니아는 노몬에서 진정하고 부드러운 존재로 연기할 수 있습니다. 그녀는 앙카뮐라와 신정부의 안티태제입니다. 이들은 가져가지만, 파우니아는 주는 존재입니다. 약속된 태양 교회는 고아, 거지 및 억압받는 이들에게 자선을 실천합니다. 왜냐하면 은혜와 자비로써만 약속된 태양이 다시 우르스를 황금빛으로 비출 수 있기 때문입니다. 파우니아에게는 강력한 군사력이나 무기력이 없지만, PC들이 그녀의 호의를 받으면 약속된 태양을 숭배하는 도시 내 다른 사람들의 호의도 받을 것입니다. 이것은 사소한 문제가 아니며, 많은 숭배자들의 지원은 다른 팩션 중 하나를 전복하는 결정적인 요소가 될 수 있습니다.
 
-**VILLAIN**: Faunia as an antagonist is still grandmotherly, soft-spoken and physically gentle. However, she is the recipient of prophetic dreams, glorious images of the Promised Sun rising bright and terrible to burn away the wickedness of the world and bring the righteous few to a gleaming salvation. Faunia must hasten the arrival of this celestial saviour, by rooting out unbelievers and burning them alive in great rapturous bonfires. This version of Faunia runs Gnomon as a theocratic police-state, probably with the support of the Water Baron or Consul Lonrot, who have been converted to her faith by the fervour of her visions.
+**악역**: 파우니아를 악역으로 만드는 경우에도 할머니 같고 부드럽게 말하며 신체적으로 온화합니다. 그러나 그녀는 예언적인 꿈을 받아들이며, 약속된 태양이 밝고 두려움없이 일어나서 세상의 사악함을 태워버리고 영광스러운 구원을 위해 의로운 소수만을 이끌어갈 것임을 떠올릴 수 있습니다. 파우니아는 비신자들을 찾아내어 크고 황홀한 모닥불에서 산 채로 태우면서 천상의 구원자 도래를 서두릅니다. 이 버전의 파우니아는 노몬을 신정 경찰국가로 운영하며 아마도 그녀의 환희 넘치는 환상에 의해 개종한 물의 귀족 또는 집정관 란로드와 함께 할 것입니다.
 
-### Abbess Faunia, Apostle Of The Promised Sun
-_Biological_
+### 약속된 태양의 사도, 여사장 파우니아(Abbess Faunia, Apostle Of The Promised Sun)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 11 (Golden Robes)</td></tr>
-<tr><td><b>Morale</b>: 3</td><td><b>Attacks</b>: Fists (d4)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Faunia is no warrior, but her ambient psychic powers mean that she is impossible to surprise. If attacked, she will activate her most precious artefact: a hard-light projector that creates seven solid-state holograms of her, which will scatter in all directions. In the confusion she will attempt to escape. Note these holograms are physical objects, and can be restrained by the PCs.</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 11 (황금빛 의복)</td></tr>
+<tr><td><b>사기</b>: 3</td><td><b>공격</b>: 주먹질 (d4)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 파우니아는 전사가 아니지만, 그녀 주위에서 맴도는 정신적 힘은 그녀를 놀라게 할 수 없음을 의미합니다. 공격 받으면, 그녀는 가장 소중한 유물인 경화 빛 프로젝터를 활성화할 것입니다. 이 프로젝터로 파우니아 모습의 고체 상태 홀로그램을 7개 생성하며, 이들은 모든 방향으로 흩어집니다. 혼란 속에서 그녀는 도망치려고 시도할 것입니다. 이 홀로그램들은 물리적 객체이며, PC들에 의해 제약될 수 있습니다.</td></tr>
 </table>
 
-## Church Of The Promised Sun
+## 약속된 태양의 교회 (Church Of The Promised Sun)
 
-- Religious faith. Their scripture and religious practices are focused on the renewal of Urth’s red sun.
-- Dominant religion in Gnomon. Many shrines, churches, and wall frescoes dedicated to this faith.
-- Recognise one another through sunburst medallions and the greeting ‘May you live to see the Promised Sun’.
-- Priests wear golden robes and smiling sunburst masks.
-- Prayers held at sunrise and sunset, the dead are burned on pyres.
-- **Faction Base**: the Temple of the Promised Sun, on Gnomon’s Apex.
+- 종교적 신앙. 그들의 성경과 종교적 실천은 우르스의 붉은 태양의 재생에 초점을 맞추고 있습니다.
+- 노몬에서 가장 우세한 종교입니다. 이 신앙에는 헌당, 교회 및 벽화로 된 많은 성역이 있습니다.
+- 태양폭발 문장과 "살아서 약속된 태양을 보시길" 인사로 서로를 알아볼 수 있습니다.
+- 사제들은 황금색 로브와 웃는 눈부시는 태양 가면을 착용합니다.
+- 기도는 일출과 일몰 시간에 열리며, 죽은 자들은 솥불 위에서 타오릅니다.
+- **파벌 본진:** 노몬 정상에 있는 약속된 태양 사원
 
-**How To Join**: Renounce all prior faiths and accept the Baptism Of Dawn.
+**가입방법**: 이전의 모든 종교를 포기하고 새벽의 세례를 받아들입니다.
 
-**What's Expected of Members**: Regular tithes to the Church of the Promised Sun. Observance of prayers, rituals, and attendance at the Great Temple to hear Abbess Faunia speak. You may also be asked to go above and beyond for your Church when called upon. This could include protecting a Priest who is heading out into the wastes of Vaarn to spread the message of the Promised Sun, retrieving the remains of Solar Saints that have been stolen by relic thieves, or collecting the body of a church member who died in the wilderness so that their relatives may burn the corpse with proper ceremony.
+**구성원으로서 기대하는 것**: 약속된 태양 교회에 정기적인 십일조를 납부합니다. 기도, 의식을 준수하고 대성당에 참석하여 여사장 파우니아의 말씀을 듣습니다. 또한 교회가 부르면 교회를 위해 일반적인 범위를 넘어서는 것을 요청받을 수 있습니다. 이는 약속된 태양의 메시지를 전파하기 위해 바안의 황무지로 향하는 사제를 보호하거나, 유물 도둑들에게서 도난당한 태양 성인들의 유해물질을 회수하거나, 황야에서 사망한 교회 구성원의 시신을 수집하여 그 가족이 적절한 의식으로 시체를 소화할 수 있도록 하는 등 일할 수 있습니다.
 
-**Benefits**: You are a respectable part of Gnomonian society. Noble Houses will allow you to enter through the front door. Church members are expected to aid fellow worshippers who are in danger or have a material need; this tenet will only stretch so far, but shopkeepers or landlords who share your faith will be likely to extend you credit or give discounts on rent.
+**혜택**: 당신은 노몬 사회에서 존경받는 자입니다. 귀족 가문은 당신이 정문으로 입장할 수 있게 해줄 것입니다. 교회 구성원들은 위험에 처한 동료 숭배자와 물질적인 필요가 있는 경우 지원해줄 것으로 예상됩니다. 이 원칙은 한계가 있지만, 상점 주인이나 집주인과 같이 당신과 같은 신앙을 가진 사람들은 신용 한도를 늘려주거나 또는 임대료 할인 등 혜택을 제공할 가능성이 큽니다.
 
-### Priest Of The Promised Sun
-_Biological_
+### 약속된 태양의 사제 (Priest Of The Promised Sun)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 10</td></tr>
-<tr><td><b>Morale</b>: 1</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Staff (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Carry doses of Summerbalm (heals for d8 HP).</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 10</td></tr>
+<tr><td><b>사기</b>: 1</td><td><b>수량</b>: d6</td></tr>
+<tr><td colspan="2"><b>공격</b>: 스태프 (d6) (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 자외선 차단제 1회분 (d8 HP 회복)를 들고다닙니다.</td></tr>
 </table>
 
-### Temple Guard
-_Biological_
+### 사원 경비원 (Temple Guard)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 7</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Heavy Club (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will do everything they can to avoid spilling red blood inside the Temple.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 15</td></tr>
+<tr><td><b>사기</b>: 7</td><td><b>수량</b>: d10</td></tr>
+<tr><td colspan="2"><b>공격</b>: 무거운 몽둥이 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이들은 신전 안에서 붉은 피를 흘리는 것을 피하기 위해 최선을 다할 것입니다.</td></tr>
 </table>
 
-## Prieval Prise
+## 프리발 프라이즈 (Prieval Prise)
 
-- New-Jackal. Smuggler and a crook; runs the underworld of Gnomon.
-- Laughs a lot, unpredictable, very violent. Widely feared. Can switch from jovial to murderous and back in a heartbeat.
-- Addicted to opiates and amphetamines.
-- Incredibly gaudy and tasteless dress sense.
-- Owns the Black Lotus Club, a seedy dancehall. Often found in the back room.
-- **Prieval Wants**: to take drugs, kill anyone who insults him, and for people to laugh at his jokes.
+- 뉴-자칼. 노몬의 지하세계를 운영하는 밀수업자이자 사기꾼입니다.
+- 많이 웃으며 예측할 수 없고 매우 폭력적입니다. 많은 사람들이 두려워합니다. 기분에 따라 환한 웃음에서 살인적인 분위기로 전환할 수 있습니다.
+- 아편과 암페타민에 중독되어 있습니다.
+- 매우 화려하고 끔찍한 패션 감각을 가지고 있습니다.
+- 검은 연꽃 클럽을 소유하고 있으며, 음란한 무도회장으로 알려져 있습니다. 프리발은 종종 뒷방에서 발견됩니다.
+- **프리발이 원하는 것:** 마약을 하고, 자신을 모욕하는 사람들을 죽이며, 사람들이 자신의 농담에 웃어줄 것.
 
-**ALLY**: Prieval is a violent maniac, but he could prove to be the lesser of two evils when contrasted with another, more powerful threat. If the party are engaged in conflict with the Water Baron, Prieval’s smugglers could be moving black-market drinking water into the city for the poor neighbourhoods. If the Hegemony are crushing the merchants with taxes, Prieval is generous with his ill-gotten wealth. Play up his roguish charm. He’ll never be a good guy, but if you squint hard enough, he could be your bad guy.
+**동맹**: 프리발은 폭력적인 미친놈이지만, 더 강력한 위협과 대조될 때에는 상대적으로 더 나쁜 존재로 보일 수 있습니다. 파티가 물의 남작와 대립하고 있다면, 프리발의 밀수업자들은 가난한 동네를 위해 암흑시장 음료를 도시로 운반할 수 있습니다. 만약 신정부이 상인들을 과세로 압도하고 있다면, 프리발은 이러한 탈세에 관대할 수 있습니다. 그의 의적같은 매력을 강조해주세요. 그는 결코 선한 사람은 아니지만, 충분히 시선을 좁혀보면 당신의 배드가이가 될 수도 있습니다.
 
-**VILLAIN**: Prieval is a natural fit for a villain, and can play the role easily. He’s vain, proud, extremely violent, and easily offended. Bring the players into conflict with his operation by having some smugglers show up to collect debt from an NPC halfway through an important conversation. Alternatively, if they visit a chariot race or underground gambling den, Prieval is there holding court at the VIP table with his cronies. Have him throw a drink at them and they’ll hate him forever.
 
-### Prieval Prise
-_Biological_
+**악역**: 프리발은 악역 역할에 자연스럽게 어울리며 쉽게 그 역할을 해낼 수 있습니다. 그는 허영심이 강하고 자부심이 높으며 극도로 폭력적이며 쉽게 화를 내는 성격입니다. 중요한 대화 중간에 일부 밀수꾼들이 NPC로부터 돈을 걷으러 나타나도록하여 플레이어들과 그의 작전 사이에 충돌을 일으킬 수 있습니다. 또는 만약 경마나 지하 도박장을 방문한다면, 프리발은 베프와 함께 VIP 테이블에서 권력을 행사하고 있는 모습일 것입니다. 마시던 것을 파티를 향해 던지도록 하여 영원히 싫어하게 만드세요.
+
+
+### 프리발 프라이즈 (Prieval Prise)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 5</td><td><b>Armour</b>: 13 (Gaudy Robes)</td></tr>
-<tr><td><b>Morale</b>: See Below</td><td><b>Attacks</b>: Pistol (d8) + Bite (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: If combat breaks out, the referee should roll to determine which drug Prieval is high on. Even numbers designate amphetamines; Prieval is twitchy and fast, and will always act twice before the PCs do. However, he will bug out and run as soon as the fight goes against him. Odd numbers designate opiates; Prieval is disassociating and will always attack last. However, he has no concept of the danger he is in, cannot feel pain, and will never run away.</td></tr>
+<tr><td><b>레벨</b>: 5</td><td><b>장갑</b>: 13 (천박한 의복)</td></tr>
+<tr><td><b>사기</b>: See Below</td><td><b>공격</b>: 권총 (d8) + 물기 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 전투가 발생하면, 심판은 프리발이 어떤 약에 취해 있는지 결정하기 위해 주사위를 굴려야 합니다. 짝수는 암페타민입니다. 프리발은 신경이 과민하고 빠르며, PC들이 행동하기 전에 항상 두 번 행동합니다. 전투가 그에게 불리하게 돌아가자마자 도망칠 것입니다. 홀수는 아편입니다. 프리발은 분리되어 항상 마지막에 공격합니다. 그러나 그는 자신이 처한 위험을 인식하지 못하며 고통을 느낄 수 없기에 절대로 도망치지 않을 것입니다.</td></tr>
 </table>
 
-## Prieval's Crew
+## 프리발의 부하 (Prieval's Crew)
 
-- Criminals, scum. Motley crew of newbeasts.
-- Favour loud, colourful clothing, gaudy weapons, and flamboyant jewellery.
-- Live the fast life: chariot races, gladiator fights, card games, opium dens.
-- Move goods and collect debts for Prieval.
-- Top dogs in Gnomon’s underworld. If you’re trying to do something illegal, you’ll have to deal with them sooner or later.
-- **Faction Base**: the Black Lotus nightclub, near the southern wall of Gnomon.
+- 범죄자들, 불한당들. 다양한 종류의 신생동물로 이루어진 잡다한 무리입니다.
+- 시끄러운 화려한 의상, 화려한 무기, 허황된 보석을 선호합니다.
+- 자극적인 삶을 사는 스타일이라 경마, 검투사 싸움, 카드 게임, 아편 가게 등등을 합니다.
+- 프리발을 위해 물품을 운반하고 부채를 수금합니다.
+- 노몬의 지하세계에서 최고의 인물들입니다. 불법적인 일을 하려면 어느새 그들과 상호작용해야 할 것입니다.
+- **파벌 본진:** 노몬 남쪽 벽 근처에 위치한 검은 연꽃 클럽.
 
-**How To Join**: Hang around the Black Lotus
-Club, make yourself useful to Prieval,
-laugh at his jokes.
 
-**What's Expected of Members**: You will run menial errands, deliver threats, commit arson, collect debts, and move cargo in and out of the city. Prieval does have dealings outside the city walls, so a party who have experience adventuring in the desert might be asked to find someone who is hiding out in a remote corner of Vaarn.
+**가입방법**: 검은 연꽃 클럽에서 시간을 보내며 프리발에게 유용하게 자신을 드러내고, 그의 농담에 웃어줍니다.
 
-**Benefits**: Easy access to stolen goods, safe-houses, and high-grade narcotics. Will be aided by anyone who’s in debt to the smugglers or is afraid of them. Prieval’s gang will help you kill other people, within reason (they would be reluctant to target Hegemony leaders or the Water Baron). Most importantly, the smugglers know many ways in and out of the city of Gnomon that are undetectable by the city’s guards.
 
-### Smuggler
-_Biological_
+**구성원으로서 기대하는 것**: 당신은 하찮은 심부름부터 위협 전달, 방화, 부채 징수, 도시 안팎으로 화물 이동 등의 일을 맡게 될 것입니다. 프리발은 도시 외곽에서도 사업을 진행하고 있으므로, 사막에서 모험 경험이 있는 파티는 바안의 외딴 곳에 숨어있는 사람을 찾아야 할 수도 있습니다.
+
+
+**혜택**: 장물, 안전하우스, 고급 마약에 쉽게 접근할 수 있습니다. 밀수업자들에게 빚진 사람이나 그들을 두려워하는 사람이라면 누구든지 당신을 돕게 될 것입니다. 프리발의 갱단은 합리적인 범위 내에서 다른 사람들을 죽이는 데 도움이 됩니다(그러나 신정부 지도자나 물의 남작 등의 목표를 세우는 것에는 꺼림칙해 할 것입니다). 가장 중요한 것은 밀수업자들이 노몬의 경비병들로부터 감지되지 않는 많은 출입로를 알고 있다는 점입니다.
+
+### 밀수업자 (Smuggler)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d12</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Club (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The gang’s runners are lightly-armed layabouts, more used to vandalism and intimidation than pitched battle with competent adversaries.</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
+<tr><td><b>사기</b>: 2</td><td><b>수량</b>: d12</td></tr>
+<tr><td colspan="2"><b>공격</b>: 몽둥이 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 이 갱단의 러너들은 가볍게 무장한 게으름뱅이들로, 유능한 적과의 격렬한 전투보다는 파괴와 위협에 더 익숙합니다.</td></tr>
 </table>
 
-### Hired Killer
-_Biological_
+### 고용된 암살자 (Hired Killer)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Knife (d6) + Plasma Grenade (d8 blast)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Assassination technique involves bombing targets’ homes with ancient plasma grenades.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 4</td><td><b>수량</b>: d6</td></tr>
+<tr><td colspan="2"><b>공격</b>: 나이프 (d6) + 플라스마 수류탄 (d8 광역)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 암살 기술은 고대의 플라스마 수류탄으로 목표뮬의 집을 폭격하는 것도 포함합니다.</td></tr>
 </table>
 
-## Nyxia, The Wall-Shadow
+## 벽의 그림자 닉시아 (Nyxia, The Wall-Shadow)
 
-- Planeywoman. She is a hypergeometric being that resembles a fractured, moving shadow.
-- Immortal or close to it. Has no memory of the accident that created her.
-- Lives on the walls of the Crimson Court. Watches the fights and passes judgement on the merits of cases brought.
-- Her voice is cold and clear; her movements are like the flickering, jerky frames of silent films.
-- Believes violence is the ultimate expression of justice.
-- **Nyxia Wants**: to reward the righteous and punish the guilty.
+- 플래니여성. 그녀는 파편화된 움직이는 그림자와 유사한 초기하학적 존재입니다.
+- 불멸에 가깝거나 그 자체입니다. 그녀를 만든 사고에 대한 기억은 없습니다.
+- 그녀는 진홍색 법정의 벽에서 생활합니다. 싸움을 지켜보고 제기된 사건의 공로에 대해 판단을 내립니다.
+- 그녀의 목소리는 차가우면서도 명료하며, 움직임은 무성 영화의 깜박이는, 버벅거리는 프레임과 같습니다.
+- 그녀는 폭력이 정의의 궁극적 표현이라고 믿습니다.
+- **닉시아가 원하는 것:** 의로운 이들에게 보상을 주고, 잘못한 이들을 처벌하는 것입니다.
 
-**ALLY**: Nyxia has a harsh sense of justice, but one that the party could bend to their advantage. If the Water Baron’s men have committed some outrage, the party could challenge them in the Crimson Court. The Baron keeps fearsome Advocates on retainer, but Nyxia might persuade them to recuse themselves from the case if the player’s cause is worthy. As she does not drink, she is one of the few living in Gnomon who has no fear of Ancamulla. Defeat in the Court would not spell the end for the Baron, but it would show his militia they cannot act with impunity.
 
-**VILLAIN**: Nyxia’s ‘justice’ is alien to contemporary conceptions of a legal system, and wrongly accused people end up forced to fight in her arena all the time. Have an NPC known to the players be served with a Crimson Mark, someone who is unable to afford an Advocate’s help. Nyxia will show no mercy in such situations, considering those who die in the Court to have proven themselves guilty of something.
+**동맹**: 닉시아는 가혹한 정의감을 가지고 있지만, 이는 파티가 그들의 이익을 위해 활용할 수 있는 것입니다. 만약 물의 남작의 사람들이 어떤 끔찍한 일을 저질렀다면, 파티는 이들을 크림슨 법정에서 도전할 수 있습니다. 남작쪽 사람들은 강력한 변호인들을 고용하고 있지만, 만약 플레이어의 원인이 충분히 가치가 있다면 닉시아는 그들에게 사건에서 자진해서 물러나도록 설득할 수 있습니다. 그녀는 물을 마실 필요조차 없기 때문에, 노몬에서 앙카뮐라를 전혀 두려워하지 않는 이 중 하나입니다.. 법정에서 패배한다 해도 이들에게 끝장나지는 않겠지만, 이 패배는 물의 남작의 민병대들에게 자신들이 처벌 없이 행동할 수 없다는 것을 보여줄 것입니다.
 
-### Nyxia, The Wall-Shadow
-_Hypergeometric_
+**악역**: 닉시아의 '정의'는 현대적인 법체계 개념과 본질적으로 다르며, 잘못을 저지른 사람들은 항상 그녀의 경기장에서 싸울 수밖에 없습니다. 플레이어가 알고 있는 NPC 한명에게 진홍색 식별를 받도록 하세요. 이 NPC는 변호사 도움금을 지불할 여유가 없어야 합니다. 닉시아는 이런 상황에서 결코 자비를 베풀지 않으며, 법정에서 죽은 사람들은 어떤 죄를 지었음을 입증했다고 생각합니다.
+
+### 벽의 그림자 닉시아 (Nyxia, The Wall-Shadow)
+_초기하학적_
 <table>
-<tr><td><b>Level</b>: 8</td><td><b>Armour</b>: 11</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: d8 CON drain</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Nyxia cannot be injured by regular weapons or by psychic Gifts. Only hypergeometric weapons have any hope of harming her. She attacks by latching onto an opponent and draining the energy from their body. When their CON defence is reduced to 0, they are dead.</td></tr>
+<tr><td><b>레벨</b>: 8</td><td><b>장갑</b>: 11</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>공격</b>: d8 CON 흡수</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 닉시아는 일반적인 무기나 정신적 재능으로는 상처를 입힐 수 없습니다. 유일하게 고차원 무기만이 그녀에게 해를 끼칠 가능성이 있습니다. 그녀는 상대에게 달라붙어 상대의 에너지를 흡수함으로써 공격합니다. 상대의 CON 방어가 0으로 줄어들면 죽습니다.</td></tr>
 </table>
 
-## The Crimson Court
+## 진홍색 법정 (The Crimson Court)
 
-- Lawyer-gladiators who decide the outcome of trials in the ring.
-- Gnomon’s criminal cases are decided through these trials. Defendants may fight in person or they may hire an Advocate to fight for them.
-- Merchant’s contracts are sealed with the Crimson Mark, exposing contract-breakers to a challenge in the ring.
-- The Advocates are skilled fighters, and will not take a case they feel is unworthy.
-- Bailiffs of the Court issue summonses and enforce Nyxia’s judgements.
-- **Faction Base**: the Crimson Court.
+- 법정에서 싸움을 통해 재판 결과를 결정하는 변호사이자 검투사들입니다.
+- 노몬의 형사 사건들은 이러한 재판을 통해 결정됩니다. 피고인들은 직접 싸울 수도 있고, 대신 싸워줄 변호사를 고용할 수도 있습니다.
+- 상인들의 계약서는 진홍색 식별로 봉인되며, 계약 위반자는 경기장에서 도전을 받게 됩니다.
+- 변호사들은 숙련된 전투원이며, 그들이 가치 없다고 생각하는 경우에는 사건을 받지 않습니다.
+- 법정의 집행관은 소환장을 발부하고 닉시아의 판결을 시행합니다.
+- **파벌 본진:** 진홍색 법정.
 
-**How To Join**: Anyone can represent a claimant or defendant in the Crimson Court. A strong showing during the fight will result in others offering payment for your services. Keep winning and you’ll become known as an Advocate.
 
-**What's Expected of Members**: You must abide by Nyxia’s judgements, and fight to the death when you are in the ring. If you have taken payment, you cannot then refuse to fight, and will be hunted down and killed if you do.
+**가입방법**: 누구나 진홍빛 법정에서 원고나 피고를 대표할 수 있습니다. 싸움에서 강력한 성과를 보여주면, 다른 사람들이 당신의 서비스에 대한 대가를 제공하게 될 것입니다. 계속 이기면 변호사로 알려지게 됩니다.
 
-**Benefits**: A proven Advocate is a friend much sought-after in Gnomon. Merchants will be keen to make your acquaintance and curry favour, for having a powerful Advocate on their side makes cheating their customers easy. Noble Houses and Philosopher’s Guilds will also be eager to approach you, for such proud and fractious institutions are ceaselessly issuing summons emblazoned with Crimson Marks to those who have crossed them. Successful Advocates live luxurious lives.
+**구성원으로서 기대하는 것**: Y닉시아의 판결을 준수해야 하며, 경기장에 들어섰다면 죽을 때까지 싸워야 합니다. 만약 당신이 대가를 받았다면, 싸우는 것을 거부할 수 없으며, 만약 거부한다면 거부한 이를 추적하여 죽입니다.
 
-### Bailiff
-_Biological_
+**혜택**: 검증된 변호사는 노몬에서 많이 찾는 친구입니다. 상인들은 당신과 지내기 위해 열심히 노력하며, 강력한 변호사가 그들 편에 있다면 고객들을 속이는 것이 쉬워집니다. 귀족 가문과 철학자 길드도 당신에게 접근하는데 열심히 노력할 것입니다. 왜냐하면 이런 자부심 강한 분열적인 기관들은 그들을 건드린 사람에게 계속해서 진홍색 식별로 장식된 소환장을 발급하기 때문입니다. 성공한 변호사는 호화로운 생활을 합니다.
+
+### 집행관 (Bailiff)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 2</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 4</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Shock Baton (d6, electrical)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Dressed in dark red armour and featureless shadow-helms.</td></tr>
+<tr><td><b>레벨</b>: 2</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 4</td><td><b>수량</b>: d10</td></tr>
+<tr><td colspan="2"><b>공격</b>: 전기충격 막대 (d6, 전기)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 어두운 빨간색 갑옷과 특징 없는 그림자 투구를 입고 있습니다.</td></tr>
 </table>
 
-### Advocate
-_Biological_
+### 변호사 (Advocate)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 7</td><td><b>Armour</b>: 15</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Spear (d8) + Net (DEX save or your Armor drops to 9)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Each Advocate uses unique fighting styles and weaponry. This stat-block should be considered a starting point.</td></tr>
+<tr><td><b>레벨</b>: 7</td><td><b>장갑</b>: 15</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: 창 (d8) + 그물 (DEX 내성굴림에 실패하면 장갑이 9로 내려감)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 각각의 변호사마다 고유한 전투 스타일과 무기를 사용합니다. 이 수치 블록은 시작점으로 간주되어야 합니다.</td></tr>
 </table>
 
-## Longtooth Jak
+## 긴송곳니 잭 (Longtooth Jak)
 
-- Elderly Alzabo: a fearsome extra-solar predator, which retains the memories of the human beings it devours.
-- Resembles a bear with purple fur.
-- Consumed so many brains that she has achieved sentience, a rare occurrence.
-- Erudite, patient, hungry.
-- Speaks with many different voices.
-- Religious figure for a coven of worshippers.
-- **Jak Wants**: safe, reliable supply of human corpses with interesting memories.
+- 고령의 알자보: 인간을 잡아먹으면 그 인간의 기억을 물려받는 무서운 외계 포식자입니다.
+- 보라색 털로 덮인 곰과 비슷합니다.
+- 그녀는 많은 두뇌를 먹어치운 끝에, 드문 일이지만, 지성체의 경지에 도달했습니다.
+- 학식이 깊고, 참을성이 있으며, 항상 배가 고픕니다.
+- 많은 종류의 서로 다른 목소리로 말합니다.
+- 숭배자의 집단에서 중심적인 존재입니다.
+- **잭이 원하는 것:** 흥미로운 기억을 가진 안전하고 신뢰할 수 있는 인간 시체 공급.
 
-**ALLY**: Jak has little time for the Hegemony or the Church of the Promised Sun, considering both factions to be intrusions into the old order of Gnomon, something she remembers well. Any players wishing harm to those factions will find an ally in Jak and her cult of ghouls. Her extremely long memory could also prove useful; some of the personalities contained in her ancient body date back before the Great Collapse. Who knows what secret locations Jak could guide enterprising vault-raiders towards?
+**동맹**: 잭은 신정부나 약속된 태양의 교회에 대해 별로 관심이 없으며, 그녀는 두 세력 모두를 그녀가 잘 기억하는 노몬의 오래된 질서에 대한 침략으로 간주합니다. 이러한 세력들에게 해를 끼치길 원하는 플레이어들은 잭와 그녀의 구울 사교도에서 동맹을 찾을 수 있습니다. 그녀의 매우 긴 기억도 유용할 수 있습니다; 그녀의 고대 몸체 안에 포함된 일부 인격들은 대붕괴 이전으로 거슬러 올라갑니다. 어떤 비밀 장소로 잭이 모험적인 볼트 약탈자들을 안내해줄지는 아무도 모릅니다.
 
-**VILLAIN**: Jak is still a monster, even if she is a very intelligent one. To make her an antagonist, play up the creepy cannibal aspect of her coven. Have the players hear sinister stories about corpses going missing before funerals, and family crypts in the Tomblands being ransacked. Maybe the Friends of Jak prefer live flesh for their feasts? A hidden society that practiced such wicked rituals would, of course, be a topic of fear and revulsion amongst the common people of Gnomon. Someone who rooted out this cabal would enjoy a favorable reputation in the city.
+**악역**: 잭이 아주 똑똑하더라도 여전히 괴물입니다. 그녀를 적으로 만들려면, 그녀의 숭배단에서 잔인한 식인집단의 측면을 강조하세요. 플레이어들이 장례식 전에 시체가 사라지는 신기한 이야기와 무덤지대의 가족 무덤이 약탈당한다는 이야기를 듣게 하세요. 아마도 잭의 친구들은 자신들의 축제를 위해 살아있는 고기를 원하겠죠? 이런 악독한 의식을 실천하는 비밀스러운 사회는 당연히 노몬의 일반인들 사이에서 공포와 혐오 주제가 될 것입니다. 이런 비밀결사단을 제거하는 사람은 도시에서 호감을 살만한 평판을 누리게 될 것입니다.
 
-### Longtooth Jak
-_Biological_
+### 긴송곳니 잭 (Longtooth Jak)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 6</td><td><b>Armour</b>: 15 (Thick hide)</td></tr>
-<tr><td><b>Morale</b>: 10</td><td><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: If both of Jak’s claws hit the same target, she will follow up with a bite attack that deals 2d6 damage, with no to-hit roll required. She will deal another automatic 2d6 damage to the target she has grabbed each turn, unless they pass a STR save to wrestle her off.</td></tr>
+<tr><td><b>레벨</b>: 6</td><td><b>장갑</b>: 15 (두꺼운 가죽)</td></tr>
+<tr><td><b>사기</b>: 10</td><td><b>공격</b>: 발톱 (d8) + 발톱 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 만약 잭의 두 발톱이 동일한 목표를 공격하면, 그녀는 추가로 2d6의 데미지를 주는 물어뜯기 공격을 따라서 합니다. 이 때, 추가적인 명중 주사위 굴림은 필요하지 않습니다. 그녀가 잡아버린 대상에게 매 턴 자동적으로 추가로 2d6의 데미지를 줄 것입니다, 대상이 STR 내성굴림을 통해 그녀에게서 벗어나게 만드는 것에 성공하지 않는 한입니다.</td></tr>
 </table>
 
-## Friends of Jak
+## 잭의 친구들 (Friends of Jak)
 
-- Secretive cult. They have members embedded within all other factions.
-- Few members, but they are fanatically dedicated to Jak.
-- Robed and hooded during their rites.
-- Recognise one another through certain gestures and phrases.
-- Take part in cannibalistic rituals, which give them access to the memories of the dead.
-- Experiencing these memories is addictive; slowly turns you into a ghoul.
-- Faction Base: the tunnels beneath the Hushed Archives, an empty library in the Lantern District.
+- 비밀스러운 숭배단. 그들은 모든 다른 세력에 자신들의 구성원를 숨겨 두었습니다.
+- 구성원의 수는 적지만, 그들은 잭에게 광적으로 헌신합니다.
+- 의식을 치루는 동안은 로브와 후드를 착용합니다.
+- 특정한 제스처와 문구를 통해 서로를 인식합니다.
+- 시체의 기억을 얻게 해주는 식인성 의식에 참여합니다.
+- 이런 기억을 체험하는 것은 중독적이며, 천천히 당신을 구울로 변화시킵니다.
+- **파벌 본진:** 랜턴 지구의 비어 있는 도서관인 조용한 기록 보관소 아래의 터널.
 
-**How To Join**: Getting an invitation is difficult but not impossible, if you ask the right questions of the right people. Showing a sincere interest in Vaarn’s history might be the ticket.
+**가입방법**: 적절한 사람에게 적절한 질문을 한다면 초대를 받을 수 있습니다. 어렵긴해도 불가능하지는 않습니다. 바안의 역사에 진심으로 관심을 보이는 것이 입장권일 수 있습니다.
 
-**What's Expected of Members**: You will attend the gatherings called by Jak each full moon. You must follow her guidance without question, and ensure she is protected and kept secret. You will be asked to help provide cadavers for the ritual feasts.
+**구성원으로서 기대하는 것**: 매번 보름달이 차오를 때마다 잭이 소집하는 모임에 참석할 것입니다. 당신은 그녀의 지도를 의문 없이 따르고, 그녀가 보호받고 비밀로 유지되도록 해야 합니다. 의식의 연회를 위한 시체 공급을 돕는 것을 요청받게 될 것입니다.
 
-**Benefits**: Taking part in Jak’s rituals will allow you to access the memories of the corpses you devour, potentially granting all kinds of useful information to the party. There is no need to interrogate a living foe when their flesh can speak just as clearly.
+**혜택**: 잭의 의식에 참여하면, 당신이 먹어치우는 시체의 기억에 접근할 수 있게 되어, 파티에 다양한 유용한 정보를 제공할 수 있는 잠재력을 부여합니다. 그들의 육체가 명확하게 말해줄 수 있으므로 살아있는 적을 심문할 필요가 없습니다.
 
-### Cultist
-_Biological_
+### 사교도 (Cultist)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: d10</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Dagger (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Robed and hooded when it is time to gather. They use Jak’s morale score if she is present.</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
+<tr><td><b>사기</b>: 2</td><td><b>수량</b>: d10</td></tr>
+<tr><td colspan="2"><b>공격</b>: 대거 (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 그들이 모이는 시간이 되면 로브와 후드를 착용합니다. 잭이 존재하는 경우 그녀의 사기 점수를 사용합니다.</td></tr>
 </table>
 
-### Exalted Ghoul
-_Biological_
+### 고상한 구울 (Exalted Ghoul)
+_유기체_
 <table>
-<tr><td><b>Level</b>: 4</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: d6</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Claw (d8) + Claw (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: The advanced stages of the transformation brought about by Jak’s rituals elongate the limbs and teeth.</td></tr>
+<tr><td><b>레벨</b>: 4</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 5</td><td><b>수량</b>: d6</td></tr>
+<tr><td colspan="2"><b>공격</b>: 발톱 (d8) + 발톱 (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: 잭의 의식에 의해 가져온 변형의 다음 단계는 사지와 이빨을 길게 만듭니다. 이 변형은 전투 능력을 향상시키며, 더욱 강력한 공격과 유연한 움직임을 가능하게 합니다.</td></tr>
 </table>
 
-## Faction Conflicts
+## 파벌 갈등 (Faction Conflicts)
 
-The crux of a campaign that focuses on Gnomon will be conflict between the major factions. In general, the factions are designed to have certain natural allies and natural enemies within the city.
+노몬에 초점을 맞춘 캠페인의 핵심은 주요 파벌 간의 충돌이 될 것입니다. 일반적으로, 파벌들은 도시 내에서 자연스러운 동맹과 자연스러운 적을 가지도록 설계되었습니다.
 
-The Water Baron’s stranglehold on the water supply allows him to intervene in all aspects of Gnomonian politics. This will naturally put him in conflict with House Lonrot and the Hegemony Legion, who represent a foreign conquering power that does not recognise his authority.
+물의 남작의 물 공급에 대한 지배력은 그에게 노몬 정치의 모든 면에서 개입할 수 있게 해줍니다. 이는 당연히 그를 그의 권위를 인정하지 않는 외부 정복세력인 론로트 가문과 신정부 군단과 충돌시킬 것입니다.
 
-House Lonrot and the Hegemony Legion are natural allies, but canny players may find a way to set them at odds. The Consul’s desire to return to the Hegemony might set him against Loonflower.
+론로트 가문과 신정부 군단은 자연스러운 동맹이지만, 영리한 플레이어들은 그들을 상호 대립시키는 방법을 찾을 수 있습니다. 집정관의 신정부로 돌아가고자 하는 욕구는 그를 룬플라워와 대립시킬 수 있습니다.
 
-The Church of the Promised Sun will not intervene in minor conflicts, but the Abbess would begin preaching against the Water Baron if he deprived large numbers of citizens of water, or against Lonrot if the Hegemony committed some massacre.
+약속된 태양의 교회는 사소한 충돌에 개입하지 않겠지만, 여사장은 물의 남작가 큰 수의 시민들에게 물을 제공하지 않거나, 신정부가 어떤 대학살을 저질렀다면 이들을 반대하는 설교를 시작할 것입니다.
 
-Prieval Prise, the Friends of Jak, and the Crimson Court are underworld or fringe factions, which exist without the consent or knowledge of the larger factions. These three groups operate in tandem with one another; Prieval supplies bodies to the Friends of Jak, the Crimson Courtiers help Prieval enforce business contracts, and so on. This is not to say there will never be violent conflict between the underworld factions; in fact it is likely there will be. However, they all share a disreputable reputation.
+프리발 프라이즈, 잭의 친구들, 진홍색 법정은 지하세계나 주변 세력으로서, 더 큰 파벌의 승낙이나 지식 없이 존재합니다. 이 세 그룹은 서로 협동하여 작동합니다; 프리발은 잭의 친구들에 시체를 공급하고, 진홍색 법정은 프리발이 사업 계약을 집행하도록 돕습니다 등등. 이것이 지하세계 파벌 간에 결코 폭력적인 충돌이 없다는 것을 의미하는 것은 아닙니다; 실제로 가능성이 많습니다. 그러나 그들 모두는 악명 높은 평판을 공유하고 있습니다.
 
-If the referee wishes to seed some interactions between members of the factions during a campaign in Gnomon, they may use the table below. Mirrored results may either be discarded, or treated as conflict within the faction in question. Members of the same organization need not have identical goals, after all.
+심판이 노몬에서의 캠페인 중에 파벌의 구성원들 사이의 상호작용을 심어주고 싶다면, 아래 표를 사용할 수 있습니다. 대칭된 결과는 버려지거나, 해당 파벌 내의 충돌로 처리될 수 있습니다. 같은 조직의 구성원들이 반드시 동일한 목표를 가지고 있을 필요는 없으니까요.
+
 
 <table>
-<thead><td>1d20</td><td>Member Of</td><td>Desires To</td><td>Member Of</td></thead>
-<tr><td>1</td><td rowspan="2">Water Baron’s Militia</td><td rowspan="2">Abduct</td><td>Gang of Criminals</td></tr>
-<tr><td>2</td><td>Philosopher's Guild</td></tr>
-<tr><td>3</td><td rowspan="2">House Lonrot</td><td rowspan="2">Professionally Discredit</td><td>Pit Fighters</td></tr>
-<tr><td>4</td><td>Urban Shrine</td></tr>
-<tr><td>5</td><td rowspan="2">Fifth Hegemony Legion</td><td rowspan="2">Marry</td><td>Trade Cartel</td></tr>
-<tr><td>6</td><td>Noble House</td></tr>
-<tr><td>7</td><td rowspan="2">Church of the Promised Sun</td><td rowspan="2">Steal From </td><td rowspan="2">Crimson Court</td></tr>
+<thead><td>1d20</td><td>구성원</td><td>원하는 것</td><td>M구성원</td></thead>
+<tr><td>1</td><td rowspan="2">물의 남작의 민병대</td><td rowspan="2">유괴</td><td>범죄자 무리</td></tr>
+<tr><td>2</td><td>철학자 길드</td></tr>
+<tr><td>3</td><td rowspan="2">론로트 가문</td><td rowspan="2">신용을 전문적으로 떨어뜨리기</td><td>투기장의 투사</td></tr>
+<tr><td>4</td><td>도심 성소</td></tr>
+<tr><td>5</td><td rowspan="2">제5 신정부 군단</td><td rowspan="2">결혼</td><td>상인 카르텔</td></tr>
+<tr><td>6</td><td>귀족 가문</td></tr>
+<tr><td>7</td><td rowspan="2">약속된 태양의 교회</td><td rowspan="2">훔치기 </td><td rowspan="2">진홍색 법정</td></tr>
 <tr><td>8</td></tr>
-<tr><td>9</td><td rowspan="2">Prieval's Crew</td><td rowspan="2">Impress</td><td rowspan="2">Friends of Jak</td></tr>
+<tr><td>9</td><td rowspan="2">프리발의 부하</td><td rowspan="2">깊은 인상을 주기</td><td rowspan="2">잭의 친구들</td></tr>
 <tr><td>10</td></tr>
-<tr><td>11</td><td rowspan="2">Friends of Jak</td><td rowspan="2">Arrange the Death Of</td><td rowspan="2">Prieval's Crew</td></tr>
+<tr><td>11</td><td rowspan="2">잭의 친구들k</td><td rowspan="2">상대방의 죽음을 계획함</td><td rowspan="2">프리발의 부하</td></tr>
 <tr><td>12</td></tr>
-<tr><td>13</td><td rowspan="2">Crimson Court</td><td rowspan="2">Collect Debt From</td><td rowspan="2">Church of the Promised Sun</td></tr>
+<tr><td>13</td><td rowspan="2">진홍색 법정</td><td rowspan="2">빚 징수</td><td rowspan="2">약속된 태양의 교회</td></tr>
 <tr><td>14</td></tr>
-<tr><td>15</td><td>Noble House</td><td rowspan="2">Renege on a Deal With</td><td rowspan="2">Fifth Hegemony Legion</td></tr>
-<tr><td>16</td><td>Trade Cartel</td></tr>
-<tr><td>17</td><td>Urban Shrine</td><td rowspan="2">Locate</td><td rowspan="2">House Lonrot</td></tr>
-<tr><td>18</td><td>Pit Fighters</td></tr>
-<tr><td>19</td><td>Philosopher's Guild</td><td rowspan="2">Cure the Sickness Of</td><td rowspan="2">Water Baron's Militia</td></tr>
+<tr><td>15</td><td>귀족 가문</td><td rowspan="2">상대와의 계약을 파기하기</td><td rowspan="2">제5 신정부 군단</td></tr>
+<tr><td>16</td><td>상인 카르텔</td></tr>
+<tr><td>17</td><td>도심 성소</td><td rowspan="2">위치를 알아내기</td><td rowspan="2">론로트 가문</td></tr>
+<tr><td>18</td><td>투기장의 투사</td></tr>
+<tr><td>19</td><td>철학자 길드</td><td rowspan="2">상대방의 질병을 치료하기</td><td rowspan="2">물의 남작의 민병대</td></tr>
 <tr><td>20</td><td>Gang of Criminals</td></tr>
 </table>
 
-## Other Factions
+## 기타 파벌
 
-There more than seven factions at work in a city as diverse as Gnomon. In later sections of this publication you will find generator tables that will let you create your own trade cartels, urban shrines, minor noble houses, and philosopher’s guilds, all of which can act as smaller, less powerful factions. However, if the reader desires a brief overview of some of the less mundane factions who are at work in Vaarn, and would almost certainly have an agent or two posted in Gnomon, such information can be found here.
+노몬같이 다양한 도시에서는 일곱 개 이상의 파벌이 활동하고 있습니다. 이 출판물의 후속 섹션에서는 귀하가 자신의 무역 카르텔, 도시 신사, 소규모 귀족 가문, 철학자 길드 등을 생성할 수 있게 해주는 생성 표를 찾을 수 있으며, 이들 모두가 더 작고, 덜 강력한 파벌로서의 역할을 할 수 있습니다. 그러나 독자가 바안에서 활동하는 보다 평범하지 않은 파벌에 대한 간략한 개요를 원하고, 노몬에 반드시 한 두 명의 요원을 파견해야 하는 경우라면, 그러한 정보는 여기에서 찾을 수 있습니다.
 
-### Seekers of Eyeless Wisdom
 
-Self-knowledge and spiritual purity are achieved not through enlightenment, but through a slow and patient process of endarkenment. There are other powers in this grand and mysterious cosmos that require no sun to thrive; should the residents of Urth not therefore seek to follow their example? There are other sources of illumination than the red and ailing star that squats, bloated and weak like a sated tick, in the high-vaulted sable vastness of the heavens: we speak of course of the interior illumination that comes when one has renounced all prosaic and urthly sights. We seek those who do not fear the coming death of the sun and the blackness it will herald; those rare, strong minds that can be opened to celestial messages that emanate from the most distant and lightless of spheres.
+### 눈 먼 지혜의 추구자들 (Seekers of Eyeless Wisdom)
 
-Not all the blind beggars who sit at the corners of streets in Gnomon are sightless, as the compassionate might suppose, due to misfortune. Some chose the dark.
+자기 인식과 정신적 순수함은 계몽을 통해 이루어지는 것이 아니라, 천천히 그리고 차분하게 어둠에 젖어가는 과정을 통해 이루어집니다. 이 거대하고 신비로운 우주에는 태양이 없어도 번창하는 다른 힘이 있습니다; 그러므로 우르스의 주민들은 번창한 다른 예를 따르려고 노력해야하지 않을까요? 하늘의 고천장 검은 광활함에서 빵빵한 약한 별처럼 앉아 있는 붉고 병든 별 외에도 다른 광원이 있습니다: 자기 자신은 물론 모든 속된 및 우르스다운 경치를 포기했을 때 오는 내부 빛을 말합니다. 우리는 태양의 죽음과 그것이 예고할 어두움을 두려워하지 않는 사람들을 찾습니다; 가장 먼 거리와 무광의 구체에서 방출되는 천체 메시지를 열 수 있는 드문 강한 마음의 소유자를 말입니다.
 
-### The College of Indigo Tigers
+노몬의 거리 모퉁이에서 앉아 있는 모든 맹인 거지들이 불행으로 인해 눈을 잃었다고 해서 동정심 많은 사람들이 생각하는 것처럼 시력이 없는 것은 아닙니다. 일부는 어둠을 선택했습니다.
 
-Artificers, hell-raisers, masters of necrotech. The Lectors of the College search Vaarn’s vaults for anything to deepen their research into the preservation and re-animation of human corpses. The College itself lies far to the south, but regular expeditions are mounted into Vaarn’s interior to seek out new leads on the location of Titan-era cloning facilities and biotech labs. Indigo Lectors are hardly an unknown sight in Gnomon, attended to by their mute, perfumed Indigo Servitors.
 
-A party of vault-raiders who found an item of exotica that could repair human cells, or had knowledge of a location where such technology might exist, would quickly attract the attention of the Indigo College. The Lectors pay well, demand much, and have little tolerance of failure.
+### 남색 호랑이 대학교 (The College of Indigo Tigers)
 
-### Titan Cults
+기술자들, 매우 폭력적인 이들, 사령기술의 대가들. 대학의 교수들은 인간 시체의 보존 및 재생성에 대한 연구를 진전시키기 위해 바안의 볼트에서 무엇이든지 찾아냅니다. 대학 자체는 남쪽으로 많이 떨어져 있지만, 타이탄 시대 클론 시설과 바이오테크 연구소 위치에 대한 새로운 단서를 찾아내기 위해 바안 내부로 정기적인 탐사가 진행됩니다. 남색 교수들은 바안에서 볼 수 있는 거의 알려지지 않은 광경이며 말 수가 적고 향기로운 남색 시종들이 참석합니다. 
 
-The great machine suzerains of Urth are long-dead, their ego-engines scrubbed clean by weaponised logicphages. The quiet and colossal ruin of their final thoughts is sealed beneath Vaarn in decaying lattices of memory-crystal; their memories entombed within miles of neural network-shunts that lie, cold and shattered, in bunkers beneath the mountains. 
+인간 세포를 고칠 수 있는 이국적인 아이템을 찾아낸 볼트 침입자 파티나 그런 기술이 존재할 수 있는 위치에 대한 지식을 가진 경우, 남색 대학의 주목을 빠르게 받게 될 것입니다. 교수들은 잘 지불하며 많은 것을 요구하며 실패를 참지 못할 겁니다.
 
-True devotion, however, can never die, and the machine gods still have worshippers. Synths and humans alike wish that the Age of Titans might come again. They wish that the citizens of Urth might once more travel the stars, guided by HYPERION’s golden lantern; wish that justice might again be done by THEMIS; wish that GAEA would once again administer to the sick and that patient METIS would map the roiling paths of the future.
 
-The Titans are dead, they say, but what mankind’s arts once birthed, mankind’s arts could restore again. Titan cults, devoted to untangling these sacred mysteries, are found throughout Vaarn. It would be strange if none within Gnomon’s walls wished to see the Titans rise once more.
+### 타이탄 숭배자들 (Titan Cults)
 
-# Districts of Gnomon
+우르스의 위대한 기계 군주들은 오래 전에 죽었고, 그들의 자아-엔진은 무기화된 논리포식자에 의해 청소되었습니다. 그들의 마지막 생각의 조용하고 거대한 폐허는 부패하는 메모리-수정 격자 속에 바안 아래에 봉인되어 있습니다; 그들의 기억은 산 아래의 벙커에서 차가워지고 부서진 신경 네트워크 통로 수 마일 안에 묻혀 있습니다.
+
+그러나 진정한 헌신은 결코 죽을 수 없으며, 기계 신들은 여전히 신자를 가지고 있습니다. 신스와 인간 모두 다시 타이탄의 시대가 오길 바랍니다. 그들은 우르스의 시민들이 다시 별을 여행하면서 히페리온의 황금등으로 이끌릴 수 있기를 바라며; 테미스에 의해 다시 정의가 이루어질 수 있기를 바라며; 가이아가 다시 한번 병든 사람을 돌보게 되고, 인내심 많은 메티스가 미래의 요동치는 길을 지도할 수 있기를 바랍니다.
+
+타이탄이 죽었다고 사람들이 말합니다, 하지만 인류 예술이 한번 태어난 것으니 인류 예술이 다시 복원할 수 있다는 것입니다. 타이탄 종교단체는 이러한 신성한 미스터리를 풀려는 목적으로  바안 전역에서 발견됩니다. 노몬 내부에서도 타이탄이 다시 일어나길 원하는 사람이 없다면 이상할 것입니다.
+
+
+# 노몬의 구역 (Districts of Gnomon)
 ----
 
-## Morningshade
+## 아침그늘 (Morningshade)
 
-The north-western district of Gnomon, shaded by the Apex when the sun rises in the morning. The Morningshade district is industrious and prosperous, home to striving merchants. The primary landmark in this district is the **Great Souk of Gnomon**, the vast open-air market that operates from sunrise to sunset.
+노몬의 북서쪽 지구는 아침에 해가 뜰 때 꼭대기에 의해 그늘이 집니다. 아침그늘 지구는 근면하고 번창하는 곳으로, 진취적인 상인들이 살고 있습니다. 이 지구의 주요 명소는 **노몬의 거대한 시장**으로, 일출부터 일몰까지 운영되는 거대한 야외 시장입니다.
 
-_Sights in the Morningshade_:
-- Gangs of labourers carrying cargo from the wind-barge docks to the west.
-- A cafe, with caged birds singing outside.
-- A merchant’s auto-cart, overflowing with ripe produce.
-- A Priest of the Promised Sun, leading an outdoor sermon for prosperous devotees.
 
-## Eveningshade
 
-The north-eastern district of Gnomon, shaded by the Apex when the sun descends towards the western horizon. The Eveningshade district is home to the **Night Souk**, authorised to trade between the hours of sunset and sunrise. Due to the peace and quiet by day, the Eveningshade District is preferred by Gnomon’s artisans and craftsmen. By night the streets come alive, with music played from balconies and basement bars thronged with celebrants.
+_아침그늘에서 볼 수 있는 것들_:
+- 서쪽 풍선 바지선 부두에서 화물을 운반하는 노동자 무리.
+- 새장 밖에서 노래하는 새와 함께 있는 카페.
+- 익은 농산물로 가득 찬 상인의 자동차.
+- 번창하는 신도들을 위한 야외 설교를 이끄는 약속된 태양의 사제.
 
-_Sights in the Eveningshade_:
-- A traditional Vaarnish street band, practising in a courtyard.
-- A synth-surgeon, fixing an android’s arm.
-- A funeral procession for a deceased artisan.
-- Elderly newbeasts play dominoes beneath a leafless tree.
 
-## Lantern District
+## 저녁그늘 (Eveningshade)
 
-The south-western district of Gnomon, unshaded by the Apex. The Lantern District is the oldest in the city, the most crooked and decrepit and distended with secrets. The primary landmark is the **Hushed Archives**, a ruin that was once a library and is now a cobwebbed shell, left with each door open by ancient custom. This district is the home of Philosopher’s Guilds and theatrical companies, a district of fulminating prophets and sophist clowns. Poets wander the indigo streets at twilight, looking up to the heavens at the hard glints of ancient orbital habitats that trace esoteric geometries in the windy dusk.
+노몬의 북동쪽 지구는 해가 서쪽 지평선으로 내려갈 때 꼭대기에 의해 그늘이 집니다. 저녁그늘 지구는 일몰부터 일출 사이에 거래를 허가받은 **야시장**이 있는 곳입니다. 낮에는 평화롭고 조용하기 때문에, 저녁그늘 지구는 노몬의 예술가와 장인들이 선호하는 곳입니다. 밤이 되면 거리가 살아나며, 발코니에서 음악이 흐르고 기념식을 하는 사람들로 붐비는 지하 바가 있습니다.
 
-_Sights in the Lantern District_:
-- An open air debate between two schools of Neo-Neo-Relativists.
-- A dealer of rare books, smoking hookah on their porch.
-- A sacrificial procession, heading to one of the neighbourhood shrines.
-- A rehearsal for a play; they are miming out the famous death of an Autarch.
 
-## Red Quarter
+_저녁그늘에서 볼 수 있는 것들_:
+- 뜨락에서 연습하는 전통적인 바안식 거리 밴드.
+- 안드로이드 팔을 수리하는 신스-외과 의사.
+- 고인이 된 예술가를 위한 장례 행렬.
+- 잎사귀 없는 나무 아래에서 도미노를 하는 늙은 뉴비스트
 
-The south-eastern district of Gnomon, unshaded by the Apex. The Red Quarter is pugnacious and seedy, home to strutting mercenaries and pompous prizefighters. Here the visitor can find gladiator pits, boxing arenas, chariot racing, and passion-houses by the score. The distinctive landmark of the Red Quarter is the **Crimson Court**, the home of Nyxia and her Advocates.
 
-_Sights in the Red Quarter_:
-- Graffiti praising one gladiator and cursing another.
-- A beggar without legs, trundling on a cart.
-- A curb-side game of chance, where knives may be drawn at any moment.
-- A patrol of Hegemony soldiers, jeered at by gutter-dwellers.
+## 랜턴 지구 (Lantern District)
 
-## The Apex
+노몬의 남서쪽 지구는 꼭대기에 의해 그늘이 들지 않습니다. 랜턴 지구는 도시에서 가장 오래되었으며, 가장 굽이진 곳이며, 비밀로 팽창하고 있습니다. 주요 명소는 **조용한 기록 보관소**로, 한때 도서관이었던 폐허로 이제는 거미줄에 싸인 껍질이 되어 오래된 관습에 따라 모든 문을 열어 놓았습니다. 이 지구는 철학자 길드와 연극 회사의 집이며, 화내는 예언가와 소피스트 희극배우들의 지구입니다. 시인들은 황혼 때 인디고 거리를 헤매며, 바람 부는 황혼에 복잡한 기하학적 형태를 그리는 고대의 위성 주거지의 단단한 반짝임을 하늘을 올려다봅니다.
 
-The great curve of dark metal that looms hundreds of feet over Gnomon, perhaps the wreck of some forgotten engine that has been swallowed by the blue sands and by time. The home of Gnomon’s rich and powerful. Notable buildings upon the Apex include the **Consul’s Manse**, and the **Temple of the Promised Sun**.
+_랜턴 지구에서 볼 수 있는 것들_:
+- 후기-후기-상대주의의 두 학파 간의 야외 토론.
+- 자신의 현관에서 물담배를 피우는 희귀한 책을 취급하는 상인.
+- 이웃 사원 중 하나로 가고 있는 제물 행렬.
+- 연극 리허설; 그들은 유명한 신왕의 죽음을 모방하고 있습니다.
 
-_Sights upon the Apex_:
-- A patrol of the Consul’s Lictors, anbaric pikes crackling with purple energy.
-- A messenger in golden robes, carrying a decree from Abbess Faunia.
-- A line of supplicants outside the gates of the Water Baron’s mansion.
-- Condemned criminals; gaolers lead them to the Plunge to be thrown to their deaths.
-- A carriage of highborn ladies of Gnomon, on their way to view a hanging garden.
 
-## Tomblands
+## 붉은 구역  (Red Quarter)
 
-To the south of Gnomon lie the Tomblands. Ancient customs forbade the burial of the dead within the walls of the city, and thus the southern road leading from Gnomon is lined with windowless abodes to accomodate those silent ancestors. This charnel-district extends for some distance beyond sight of Gnomon’s walls; Vaarn is old and the dead outnumber the living.
+노몬의 남동쪽 지구는 에이펙스에 의해 그늘이 들지 않습니다. 붉은 구역은 싸움이 잦고 초라한 곳으로, 거만한 용병과 거만한 프라이즈 투사들의 집입니다. 여기서 방문객은 검투사 투기장, 복싱 경기장, 경마장, 그리고 수십 개의 열정 집을 찾을 수 있습니다. 붉은 구역의 독특한 명소는 *진홍색 법정**으로, 닉시아와 그녀의 대리인들의 집입니다.
 
-Criminals and others who find themselves unwelcome in the city proper make squalid homes amongst the bones. Groups of bandits haunt the ruins, and there are rumours of more dangerous creatures still that have crept in from the blue wastelands and make their lair amidst monoliths and unsealed crypts.
+_붉은 구역에서 볼 수 있는 것들_:
+- 한 검투사를 칭찬하고 다른 검투사를 저주하는 낙서.
+- 다리가 없는 거지가 카트를 끌고 가는 모습.
+- 언제든지 칼날을 뽑을 수 있는 길가에서의 운빨 게임.
+- 하수구에 사는 사람들에게 조롱당하는 신정부 군인 순찰대.
 
-_Common Sights in the Tomblands_:
-- Robbers lounge amidst devil-grass, cooking on an open fire.
-- Pthalo-jackals, cautiously hunting.
-- A Harlequin Serpent, sunning itself upon a fallen monument.
-- A pair of Jak’s ghouls, posing as mourners.
 
-## Other Landmarks
+## 꼭대기 (The Apex) 
 
-- **The Noonfort** - a bastion of solid stone that protects the northern gates of Gnomon. Currently occupied by the Fifth Hegemony Legion. If the Hegemony arrest the party, they will take them here.
-- **The Docks** - a rumpus of ropes and timber, where teams of dockhands unload the wind-barges that berth amongst the towers ringing Gnomon’s western wall.
-- **Nomad Camp** - the Faa nomads do not sleep in houses with four walls and in any case they are banned from the city after dark by Hegemony decree. Clans that are visiting Gnomon to trade will be camped at the Eastern Gate of the city.
-- **The Water Baron’s Aquifer** - Ancamulla’s mysterious water-pumping machine can be found at the base of the Apex, protected by high walls and watchful guards. The Aquifer complex is easily recognisable by its fluted yellow and green towers.
+노몬에서 수백 피트 높이로 우뚝 솟은 어두운 금속의 큰 곡선은, 아마도 파란 모래와 시간에 의해 삼켜진 잊혀진 엔진의 잔해일 것입니다. 이곳은 노몬의 부자와 강력한 사람들이 사는 곳입니다. 꼭대기에 있는 주요 건물로는 **집정관의 저택**과 **약속된 태양의 신전**이 있습니다.
+
+_꼭대기에서 볼 수 있는 것들_:
+- 집정관 릭터의 순찰대, 보라색 에너지로 파지르는 전기 파이크로 무장함 .
+- 여사장 파우니아로부터 조례를 전하는 황금 로브를 입은 집배원.
+- 물의 남작의 저택 게이트 외부에 줄을 서 있는 청원인들.
+- 유죄 판결을 받은 범죄자들; 감옥 교도관들이 그들을 추락형 집행장소로 데려가 죽음으로 내던집니다.
+- 매달린 정원을 보러 가는 노몬의 고귀한 여성들의 마차.
+
+
+## 무덤지대 (Tomblands)
+
+노몬의 남쪽에는 무덤지대가 위치해 있습니다. 고대의 관습은 도시 벽 안에 사망자를 묻는 것을 금지했으므로, 노몬에서 나가는 남쪽 길은 창문 없는 주거지로 둘러싸여 있어 침묵하는 조상들을 수용합니다. 이 죽음의 지구는 노몬의 벽이 보이지 않는 거리까지 연장되며, 바안은 역사가 깊은 많큼 사망자들이 생존자들보다 많습니다.
+
+범죄자와 도시 본부에서 환영받지 못하는 다른 사람들은 조상들의 뼈 사이에서 열악한 집을 짓습니다. 강도단조차도 이 폐허를 무서워하며, 푸른 황무지에서 기어나와 석주와 밀봉되지 않은 무덤 속에 굴을 판 아주 위험한 생물체에 대한 소문도 돌고 있습니다.
+
+
+_무덤지대에서 흔히 볼 수 있는 것들_:
+- 악마 잡초 가운데서 강도들이 쉬면서, 모닥불에 요리를 합니다.
+- 조심스럽게 사냥하는 하늘색 자칼
+- 넘어진 기념비 위에서 자신을 햇볕에 쬐고 있는 어릿광대 뱀
+- 애도하는 사람처럼 포즈를 취한 잭의 구울 한 쌍.
+
+
+## 그 외 랜드마크  (Other Landmarks)
+
+- **정오의 요새** - 노몬의 북쪽 게이트를 보호하는 견고한 돌로 이루어진 요새입니다. 현재는 제5 신정부의 군단이 점령하고 있습니다. 신정부가 파티를 체포하면 그들을 이곳으로 데려갈 것입니다.
+
+- **항구** - 로프와 목재의 소란스러움으로, 항만노동자 팀들이 노몬의 서쪽 벽을 둘러싼 탑들 사이에 정박한 풍선에서 짐을 내립니다.
+
+- **유목민 야영지** - 파아 유목민들은 네 벽이 있는 집에서 잠을 자지 않으며, 어쨌든 그들은 신정부의 조례에 따라 밤에 도시에서 쫓겨납니다. 노몬에 거래를 위해 방문하는 부족은 도시의 동쪽 관문에서 야영지를 치게 될 것입니다.
+
+- **물의 남작의 아쿼퍼** - 앙카뮐라의 신비한 수도 펌프 기계는 꼭대기의 기반에서 찾아볼 수 있으며, 높은 벽과 경계하는 경비원들로 보호되어 있습니다. 아쿼퍼 복합체는 특유의 주름진 노란색과 초록색 탑으로 쉽게 구별할 수 있습니다.
 
 # Street Hassle
 
@@ -657,7 +715,7 @@ _Common Sights in the Tomblands_:
 # Buildings
 
 <table>
-<thead><td>1d20</td><td>Originally</td><td>And Then</td><td>Now</td></thead>
+<thead><td>1d20</td><td>Origin동맹</td><td>And Then</td><td>Now</td></thead>
 <tr><td>1</td><td>Cybernetics Surgery</td><td>Destroyed by Fire</td><td>Abandoned Shell</td></tr>
 <tr><td>2</td><td>House of Healing</td><td>Scribe’s House</td><td>Hegemony Barracks</td></tr>
 <tr><td>3</td><td>Jeweller’s Shop</td><td>Orphanage</td><td>Gambling Den</td></tr>
@@ -676,7 +734,7 @@ _Common Sights in the Tomblands_:
 <tr><td>16</td><td>Maskmaker's Workshop</td><td>Grocer’s Shop</td><td>Bakery</td></tr>
 <tr><td>17</td><td>Matchmaker's Abode</td><td>Butcher’s Shop</td><td>Pet Shop</td></tr>
 <tr><td>18</td><td>Shrine to Amun-Oh</td><td>Owned by a Madman</td><td>Glassmaker’s Workshop</td></tr>
-<tr><td>19</td><td>Library</td><td>Armourer’s Forge</td><td>Florist’s Shop</td></tr>
+<tr><td>19</td><td>Library</td><td>장갑er’s Forge</td><td>Florist’s Shop</td></tr>
 <tr><td>20</td><td>Fortification</td><td>Astrologer’s Tower</td><td>Coffee House</td></tr>
 </table>
 
@@ -710,7 +768,7 @@ _Common Sights in the Tomblands_:
 <thead><td>1d20</td><td>Name</td><td>Manner</td><td>Flavour</td></thead>
 <tr><td>1</td><td>Aakarma</td><td>Unkempt</td><td>Rabid Fan of Odd Sport</td></tr>
 <tr><td>2</td><td>Umatri</td><td>Suave</td><td>Laughs at Own Jokes</td></tr>
-<tr><td>3</td><td>Summine</td><td>Tired</td><td>Goods Comically Low Quality</td></tr>
+<tr><td>3</td><td>Summine</td><td>Tired</td><td>Goods Comic동맹 Low Quality</td></tr>
 <tr><td>4</td><td>Ratian</td><td>Disfigured</td><td>Carried Around by Their Sons</td></tr>
 <tr><td>5</td><td>Strinch</td><td>Fierce</td><td>Curses the Hegemony</td></tr>
 <tr><td>6</td><td>Meadshark</td><td>Mild</td><td>Curses the Water Baron</td></tr>
@@ -732,11 +790,11 @@ _Common Sights in the Tomblands_:
 
 <table>
 <thead><td>1d20</td><td>Store Appearance</td><td>Store Location</td><td>They Sell</td></thead>
-<tr><td>1</td><td>Crooked</td><td>Crossroads</td><td>Armour</td></tr>
+<tr><td>1</td><td>Crooked</td><td>Crossroads</td><td>장갑</td></tr>
 <tr><td>2</td><td>Lantern-Strewn</td><td>Basement</td><td>Fungus</td></tr>
 <tr><td>3</td><td>Elegant</td><td>By Public Park</td><td>Jewellery</td></tr>
 <tr><td>4</td><td>Airy</td><td>Near Water Baron’s Fountain</td><td>Olives</td></tr>
-<tr><td>5</td><td>Literally a Barrel</td><td>Under Lemon Tree</td><td>Roast Chickens</td></tr>
+<tr><td>5</td><td>Liter동맹 a Barrel</td><td>Under Lemon Tree</td><td>Roast Chickens</td></tr>
 <tr><td>6</td><td>Crowded</td><td>By Cactus Garden</td><td>Roast Monkeys</td></tr>
 <tr><td>7</td><td>Inviting</td><td>Pleasant Avenue</td><td>Swords</td></tr>
 <tr><td>8</td><td>Half-Burned</td><td>Near Slaughterhouse</td><td>Coffee Beans</td></tr>
@@ -765,7 +823,7 @@ _Should the party wish to engage the services of hired swords, Gnomon’s tavern
 <tr><td>3</td><td>Demeter Blue</td><td>Muscular New-Peacock</td><td>Hates Alermo White</td></tr>
 <tr><td>4</td><td>Alermo White</td><td>Burly New-Swan</td><td>Loves Demeter Blue</td></tr>
 <tr><td>5</td><td>Marsalessa</td><td>One-Armed Cacogen</td><td>Hard of Hearing</td></tr>
-<tr><td>6</td><td>Mooncalf</td><td>Synth, Luminous Head</td><td>Suicidally Brave</td></tr>
+<tr><td>6</td><td>Mooncalf</td><td>Synth, Luminous Head</td><td>Suicid동맹 Brave</td></tr>
 <tr><td>7</td><td>Catanza</td><td>Energetic New-Hound</td><td>Tuneless Singing</td></tr>
 <tr><td>8</td><td>Pescand Junta</td><td>Sharp-toothed Cacogen</td><td>Always Spitting</td></tr>
 <tr><td>9</td><td>‘Shoulder’</td><td>Towering True-kin</td><td>Lots of Boils</td></tr>
@@ -783,21 +841,21 @@ _Should the party wish to engage the services of hired swords, Gnomon’s tavern
 </table>
 
 ### Inferior Mercenary
-_Biological_
+_유기체_
 <table>
-<tr><td><b>Level</b>: 1</td><td><b>Armour</b>: 12</td></tr>
-<tr><td><b>Morale</b>: 2</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Crude Weapon (d6)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will work for meals and water.</td></tr>
+<tr><td><b>레벨</b>: 1</td><td><b>장갑</b>: 12</td></tr>
+<tr><td><b>사기</b>: 2</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: Crude Weapon (d6)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: Will work for meals and water.</td></tr>
 </table>
 
 ### Skilled Mercenary
-_Biological_
+_유기체_
 <table>
-<tr><td><b>Level</b>: 3</td><td><b>Armour</b>: 14</td></tr>
-<tr><td><b>Morale</b>: 5</td><td><b>Appearing</b>: 1</td></tr>
-<tr><td colspan="2"><b>Attacks</b>: Well-Kept Weapon (d8)</td></tr>
-<tr><td colspan="2"><b>Notes</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
+<tr><td><b>레벨</b>: 3</td><td><b>장갑</b>: 14</td></tr>
+<tr><td><b>사기</b>: 5</td><td><b>수량</b>: 1</td></tr>
+<tr><td colspan="2"><b>공격</b>: Well-Kept Weapon (d8)</td></tr>
+<tr><td colspan="2"><b>참고사항</b>: Will demand a retainer of two water tokens per day, plus a share of any valuables or Exotica the party finds.</td></tr>
 </table>
 
 # Noble House
@@ -835,7 +893,7 @@ _The Noble Houses of Gnomon trace their ancestries to the reign of the Autarchs,
 <tr><td>3</td><td>Falling Star</td><td>Alzabo Pelt</td><td rowspan="2">Sold off Lands To Pay Gambling Debt</td></tr>
 <tr><td>4</td><td>Crescent Moon</td><td>Hologram Projector</td></tr>
 <tr><td>5</td><td>Full Moon</td><td>Extra-Solar Poetry Scroll</td><td rowspan="2">Estranged Child Married to Someone Unsuitable</td></tr>
-<tr><td>6</td><td>Sorrowful Sun</td><td>Biomechanical Armour</td></tr>
+<tr><td>6</td><td>Sorrowful Sun</td><td>Biomechanical 장갑</td></tr>
 <tr><td>7</td><td>Wrathful Sun</td><td>Broken Lance</td><td rowspan="2">Widely Known That Patriarch’s Children Are Not His</td></tr>
 <tr><td>8</td><td>Bell</td><td>Ancient Hover-Bike</td></tr>
 <tr><td>9</td><td>Twin Swords</td><td>Elaborate Helmet</td><td rowspan="2">Ancestor Once Showed Cowardice in Battle</td></tr>
@@ -1072,7 +1130,7 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 <tr><td>11</td><td>Hallpox</td><td>Ironskull</td><td>Black Teeth</td></tr>
 <tr><td>12</td><td>Bereth</td><td>The Gentle</td><td>Golden Teeth</td></tr>
 <tr><td>13</td><td>Lenna</td><td>The Preacher</td><td>Outrageous Haircut</td></tr>
-<tr><td>14</td><td>Rainadder</td><td>The Fool</td><td>Totally Hairless</td></tr>
+<tr><td>14</td><td>Rainadder</td><td>The Fool</td><td>Tot동맹 Hairless</td></tr>
 <tr><td>15</td><td>Yelaspezia</td><td>The Lucky</td><td>Frighteningly Happy</td></tr>
 <tr><td>16</td><td>Diamo</td><td>The Merciful</td><td>Glowering</td></tr>
 <tr><td>17</td><td>Lismus</td><td>The Cheat</td><td>Intense</td></tr>
@@ -1082,7 +1140,7 @@ _There is nothing that clears the mind after a day of work like the sight of a s
 </table>
 
 <table>
-<thead><th>d20</th><th>Signature Weapon</th><th>Outlandish Armour</th><th>They Want</th></thead>
+<thead><th>d20</th><th>Signature Weapon</th><th>Outlandish 장갑</th><th>They Want</th></thead>
 <tr><td>1</td><td>Bare Fists</td><td>Fights Naked</td><td rowspan="2">Information on the Training Methods of a Rival</td></tr>
 <tr><td>2</td><td>Esoteric Martial Art</td><td>Mystical Tattoos</td></tr>
 <tr><td>3</td><td>Razor Whip</td><td>Dried Snake Skin</td><td rowspan="2">Prophecies Relating to the Manner of their Death</td></tr>
@@ -1174,8 +1232,8 @@ _The Great Collapse scoured the wisdom of the ancients from the surface of the U
 <tr><td>12</td><td>Rhetoric</td><td>Revere an Unintelligible Text</td></tr>
 <tr><td>13</td><td>Astronomy</td><td>Members Wear Masks</td><td rowspan="2">Obtain Live Specimen of a Rare Monster</td></tr>
 <tr><td>14</td><td>Divination</td><td>Members Renounce Their Birth Name</td></tr>
-<tr><td>15</td><td>Mathematics</td><td>Members Ritually Scarred</td><td rowspan="2">Find a Way of Paying Off the Guild’s Ruinous Debts</td></tr>
-<tr><td>16</td><td>Alchemy</td><td>Members Ritually Tattooed</td></tr>
+<tr><td>15</td><td>Mathematics</td><td>Members Ritu동맹 Scarred</td><td rowspan="2">Find a Way of Paying Off the Guild’s Ruinous Debts</td></tr>
+<tr><td>16</td><td>Alchemy</td><td>Members Ritu동맹 Tattooed</td></tr>
 <tr><td>17</td><td>Synthetic Psychology</td><td>Members Never Speak to Outsiders</td><td rowspan="2">Finance an Expedition to Some Remote and Dangerous Location in Vaarn</td></tr>
 <tr><td>18</td><td>Telekinesis</td><td>Take Vow of Chastity</td></tr>
 <tr><td>19</td><td>Music</td><td>Take Vow of Promiscuity</td><td rowspan="2">Discover Who Is Leaking Guild Secrets to Rivals</td></tr>
@@ -1428,7 +1486,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <tr><td>Alchemist</td><td>Butcher</td><td>Exorcist</td><td>Maskmaker</td><td>Ropemaker</td></tr>
 <tr><td>Apothecary</td><td>Card Cheat</td><td>Falconer</td><td>Mason</td><td>Scullion</td></tr>
 <tr><td>Architect</td><td>Carpenter</td><td>Farrier</td><td>Mercenary</td><td>Sculptor</td></tr>
-<tr><td>Armourer</td><td>Cartwright</td><td>Felt-maker</td><td>Midwife</td><td>Slave (Domestic)</td></tr>
+<tr><td>장갑er</td><td>Cartwright</td><td>Felt-maker</td><td>Midwife</td><td>Slave (Domestic)</td></tr>
 <tr><td>Astrologer</td><td>Chandler</td><td>Gambler</td><td>Miner</td><td>Slave (Military)</td></tr>
 <tr><td>Bag-maker</td><td>Charcoal Burner</td><td>Gladiator</td><td>Minstrel</td><td>Shepherd</td></tr>
 <tr><td>Baker</td><td>Charioteer</td><td>Glassblower</td><td>Miracle Healer</td><td>Sin Eater</td></tr>
@@ -1453,7 +1511,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 <thead><th>d20</th><th>NPC A</th><th>Desires To</th><th>NPC B</th></thead>
 <tr><td>1</td><td>Silk Merchant</td><td rowspan="2">Abduct</td><td>Priest of the Promised Sun</td></tr>
 <tr><td>2</td><td>Water Debt Clerk</td><td>Water Baron’s Guard</td></tr>
-<tr><td>3</td><td>Musician</td><td rowspan="2">Professionally Discredit</td><td>Corrupt Scribe</td></tr>
+<tr><td>3</td><td>Musician</td><td rowspan="2">Profession동맹 Discredit</td><td>Corrupt Scribe</td></tr>
 <tr><td>4</td><td>Mosaic Artist</td><td>Astronomer</td></tr>
 <tr><td>5</td><td>Hired Poet</td><td rowspan="2">Marry</td><td>Silversmith</td></tr>
 <tr><td>6</td><td>Barber Surgeon</td><td>Jeweller</td></tr>
@@ -1478,7 +1536,7 @@ _The Water Baron may have a monopoly on fresh water, but he does not have one on
 _No city stands still, and certainly no city as chaotic and vibrant as Gnomon. If the players leave town for a while and come back, here are some things that might have changed while they were gone._
 
 - **An Inspector Calls**. The distant Hegemon, May Their Reign Last One Thousand Years, is displeased with the tax flow from Gnomon, and feels a firmer hand is needed. A cabal of Hegemony Inquisitors have arrived, and they have established a new branch of the House of Questions atop the Apex of Gnomon. Even Consul Lonrot and Commander Loonflower are not immune to the attention of the Hegemon’s Inquisition. The white-robed Brides of Truth walk through the city like ghosts, followed by groups of mute, black-robed Grooms, their dangling proboscises itching to suck the lies out of someone’s skull. People are vanishing from their homes at night. Nobody knows who may be an informant. And what exactly is the Grand Inquisitor doing, up there in his windowless tower?
-- **Rain Will Come**. How much longer must the good people of Gnomon suffer under the Water Baron’s yoke? How many more outrages must they endure? A new voice promises liberation from the Baron’s rule. This preacher stirs the populace with their tales: myths of free water for all, falling from the Vaarnish sky as it did long ago. They call this preacher the Rainmaker. Mobs of their followers gather in the public squares, wailing and lamenting and imploring the sky to bless them. The great and good of Gnomon are, understandably, less than keen on this preacher riling up the masses. Someone really ought to do something about that fanatic.
+- **Rain Will Come**. How much longer must the good people of Gnomon suffer under the Water Baron’s yoke? How many more outrages must they endure? A new voice promises liberation from the Baron’s rule. This preacher stirs the populace with their tales: myths of free water for all, falling from the Vaarnish sky as it did long ago. They call this preacher the Rainmaker. Mobs of their followers gather in the public squares, wailing and lamenting and imploring the sky to bless them. The great and good of Gnomon are, understandably, less than keen on this preacher riling up the masses. Someone re동맹 ought to do something about that fanatic.
 - **The Legions Return**. The Hegemon, May Their Blade Cut Down the Unforgiven, has urgent need of all their Legions in the heartlands of the Hegemony. Nobody’s quite sure when the soldiers will come back. House Lonrot are left in charge of the city, with only their modest household guard to enforce the Consul’s will. If anyone was ever going to make a play for Gnomonian independence, this is their chance.
 - **Language Plague**. A reckless vault-raider brought some awful relic of the Age of Titans into the city, and a rapidly spreading language virus is threatening the populace. The disease compels sufferers to endlessly repeat a strange mantra, and all those who hear the words of the chant run risk of infection themselves. Citizens have stuffed their ears with wax and are ringing every bell they can find to drown out the chants of the infected. The Hegemony Legion struggles to keep order as the Philosopher’s Guilds compete to find a cure.
 - **Great Fire**. Nobody is sure how it started, but a fire is either currently raging or has devastated a great swathe of the city’s crowded townhouses. Choose one of the NPCs the party has grown closest to during the course of the campaign: they have either lost their home or are in imminent danger of doing so. How did the fire start? Was it deliberate? The streets are surely full of gossip.
