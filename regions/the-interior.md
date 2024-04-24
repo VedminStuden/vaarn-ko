@@ -93,26 +93,26 @@ _PC들이 아주 천천히 시끄럽게, 또는 뻔한 방식으로 이동하고
 ## Desert Encounters
 <table>
 <thead><tr><th>d20</th><th>조우</th><th>지형</th><th>행태</th></th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=yurling">율링</a></td><td>무성한 잡초</td><td>잠듦</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=thunderstrike-bird">천둥번개새</a></td><td>소금 평원</td><td>죽어감</td></tr>
-<tr><td>3</td><td><a href="#/bestiary?id=battle-boar">전투 멧돼지</a></td><td>모래 언덕</td><td>순찰함</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=blue-baboon">파란 개코원숭이</a></td><td>험한 돌 강</td><td>짝짓기함</td></tr>
-<tr><td>5</td><td><a href="#/bestiary?id=giant-azure-scorpion">거대 하늘색 전갈</a></td><td>메마른 강줄기</td><td>영토 표시함</td></tr>
-<tr><td>6</td><td><a href="#/bestiary?id=lizard-lion">도마뱀 사자</a></td><td>메마른 물웅덩이</td><td>식사중임</td></tr>
-<tr><td>7</td><td><a href="#/bestiary?id=glass-tiger">유리 호랑이</a></td><td>큼지막한 바위</td><td>평온함 / 보금자리를 짓고 있음</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=greenguard">그린가드</a></td><td>선인장 지대</td><td>추격중 / 도주중</td></tr>
-<tr><td>9</td><td><a href="#/bestiary?id=grey-cricket">회색 귀뚜라미</a></td><td>순교자의 숲</td><td>고기를 찾아 헤맴</td></tr>
-<tr><td>10</td><td><a href="#/bestiary?id=doppelgeller">복젤인간</a></td><td>버려진 차량</td><td>부상당함</td></tr>
-<tr><td>11</td><td><a href="#/bestiary?id=leopard-worm">표범벌레</a></td><td>난파된 우주선</td><td>부상당함</td></tr>
-<tr><td>12</td><td><a href="#/bestiary?id=indigo-servitor">남색 시종</a></td><td>버려진 마을</td><td>방황함</td></tr>
-<tr><td>13</td><td><a href="#/bestiary?id=bandit">도적</a></td><td>폐허가 된 종탑</td><td>환각 상태에 있음</td></tr>
-<tr><td>14</td><td><a href="#/bestiary?id=phthalo-jackal">하늘색 자칼</a></td><td>독성 웅덩이</td><td>피신함 / 숨음</td></tr>
-<tr><td>15</td><td><a href="#/bestiary?id=planeyfolk">플래니포크</a></td><td>부식성 간헐천</td><td rowspan="6">다른 생명체와 전투<br />(다시 굴림)</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=regenerator">재생하는 자</a></td><td>수정 성장체</td></tr>
-<tr><td>17</td><td><a href="#/bestiary?id=tiger-fly">호랑이 파리</a></td><td>고대의 전쟁터</td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=stumbling-drone">비틀거리는 드론</a></td><td>진균에 먹힌 전초기지</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=alzabo">알자보</a></td><td>침묵하는 기계장치</td></tr>
-<tr><td>20</td><td><a href="#/bestiary?id=cacogen-pseudo-giant">캐커젠 가짜거인</a></td><td>버려진 야영지</td></tr>
+<tr><td>1</td><td><a href="#/bestiary?id=율링-yurling">율링</a></td><td>무성한 잡초</td><td>잠듦</td></tr>
+<tr><td>2</td><td><a href="#/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개새</a></td><td>소금 평원</td><td>죽어감</td></tr>
+<tr><td>3</td><td><a href="#/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>모래 언덕</td><td>순찰함</td></tr>
+<tr><td>4</td><td><a href="#/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>험한 돌 강</td><td>짝짓기함</td></tr>
+<tr><td>5</td><td><a href="#/bestiary?id=거대-하늘색-전갈-giant-azure-scorpion">거대 하늘색 전갈</a></td><td>메마른 강줄기</td><td>영토 표시함</td></tr>
+<tr><td>6</td><td><a href="#/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>메마른 물웅덩이</td><td>식사중임</td></tr>
+<tr><td>7</td><td><a href="#/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>큼지막한 바위</td><td>평온함 / 보금자리를 짓고 있음</td></tr>
+<tr><td>8</td><td><a href="#/bestiary?id=그린가드-greenguard">그린가드</a></td><td>선인장 지대</td><td>추격중 / 도주중</td></tr>
+<tr><td>9</td><td><a href="#/bestiary?id=회색-귀뚜라미-grey-cricket">회색 귀뚜라미</a></td><td>순교자의 숲</td><td>고기를 찾아 헤맴</td></tr>
+<tr><td>10</td><td><a href="#/bestiary?id=복젤인간-doppelgeller">복젤인간</a></td><td>버려진 차량</td><td>부상당함</td></tr>
+<tr><td>11</td><td><a href="#/bestiary?id=표범벌레-leopard-worm">표범벌레</a></td><td>난파된 우주선</td><td>부상당함</td></tr>
+<tr><td>12</td><td><a href="#/bestiary?id=남색-시종-indigo-servitor">남색 시종</a></td><td>버려진 마을</td><td>방황함</td></tr>
+<tr><td>13</td><td><a href="#/bestiary?id=도적-bandit">도적</a></td><td>폐허가 된 종탑</td><td>환각 상태에 있음</td></tr>
+<tr><td>14</td><td><a href="#/bestiary?id=하늘빛-자칼-phthalo-jackal">하늘색 자칼</a></td><td>독성 웅덩이</td><td>피신함 / 숨음</td></tr>
+<tr><td>15</td><td><a href="#/bestiary?id=플래니포크-planeyfolk">플래니포크</a></td><td>부식성 간헐천</td><td rowspan="6">다른 생명체와 전투<br />(다시 굴림)</td></tr>
+<tr><td>16</td><td><a href="#/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>수정 성장체</td></tr>
+<tr><td>17</td><td><a href="#/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>고대의 전쟁터</td></tr>
+<tr><td>18</td><td><a href="#/bestiary?id=비틀거리는-드론-stumbling-drone">비틀거리는 드론</a></td><td>진균에 먹힌 전초기지</td></tr>
+<tr><td>19</td><td><a href="#/bestiary?id=알자보-alzabo">알자보</a></td><td>침묵하는 기계장치</td></tr>
+<tr><td>20</td><td><a href="#/bestiary?id=캐커젠-가짜거인-cacogen-pseudo-giant">캐커젠 가짜거인</a></td><td>버려진 야영지</td></tr>
 </table>
 
 
