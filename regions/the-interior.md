@@ -469,7 +469,7 @@ _신성한 의지가 자기를 알리는 변덕스럽고 당혹스러운 수단�
 <tr><td>8</td><td>지구라트</td><td>수정 두개골</td><td>반신 술탄 아자소스</td><td>눈 먼 노파</td></tr>
 <tr><td>9</td><td>부서진 사원</td><td>목재 우상</td><td>크로노스교</td><td>가면 쓴 벙어리</td></tr>
 <tr><td>10</td><td>마른 오아시스</td><td>다채로운 색의 왕좌</td><td>메티스교</td><td>자각하는 말벌 둥지</td></tr>
-<tr><td>11</td><td>흐 조각상</td><td>수정 왕관</td><td>므네모심교</td><td>학식 있는 수도사들</td></tr>
+<tr><td>11</td><td>흐릿하게 보이는 조각상</td><td>수정 왕관</td><td>므네모심교</td><td>학식 있는 수도사들</td></tr>
 <tr><td>12</td><td>폐허가 된 마을</td><td>고대의 신발</td><td>히페리온교</td><td>전사겸 수도사</td></tr>
 <tr><td>13</td><td>진균 교회</td><td>유골함</td><td>가이아교</td><td>수호자 신스</td></tr>
 <tr><td>14</td><td>크롬 탑</td><td>미라화된 자칼</td><td>코에우스교</td><td>뉴-자칼 떼</td></tr>
@@ -541,7 +541,7 @@ _사막 아래의 땅은 통로, 터널, 환기구 및 지하세계로의 다른
 </table>
 
 
-## 랜드마크
+## 랜드마크 (Landmark)
 
 | **D20** | **자연적인 랜드마크** | **인공 랜드마크** |
 | --- | --- | --- |
@@ -732,135 +732,135 @@ _바안은 무엇보다도 결말이 무거운 땅이며 무덤은 음울한 규
 
 <table>
 <thead><th>d20</th><th>장소</th><th>무덤에 묻힌 자</th><th>장례 방법</th><th>무덤의 별난 점</th></thead>
-<tr><td>1</td><td>폐허가 된 마을</td><td>신왕국 병사들</td><td>Upside Down</td><td>Has Been Desecrated</td></tr>
-<tr><td>2</td><td>Large Cave</td><td>Titan-era Programmers</td><td>In Salted Earth</td><td>Believed Cursed</td></tr>
-<tr><td>3</td><td>Secret Cave</td><td>Autarchy Nobles</td><td>In Decorated Urn</td><td>Has Been Robbed</td></tr>
-<tr><td>4</td><td>Below Floating Crystal</td><td>Autarch’s Consort</td><td>Mummified</td><td>Visited by Ghouls</td></tr>
-<tr><td>5</td><td>Lonely Hilltop</td><td>Newbeasts</td><td>Laminated</td><td>Home to Rare Animal</td></tr>
-<tr><td>6</td><td>Dry River-bed</td><td>Synthetic Warrior</td><td>Held in Preservation Tank</td><td>Believed Haunted</td></tr>
-<tr><td>7</td><td>Dry Lake-bed</td><td>Synthetic Poet</td><td>Held in Anti-Entropy Sphere</td><td>Coins Left In Tribute</td></tr>
-<tr><td>8</td><td>Imposing Crypt</td><td>Synthetic Oracle</td><td>Cryogenic Pod</td><td>Food Left In Tribute</td></tr>
-<tr><td>9</td><td>Cactus Grove</td><td>Notorious Heretic</td><td>Surrounded by Grave Goods</td><td>Swords Left In Tribute</td></tr>
-<tr><td>10</td><td>Ring of Standing Stones</td><td>Cacogen Mystic</td><td>Crystal Coffin</td><td>Candles Burning</td></tr>
-<tr><td>11</td><td>Under Petrified Tree</td><td>Faa Nomad Ancestors</td><td>Biotech Sarcophagus</td><td>Memorial Tree</td></tr>
-<tr><td>12</td><td>Below Huge Statue</td><td>Faa Nomad Prophet</td><td>Wearing Lifelike Death Mask</td><td>Engraved Mantra</td></tr>
-<tr><td>13</td><td>Elegant Pagoda</td><td>Powerful Psychic</td><td>Sky Burial</td><td>Memorial Fountain (Dry)</td></tr>
-<tr><td>14</td><td>Looming Edifice</td><td>Famed Swordsman</td><td>Consumed by Fungus</td><td>Ritual Artwork (Ugly)</td></tr>
-<tr><td>15</td><td>Plain of Stones</td><td>Bandit King</td><td>Food for Sacred Flower</td><td>Ritual Artwork (Good)</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=wreck">Near Wreck</a></td><td>Hegemony Rangers</td><td>Below Cairn</td><td>Site of Pilgrimage</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=oasis">Near Oasis</a></td><td>Massacred Faa Nomads</td><td>Inside Stone Cube</td><td>Synthetic Grave Keeper</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=ruin">Near Ruin</a></td><td>Hegemony Exultant</td><td>Inside Hypergeometric Artefact</td><td><a href="#/regions/the-interior.md?id=bandit-camp">Hideout for Bandits</a></td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=holy-place">Near Holy Place</a></td><td>Autarch</td><td>Frozen Outside Time-stream</td><td><a href="#/regions/the-interior.md?id=vault">Entrance to Vault</a></td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=settlement">Near Settlement</a></td><td>Extra-Solar Explorers</td><td>Not Really Dead</td><td><a href="#/regions/the-interior.md?id=lair">Monster Lair</a></td></tr>
+<tr><td>1</td><td>폐허가 된 마을</td><td>신왕국 병사들</td><td>거꾸로 묻음</td><td>신성모독됨</td></tr>
+<tr><td>2</td><td>큰 동굴</td><td>타이탄 시대의 프로그래머들</td><td>소금을 뿌린 땅에 묻음</td><td>저주받은 것으로 여겨짐</td></tr>
+<tr><td>3</td><td>숨겨진 동굴</td><td>신왕국 귀족들</td><td>장식된 항아리에 넣음</td><td>도굴당함</td></tr>
+<tr><td>4</td><td>부유 수정 밑</td><td>신왕의 배우자</td><td>미라화함</td><td>구울들이 다녀감</td></tr>
+<tr><td>5</td><td>외로운 언덕 꼭대기</td><td>뉴비스트들</td><td>얇은 판으로 덮음</td><td>희귀한 야생동물의 보금자리</td></tr>
+<tr><td>6</td><td>메마른 강바닥</td><td>인조 전사</td><td>보존 탱크에 보관</td><td>귀신들린 것으로 여겨짐</td></tr>
+<tr><td>7</td><td>메마른 호수 바닥</td><td>인조 시인</td><td>반-엔트로피 구체에 보관</td><td>공물로 바쳐져 남은 동전</td></tr>
+<tr><td>8</td><td>인상적인 토굴</td><td>인조 신탁</td><td>극저온포드</td><td>공물로 바쳐져 남은 음식</td></tr>
+<tr><td>9</td><td>선인장 숲</td><td>악명높은 이단자</td><td>부장품으로 둘러싸임</td><td>공물로 바쳐져 남은 검</td></tr>
+<tr><td>10</td><td>고리 모양으로 서 있는 돌무더기</td><td>캐커젠 신비주의자</td><td>수정 관짝에 넣음</td><td>촛불이 불탐</td></tr>
+<tr><td>11</td><td>석화된 나무 밑</td><td>파아 유목민의 선조들</td><td>생체기술 석관에 넣음</td><td>기념수</td></tr>
+<tr><td>12</td><td>거대한 조각상 밑</td><td>파아 유목민 선지자</td><td>생전 모습을 본뜬 데스 마스크를 씌움</td><td>기도문이 새겨짐</td></tr>
+<tr><td>13</td><td>우아한 탑</td><td>강력한 정신 능력자</td><td>풍장</td><td>메마른 기념분수</td></tr>
+<tr><td>14</td><td>흐릿하게 보이는 건축물</td><td>유명한 검객</td><td>진균에 먹히게 둠</td><td>의식용 예술품 (끔찍함)</td></tr>
+<tr><td>15</td><td>돌 평원</td><td>도적의 왕</td><td>신성한 꽃의 먹이로 바침</td><td>의식용 예술품 (좋음)</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=wreck">잔해 근처</a></td><td>신정부 레인저</td><td>석총 아래에 묻음</td><td>순례지</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=oasis">오아시스 근처</a></td><td>학살당한 파아 유목민들</td><td>석재 큐브 안에 넣음</td><td>인조 무덤지기</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=ruin">폐허 근처</a></td><td>신정부에 기뻐하는 자</td><td>초기하학적 인공물 안에 넣음</td><td><a href="#/regions/the-interior.md?id=bandit-camp">도적들의 은신처</a></td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=holy-place">성지 근처</a></td><td>신왕</td><td>밖에서 보기엔 시간의 흐름이 멈춘 곳</td><td><a href="#/regions/the-interior.md?id=vault">Entrance to Vault</a></td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=settlement">정착지 근처</a></td><td>이계의 탐험가들</td><td>아직 안 죽음</td><td><a href="#/regions/the-interior.md?id=lair">괴물의 보금자리</a></td></tr>
 </table>
 
-## Science Mystic's Abode
+## 과학 신비주의자의 거주지 (Science Mystic's Abode)
 
-_Certain avenues of philosophical enquiry are best pursued in the deepest deserts, far away from curious neighbors, the reach of law enforcement, or indeed any conceivable restraint save one’s own threadbare conscience._
+_일부 철학적 탐구는 호기심 많은 이웃, 법 집행 기관의 손길 또는 사람의 허물어진 양심 외에는 상상할 수 있는 제약에서 멀리 떨어진 깊은 사막에서 가장 많이 이뤄집니다._
 
 <table>
-<thead><th>d20</th><th>Abode</th><th>The Science-Mystic</th><th>Researching</th><th>They Want</th></thead>
-<tr><td>1</td><td>Secluded</td><td>Cloaked, Masked, Decaying</td><td>Immortality</td><td rowspan="2">‘Volunteers’ for Experimentation</td></tr>
-<tr><td>2</td><td>Armoured</td><td>Booming Voice, Tiny Body</td><td>Telepathy</td></tr>
-<tr><td>3</td><td>Vine-choked</td><td>Sallow and Smelly</td><td>Mind Control</td><td rowspan="2">To Hire A New Assistant; Don’t Ask About the Old One</td></tr>
-<tr><td>4</td><td>Dark</td><td>Dazzlingly Beautiful</td><td>Antigravity Field</td></tr>
-<tr><td>5</td><td>Spiralling</td><td>Plastic-fleshed Synth</td><td>Time Stasis</td><td rowspan="2">To Dispose of a Rogue Creation</td></tr>
-<tr><td>6</td><td>Sentient</td><td>Double-faced Cacogen</td><td>Time Travel</td></tr>
-<tr><td>7</td><td>Wheeled</td><td>Ostentatious New-Tiger</td><td>Time Paradox</td><td rowspan="2"><a href="#/regions/the-interior.md?id=ruin">A Fabled Chemical Substance; Found In Nearby Ruin</a></td></tr>
-<tr><td>8</td><td>Transparent</td><td>Permanently Invisible</td><td>Hypergeometry</td></tr>
-<tr><td>9</td><td>Crystalline</td><td>Brain in a Vat</td><td>Synthetic Anatomy</td><td rowspan="2">A Fabled Artefact; Said to be Held by a Faa Nomad Clan</td></tr>
-<tr><td>10</td><td>Sword-like</td><td>Levitating Idiot</td><td>Synthetic Psychology</td></tr>
-<tr><td>11</td><td>Towering</td><td>Terrified of their Reflection</td><td>Newbeast Biology</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Body Parts of Local Monster</a></td></tr>
-<tr><td>12</td><td>Severe</td><td>Flesh-eating Mycomorph</td><td>Newbeast Psychology</td></tr>
-<tr><td>13</td><td>Decadent</td><td>Extra Arms Grafted On Back</td><td>Mycomorph Biology</td><td rowspan="2">Revenge on Ex-Assistant; They Stole Research</td></tr>
-<tr><td>14</td><td>Buried</td><td>Neurotic New-Lynx</td><td>Mycomorph Psychology</td></tr>
-<tr><td>15</td><td>Overgrown</td><td>Stuttering Synth</td><td>Language Virus</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">An Armed Escort To Explore A Distant Vault</a></td></tr>
-<tr><td>16</td><td>Elegant</td><td>Bashful Murderer</td><td>Teleportation</td></tr>
-<tr><td>17</td><td>Devotional</td><td>Icily Polite</td><td>Titancreed Syntax</td><td rowspan="2">An Armed Escort to Accompany Them to Gnomon</td></tr>
-<tr><td>18</td><td>Pyramid</td><td>Blood-drinking Cacogen</td><td>Ancient Super-weapon</td></tr>
-<tr><td>19</td><td>Deceptively Normal</td><td>Way Too Friendly</td><td>Contact Azathoth</td><td rowspan="2">Assistance With An Obviously Dangerous Experiment</td></tr>
-<tr><td>20</td><td>Floating Orb</td><td>Glows in the Dark</td><td>Space Travel</td></tr>
+<thead><th>d20</th><th>거주지</th><th>과학 신비주의자</th><th>연구하는 것</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>외짐</td><td>온몸을 덮고 가면을 쓴 채 썩어감</td><td>불멸성</td><td rowspan="2">실험의 ‘자원자’ </td></tr>
+<tr><td>2</td><td>장갑을 덧댐</td><td>목소리가 멋지고 몸이 아주 작음</td><td>텔레파시</td></tr>
+<tr><td>3</td><td>덩굴로 조여짐</td><td>S혈색이 나쁘고 냄새남</td><td>정신 조종</td><td rowspan="2">새로운 조수를 구하는 것. 물론 예전 조수에 대해선 묻지 않을 것.</td></tr>
+<tr><td>4</td><td>어두움</td><td>눈부시게 아름다움</td><td>반중력 장막</td></tr>
+<tr><td>5</td><td>나선형</td><td>플라스틱 살점 신스</td><td>시간 정지</td><td rowspan="2">시악한 창조물을 처리해줄 것</td></tr>
+<tr><td>6</td><td>지성체</td><td>위선적인 캐커젠</td><td>시간 여행</td></tr>
+<tr><td>7</td><td>바퀴달림</td><td>호사스러운 뉴-호랑이</td><td>시간 역설</td><td rowspan="2"><a href="#/regions/the-interior.md?id=ruin">근처 유적에서 발견한 전설 속의 화학물질</a></td></tr>
+<tr><td>8</td><td>투명함</td><td>영구적으로 투명함/td><td>초기하학</td></tr>
+<tr><td>9</td><td>수정체</td><td>통 속의 뇌</td><td>신스 해부학</td><td rowspan="2">파아 유목민 부족의 손에 있다고 알려진 전설 속의 유물</td></tr>
+<tr><td>10</td><td>검같음</td><td>부유하는 멍청이</td><td>신스 심리학</td></tr>
+<tr><td>11</td><td>우뚝 솟음</td><td>거울에 비친 모습을 두려워함</td><td>뉴비스트 생물학</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">현지 괴물의 신체부위</a></td></tr>
+<tr><td>12</td><td>간소함</td><td>살점을 먹어치우는 버섯체</td><td>뉴비스트 심리학</td></tr>
+<tr><td>13</td><td>퇴폐적임</td><td>등에 이식된 여분의 팔</td><td>버섯체 심리학</td><td rowspan="2">연구를 훔친 전 조수에게 복수하기</td></tr>
+<tr><td>14</td><td>파묻힘</td><td>신경과민 뉴-스라소니</td><td>버섯체 심리학</td></tr>
+<tr><td>15</td><td></td><td>말더듬이 신스</td><td>언어 바이러스</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">머나먼 볼트를 탐사할 무장 호위대</a></td></tr>
+<tr><td>16</td><td>우아함</td><td>수줍은 살인자 </td><td>순간이동</td></tr>
+<tr><td>17</td><td>종교적임</td><td>차갑도록 정중함</td><td>타이탄신조 구문</td><td rowspan="2">노몬까지 동행할 무장 호위대</td></tr>
+<tr><td>18</td><td>피라미드</td><td>피를 마시는 캐커젠</td><td>고대의 슈퍼무기</td></tr>
+<tr><td>19</td><td>믿을 수 없게도 평범함</td><td>너무 친절함</td><td>아자소스와 접촉하기</td><td rowspan="2">명백하게 위험한 실험에 줄 도움</td></tr>
+<tr><td>20</td><td>떠다니는 구체</td><td>어둠 속에서 빛남</td><td>우주 여행</td></tr>
 </table>
 
-## Trade Post
+## 교역소 (Trade Post)
 
 <table>
-<thead><th>d20</th><th>Location</th><th>Who Trades Here? (x2)</th><th>What is Traded? (x2)</th></thead>
-<tr><td>1</td><td>Large Tent</td><td>Hegemony Soldiers</td><td>Water</td></tr>
-<tr><td>2</td><td>Crossroads</td><td>Faa Nomad Raiders</td><td>Information</td></tr>
-<tr><td>3</td><td>Beneath Great Cactus</td><td>Faa Nomad Herdsmen</td><td>Memories</td></tr>
-<tr><td>4</td><td>Echoing Cave</td><td>Cacogen Drifters</td><td>Music</td></tr>
-<tr><td>5</td><td>Beneath Glowering Idol</td><td>Furtive Monks</td><td>Olives</td></tr>
-<tr><td>6</td><td>Sheltered Valley</td><td>Cacklemaw Exiles</td><td>Weapons</td></tr>
-<tr><td>7</td><td>Atop Great Rock</td><td>Oracle’s Caretakers</td><td>Armour</td></tr>
-<tr><td>8</td><td>Within Huge Skull</td><td>Servants of a Petty God</td><td>Pottery</td></tr>
-<tr><td>9</td><td>Within Huge Empty Shell</td><td>Vault Raiders</td><td>Jewellery</td></tr>
-<tr><td>10</td><td>Ancient Tollbooth</td><td>A Science-Mystic</td><td>Dried Fish</td></tr>
-<tr><td>11</td><td>Stone Fort</td><td>Lithling Scholars</td><td>Livestock</td></tr>
-<tr><td>12</td><td>Grove of Martyr Trees</td><td>Gnomonian Merchants</td><td>Prisoners</td></tr>
-<tr><td>13</td><td>Dried Up Oasis</td><td>Mercenary Band</td><td>Psychedelics</td></tr>
-<tr><td>14</td><td>Polluted Lakeshore</td><td>Roaming Scavengers</td><td>Flowers</td></tr>
-<tr><td>15</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">Near Faa Nomad Camp</a></td><td>Secretive Hermit</td><td>Synth Parts</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">Near Hegemony Camp</a></td><td>Lowly Goatherds</td><td>Camels</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=wreck">Near Wreck</a></td><td>Pious Synths</td><td>Books</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=holy-place">Near Holy Place</a></td><td>Deranged Synths</td><td>Carpets</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=oasis">By Oasis</a></td><td>Pack of Newbeasts</td><td>Medicine</td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">Inside Ruin</a></td><td>Titan Cultists</td><td>Exotica</td></tr>
+<thead><th>d20</th><th>장소</th><th>거래하는 사람 (X2)</th><th>거래품 (x2)</th></thead>
+<tr><td>1</td><td>대형 천막</td><td>신정부 병사들</td><td>물</td></tr>
+<tr><td>2</td><td>교차로</td><td>파아 유목민 약탈자들</td><td>정보</td></tr>
+<tr><td>3</td><td>거대한 선인장 밑</td><td>파아 유목민 양치기들</td><td>기억</td></tr>
+<tr><td>4</td><td>메아리치는 동굴</td><td>캐커젠 표류자들</td><td>음악</td></tr>
+<tr><td>5</td><td>빛나는 우상 아래</td><td>수상쩍은 수도사들</td><td>올리브</td></tr>
+<tr><td>6</td><td>보호받는 계곡</td><td>캐클모 추방자들</td><td>무기들</td></tr>
+<tr><td>7</td><td>꼭대기의 거대한 바위</td><td>신탁의 관리인</td><td>방어구</td></tr>
+<tr><td>8</td><td>거대한 두개골 안</td><td>하찮은 신의 시종들</td><td>도자기</td></tr>
+<tr><td>9</td><td>거대한 빈 껍데기 안</td><td>볼트 약탈자들</td><td>보석</td></tr>
+<tr><td>10</td><td>고대 공회당</td><td>과학 신비주의자들</td><td>건어물</td></tr>
+<tr><td>11</td><td>석재 요새</td><td>리슬링 학자들</td><td>가축</td></tr>
+<tr><td>12</td><td>순교자의 숲</td><td>노몬의 상인들</td><td>포로</td></tr>
+<tr><td>13</td><td>메마른 오아시스</td><td>용병 무리</td><td>환각제</td></tr>
+<tr><td>14</td><td>오염된 호반</td><td>배회하는 폐품업자들</td><td>꽃</td></tr>
+<tr><td>15</td><td><a href="#/regions/the-interior.md?id=faa-nomad-camp">파아 유목민 야영지 근처</a></td><td>비밀스러운 은둔자</td><td>신스 부품</td></tr>
+<tr><td>16</td><td><a href="#/regions/the-interior.md?id=hegemony-camp">신정부 야영지 근처</a></td><td>천한 염소치기들</td><td>낙타</td></tr>
+<tr><td>17</td><td><a href="#/regions/the-interior.md?id=wreck">잔해 근처</a></td><td>경건한 신스들</td><td>도서</td></tr>
+<tr><td>18</td><td><a href="#/regions/the-interior.md?id=holy-place">성지 근처</a></td><td>미친 신스들</td><td>카페트</td></tr>
+<tr><td>19</td><td><a href="#/regions/the-interior.md?id=oasis">오아시스 옆</a></td><td>뉴비스트 무리</td><td>의약품</td></tr>
+<tr><td>20</td><td><a href="#/regions/the-interior.md?id=ruin">폐허 안</a></td><td>타이탄 숭배자들</td><td>엑조티카</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Owner of the Trade Post</td><td>Envy (Property)</td><td rowspan="2">Successful, Pompous Trader</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Owner’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Sly, Scheming Trader</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Owner’s Sibling</td><td>Love (Triangle)</td><td rowspan="2">Elderly, Naïve Trader</td></tr>
-<tr><td>6</td><td>Unpaid Debts</td></tr>
-<tr><td>7</td><td rowspan="2">Owner’s Heir</td><td>Boredom</td><td rowspan="2">Young, Cruel Trader</td></tr>
-<tr><td>8</td><td>Petty Rivalry</td></tr>
-<tr><td>9</td><td rowspan="2">Peacekeeper at the Trade Post</td><td>Robbery</td><td rowspan="2">Reckless, Hotheaded Trader</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Peacekeeper’s Sinister Deputy</td><td>Adultery</td><td rowspan="2">Whining, Annoying Trader</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Studious Clerk</td><td>Gluttony</td><td rowspan="2">Brawny Youth, who Assists a Trader</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Dishonest Clerk</td><td>Wild, Baseless Accusations</td><td rowspan="2">Performer, Who Entertains Traders</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Lowly Servant</td><td>Addiction (Narcotics)</td><td rowspan="2">Fortune-Teller, Just Passing Through</td></tr>
-<tr><td>18</td><td>Shoddy Goods</td></tr>
-<tr><td>19</td><td rowspan="2">Orphan, Found in the Desert</td><td>Blackmail</td><td rowspan="2">Wandering, Scheming Stranger</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">교역소의 주인</td><td>질투 (재산)</td><td rowspan="2">성공했으며 잘난채하는 장사꾼</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
+<tr><td>3</td><td rowspan="2">주인의 배우자</td><td>사랑 (금지됨)</td><td rowspan="2">교활하고 계획적인 장사꾼</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">주인의 쌍둥이</td><td>사랑 (삼각관계)</td><td rowspan="2">늙고 순진한 장사꾼</td></tr>
+<tr><td>6</td><td>주인의 상속자</td></tr>
+<tr><td>7</td><td rowspan="2">주인의 상속자</td><td>지루함</td><td rowspan="2">젊고 잔혹한 장사꾼</td></tr>
+<tr><td>8</td><td>사소한 경쟁</td></tr>
+<tr><td>9</td><td rowspan="2">교역소의 평화유지군</td><td>강도</td><td rowspan="2">무모하고 다혈질적인 장사꾼</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">평화유지군의 사악한 부관</td><td>간통</td><td rowspan="2">흐느끼며 짜증내는 장사꾼</td></tr>
+<tr><td>12</td><td>과음</td></tr>
+<tr><td>13</td><td rowspan="2">공부에 힘쓰는 직원</td><td>과음</td><td rowspan="2">장사꾼을 돕는 건장한 청년</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">부정직한 직원</td><td>거칠고 근거없는 비난</td><td rowspan="2">장사꾼을 도븐ㄴ 건장한 청년</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">천한 시종</td><td>중독 (마취제)</td><td rowspan="2">그냥 지나치는 점쟁이</td></tr>
+<tr><td>18</td><td>싸구려 상품</td></tr>
+<tr><td>19</td><td rowspan="2">사막에서 발견된 고아</td><td>공갈</td><td rowspan="2">방랑하는 교활한 이방인</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
-## Hegemony Camp
+## 신정부 야영지 (Hegemony Camp)
 
-_Vaarn is considered one of the least desirable postings a Hegemony soldier can receive, and patrolling the Interior is considered the least desirable duty within the Legions assigned to Vaarn. The Hegemony camps found amongst the blue dunes are generally sparse, miserable, and paranoid affairs, garrisoned by the most mutinous and untrustworthy soldiers the New Hegemony has to offer._
+_바안은 신정부 군인의 배정지 중 최악으로 여겨지며, 내륙 순찰 역시 바안에 배정된 군단 내에서 최악입니다. 푸른 모래 언덕 사이에서 발견되는 신정부 야영지는 일반적으로 드문드문하고 비참하며, 용병이 주둔합니다. 이들 용병들은 신정부에게 있어 가장 반항적이고 못미더운 병사들입니다._
 
 <table>
-<thead><th>d20</th><th>Unit Type</th><th>Commander</th><th>Camp Mood</th><th>Activity</th></thead>
-<tr><td>1</td><td rowspan="2">Deserters (d6)</td><td>Dead</td><td>Panicked</td><td>Treating Wounds</td></tr>
-<tr><td>2</td><td>Missing</td><td>Surly</td><td>Preparing for Combat</td></tr>
-<tr><td>3</td><td rowspan="4">Scouts (d6)</td><td>Dying</td><td>Mutinous</td><td>Cleaning Campsite</td></tr>
-<tr><td>4</td><td>Wounded</td><td>Stressed</td><td>Cooking</td></tr>
-<tr><td>5</td><td>Weirdly Optimistic</td><td>Downcast</td><td>Weapons Drill</td></tr>
-<tr><td>6</td><td>Raving Mad</td><td>Sleepy</td><td>Repairing Gear</td></tr>
-<tr><td>7</td><td rowspan="4">Rangers (d8)</td><td>Incompetent</td><td>Lazy</td><td>Troop Inspection</td></tr>
-<tr><td>8</td><td>Stern</td><td>Paranoid</td><td>Burying Dead</td></tr>
-<tr><td>9</td><td>Wavering</td><td>Stoic</td><td>Waiting for Orders</td></tr>
-<tr><td>10</td><td>Steady</td><td>Deranged</td><td>Gambling</td></tr>
-<tr><td>11</td><td rowspan="4">Synth-Hunting Team (d8)</td><td>Grim</td><td>Furious</td><td>Sleeping</td></tr>
-<tr><td>12</td><td>Bloodthirsty</td><td>Hopeful</td><td>Feeding Prisoners</td></tr>
-<tr><td>13</td><td>Measured</td><td>Optimistic</td><td>Hunting Wildlife</td></tr>
-<tr><td>14</td><td>Cold</td><td>Celebratory</td><td>Executing Prisoners</td></tr>
-<tr><td>15</td><td rowspan="4">Legionaries (d20)</td><td>Shrewd</td><td>Suspicious</td><td>Searching for Water</td></tr>
-<tr><td>16</td><td>Competent</td><td>Bored</td><td rowspan="2">Combat With Monster</td></tr>
-<tr><td>17</td><td>Loathed</td><td>Generous</td></tr>
-<tr><td>18</td><td>Respected</td><td>Drunken</td><td rowspan="2">Combat With Faa</td></tr>
-<tr><td>19</td><td rowspan="2">Artillery Unit (d8)</td><td>Alert</td><td>Overconfident</td></tr>
-<tr><td>20</td><td>Beloved</td><td>Mournful</td><td>Combat With Cacklemaw</td></tr>
+<thead><th>d20</th><th>병력 유형</th><th>지휘관</th><th>야영지 분위기</th><th>활동</th></thead>
+<tr><td>1</td><td rowspan="2">탈영병 (d6)</td><td>죽음</td><td>패닉에 빠짐</td><td>부상을 돌봄</td></tr>
+<tr><td>2</td><td>실종됨</td><td>불친절함</td><td>전투 준비</td></tr>
+<tr><td>3</td><td rowspan="4">정찰병 (d6)</td><td>죽어감</td><td>반항적임</td><td>야영지 청소</td></tr>
+<tr><td>4</td><td>부상당함</td><td>스트레스 가득함</td><td>요리</td></tr>
+<tr><td>5</td><td>이상하게 낙관적</td><td>풀죽음</td><td>무기 훈련</td></tr>
+<tr><td>6</td><td>헛소리하는 광인</td><td>졸려함</td><td>장비를 수리중임</td></tr>
+<tr><td>7</td><td rowspan="4">레인저 (d8)</td><td>무능함</td><td>게으름</td><td>사열함</td></tr>
+<tr><td>8</td><td>엄격함</td><td>편집증적임</td><td>죽은 자를 무등ㅁ</td></tr>
+<tr><td>9</td><td>주저함</td><td>금욕적임</td><td>명령을 기다림</td></tr>
+<tr><td>10</td><td>한결같음</td><td>정상이 아님</td><td>도박</td></tr>
+<tr><td>11</td><td rowspan="4">신스 사냥조 (d8)</td><td>냉혹함</td><td>맹렬함</td><td>잠듦</td></tr>
+<tr><td>12</td><td>살벌함</td><td>희망적</td><td>포로들에게 밥을 줌</td></tr>
+<tr><td>13</td><td>신중함</td><td>낙관함</td><td>야생동물 사냥</td></tr>
+<tr><td>14</td><td>냉담함</td><td>축제</td><td>포로를 처형함</td></tr>
+<tr><td>15</td><td rowspan="4">군단병 (d20)</td><td>기민함</td><td>수상함</td><td>물을 찾음</td></tr>
+<tr><td>16</td><td>유능함</td><td>따분함</td><td rowspan="2">괴물과 교전</td></tr>
+<tr><td>17</td><td>지긋지긋해 함</td><td>관대함</td></tr>
+<tr><td>18</td><td>존경바등ㅁ</td><td>술취함</td><td rowspan="2">파아와 교전</td></tr>
+<tr><td>19</td><td rowspan="2">포병조 (d8)</td><td>Alert</td><td>너무 자신만만함</td></tr>
+<tr><td>20</td><td>총애받음</td><td>애절함</td><td>캐클모와 교전</td></tr>
 </table>
 
-## Faa Nomad Camp
+## 파아 유목민 야영지 (Faa Nomad Camp)
 
 | **D20** | **지도자** | **가진 것** | **원하는 것** | **분위기** |
 | --- | --- | --- | --- | --- |
@@ -886,55 +886,55 @@ _Vaarn is considered one of the least desirable postings a Hegemony soldier can 
 | 20 | 지도자가 없음 | 물 | 물 | 뽐냄 |
 
 <table>
-<thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">Clan Leader</td><td>Envy (Property)</td><td rowspan="2">Rival to Leader’s Authority</td></tr>
-<tr><td>2</td><td>Envy (Success)</td></tr>
-<tr><td>3</td><td rowspan="2">Leader’s Spouse</td><td>Love (Forbidden)</td><td rowspan="2">Spouse of Rival to Leader</td></tr>
-<tr><td>4</td><td>Love (Unrequited)</td></tr>
-<tr><td>5</td><td rowspan="2">Leader’s Sibling</td><td>Love (Triangle)</td><td rowspan="2">Child of Rival to Leader</td></tr>
-<tr><td>6</td><td>Unpaid Debts</td></tr>
-<tr><td>7</td><td rowspan="2">Leader’s Respected Child</td><td>Boredom</td><td rowspan="2">Clan Member, Considered Foolish</td></tr>
-<tr><td>8</td><td>Honor</td></tr>
-<tr><td>9</td><td rowspan="2">Leader’s Contemptible Child</td><td>Robbery</td><td rowspan="2">Clan Member, Considered Dangerous</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">Old, Frail Elder</td><td>Adultery</td><td rowspan="2">Clan Member, Injured in Battle</td></tr>
-<tr><td>12</td><td>Conspiracy</td></tr>
-<tr><td>13</td><td rowspan="2">Cunning, Manipulative Elder</td><td>Gluttony</td><td rowspan="2">Prisoner, Captured in Battle</td></tr>
-<tr><td>14</td><td>Mistaken Identity</td></tr>
-<tr><td>15</td><td rowspan="2">Feared Old Warrior</td><td>Wild, Baseless Accusations</td><td rowspan="2">Cantankerous Storyteller</td></tr>
-<tr><td>16</td><td>Addiction (Drink)</td></tr>
-<tr><td>17</td><td rowspan="2">Young Warrior, with Something to Prove</td><td>Addiction (Narcotics)</td><td rowspan="2">Skilled Tracker</td></tr>
-<tr><td>18</td><td>Wedding Plans</td></tr>
-<tr><td>19</td><td rowspan="2">Widow of Previous Leader</td><td>Blackmail</td><td rowspan="2">Skilled Artisan</td></tr>
-<tr><td>20</td><td>Murder</td></tr>
+<thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
+<tr><td>1</td><td rowspan="2">부족 지도자</td><td>질투 (재산)</td><td rowspan="2">지도자 권위에 대한 경쟁자</td></tr>
+<tr><td>2</td><td>질투 (성공)</td></tr>
+<tr><td>3</td><td rowspan="2">지도자의 배우자</td><td>사랑 (금지됨)</td><td rowspan="2">지도자에 대한 경쟁자의 배우자</td></tr>
+<tr><td>4</td><td>사랑 (짝사랑)</td></tr>
+<tr><td>5</td><td rowspan="2">지도자의 쌍둥이</td><td>사랑 (삼각관계)</td><td rowspan="2">지도자에 대한 경쟁자의 아이</td></tr>
+<tr><td>6</td><td>빌린 빚</td></tr>
+<tr><td>7</td><td rowspan="2">지도자의 존경받는 아이</td><td>지루함</td><td rowspan="2">멍청하다고 여겨지는 부족원</td></tr>
+<tr><td>8</td><td>명예</td></tr>
+<tr><td>9</td><td rowspan="2">지도자의 멸시받는 아이</td><td>강도</td><td rowspan="2">위험하다고 여겨지는 부족원</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">노쇠한 장로</td><td>Adultery</td><td rowspan="2">전투에서 다친 부족원</td></tr>
+<tr><td>12</td><td>음모</td></tr>
+<tr><td>13</td><td rowspan="2">교활하고 간사한 장로</td><td>과음</td><td rowspan="2">전투에서 붙잡은 포로</td></tr>
+<tr><td>14</td><td>잘못된 정체성</td></tr>
+<tr><td>15</td><td rowspan="2">근심하는 늙은 전사r</td><td>거칠고 근거없는 비난</td><td rowspan="2">심술궂은 이야기꾼</td></tr>
+<tr><td>16</td><td>중독 (술)</td></tr>
+<tr><td>17</td><td rowspan="2">증명할 것이 있는 젊은 전사</td><td>중독 (마취제)</td><td rowspan="2">숙련된 추적꾼</td></tr>
+<tr><td>18</td><td>결혼식 계획</td></tr>
+<tr><td>19</td><td rowspan="2">선대 지도자의 미망인</td><td>공갈</td><td rowspan="2">숙련공</td></tr>
+<tr><td>20</td><td>살인</td></tr>
 </table>
 
-## Cacklemaw Den
+## 캐클모 소굴 (Cacklemaw Den)
 
-_The dens of the Cacklemaw are not difficult to locate - one must simply follow the sound of uproarious merriment, of weapons being discharged wildly, of discordant and rowdy music played fast and poorly, and of vehicles being driven in circles with no apparent destination._
+_캐클모의 소굴은 찾기 어렵지 않습니다. 단순히 흥겨운 웃음소리, 난사되는 무기 소리, 불협화음을 이루는 시끄럽고 빠른 음악 소리, 그리고 목적지 없이 원을 그리며 모는 차량의 소리를 따라가면 됩니다._
 
 <table>
-<thead><th>d20</th><th>Sworn To</th><th>Weapons</th><th>Activity</th><th>They Want</th></thead>
-<tr><td>1</td><td rowspan="5">Mama Hecklehaw</td><td>Bowcasters</td><td>Sleeping</td><td rowspan="4">Meat</td></tr>
-<tr><td>2</td><td>Rusted Blades</td><td>Fleeing</td></tr>
-<tr><td>3</td><td>Ornate Razorwhips</td><td>In-Fighting</td></tr>
-<tr><td>4</td><td>Envenomed Spears</td><td>Funeral</td></tr>
-<tr><td>5</td><td>Impulse Rifles</td><td>Singing</td><td rowspan="4">Water</td></tr>
-<tr><td>6</td><td rowspan="5">Mama Gloatgrim</td><td>Hellblasters</td><td>Drunk</td></tr>
-<tr><td>7</td><td>Storm Guns</td><td>Psychedelic Ritual</td></tr>
-<tr><td>8</td><td>Throwing Knives</td><td>Sacred Puppet Show</td></tr>
-<tr><td>9</td><td>Blunderbores</td><td>Rustling Livestock</td><td>Directions</td></tr>
-<tr><td>10</td><td>Prism Cannons</td><td>Extorting a Merchant</td><td>Tribute</td></tr>
-<tr><td>11</td><td rowspan="5">Mama Yawningfool</td><td>Nailguns</td><td>Transporting Prisoners</td><td>Jokes</td></tr>
-<tr><td>12</td><td>Flesh-rippers</td><td>Repairing Tents</td><td>Music</td></tr>
-<tr><td>13</td><td>Nets and Tridents</td><td>Gambling</td><td>Cruelty</td></tr>
-<tr><td>14</td><td>Spore Launchers</td><td>Marking Territory</td><td>Repairs</td></tr>
-<tr><td>15</td><td>Laser Rifles</td><td>Cooking</td><td>Weapons</td></tr>
-<tr><td>16</td><td rowspan="3">Nana Rictus</td><td>Exploding Javelins</td><td rowspan="2">Fighting (Other Monster)</td><td>Drugs</td></tr>
-<tr><td>17</td><td>Shrieker Bombs</td><td>Booze</td></tr>
-<tr><td>18</td><td>Glue Guns</td><td rowspan="2">Fighting (Other Cacklemaw)</td><td>Shelter</td></tr>
-<tr><td>19</td><td rowspan="2">Nana Blacklaugh</td><td>Hegemony Autorifles</td><td>Reinforcements</td></tr>
-<tr><td>20</td><td>Teeth and Claws</td><td>Fighting (Faa Nomads)</td><td>Prisoners</td></tr>
+<thead><th>d20</th><th>맹세한 대상</th><th>무기</th><th>활동</th><th>원하는 것</th></thead>
+<tr><td>1</td><td rowspan="5">마마 케클호</td><td>보우캐스터</td><td>잠듦</td><td rowspan="4">고기</td></tr>
+<tr><td>2</td><td>녹슨 칼날</td><td>도주함</td></tr>
+<tr><td>3</td><td>화려한 칼날채찍</td><td>접근전</td></tr>
+<tr><td>4</td><td>독 묻은 창</td><td>장례식</td></tr>
+<tr><td>5</td><td>충격 소총</td><td>노래</td><td rowspan="4">물</td></tr>
+<tr><td>6</td><td rowspan="5">마마 글롯그림</td><td>헬블래스터</td><td>술취함</td></tr>
+<tr><td>7</td><td>폭풍총</td><td>환각 의식/td></tr>
+<tr><td>8</td><td>투척용 나이프</td><td>신성한 인형극</td></tr>
+<tr><td>9</td><td>산탄총</td><td>가축 훔치기</td><td>지시</td></tr>
+<tr><td>10</td><td>프리즘포</td><td>상인 갈취</td><td>공물</td></tr>
+<tr><td>11</td><td rowspan="5">마마 요닝풀</td><td>네일건</td><td>포로 수송</td><td>농담</td></tr>
+<tr><td>12</td><td>살점찢개</td><td>천막 수리</td><td>음악</td></tr>
+<tr><td>13</td><td>그물과 삼지창</td><td>도박</td><td>무자비함</td></tr>
+<tr><td>14</td><td>포자 발사기</td><td>영역 표시</td><td>수리</td></tr>
+<tr><td>15</td><td>레이저 소총</td><td>요리</td><td>무기</td></tr>
+<tr><td>16</td><td rowspan="3">나나 릭터스</td><td>폭발성 투창</td><td rowspan="2">다른 괴물과 싸움</td><td>마약</td></tr>
+<tr><td>17</td><td>비명지르는 폭탄</td><td>술잔치</td></tr>
+<tr><td>18</td><td>글루건</td><td rowspan="2">다른 캐클모와 싸움</td><td>피난처</td></tr>
+<tr><td>19</td><td rowspan="2">나나 블랙러프</td><td>신정부 자동소총</td><td>증원군</td></tr>
+<tr><td>20</td><td>이빨과 발톱</td><td>파아 유목민과 싸움</td><td>포로</td></tr>
 </table>
 
 ## Anomaly
