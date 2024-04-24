@@ -615,124 +615,124 @@ _사막 아래의 땅은 통로, 터널, 환기구 및 지하세계로의 다른
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
-## Bounty Hunter's Camp
+## 현상금 사냥꾼의 야영지 (Bounty Hunter's Camp)
 
-_It is commonly known that those seeking to escape the New Hegemony’s justice will flee into the deepest reaches of the Interior, preferring a brief harsh life full of uncertainty to a brief harsh life filled with terrible certainty. It is likewise commonly known that there exists an eccentric and vibrant fraternity of misfits, who attempt - both for profit and for pleasure - to fetch these fugitives back._
+_신정부의 법을 피하려는 사람들이 내륙의 가장 깊은 곳으로 도망치는 것은 일반적으로 알려진 사실입니다. 이들은 끔찍한 확실성을 담은 짧고 가혹한 삶보다 불확실성이 가득한 짧고 가혹한 삶을 선호합니다. 마찬가지로, 이 도망자들을 이익과 즐거움을 위해 되돌려 보내려는 기이하고 생기 넘치는 이방인들의 협회가 있다는 것도 일반적으로 알려져 있습니다._
 
 <table>
-<thead><th>d20</th><th>Hunter</th><th>Hunting</th><th>Their Method</th><th>They Want</th></thead>
-<tr><td>1</td><td>Grim and Scarred</td><td>Heretic</td><td>Patient Stalker</td><td rowspan="2">A Lead on their Quarry</td></tr>
-<tr><td>2</td><td>Avuncular and Evil</td><td>Bandit King</td><td>Guns Blazing</td></tr>
-<tr><td>3</td><td>Psychotic Synth</td><td>Murderer</td><td>Use Poison</td><td rowspan="2">Help Killing Dangerous Quarry</td></tr>
-<tr><td>4</td><td>Three-headed Cacogen</td><td>Conman</td><td>Use Gas</td></tr>
-<tr><td>5</td><td>One-Eyed New-Wolf</td><td>Water Debtor</td><td>Elaborate Disguises</td><td rowspan="2">Help Catching Dangerous Quarry Alive</td></tr>
-<tr><td>6</td><td>Remote-Controlled Armour</td><td>Gambling Debtor</td><td>Sniper Rifle</td></tr>
-<tr><td>7</td><td>Young and Beautiful</td><td>Livestock Thief</td><td>Tranquilliser Crossbow</td><td rowspan="2">Help Killing Someone You Know</td></tr>
-<tr><td>8</td><td>Depressed Drunkard</td><td>Adulterer</td><td>Shoot First</td></tr>
-<tr><td>9</td><td>Husband and Wife Team</td><td>Rogue Synth</td><td>Alluring Honey Trap</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">Help Bringing Prisoner to Distant Settlement</a></td></tr>
-<tr><td>10</td><td>Looks Way Too Young</td><td>Cacklemaw Exile</td><td>Enlist Big Posse</td></tr>
-<tr><td>11</td><td>Clean Cut and Heroic</td><td>Faa Nomads</td><td>Bribes for Information</td><td rowspan="2"><a href="#/regions/the-interior.md?id=arcology">Help Bringing Prisoner To Distant Arcology</a></td></tr>
-<tr><td>12</td><td>Dashing Womaniser</td><td>Water Token Forger</td><td>Reliable Informants</td></tr>
-<tr><td>13</td><td>Flamboyant Old Woman</td><td>Poisoner</td><td>Trained Monster</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">Help Bringing Prisoner To Faa Nomads</a></td></tr>
-<tr><td>14</td><td>Clone Siblings</td><td>Child Killer</td><td>Quiet Abductions</td></tr>
-<tr><td>15</td><td>New-Baboon, Riding Human</td><td>Oath Breaker</td><td>Secret Martial Art</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">Help Capturing Science-Mystic Alive</a></td></tr>
-<tr><td>16</td><td>Veteran Soldier</td><td>Runaway Bride</td><td>Psychic Gifts</td></tr>
-<tr><td>17</td><td>Famous Exile</td><td>Runaway Groom</td><td>Expert Desert Tracker</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">Help Killing Dangerous Monster</a></td></tr>
-<tr><td>18</td><td>Sacred Assassin</td><td>Disgraced Cleric</td><td>Use Camera Drones</td></tr>
-<tr><td>19</td><td>Faa Nomad Tracker</td><td>Hegemony Deserter</td><td>Utterly Incompetent</td><td rowspan="2">Help Escorting Prisoner to Gnomon</td></tr>
-<tr><td>20</td><td>Psychic Mute</td><td>Own Family Member</td><td>Absurdly Complex Traps</td></tr>
+<thead><th>d20</th><th>사냥꾼</th><th>쫓고있는 것</th><th>수단과 방법</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>끈질긴 추적</td><td>Heretic</td><td>Patient Stalker</td><td rowspan="2">사냥감에 대한 단서</td></tr>
+<tr><td>2</td><td>친절하고 사악함</td><td>도적의 왕</td><td>총기를 쏘면서 쳐들어감</td></tr>
+<tr><td>3</td><td>정신병적인 신스</td><td>살인자</td><td>독을 씀</td><td rowspan="2">위험한 사냥감을 죽이기</td></tr>
+<tr><td>4</td><td>삼두 캐커젠</td><td>사기꾼</td><td>가스 사용</td></tr>
+<tr><td>5</td><td>애꾸눈 뉴-늑대</td><td>물 빚쟁이</td><td>정교한 변장</td><td rowspan="2">위험한 사냥감을 생포하기</td></tr>
+<tr><td>6</td><td>원격 조종 갑옷</td><td>도박 빚쟁이</td><td>저격총</td></tr>
+<tr><td>7</td><td>어리고 아름다움</td><td>가축 도둑</td><td>조용한 쇠뇌</td><td rowspan="2">당신이 아는 누군자를 살해하는 것을 돕기</td></tr>
+<tr><td>8</td><td>우울한 술주정뱅이</td><td>간통범</td><td>선제사격</td></tr>
+<tr><td>9</td><td>부부로 이루어진 팀</td><td>불한당 신스</td><td>매혹적인 미끼와 함정</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">포로를 먼 정착지까지 데려가는 것을 돕기</a></td></tr>
+<tr><td>10</td><td>너무 어려보임</td><td>Cacklemaw Exile</td><td>규모있는 무장대 징집</td></tr>
+<tr><td>11</td><td>깨끗한 헤어스타일에 영웅적임</td><td>파아 유목민들</td><td>믿을만한 정보원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=arcology">죄수를 먼 아콜로지까지 데려가는 것을 돕기</a></td></tr>
+<tr><td>12</td><td>기세 좋은 바람둥이</td><td>물 토큰 대장장이</td><td>믿을만한 정보원</td></tr>
+<tr><td>13</td><td>현란한 노파</td><td>독살자</td><td>길들인 괴물</td><td rowspan="2"><a href="#/regions/the-interior.md?id=faa-nomad-camp">포로를 파아 유목민들에게 데려가는 것을 돕기</a></td></tr>
+<tr><td>14</td><td>복제인간 쌍둥이</td><td>소아살해자</td><td>조용한 유괴</td></tr>
+<tr><td>15</td><td>인간 위에 올라탄 뉴-개코원숭이</td><td>맹세파기자</td><td>비밀 무술</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">과학 신비주의자 생포를 돕기</a></td></tr>
+<tr><td>16</td><td>노련한 병사</td><td>도망친 신부</td><td>정신 재능</td></tr>
+<tr><td>17</td><td>유명한 추방자</td><td>도망친 신랑</td><td>전문 사막형 추적자</td><td rowspan="2"><a href="#/regions/the-interior.md?id=lair">위험한 괴물 토벌을 돕기</a></td></tr>
+<tr><td>18</td><td>신성한 암살자</td><td>실각한 성직자</td><td>카메라 달린 드론</td></tr>
+<tr><td>19</td><td>파아 유목민 추적자</td><td>신정부 탈영병</td><td>완전히 무능함</td><td rowspan="2">노몬까지의 죄수 호송을 돕기</td></tr>
+<tr><td>20</td><td>정신 재능을 못 씀</td><td>자기 가족의 일원</td><td>터무니없이 복잡한 함정</td></tr>
 </table>
 
-## Lair
+## 보금자리 (Lair)
 
-_The wild places of Vaarn are well-stocked with monstrosities of all stripes. The prudent traveller sleeps lightly, keeps a weapon close at hand, learns to sight these miserable pariahs of the Urth well in advance of their sighting him, and will avoid at all costs the places such creatures dwell._
+_바안에서 거주지가 아닌 곳에는 모든 종류건 괴물들로 가득 차 있습니다. 신중한 여행자는 얕게 잠을 자고, 무기를 손쉽게 들 수 있는 곳에 두며, 이런 불행한 추방자들을 먼저  발견하는 법을 배웁니다. 그리고 그런 괴물들이 살고 있는 곳은 어떤 비용을 치르더라도 피합니다._
 
 <table>
-<thead><th>d20</th><th>Inhabitant</th><th>Appearance</th><th>Warning Omen</th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=argent-shepherd">Argent Shepherd</a></td><td>Ruined Chapel</td><td>Madmen Affixed With Argent Halos Beg Party To Turn Back</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=chrome-feathered-sailback">Chrome-Feathered Sailback</a></td><td>Flat Basking Plain</td><td>Chrome Feathers Float on the Wind</td></tr>
-<tr><td>3</td><td>d6 <a href="#/bestiary?id=quill-spider">Quill-Spiders</a></td><td>Burrows in Earth</td><td>An Antelope, Limping, Leg Full of Quills</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=chromavore">Chromavore</a></td><td>Colourless Cactus Grove</td><td>Colourless Husks of Faa Family</td></tr>
-<tr><td>5</td><td>d6 <a href="#/bestiary?id=hiveyman">Hiveymen</a></td><td>Gruesome Black Hive</td><td>Single Sable Bee Crawls on Ground</td></tr>
-<tr><td>6</td><td>d6 <a href="#/bestiary?id=lizard-lion">Lizard Lions</a></td><td>Sun-kissed Basking Rock</td><td>Discover a Shed Skin</td></tr>
-<tr><td>7</td><td>d6 <a href="#/bestiary?id=battle-boar">Battle Boars</a></td><td>Shaded Dustbath</td><td>Boulders With Tusk-Marks</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=alzabo">Alzabo</a></td><td>Deep Cave</td><td>Hear A Child’s Voice, Which Echoes Oddly</td></tr>
-<tr><td>9</td><td>3d6 <a href="#/bestiary?id=pthalo-jackal">Pthalo-Jackals</a></td><td>Shallow Dens</td><td>Hear Howling on the Wind</td></tr>
-<tr><td>10</td><td>d4 <a href="#/bestiary?id=pseudo-giant">Pseudo-Giants</a></td><td>Crude Brick Huts</td><td>Remains of a Hegemony Skiff, Stomped to Pieces</td></tr>
-<tr><td>11</td><td>d6 <a href="#/bestiary?id=lambent-lynx">Lambent Lynx</a></td><td>Den High in the Cliffs</td><td>Electrical Taste in the Air, As If Before A Storm</td></tr>
-<tr><td>12</td><td>3d6 <a href="#/bestiary?id=blue-baboon">Blue Baboons</a></td><td>Rocky Outcrop</td><td>Excrement Heaped Everywhere</td></tr>
-<tr><td>13</td><td>d6 <a href="#/bestiary?id=walking-womb">Walking Wombs</a></td><td>Foul-smelling Sinkhole</td><td>Wide Dragging Tracks In the Sand</td></tr>
-<tr><td>14</td><td>3d6 <a href="#/bestiary?id=tiger-fly">Tiger Flies</a></td><td>Tall Papery Nest</td><td>Tell-tale Buzzing</td></tr>
-<tr><td>15</td><td>d4 <a href="#/bestiary?id=regenerator">Regenerators</a></td><td>Human-skin Tents</td><td>Crude Idols Made of Bones</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=thunderstrike-bird">Thunderstrike Bird</a></td><td>Roosts on Mesa</td><td>Huge Tar-black Feather Caught on Cactus</td></tr>
-<tr><td>17</td><td>d4 <a href="#/bestiary?id=glass-tiger">Glass Tigers</a></td><td>Lurk On Salt Flats</td><td>Corpse with Tell-tale Bite Marks</td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=amaranthine-death-worm">Amaranthine Death-Worm</a></td><td>Poisoned Tree</td><td>Huge Sinuous Tracks in the Dirt</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=xanthous-mycomorph">Xanthous Mycomorph</a></td><td>Fungal Thicket</td><td>Yellow Spores on the Wind</td></tr>
-<tr><td>20</td><td>d12 <a href="#/bestiary?id=greenguard">Greenguard</a></td><td>Abandoned Fortifications</td><td>Enamel Bullets Embedded in Rocks</td></tr>
+<thead><th>d20</th><th>머무르는 것</th><th>외관</th><th>위험의 징조</th></thead>
+<tr><td>1</td><td><a href="#/bestiary?id=argent-shepherd">은빛 양치기</a></td><td>폐허가 된 예배당</td><td>미친 사람들이 은색 후광을 낀 채 파티에게 돌아가라고 애원함</td></tr>
+<tr><td>2</td><td><a href="#/bestiary?id=chrome-feathered-sailback">크롬 깃털 돛등뱀</a></td><td>햇볕이 고르게 드는 평원</td><td>바람을 타고 크롬 깃털이 흩날림</td></tr>
+<tr><td>3</td><td>d6 <a href="#/bestiary?id=quill-spider">가시거미</a></td><td>땅굴</td><td>다리에 가시가 잔뜩 박힌 채 절뚝이는 영양</td></tr>
+<tr><td>4</td><td><a href="#/bestiary?id=chromavore">색깔 포식자</a></td><td>무색 선인장 숲</td><td>파아 가족의 색깔없는 껍질</td></tr>
+<tr><td>5</td><td>d6 <a href="#/bestiary?id=hiveyman">벌집인간</a></td><td>섬뜩한 검은 벌집</td><td>땅 위를 기어다니는 흰담비 벌</td></tr>
+<tr><td>6</td><td>d6 <a href="#/bestiary?id=lizard-lion">도마뱀 사자</a></td><td>태양의 입맛춤을 쬔 바위</td><td>허물을 발견함</td></tr>
+<tr><td>7</td><td>d6 <a href="#/bestiary?id=battle-boar">전투 멧돼지</a></td><td>그늘진 흙탕</td><td>엄니 자국이 찍힌 바위</td></tr>
+<tr><td>8</td><td><a href="#/bestiary?id=alzabo">알자보</a></td><td>깊은 동굴</td><td>이상하게 울려퍼지는 어린 아이의 목소리</td></tr>
+<tr><td>9</td><td>3d6 <a href="#/bestiary?id=pthalo-jackal">하늘색 자칼</a></td><td>얕은 소굴</td><td>바람을 타고 울부짖는 소리</td></tr>
+<tr><td>10</td><td>d4 <a href="#/bestiary?id=pseudo-giant">가짜거인</a></td><td>조잡한 벽돌 오두막</td><td>찌그러진 신정부 스키프의 잔해</td></tr>
+<tr><td>11</td><td>d6 <a href="#/bestiary?id=lambent-lynx">깜빡이 스라소니</a></td><td>절벽 높이의 소굴</td><td>폭풍이 불기 전이라면 공기에서 전기 맛이 느껴짐</td></tr>
+<tr><td>12</td><td>3d6 <a href="#/bestiary?id=blue-baboon">파란 개코원숭이</a></td><td>바위투성이 개활지</td><td>곳곳에 쌓인 배설물</td></tr>
+<tr><td>13</td><td>d6 <a href="#/bestiary?id=walking-womb">걸어다니는 자궁</a></td><td>악취나는 싱크홀</td><td>모래 속의 넓게 끌린 자국</td></tr>
+<tr><td>14</td><td>3d6 <a href="#/bestiary?id=tiger-fly">호랑이 파리</a></td><td>높고 종이같은 둥지</td><td>명확하게 들리는 윙윙거리는 소리</td></tr>
+<tr><td>15</td><td>d4 <a href="#/bestiary?id=regenerator">재생하는 자</a></td><td>인간 가죽 천막</td><td>뼈로 만든 조잡한 우상</td></tr>
+<tr><td>16</td><td><a href="#/bestiary?id=thunderstrike-bird">천둥번개 새</a></td><td>탁상 대지에있는 보금자리</td><td>선인장에 걸린 거대하고 거무스름한 깃털</td></tr>
+<tr><td>17</td><td>d4 <a href="#/bestiary?id=glass-tiger">유리 호랑이</a></td><td>소금 평원에 잠복함</td><td>입가에 명확히 물린 자국이 있는 시체 </td></tr>
+<tr><td>18</td><td><a href="#/bestiary?id=amaranthine-death-worm">불멸의 데스웜</a></td><td>독에 걸린 나무</td><td>흙길에 거대하고 구불구불한 흔적</td></tr>
+<tr><td>19</td><td><a href="#/bestiary?id=xanthous-mycomorph">황색 버섯체</a></td><td>진균 덤불</td><td>바람을 타고 흩날리는 노란색 포자</td></tr>
+<tr><td>20</td><td>d12 <a href="#/bestiary?id=greenguard">그린가드</a></td><td>버려진 요새</td><td>바위에 박힌 에나멜 탄자</td></tr>
 </table>
 
-## Archive
+## 기록 보관소 (Archive)
 
-_To forget is to be human, for the burden of an unceasing memory is too great for the mortal mind to withstand. Some resist the creeping triumph of oblivion, erecting great libraries and charging these structures with the endless remembering their frail minds cannot bear._
+_잊는 것은 사람다운 것이며, 끊임없는 기억의 부담은 죽을 운명을 가진 인간의 마음에는 너무 큽니다. 하지만 어둠의 승리가 서서히 다가오는 것에 저항하는 사람들도 있습니다. 이들은 거대한 도서관을 세우고 이러한 구조물에 자신들의 연약한 마음이 감당할 수 없는 끝없는 기억을 부여합니다.._
 
 <table>
-<thead><th>d20</th><th>Archive Of</th><th>Appearance</th><th>The Archivists</th><th>They Want</th></thead>
-<tr><td>1</td><td>Books (Holy)</td><td>Dusty</td><td>Glum Nuns</td><td rowspan="2">Rare Object Retrieved From Elsewhere in Vaarn</td></tr>
-<tr><td>2</td><td>Books (Fiction)</td><td>Collapsing</td><td>Pedantic and Rude</td></tr>
-<tr><td>3</td><td>Books (Obscene)</td><td>Cluttered</td><td>Salacious Bigots</td><td rowspan="2">A Stolen Item From the Collection Retrieved</td></tr>
-<tr><td>4</td><td>Memory Crystals</td><td>Labyrinthine</td><td>Senile Synths</td></tr>
-<tr><td>5</td><td>Seeds</td><td>Dark</td><td>Bored Hedonists</td><td rowspan="2">Players to Intervene in Internal Power Struggle</td></tr>
-<tr><td>6</td><td>Fungal Spores</td><td>Dazzling</td><td>Lazy Mycomorphs</td></tr>
-<tr><td>7</td><td>Embryos</td><td>Grimy</td><td>Tiny Lithling</td><td rowspan="2">A Sealed Wing Of the Archive Explored</td></tr>
-<tr><td>8</td><td>Eggs</td><td>Chaotic</td><td>Maternal New-Parrots</td></tr>
-<tr><td>9</td><td>Maps</td><td>Malfunctioning</td><td>Ascetic Mutes</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">An Archivist Escorted To Distant Settlement</a></td></tr>
-<tr><td>10</td><td>Poems</td><td>Elegant</td><td>Cultists Who Worship Decay</td></tr>
-<tr><td>11</td><td>Video Recordings</td><td>Serene</td><td>Ignorant of What They Collect</td><td rowspan="2">A Rival Archive Raided</td></tr>
-<tr><td>12</td><td>Music</td><td>Squalid</td><td>Worship Their Collection</td></tr>
-<tr><td>13</td><td>Play Scripts</td><td>Sterile</td><td>Chattering Imbeciles</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">To Send A Message to a Science-Mystic</a></td></tr>
-<tr><td>14</td><td>Art (Paintings)</td><td>Ordered</td><td>Attack Outsiders</td></tr>
-<tr><td>15</td><td>Art (Statues)</td><td>Polluted</td><td>Desperately Seeking Recruits</td><td rowspan="2">To Locate an Archivist Who Vanished in the Stacks</td></tr>
-<tr><td>16</td><td>Art (Conceptual)</td><td>Occult</td><td>Afflicted by Strange Illness</td></tr>
-<tr><td>17</td><td>Taxidermy</td><td>Foreboding</td><td>Whispering New-Spiders</td><td rowspan="2"><a href="#/regions/the-interior.md?id=archive">Monster Lair Removed From Archive</a></td></tr>
-<tr><td>18</td><td>Preserved Brains</td><td>Cheerful</td><td>Masked Philosophers</td></tr>
-<tr><td>19</td><td>Titancreed Syntax</td><td>Burned</td><td>Cruel and Calculating</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">Vault Beneath Archive Explored</a></td></tr>
-<tr><td>20</td><td>Insects</td><td>Infested</td><td>Paranoid and Isolated</td></tr>
+<thead><th>d20</th><th>보관하는 기록</th><th>외관</th><th>기록 보관자</th><th>원하는 것</th></thead>
+<tr><td>1</td><td>책 (신성함)</td><td>먼지투성이</td><td>침울한 수녀들</td><td rowspan="2">바안의 다른 곳에서 가져온 희귀한 물체</td></tr>
+<tr><td>2</td><td>책 (문학)</td><td>무너져감</td><td>현학적이고 무례함</td></tr>
+<tr><td>3</td><td>책 (외설적임)</td><td>어질러짐</td><td>호색적인 고집쟁이들</td><td rowspan="2">회수한 수집풍 중에서 도난당한 물품</td></tr>
+<tr><td>4</td><td>기억 수정</td><td>미로같음</td><td>노쇠한 신스들</td></tr>
+<tr><td>5</td><td>종자</td><td>어두움</td><td>지루해하는 쾌락주의자들</td><td rowspan="2">PC를 내부 권력 투쟁에 끌어들이기</td></tr>
+<tr><td>6</td><td>진균 포자</td><td>눈부심</td><td>게으른 버섯체들</td></tr>
+<tr><td>7</td><td>배아</td><td>때묻음</td><td>매우 작은 리슬링들</td><td rowspan="2">보관소에서 봉인된 구역의 정체를 알아내기</td></tr>
+<tr><td>8</td><td>알</td><td>혼란스러움</td><td>어머니의 뉴-앵무새들</td></tr>
+<tr><td>9</td><td>지도</td><td>고장남</td><td>금욕적으로 말이 없음</td><td rowspan="2"><a href="#/regions/the-interior.md?id=settlement">기록 보관자를 먼 마을까지 호송하기</a></td></tr>
+<tr><td>10</td><td>시</td><td>우아함</td><td>타락을 숭배하는 사교도들</td></tr>
+<tr><td>11</td><td>영상 기록</td><td>평온함</td><td>무엇을 수집하는 것인지 모름</td><td rowspan="2">경쟁 보관소가 습격당하는 것</td></tr>
+<tr><td>12</td><td>음악</td><td>누추함</td><td>수집한 것을 숭배함</td></tr>
+<tr><td>13</td><td>연극 각본</td><td>메마름</td><td>재잘거리는 바보들</td><td rowspan="2"><a href="#/regions/the-interior.md?id=science-mystic39s-abode">과학 신비주의자들에게 메세지를 전하기</a></td></tr>
+<tr><td>14</td><td>회화 예술품</td><td>정연함</td><td>외지인을 공격함</td></tr>
+<tr><td>15</td><td>조각 예술품</td><td>오염됨</td><td>필사적으로 신입을 구함</td><td rowspan="2">더미 속에서 사라진 기록 보관자을 찾기</td></tr>
+<tr><td>16</td><td>구상 예술품</td><td>신비스러움</td><td>괴이한 병에 시달림</td></tr>
+<tr><td>17</td><td>박제품</td><td>예감함</td><td>속삭이는 뉴-거미들</td><td rowspan="2"><a href="#/regions/the-interior.md?id=archive">보관소에 있는 괴물의 보금자리를 없애기</a></td></tr>
+<tr><td>18</td><td>보존된 두뇌</td><td>쾌활함</td><td>가면 쓴 철학자들</td></tr>
+<tr><td>19</td><td>타이탄신조 구문</td><td>불탐</td><td>잔인하고 게산적임</td><td rowspan="2"><a href="#/regions/the-interior.md?id=vault">보관소 아래에 있는 볼트의 정체를 밝혀내기</a></td></tr>
+<tr><td>20</td><td>곤충</td><td>감염됨</td><td>편집증적이고 고립됨</td></tr>
 </table>
 
-## Arcology
-_Arcologies are self-sufficient, hermetically sealed artificial ecosystems, which protected the true-kin through the fevered centuries of the Great Collapse. They have long since been unsealed and released their inhabitants into the blue lands of Vaarn, but these domes are still a common sight in the wastes and are often occupied, as their subterranean gardens offer a stable source of water and food._
+## 아콜로지 (Arcology)
+_아콜로지는 자체적으로 지속 가능한, 밀폐된 인공 생태계로, 대붕괴의 열악한 세기 동안 트루킨을 보호해 왔습니다. 그러나 이들 돔은 오랫동안 밀폐가 해제되고 주민들이 바안의 푸른 땅으로 방출되었습니다. 그럼에도 불구하고 이러한 돔은 황무지에서 여전히 흔한 광경이며, 종종 주거지로 사용됩니다. 지하 정원을 통해 안정적인 수급원인 물과 식량을 제공하기 때문입니다._
 
 <table>
-<thead><th>d20</th><th>Dome</th><th>Inhabitants</th><th>Abundance</th><th>Lack</th></thead>
-<tr><td>1</td><td>Broken</td><td rowspan="2">Abandoned</td><td>Meat</td><td>Olives</td></tr>
-<tr><td>2</td><td>Molten</td><td>Fresh Water</td><td>Fish</td></tr>
-<tr><td>3</td><td>Sand-swallowed</td><td>Hermit</td><td>Salt</td><td>Beer</td></tr>
-<tr><td>4</td><td>Dingy</td><td>Mystic</td><td>Guzzleline</td><td>Men</td></tr>
-<tr><td>5</td><td>Blackened</td><td>Escaped Slaves</td><td>Coffee</td><td>Women</td></tr>
-<tr><td>6</td><td>Self-Repairing</td><td>Ghouls</td><td>Wine</td><td>Children</td></tr>
-<tr><td>7</td><td>Barely Intact</td><td>Hegemony Deserters</td><td>Bread</td><td>Music</td></tr>
-<tr><td>8</td><td>Booby-trapped</td><td>Newbeasts</td><td>Jewellery</td><td>Silence</td></tr>
-<tr><td>9</td><td>Reinforced</td><td>Semi-Feral Orphans</td><td>Books</td><td>Livestock</td></tr>
-<tr><td>10</td><td>Functional</td><td>Amnesiac Clones</td><td>Fruit</td><td>Books</td></tr>
-<tr><td>11</td><td>Warlike</td><td>Elderly Mutes</td><td>Information</td><td>Coffee</td></tr>
-<tr><td>12</td><td>Delicate</td><td>Conceptual Artists</td><td>Bells</td><td>Bread</td></tr>
-<tr><td>13</td><td>Ornate</td><td>Orchestra</td><td>Drugs</td><td>Spices</td></tr>
-<tr><td>14</td><td>Welcoming</td><td>Fungus Cultists</td><td>Livestock</td><td>Drugs</td></tr>
-<tr><td>15</td><td>Garden-like</td><td>Polygamous Church</td><td>Skilled Labour</td><td>Sanity</td></tr>
-<tr><td>16</td><td>Elegant</td><td>Lepers</td><td>Musical Instruments</td><td>Medicine</td></tr>
-<tr><td>17</td><td>Devotional</td><td>Warrior Monks</td><td>Slaves</td><td>Information</td></tr>
-<tr><td>18</td><td>Flooded</td><td>Psychic Choir</td><td>Cheese</td><td>New Blood</td></tr>
-<tr><td>19</td><td>Geodesic</td><td rowspan="2">Androids Pretending to be Human</td><td>Weapons</td><td>Machine Parts</td></tr>
-<tr><td>20</td><td>Perfect</td><td>Exotica</td><td>Clothing</td></tr>
+<thead><th>d20</th><th>돔</th><th>거주자</th><th>풍부한 것</th><th>부족한 것</th></thead>
+<tr><td>1</td><td>부서짐</td><td rowspan="2">버려짐</td><td>고기</td><td>올리브</td></tr>
+<tr><td>2</td><td>녹아내림</td><td>신헌한 물</td><td>물고기</td></tr>
+<tr><td>3</td><td>모래에 파묻힘</td><td>은둔자</td><td>소금</td><td>맥주</td></tr>
+<tr><td>4</td><td>때묻음</td><td>신비주의자</td><td>구즐린</td><td>남자</td></tr>
+<tr><td>5</td><td>어두움</td><td>탈주 노예들</td><td>커피</td><td>여자</td></tr>
+<tr><td>6</td><td>자가수복</td><td>구울들</td><td>와인</td><td>어린이</td></tr>
+<tr><td>7</td><td>거의 멀쩡함</td><td>신정부 탈영병들</td><td>빵</td><td>음악</td></tr>
+<tr><td>8</td><td>부비트랩 투성이</td><td>뉴비스트들</td><td>보석</td><td>정적</td></tr>
+<tr><td>9</td><td>보감됨</td><td>반쯤 야생화된 고아들</td><td>도서</td><td>가축</td></tr>
+<tr><td>10</td><td>기능성</td><td>건망증 복제인간들</td><td>과일</td><td>도서</td></tr>
+<tr><td>11</td><td>군사적임</td><td>늙은 벙어리들</td><td>정보</td><td>커피</td></tr>
+<tr><td>12</td><td>연약함</td><td>개념 예술가들</td><td>종</td><td>빵</td></tr>
+<tr><td>13</td><td>화려하게 장식됨</td><td>관현악단</td><td>마약</td><td>향신료</td></tr>
+<tr><td>14</td><td>환영함</td><td>진균교도들</td><td>가축</td><td>마약</td></tr>
+<tr><td>15</td><td>정원같음</td><td>일부다처제 교회</td><td>숙련공</td><td>이성</td></tr>
+<tr><td>16</td><td>우아함</td><td>나병 환자들</td><td>악기</td><td>의약품</td></tr>
+<tr><td>17</td><td>종교적임</td><td>전사겸 수도승들</td><td>노예</td><td>정보</td></tr>
+<tr><td>18</td><td>침수됨</td><td>정신 능력을 쓰는 합창단</td><td>치즈</td><td>신입</td></tr>
+<tr><td>19</td><td>최단선</td><td rowspan="2">인간 행세를 하는 안드로이드들</td><td>무기</td><td>기계 부품</td></tr>
+<tr><td>20</td><td>완벽함</td><td>엑조티카</td><td>옷가지</td></tr>
 </table>
 
-## Grave
+## 무덤가 (Grave)
 
-_Vaarn is above all else a land heavy with endings, and tombs punctuate the desolation with grim regularity._
+_바안은 무엇보다도 결말이 무거운 땅이며 무덤은 음울한 규칙성으로 이 황량함을 끝냅니다._
 
 <table>
-<thead><th>d20</th><th>Location</th><th>Grave For</th><th>Burial Method</th><th>Grave Quirk</th></thead>
-<tr><td>1</td><td>Ruined Village</td><td>Autarchy Soldiers</td><td>Upside Down</td><td>Has Been Desecrated</td></tr>
+<thead><th>d20</th><th>장소</th><th>무덤에 묻힌 자</th><th>장례 방법</th><th>무덤의 별난 점</th></thead>
+<tr><td>1</td><td>폐허가 된 마을</td><td>신왕국 병사들</td><td>Upside Down</td><td>Has Been Desecrated</td></tr>
 <tr><td>2</td><td>Large Cave</td><td>Titan-era Programmers</td><td>In Salted Earth</td><td>Believed Cursed</td></tr>
 <tr><td>3</td><td>Secret Cave</td><td>Autarchy Nobles</td><td>In Decorated Urn</td><td>Has Been Robbed</td></tr>
 <tr><td>4</td><td>Below Floating Crystal</td><td>Autarch’s Consort</td><td>Mummified</td><td>Visited by Ghouls</td></tr>
@@ -862,29 +862,28 @@ _Vaarn is considered one of the least desirable postings a Hegemony soldier can 
 
 ## Faa Nomad Camp
 
-<table>
-<thead><th>d20</th><th>Leader</th><th>They Have</th><th>They Want</th><th>Mood</th></thead>
-<tr><td>1</td><td>Stern Patriarch</td><td>Meat</td><td>Meat</td><td>Angry</td></tr>
-<tr><td>2</td><td>Stern Matriarch</td><td>Dates</td><td>Wine</td><td>Scared</td></tr>
-<tr><td>3</td><td>Council of Elders</td><td>Olives</td><td>Beer</td><td>Mourning</td></tr>
-<tr><td>4</td><td>Charismatic Visionary</td><td>Cheese</td><td>Salt</td><td>Talkative</td></tr>
-<tr><td>5</td><td>Wounded Old Warrior</td><td>Weapons</td><td>Weapons</td><td>Sullen</td></tr>
-<tr><td>6</td><td>Husband and Wife, arguing</td><td>Hides</td><td>Information</td><td>Warlike</td></tr>
-<tr><td>7</td><td>Husband and Wife, happy</td><td>Precious Metal</td><td>Shelter</td><td>Contemplative</td></tr>
-<tr><td>8</td><td>Young Hothead</td><td>Machine Parts</td><td>Slaves</td><td>Pious</td></tr>
-<tr><td>9</td><td>Drug-addled Oracle</td><td>Medicine</td><td>Escaped Prisoner</td><td>Crazed</td></tr>
-<tr><td>10</td><td>Sinister Slaver</td><td>Spices</td><td>Captured Bride</td><td>Suspicious</td></tr>
-<tr><td>11</td><td>Lecherous Patriarch</td><td>Drugs</td><td>Runaway Groom</td><td>Cheerful</td></tr>
-<tr><td>12</td><td>Lecherous Matriarch</td><td>Spare Livestock</td><td>Revenge: Other Faa</td><td>Wary</td></tr>
-<tr><td>13</td><td>Twin Brothers/Sisters</td><td>Fabrics</td><td>Revenge: Monster</td><td>Overconfident</td></tr>
-<tr><td>14</td><td>Blind Brothers/Sisters</td><td>Fungus</td><td>Revenge: Hegemony</td><td>Argumentative</td></tr>
-<tr><td>15</td><td>Skilled Worm-tamer</td><td>Sugar</td><td>Revenge: Bandits</td><td>Proud</td></tr>
-<tr><td>16</td><td>Frail Grandmother</td><td>Cybernetics</td><td>Missing Child</td><td>Silent</td></tr>
-<tr><td>17</td><td>Skilled Sharpshooter</td><td>Tonics</td><td>Medical Help</td><td>Praying</td></tr>
-<tr><td>18</td><td>Cruel Psychic</td><td>Books</td><td>Humiliate Other Faa</td><td>Celebrating</td></tr>
-<tr><td>19</td><td>Power Struggle</td><td>Exotica</td><td>To Party</td><td>Drunken</td></tr>
-<tr><td>20</td><td>Anarchy</td><td>Water</td><td>Water</td><td>Boastful</td></tr>
-</table>
+| **D20** | **지도자** | **가진 것** | **원하는 것** | **분위기** |
+| --- | --- | --- | --- | --- |
+| 1 | 엄격한 가부장 | 고기 | 고기 | 화남 |
+| 2 | 엄격한 여가장 | 대추 | 와인 | 겁에 질림 |
+| 3 | 장로회 | 올리브 | 맥주 | 비탄 |
+| 4 | 카리스마 있는 선지자 | 치즈 | 소금 | 수다스러움 |
+| 5 | 부상당한 늙은 전사 | 무기 | 무기 | 기분이 언짢음 |
+| 6 | 말다툼하는 남편과 아내 | 가죽 | 정보 | 호전적임 |
+| 7 | 행복한 남편과 아내 | 귀금속 | 은신처 | 사색함 |
+| 8 | 젊고 성급한 사람 | 기계 부품 | 노예 | 경건함 |
+| 9 | 마약에 중독된 신탁 | 의약품 | 도망친 포로 | 날뜀 |
+| 10 | 사악한 노예주 | 향신료 | 붙잡은 신부 | 의심스러움 |
+| 11 | 호색한 가부장 | 마약 | 도망간 신랑 | 발랄함 |
+| 12 | 호색한 여가장 | 여분의 가축 | 다른 파아에게 복수하기 | 경계함 |
+| 13 | 쌍둥이 형제/자매 | 직물 | 괴물에게 복수하기 | 자만함 |
+| 14 | 눈먼 형제/자매 | 진균 | 신정부에 복수하기 | 시비를 검 |
+| 15 | 숙련된 벌레 사육사 | 설탕 | 도적들에게 복수하기 | 오만함 |
+| 16 | 노쇠한 할머니 | 사이버네틱 | 잃어버린 아이 | 조용함 |
+| 17 | 숙련된 사수 | 토닉 | 의료적 도움 | 기도함 |
+| 18 | 잔혹한 정신 능력자 | 책 | 다른 파아에게 굴욕을 선사하기 | 축제를 벌임 |
+| 19 | 권력투쟁 | 엑조티카 | 파티 | 술취함 |
+| 20 | 지도자가 없음 | 물 | 물 | 뽐냄 |
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>Source of Conflict</th><th>NPC B</th></thead>
