@@ -853,51 +853,51 @@ _노몬의 귀족 가문들은 그들의 기원을 신왕의 통치 시대 이�
 </table>
 
 <table>
-<thead><th>d20</th><th>House Sigil</th><th>Ancestral Heirloom</th><th>The Family Shame</th></thead>
-<tr><td>1</td><td>Ibis</td><td>Stuffed Racing Bird</td><td rowspan="2">Ancestor Once Rebuked By the Autarch</td></tr>
-<tr><td>2</td><td>Oryx</td><td>Hypergeometric Sword</td></tr>
-<tr><td>3</td><td>Falling Star</td><td>Alzabo Pelt</td><td rowspan="2">Sold off Lands To Pay Gambling Debt</td></tr>
-<tr><td>4</td><td>Crescent Moon</td><td>Hologram Projector</td></tr>
-<tr><td>5</td><td>Full Moon</td><td>Extra-Solar Poetry Scroll</td><td rowspan="2">Estranged Child Married to Someone Unsuitable</td></tr>
-<tr><td>6</td><td>Sorrowful Sun</td><td>Biomechanical 장갑</td></tr>
-<tr><td>7</td><td>Wrathful Sun</td><td>Broken Lance</td><td rowspan="2">Widely Known That Patriarch’s Children Are Not His</td></tr>
-<tr><td>8</td><td>Bell</td><td>Ancient Hover-Bike</td></tr>
-<tr><td>9</td><td>Twin Swords</td><td>Elaborate Helmet</td><td rowspan="2">Ancestor Once Showed Cowardice in Battle</td></tr>
-<tr><td>10</td><td>Huntsman’s Axe</td><td>Defunct Spacecraft</td></tr>
-<tr><td>11</td><td>Desert Lion</td><td>Arcane Virus Bomb</td><td rowspan="2">Ancestor Rumoured To Have a Hidden Mutation</td></tr>
-<tr><td>12</td><td>Zebra</td><td>Masterwork Combat Laser</td></tr>
-<tr><td>13</td><td>Scorpion</td><td>Synthetic War Horse</td><td rowspan="2">Swindled Out of Some Great Prize Long Ago</td></tr>
-<tr><td>14</td><td>Wise Ape</td><td>Fancy Antigravity Boots</td></tr>
-<tr><td>15</td><td>Falcon</td><td>Cloaking Device</td><td rowspan="2">Ancestor Was a Traitor To the Autarch</td></tr>
-<tr><td>16</td><td>Autarch’s Head</td><td>Brooding Portrait</td></tr>
-<tr><td>17</td><td>Crowned Skull</td><td>Beautiful Urn</td><td rowspan="2">Ancestor Cursed By an Oracle</td></tr>
-<tr><td>18</td><td>Baying Hound</td><td>Priceless Rug</td></tr>
-<tr><td>19</td><td>Sandworm</td><td>Glowering Statue</td><td rowspan="2">Came off Second-Best in Elaborate Blood Feud With Rival Nobles</td></tr>
-<tr><td>20</td><td>Hourglass</td><td>Android Butler</td></tr>
+<thead><th>d20</th><th>가문 문양</th><th>가보</th><th>가문의 수치</th></thead>
+<tr><td>1</td><td>따오기</td><td>박제된 경주용 새</td><td rowspan="2">조상이 한 때 신왕에게 질책받음</td></tr>
+<tr><td>2</td><td>오릭스</td><td>초기하표본 검</td></tr>
+<tr><td>3</td><td>떨어지는 별</td><td>알자보 모피</td><td rowspan="2">도박 빚을 갚기 위해 땅을 팖</td></tr>
+<tr><td>4</td><td>초승달</td><td>홀로그램 투사기</td></tr>
+<tr><td>5</td><td>보름달</td><td>이계 시집 두루마리</td><td rowspan="2">소원해진 아이가 부적절한 사람과 결혼함</td></tr>
+<tr><td>6</td><td>슬픈 태양</td><td>생체공학적 갑옷</td></tr>
+<tr><td>7</td><td>분노한 태양</td><td>부러진 마상창</td><td rowspan="2">가부장의 자녀가 친자식이 아님이 널리 알려짐</td></tr>
+<tr><td>8</td><td>종</td><td>고대의 호버 바이크</td></tr>
+<tr><td>9</td><td>두 쌍의 검</td><td>정교한 투구</td><td rowspan="2">조상이 전투에서 비겁한 모습을 보임</td></tr>
+<tr><td>10</td><td>사냥꾼의 도끼</td><td>기능이 멈춘 우주선</td></tr>
+<tr><td>11</td><td>사막 사자</td><td>비전 바이러스 폭탄</td><td rowspan="2">조상에 숨겨진 돌연변이가 있다는 소문이 돎</td></tr>
+<tr><td>12</td><td>얼룩말</td><td>걸작 전투용 레이저 무기</td></tr>
+<tr><td>13</td><td>전갈</td><td>인조 전투마</td><td rowspan="2">오래 전에 거대한 보상을 사기당함</td></tr>
+<tr><td>14</td><td>지혜로운 유인원</td><td>장식된 반중력 장화</td></tr>
+<tr><td>15</td><td>독수리</td><td>은폐 장치</td><td rowspan="2">조상이 신왕의 반역자였음</td></tr>
+<tr><td>16</td><td>신왕의 머리</td><td>Brooding Portrait</td></tr>
+<tr><td>17</td><td>왕관을 쓴 두개골</td><td>아름다운 항아리</td><td rowspan="2">조상이 신탁에게 저주받음</td></tr>
+<tr><td>18</td><td>으르렁거리는 사냥개</td><td>값을 매길 수 없는 양탄자</td></tr>
+<tr><td>19</td><td>모래벌레</td><td>언짢은 얼굴의 조각상</td><td rowspan="2">경쟁 귀족과의 복잡한 피의 다툼 끝에 2위를 차지함</td></tr>
+<tr><td>20</td><td>모래시계</td><td>안드로이드 집사</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Family Reputation</th><th>Frivolous Pass-Time</th><th>Devoted Patrons Of</th></thead>
-<tr><td>1</td><td>Vengeful</td><td>Gardening</td><td rowspan="2">Consul Lonrot’s Garden Parties</td></tr>
-<tr><td>2</td><td>Untrustworthy</td><td>Bird Racing</td></tr>
-<tr><td>3</td><td>Greedy</td><td>Lizard Racing</td><td rowspan="2">An Avant-Garde Artist</td></tr>
-<tr><td>4</td><td>Sleazy</td><td>Breeding Bats</td></tr>
-<tr><td>5</td><td>Vain</td><td>Ritualised Theatre</td><td rowspan="2">Seedy Gambling Den</td></tr>
-<tr><td>6</td><td>Louche</td><td>Ritualised Dance</td></tr>
-<tr><td>7</td><td>Wrathful</td><td>Ritualised Combat</td><td rowspan="2">The Crimson Court</td></tr>
-<tr><td>8</td><td>Sour</td><td>Origami</td></tr>
-<tr><td>9</td><td>Jealous</td><td>Obscure Board Game</td><td rowspan="2">The Black Lotus Club</td></tr>
-<tr><td>10</td><td>Gossips</td><td>Target Shooting</td></tr>
-<tr><td>11</td><td>Dangerous</td><td>Poetry</td><td rowspan="2">Temple of the Promised Sun</td></tr>
-<tr><td>12</td><td>Melancholy</td><td>Study of Extinct Language</td></tr>
-<tr><td>13</td><td>Rude</td><td>Drug Abuse</td><td rowspan="2">A Philosopher’s Guild</td></tr>
-<tr><td>14</td><td>Decadent</td><td>Heavy Drinking</td></tr>
-<tr><td>15</td><td>Obsessive</td><td>Private Gladiator Fights</td><td rowspan="2">Public Executions</td></tr>
-<tr><td>16</td><td>Proud</td><td>Beekeeping</td></tr>
-<tr><td>17</td><td>Swindlers</td><td>Portraiture</td><td rowspan="2">An Urban Shrine</td></tr>
-<tr><td>18</td><td>Glum</td><td>Astronomy</td></tr>
-<tr><td>19</td><td>Odd</td><td>Seances</td><td rowspan="2">Longtooth Jak’s Dinners</td></tr>
-<tr><td>20</td><td>Secretive</td><td>Music</td></tr>
+<thead><th>d20</th><th>가문의 평판</th><th>여가</th><th>헌신적으로 후원하는 대상</th></thead>
+<tr><td>1</td><td>복수심에 불탐</td><td>정원 가꾸기</td><td rowspan="2">집정관 론로트가 벌이는 정원에서의 파티</td></tr>
+<tr><td>2</td><td>신뢰할 수 없음</td><td>새 경주</td></tr>
+<tr><td>3</td><td>욕심많음</td><td>도마뱀 경주</td><td rowspan="2">전위에술가</td></tr>
+<tr><td>4</td><td>지저분함</td><td>박쥐 기르기</td></tr>
+<tr><td>5</td><td>자만심 강함</td><td>의례적인 연극</td><td rowspan="2">싸구려 도박굴</td></tr>
+<tr><td>6</td><td>수상함</td><td>의례적인 춤</td></tr>
+<tr><td>7</td><td>복수심 강함</td><td>의례적인 전투</td><td rowspan="2">진홍색 법정</td></tr>
+<tr><td>8</td><td>심술궂음</td><td>종이접기</td></tr>
+<tr><td>9</td><td>질투함</td><td>이해하기 힘든 보드게임</td><td rowspan="2">검은 연꽃 클럽</td></tr>
+<tr><td>10</td><td>험담함</td><td>표적에 사격하기</td></tr>
+<tr><td>11</td><td>위험함</td><td>시 쓰기</td><td rowspan="2">약속된 태양의 교회</td></tr>
+<tr><td>12</td><td>우울함</td><td>사어 연구</td></tr>
+<tr><td>13</td><td>무례함</td><td>약물 남용</td><td rowspan="2">철학자 길드</td></tr>
+<tr><td>14</td><td>퇴폐적임</td><td>과음</td></tr>
+<tr><td>15</td><td>강박적임</td><td>사설 투기장</td><td rowspan="2">공개 처형</td></tr>
+<tr><td>16</td><td>자랑스러움</td><td>양봉</td></tr>
+<tr><td>17</td><td>사기꾼들</td><td>초상화 그리기</td><td rowspan="2">도심 성소</td></tr>
+<tr><td>18</td><td>침울함</td><td>점성술</td></tr>
+<tr><td>19</td><td>특이함</td><td>교령회</td><td rowspan="2">긴송곳니 잭의 만찬</td></tr>
+<tr><td>20</td><td>비밀스러움</td><td>음악</td></tr>
 </table>
 
 # 상인 카르텔
@@ -906,31 +906,31 @@ _노몬에서는 수익성 있는 사업을 할 수 있으며, 그런 큰 부가
 
 <table>
 <thead><th>d20</th><th>NPC A</th><th>갈등의 원인</th><th>NPC B</th></thead>
-<tr><td>1</td><td rowspan="2">The Head of the Cartel</td><td>Envy (Property)</td><td rowspan="2">Head of a Rival Cartel</td></tr>
+<tr><td>1</td><td rowspan="2">카르텔의 우두머리</td><td>질투 (재산)</td><td rowspan="2">경쟁 카르텔의 우두머리</td></tr>
 <tr><td>2</td><td>질투 (성공)</td></tr>
-<tr><td>3</td><td rowspan="2">The Head’s Trusted Advisor</td><td>Love (Forbidden)</td><td rowspan="2">Scion of a Rival Cartel</td></tr>
+<tr><td>3</td><td rowspan="2">우두머리가 신뢰하는 조언가</td><td>사랑 (금지됨)</td><td rowspan="2">경쟁 카르텔의 자손</td></tr>
 <tr><td>4</td><td>사랑 (짝사랑)</td></tr>
-<tr><td>5</td><td rowspan="2">Sour, Cautious Merchant</td><td>사랑 (삼각관계)</td><td rowspan="2">The Cartel’s Major Debt-holder</td></tr>
+<tr><td>5</td><td rowspan="2">까다롭고 신중한 상인</td><td>사랑 (삼각관계)</td><td rowspan="2">카르텔의 주요 부채 소유자</td></tr>
 <tr><td>6</td><td>빚 (도박)</td></tr>
-<tr><td>7</td><td rowspan="2">Reckless, Dashing Merchant</td><td>빚 (물)</td><td rowspan="2">The Cartel’s Major Creditor</td></tr>
+<tr><td>7</td><td rowspan="2">무모하고 늠름한 상인</td><td>빚 (물)</td><td rowspan="2">카르텔의 주요 채권자</td></tr>
 <tr><td>8</td><td>빚 (신정부 세금)</td></tr>
-<tr><td>9</td><td rowspan="2">Foolish Merchant</td><td>Robbery</td><td rowspan="2">Delinquent Debtor</td></tr>
-<tr><td>10</td><td>Gossip</td></tr>
-<tr><td>11</td><td rowspan="2">The Treasurer</td><td>간통</td><td rowspan="2">Crooked Customs Agent</td></tr>
+<tr><td>9</td><td rowspan="2">어리석은 상인</td><td>강도</td><td rowspan="2">연체채무자</td></tr>
+<tr><td>10</td><td>험담</td></tr>
+<tr><td>11</td><td rowspan="2">회계원</td><td>간통</td><td rowspan="2">허리가 굽은 관세사</td></tr>
 <tr><td>12</td><td>음모</td></tr>
-<tr><td>13</td><td rowspan="2">Elderly, Respected Merchant</td><td>폭식</td><td rowspan="2">Hegemony Tax Collector</td></tr>
+<tr><td>13</td><td rowspan="2">늙고 존경받는 상인</td><td>폭식</td><td rowspan="2">신정부 세금 징수인</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">Young, Hungry Merchant</td><td>거칠고 근거없는 비난</td><td rowspan="2">Major Supplier</td></tr>
-<tr><td>16</td><td>Anonymous Letters</td></tr>
-<tr><td>17</td><td rowspan="2">Clever, Sly Clerk</td><td>Poisoning</td><td rowspan="2">Major Buyer</td></tr>
-<tr><td>18</td><td>Embezzlement</td></tr>
-<tr><td>19</td><td rowspan="2">Greedy, Corrupt Clerk</td><td>공갈</td><td rowspan="2">Difficult but Necessary Customer</td></tr>
+<tr><td>15</td><td rowspan="2">어리고 배고픈 상인</td><td>거칠고 근거없는 비난</td><td rowspan="2">주요 공급처</td></tr>
+<tr><td>16</td><td>익명의 편지</td></tr>
+<tr><td>17</td><td rowspan="2">영리하고 교활한 직원</td><td>독을 탐</td><td rowspan="2">주요 구매자</td></tr>
+<tr><td>18</td><td>유죄</td></tr>
+<tr><td>19</td><td rowspan="2">탐욕스럽고 부패한 직원</td><td>공갈</td><td rowspan="2">어렵지만 꼭 필요한 고객</td></tr>
 <tr><td>20</td><td>살인</td></tr>
 </table>
 
 <table>
-<thead><th>d20</th><th>Name (A)</th><th>Name (B)</th><th>Name (C)</th></thead>
-<tr><td>1</td><td>Benevolent</td><td rowspan="2">Association Of</td><td>the Five Wheels</td></tr>
+<thead><th>d20</th><th>이름 (A)</th><th>이름 (B)</th><th>이름 (C)</th></thead>
+<tr><td>1</td><td>자애로운</td><td rowspan="2">의 협회</td><td>다섯 바퀴</td></tr>
 <tr><td>2</td><td>Auspicious</td><td>Pious Tradesmen</td></tr>
 <tr><td>3</td><td>Felicitous</td><td rowspan="2">Brotherhood Of</td><td>the White Lotus</td></tr>
 <tr><td>4</td><td>Propitious</td><td>Sober Merchants</td></tr>
