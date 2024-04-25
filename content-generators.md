@@ -5,7 +5,7 @@
 
 <table>
 <thead><th>d20</th><th>기원</th><th>성별</th><th>기질</th><th>목표</th></thead>
-<tr><td>1</td><td rowspan="5">트루킨</td><td rowspan="8">남성</td><td rowspan="3">화해할 수 없는 사아함 Evil</td><td>마약을 갈망함</td></tr>
+<tr><td>1</td><td rowspan="5">트루킨</td><td rowspan="8">남성</td><td rowspan="3">화해할 수 없는 사악함</td><td>마약을 갈망함</td></tr>
 <tr><td>2</td><td>음료를 갈망함</td></tr>
 <tr><td>3</td><td>종교 매니아</td></tr>
 <tr><td>4</td><td rowspan="4">적대적</td><td>복수를 꾀함</td></tr>
