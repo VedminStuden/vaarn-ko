@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>바안의 볼트 (VAULTS OF VAARN)</title>
+  <title>Document</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="VoV srd의 한국어 번역 사이트입니다">
+  <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Anonymous+Pro" />
@@ -13,25 +13,60 @@
 <body>
   <div id="app"></div>
   <script>
+    // Set html "lang" attribute based on URL
+    var lang = location.hash.match(/#\/(ko)\//);
+
+    if (lang) {
+      document.documentElement.setAttribute('lang', lang[1]);
+    }
+
+    // Docsify configuration
     window.$docsify = {
-      name: 'VAULTS OF VAARN',
+      // Translation aliases are defined using the short i18n codes found at https://i18ns.com/languagecode.html
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+        '/ko/(.*)': 'https://raw.githubusercontent.com/VedminStuden/vaarn-ko/master/$1',
+      },
       auto2top: true,
-      loadFooter: '_footer.md',
+      executeScript: true,
+      loadFooter: true,
       loadSidebar: true,
-      subMaxLevel: 2,
-      sidebarDisplayLevel: 1,
+      loadNavbar: true,
+      name: 'VAULTS OF VAARN',
+      nameLink: {
+        '/ko/': '#/ko/',
+        '/': '#/',
+      },
       pagination: {
         crossChapter: true,
-        crossChapterText: true
+        crossChapterText: true,
+        nextText: {
+          '/ko/': '다음',
+          '/': 'NEXT',
+        },
+        previousText: {
+          '/ko/': '이전',
+          '/': 'PREVIOUS',
+        },
       },
+      paths: 'auto',
+      placeholder: {
+        '/ko/': '검색',
+        '/': 'Search',
+      },
+      pathNamespaces: ['/ko'],
       search: 'auto',
+      sidebarDisplayLevel: 1,
+      subMaxLevel: 2,
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 
-  <!-- plugins -->
+  <!-- load docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- load docsify plugins -->
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
 </body>
 </html>
