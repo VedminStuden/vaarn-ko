@@ -1221,7 +1221,7 @@ _거래를 할 수 없는 사람들은 훔치거나 굶어야 합니다. 그래�
 <tr><td>12</td><td>음모</td></tr>
 <tr><td>13</td><td rowspan="2">늙고 냉소적인 절도범</td><td>폭식</td><td rowspan="2">맞춤형 주택 주인</td></tr>
 <tr><td>14</td><td>잘못된 정체성</td></tr>
-<tr><td>15</td><td rowspan="2">교활한 위조범r</td><td>A Risky Plan</td><td rowspan="2">도박장 주인</td></tr>
+<tr><td>15</td><td rowspan="2">교활한 위조범</td><td>위험한 계획</td><td rowspan="2">도박장 주인</td></tr>
 <tr><td>16</td><td>중독 (술)</td></tr>
 <tr><td>17</td><td rowspan="2">보잘 것 없는 밀수업자</td><td>중독 (마취제)</td><td rowspan="2">거리의 음악가</td></tr>
 <tr><td>18</td><td>꼰지름</td></tr>
