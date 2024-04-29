@@ -93,26 +93,26 @@ _PC들이 아주 천천히 시끄럽게, 또는 뻔한 방식으로 이동하고
 ## 사막에서의 조우 (Desert Encounters)
 <table>
 <thead><tr><th>d20</th><th>조우</th><th>지형</th><th>행태</th></th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=율링-yurling">율링</a></td><td>무성한 잡초</td><td>잠듦</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개새</a></td><td>소금 평원</td><td>죽어감</td></tr>
-<tr><td>3</td><td><a href="#/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>모래 언덕</td><td>순찰함</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>험한 돌 강</td><td>짝짓기함</td></tr>
-<tr><td>5</td><td><a href="#/bestiary?id=거대-하늘색-전갈-giant-azure-scorpion">거대 하늘색 전갈</a></td><td>메마른 강줄기</td><td>영토 표시함</td></tr>
-<tr><td>6</td><td><a href="#/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>메마른 물웅덩이</td><td>식사중임</td></tr>
-<tr><td>7</td><td><a href="#/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>큼지막한 바위</td><td>평온함 / 보금자리를 짓고 있음</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=그린가드-greenguard">그린가드</a></td><td>선인장 지대</td><td>추격중 / 도주중</td></tr>
-<tr><td>9</td><td><a href="#/bestiary?id=회색-귀뚜라미-grey-cricket">회색 귀뚜라미</a></td><td>순교자의 숲</td><td>고기를 찾아 헤맴</td></tr>
-<tr><td>10</td><td><a href="#/bestiary?id=복젤인간-doppelgeller">복젤인간</a></td><td>버려진 차량</td><td>부상당함</td></tr>
-<tr><td>11</td><td><a href="#/bestiary?id=표범벌레-leopard-worm">표범벌레</a></td><td>난파된 우주선</td><td>부상당함</td></tr>
-<tr><td>12</td><td><a href="#/bestiary?id=남색-시종-indigo-servitor">남색 시종</a></td><td>버려진 마을</td><td>방황함</td></tr>
-<tr><td>13</td><td><a href="#/bestiary?id=도적-bandit">도적</a></td><td>폐허가 된 종탑</td><td>환각 상태에 있음</td></tr>
-<tr><td>14</td><td><a href="#/bestiary?id=하늘빛-자칼-phthalo-jackal">하늘색 자칼</a></td><td>독성 웅덩이</td><td>피신함 / 숨음</td></tr>
-<tr><td>15</td><td><a href="#/bestiary?id=플래니포크-planeyfolk">플래니포크</a></td><td>부식성 간헐천</td><td rowspan="6">다른 생명체와 전투<br />(다시 굴림)</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>수정 성장체</td></tr>
-<tr><td>17</td><td><a href="#/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>고대의 전쟁터</td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=비틀거리는-드론-stumbling-drone">비틀거리는 드론</a></td><td>진균에 먹힌 전초기지</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=알자보-alzabo">알자보</a></td><td>침묵하는 기계장치</td></tr>
-<tr><td>20</td><td><a href="#/bestiary?id=캐커젠-가짜거인-cacogen-pseudo-giant">캐커젠 가짜거인</a></td><td>버려진 야영지</td></tr>
+<tr><td>1</td><td><a href="ko/bestiary?id=율링-yurling">율링</a></td><td>무성한 잡초</td><td>잠듦</td></tr>
+<tr><td>2</td><td><a href="ko/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개새</a></td><td>소금 평원</td><td>죽어감</td></tr>
+<tr><td>3</td><td><a href="ko/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>모래 언덕</td><td>순찰함</td></tr>
+<tr><td>4</td><td><a href="ko/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>험한 돌 강</td><td>짝짓기함</td></tr>
+<tr><td>5</td><td><a href="ko/bestiary?id=거대-하늘색-전갈-giant-azure-scorpion">거대 하늘색 전갈</a></td><td>메마른 강줄기</td><td>영토 표시함</td></tr>
+<tr><td>6</td><td><a href="ko/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>메마른 물웅덩이</td><td>식사중임</td></tr>
+<tr><td>7</td><td><a href="ko/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>큼지막한 바위</td><td>평온함 / 보금자리를 짓고 있음</td></tr>
+<tr><td>8</td><td><a href="ko/bestiary?id=그린가드-greenguard">그린가드</a></td><td>선인장 지대</td><td>추격중 / 도주중</td></tr>
+<tr><td>9</td><td><a href="ko/bestiary?id=회색-귀뚜라미-grey-cricket">회색 귀뚜라미</a></td><td>순교자의 숲</td><td>고기를 찾아 헤맴</td></tr>
+<tr><td>10</td><td><a href="ko/bestiary?id=복젤인간-doppelgeller">복젤인간</a></td><td>버려진 차량</td><td>부상당함</td></tr>
+<tr><td>11</td><td><a href="ko/bestiary?id=표범벌레-leopard-worm">표범벌레</a></td><td>난파된 우주선</td><td>부상당함</td></tr>
+<tr><td>12</td><td><a href="ko/bestiary?id=남색-시종-indigo-servitor">남색 시종</a></td><td>버려진 마을</td><td>방황함</td></tr>
+<tr><td>13</td><td><a href="ko/bestiary?id=도적-bandit">도적</a></td><td>폐허가 된 종탑</td><td>환각 상태에 있음</td></tr>
+<tr><td>14</td><td><a href="ko/bestiary?id=하늘빛-자칼-phthalo-jackal">하늘색 자칼</a></td><td>독성 웅덩이</td><td>피신함 / 숨음</td></tr>
+<tr><td>15</td><td><a href="ko/bestiary?id=플래니포크-planeyfolk">플래니포크</a></td><td>부식성 간헐천</td><td rowspan="6">다른 생명체와 전투<br />(다시 굴림)</td></tr>
+<tr><td>16</td><td><a href="ko/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>수정 성장체</td></tr>
+<tr><td>17</td><td><a href="ko/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>고대의 전쟁터</td></tr>
+<tr><td>18</td><td><a href="ko/bestiary?id=비틀거리는-드론-stumbling-drone">비틀거리는 드론</a></td><td>진균에 먹힌 전초기지</td></tr>
+<tr><td>19</td><td><a href="ko/bestiary?id=알자보-alzabo">알자보</a></td><td>침묵하는 기계장치</td></tr>
+<tr><td>20</td><td><a href="ko/bestiary?id=캐커젠-가짜거인-cacogen-pseudo-giant">캐커젠 가짜거인</a></td><td>버려진 야영지</td></tr>
 </table>
 
 
@@ -266,32 +266,32 @@ __모래의 책__
 
 7. 전체 지역에 대한 더 많은 세부 정보가 필요하다면, 아래의 '풍경 유형' 표를 굴려 일반적인 지형에 대한 아이디어를 얻을 수 있습니다. 또한, 지역 이름의 기원을 알아보기 위해 굴릴 수도 있습니다.
 
-8. <a href="#/bestiary">괴물 도감</a>을 사용하여 지역의 특성에 맞는 조우 표를 만드세요. 영감이 필요하다면 VOV #1에 있는 조우 표 예시를 참고하세요. 생성한 지역의 성격은 그곳에 배치하는 조우 상황을 결정해야 합니다. 신스 공장의 폐허가 있는 지역에서는 고장난 신스들이 숨어 있을 가능성이 높으며, 정착지가 많은 지역에서는 행상단이 많을 수 있습니다.
+8. <a href="ko/bestiary">괴물 도감</a>을 사용하여 지역의 특성에 맞는 조우 표를 만드세요. 영감이 필요하다면 VOV #1에 있는 조우 표 예시를 참고하세요. 생성한 지역의 성격은 그곳에 배치하는 조우 상황을 결정해야 합니다. 신스 공장의 폐허가 있는 지역에서는 고장난 신스들이 숨어 있을 가능성이 높으며, 정착지가 많은 지역에서는 행상단이 많을 수 있습니다.
 
 9. 마지막으로, 그리고 결코 중요하지 않은 것은 아니지만, 이 지역에서 발견될 수 있는 몇몇 NPC를 생각해 보고, NPC가 파티로부터 무엇을 원할지 생각해보세요. 무슨 npc를 만들지 막막하다면 [스토리 시드](regions/the-interior.md?id=스토리-시드-story-seeds) 표를 사용하세요.
 
 
 <table>
 <thead><th>d20</th><th>장소 유형</th><th>여행 중 위험 요소</th><th>풍경 유형</th><th>지명의 유래</th></thead>
-<tr><td>1</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=도적-야영지-bandit-camp">길목을 점거한 도적들</a></td><td>특색없는 사막</td><td rowspan="2">유명한 거주민</td></tr>
-<tr><td>2</td><td><a href="#/regions/the-interior.md?id=정착지-settlement">정착지</a></td><td>소금 평원</td></tr>
-<tr><td>3</td><td><a href="#/regions/the-interior.md?id=오아시스-oasis">오아시스</a></td><td rowspan="2">색깔포식자의 사냥터</td><td>험난한 자갈밭</td><td rowspan="2">현지 야생동물</td></tr>
-<tr><td>4</td><td><a href="#/regions/the-interior.md?id=성지-holy-place">성지</a></td><td>메마른 호수</td></tr>
-<tr><td>5</td><td><a href="#/regions/the-interior.md?id=잔해-wreck">잔해</a></td><td rowspan="2"><a href="#/bestiary.md?id=은빛-양치기-argent-shepherd">어슬렁거리는 은빛 양치기</a></td><td>메마른 강</td><td rowspan="2">자연적인 경치</td></tr>
-<tr><td>6</td><td><a href="#/regions/the-interior.md?id=볼트-vault">볼트</a></td><td>우뚝 솟은 비석</td></tr>
-<tr><td>7</td><td><a href="#/regions/the-interior.md?id=랜드마크-landmark">랜드마크</a></td><td rowspan="2">모래벌레 산란장</td><td>탁상 대지</td><td rowspan="2">자연적인 위험요소</td></tr>
-<tr><td>8</td><td><a href="#/regions/the-interior.md?id=-도적-야영지bandit-camp">도적 야영지</a></td><td>낮은 언덕들</td></tr>
-<tr><td>9</td><td><a href="#/regions/the-interior.md?id=현상금-사냥꾼의-야영지-bounty-hunter39s-camp">현상금 사냥꾼의 야영지</a></td><td rowspan="2">바람이 거셈. 모래폭풍이 확실함</td><td>Single 산</td><td rowspan="2">유명한 괴물</td></tr>
-<tr><td>10</td><td><a href="#/regions/the-interior.md?id=보금자리-lair">보금자리</a></td><td>독성 호수</td></tr>
-<tr><td>11</td><td><a href="#/regions/the-interior.md?id=기록-보관소-archive">기록 보관소</a></td><td rowspan="2">귀의자를 찾아다니는 사교도</td><td>독성 강</td><td rowspan="2">오래 전에 망한 정착지</td></tr>
-<tr><td>12</td><td><a href="#/regions/the-interior.md?id=아콜로지-arcology">아콜로지</a></td><td>진균 숲</td></tr>
-<tr><td>13</td><td><a href="#/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td rowspan="2">통행료를 요구하는 고장난 신스</td><td>수정 성장체</td><td rowspan="2">잊혀진 종교</td></tr>
-<tr><td>14</td><td><a href="#/regions/the-interior.md?id=과학-신비주의자의-거주지-과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>바람이 몰아치는 고원</td></tr>
-<tr><td>15</td><td><a href="#/regions/the-interior.md?id=교역소-trade-post">교역소</a></td><td rowspan="2"><a href="#/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 씨족에게 감시당하는 도로</a></td><td>산악지대</td><td rowspan="2">현지 기후</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 야영지</a></td><td>바람이 통하는 협곡</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지</a></td><td rowspan="2">적대하는 파아 유목민들</td><td>버려진 도시</td><td rowspan="2">천연자원</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 소굴</a></td><td>선인장 지대</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=이상현상-anomaly">이상현상</a></td><td rowspan="2">불발된 지뢰 여러 개</td><td>동굴로 가득함</td><td rowspan="2">더 이상 이해할 수 없는 이름</td></tr>
+<tr><td>1</td><td><a href="ko/regions/the-interior.md?id=폐허-ruin">폐허</a></td><td rowspan="2"><a href="ko/regions/the-interior.md?id=도적-야영지-bandit-camp">길목을 점거한 도적들</a></td><td>특색없는 사막</td><td rowspan="2">유명한 거주민</td></tr>
+<tr><td>2</td><td><a href="ko/regions/the-interior.md?id=정착지-settlement">정착지</a></td><td>소금 평원</td></tr>
+<tr><td>3</td><td><a href="ko/regions/the-interior.md?id=오아시스-oasis">오아시스</a></td><td rowspan="2">색깔포식자의 사냥터</td><td>험난한 자갈밭</td><td rowspan="2">현지 야생동물</td></tr>
+<tr><td>4</td><td><a href="ko/regions/the-interior.md?id=성지-holy-place">성지</a></td><td>메마른 호수</td></tr>
+<tr><td>5</td><td><a href="ko/regions/the-interior.md?id=잔해-wreck">잔해</a></td><td rowspan="2"><a href="ko/bestiary.md?id=은빛-양치기-argent-shepherd">어슬렁거리는 은빛 양치기</a></td><td>메마른 강</td><td rowspan="2">자연적인 경치</td></tr>
+<tr><td>6</td><td><a href="ko/regions/the-interior.md?id=볼트-vault">볼트</a></td><td>우뚝 솟은 비석</td></tr>
+<tr><td>7</td><td><a href="ko/regions/the-interior.md?id=랜드마크-landmark">랜드마크</a></td><td rowspan="2">모래벌레 산란장</td><td>탁상 대지</td><td rowspan="2">자연적인 위험요소</td></tr>
+<tr><td>8</td><td><a href="ko/regions/the-interior.md?id=-도적-야영지bandit-camp">도적 야영지</a></td><td>낮은 언덕들</td></tr>
+<tr><td>9</td><td><a href="ko/regions/the-interior.md?id=현상금-사냥꾼의-야영지-bounty-hunter39s-camp">현상금 사냥꾼의 야영지</a></td><td rowspan="2">바람이 거셈. 모래폭풍이 확실함</td><td>Single 산</td><td rowspan="2">유명한 괴물</td></tr>
+<tr><td>10</td><td><a href="ko/regions/the-interior.md?id=보금자리-lair">보금자리</a></td><td>독성 호수</td></tr>
+<tr><td>11</td><td><a href="ko/regions/the-interior.md?id=기록-보관소-archive">기록 보관소</a></td><td rowspan="2">귀의자를 찾아다니는 사교도</td><td>독성 강</td><td rowspan="2">오래 전에 망한 정착지</td></tr>
+<tr><td>12</td><td><a href="ko/regions/the-interior.md?id=아콜로지-arcology">아콜로지</a></td><td>진균 숲</td></tr>
+<tr><td>13</td><td><a href="ko/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td rowspan="2">통행료를 요구하는 고장난 신스</td><td>수정 성장체</td><td rowspan="2">잊혀진 종교</td></tr>
+<tr><td>14</td><td><a href="ko/regions/the-interior.md?id=과학-신비주의자의-거주지-과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>바람이 몰아치는 고원</td></tr>
+<tr><td>15</td><td><a href="ko/regions/the-interior.md?id=교역소-trade-post">교역소</a></td><td rowspan="2"><a href="ko/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 씨족에게 감시당하는 도로</a></td><td>산악지대</td><td rowspan="2">현지 기후</td></tr>
+<tr><td>16</td><td><a href="ko/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 야영지</a></td><td>바람이 통하는 협곡</td></tr>
+<tr><td>17</td><td><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지</a></td><td rowspan="2">적대하는 파아 유목민들</td><td>버려진 도시</td><td rowspan="2">천연자원</td></tr>
+<tr><td>18</td><td><a href="ko/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 소굴</a></td><td>선인장 지대</td></tr>
+<tr><td>19</td><td><a href="ko/regions/the-interior.md?id=이상현상-anomaly">이상현상</a></td><td rowspan="2">불발된 지뢰 여러 개</td><td>동굴로 가득함</td><td rowspan="2">더 이상 이해할 수 없는 이름</td></tr>
 <tr><td>20</td><td>(d20를 두 번 굴려 나온 결과를 함침)</td><td>쓰레기 매립지</td></tr>
 </table>
 
@@ -331,21 +331,21 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 <tr><td>2</td><td>극저온 냉동고</td><td>범죄자의 은신처</td><td>부서진 조각</td><td>아치</td><td>인조 덩굴이 뒤덮음</td></tr>
 <tr><td>3</td><td>궤도 방어 포탑</td><td>목욕탕</td><td rowspan="2">온전하지만 텅 빔</td><td>어렴풋이 보임</td><td>탑</td><td>숨겨진 수원지가 있음</td></tr>
 <tr><td>4</td><td>사이보그 건축물</td><td>납골당</td><td>부스러짐</td><td>구체</td><td>풍부한 식량원을 보유함</td></tr>
-<tr><td>5</td><td>탄약 공장</td><td>수도원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지</a></td><td>낙서로 덮임</td><td>Shell</td><td>풍부한 마약</td></tr>
+<tr><td>5</td><td>탄약 공장</td><td>수도원</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지</a></td><td>낙서로 덮임</td><td>Shell</td><td>풍부한 마약</td></tr>
 <tr><td>6</td><td>복제인간 생산시설</td><td>막사</td><td>거대함</td><td>나이프</td><td>C엑조티카가 포함됨</td></tr>
-<tr><td>7</td><td>대학교</td><td>사창가</td><td rowspan="2"><a href="#/regions/the-interior.md?id=도적-야영지-bandit-camp">도적들의 은신처</a></td><td>반투명함</td><td>병</td><td>숨겨진 무기고</td></tr>
+<tr><td>7</td><td>대학교</td><td>사창가</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=도적-야영지-bandit-camp">도적들의 은신처</a></td><td>반투명함</td><td>병</td><td>숨겨진 무기고</td></tr>
 <tr><td>8</td><td>나노기술 대장간</td><td>선술집</td><td>박쥐 똥으로 범벅임</td><td>꽃</td><td>야생동물 둥지가 있음</td></tr>
-<tr><td>9</td><td>발전기</td><td>극장</td><td rowspan="2"><a href="#/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 소굴</a></td><td>햇볕으로 탈색됨</td><td>손</td><td>희생에 사용됨</td></tr>
+<tr><td>9</td><td>발전기</td><td>극장</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 소굴</a></td><td>햇볕으로 탈색됨</td><td>손</td><td>희생에 사용됨</td></tr>
 <tr><td>10</td><td>귀족 거주지</td><td>투기장</td><td>반쯤 무너짐</td><td>눈</td><td>고대의 방어 시스템이 작동함</td></tr>
-<tr><td>11</td><td>신왕의 무덤</td><td>정신병</td><td rowspan="2"><a href="#/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 전초기지</a></td><td>위태로움</td><td>머리</td><td>엎질러진 장식물로 어질러짐</td></tr>
+<tr><td>11</td><td>신왕의 무덤</td><td>정신병</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 전초기지</a></td><td>위태로움</td><td>머리</td><td>엎질러진 장식물로 어질러짐</td></tr>
 <tr><td>12</td><td>화학공장</td><td>전망대</td><td>구부러짐</td><td>피라미드</td><td>모래에 파묻힘</td></tr>
-<tr><td>13</td><td>정신 능력 훈련시설</td><td>신비주의자의 거주지</td><td rowspan="2"><a href="#/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td><td>우뚝 솟음</td><td>판떼기</td><td>화재로 손상됨</td></tr>
+<tr><td>13</td><td>정신 능력 훈련시설</td><td>신비주의자의 거주지</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td><td>우뚝 솟음</td><td>판떼기</td><td>화재로 손상됨</td></tr>
 <tr><td>14</td><td>기쁨의 정원</td><td>타이탄 숭배자의 성소</td><td>돌 바위 하나</td><td>각기둥</td><td>방사능에 오염됨</td></tr>
-<tr><td>15</td><td>교통의 중심지</td><td>수경원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>눈부심</td><td>정육면체</td><td>시종 신스가 여전히 작동함</td></tr>
+<tr><td>15</td><td>교통의 중심지</td><td>수경원</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자의 거주지</a></td><td>눈부심</td><td>정육면체</td><td>시종 신스가 여전히 작동함</td></tr>
 <tr><td>16</td><td>농장 배열지</td><td>전투 현장</td><td>노후함</td><td>바퀴</td><td>현재는 박살난 차량</td></tr>
-<tr><td>17</td><td>생물공학시설</td><td>양자 반신의 성소</td><td rowspan="2"><a href="#/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td>모래에 파묻힘</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
+<tr><td>17</td><td>생물공학시설</td><td>양자 반신의 성소</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td>모래에 파묻힘</td><td>Torus</td><td>Encrusted with Crystals</td></tr>
 <tr><td>18</td><td>의료 시설</td><td>교역소</td><td>불길한 징조를 보임</td><td>바늘</td><td>과성장한 진균</td></tr>
-<tr><td>19</td><td>소통 배열지</td><td>도축장</td><td rowspan="2"><a href="#/regions/the-interior.md?id=성지-holy-place">성지</a></td><td>아름다움</td><td>그릇</td><td>내부의 초기하학적 포탈</td></tr>
+<tr><td>19</td><td>소통 배열지</td><td>도축장</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=성지-holy-place">성지</a></td><td>아름다움</td><td>그릇</td><td>내부의 초기하학적 포탈</td></tr>
 <tr><td>20</td><td>우주 항구</td><td>감옥</td><td>녹아내림</td><td>지구라트</td><td>C오랫동안 숨겨져온 위협이 도사림</td></tr>
 </table>
 
@@ -365,16 +365,16 @@ _바안은 고대인들이 남긴 작품의 파편으로 가득 차 있습니다
 <tr><td>10</td><td>재사용된 차량들</td><td>채굴 (신스 부품)</td><td>유명한 폭군의 탄생지</td></tr>
 <tr><td>11</td><td>재사용된 무기 배열지</td><td>가죽 가공</td><td>빛나는 신왕의 조각상</td></tr>
 <tr><td>12</td><td>주조한 유리</td><td>짐승 짐꾼 기르기</td><td>기억 수정 도서관</td></tr>
-<tr><td>13</td><td>절벽에 매달림</td><td>전투용 짐승 기르기</td><td><a href="#/regions/the-interior.md?id=무덤가-grave">잊혀진 무덤가</a></td></tr>
+<tr><td>13</td><td>절벽에 매달림</td><td>전투용 짐승 기르기</td><td><a href="ko/regions/the-interior.md?id=무덤가-grave">잊혀진 무덤가</a></td></tr>
 <tr><td>14</td><td>꼭대기의 거상같은 기둥</td><td>도자기</td><td>거대한 식인 식물</td></tr>
 <tr><td>15</td><td>뼈로 만들어짐</td><td>카페트 직조</td><td>공허의 성자 조각상</td></tr>
 <tr><td>16</td><td>살아있는 생체기술 구조물</td><td>방목 (도마뱀)</td><td>기피당하는 성소</td></tr>
 <tr><td>17</td><td>동굴 안</td><td>방목 (족슨)</td><td>수수께끼의 방첨탑</td></tr>
 <tr><td>18</td><td>광활한 시체 안</td><td>방목 (땅앵무새)</td><td>자동 시계탑</td></tr>
 <tr><td>19</td><td>	
-돌연변이 나무 안</td><td>방목 (거대 민달팽이)</td><td><a href="#/regions/the-interior.md?id=랜드마크-landmark">	
+돌연변이 나무 안</td><td>방목 (거대 민달팽이)</td><td><a href="ko/regions/the-interior.md?id=랜드마크-landmark">	
 인공 랜드마크</a></td></tr>
-<tr><td>20</td><td>거대한 공동 천막</td><td>양조</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">중앙 폐허</a></td></tr>
+<tr><td>20</td><td>거대한 공동 천막</td><td>양조</td><td><a href="ko/regions/the-interior.md?id=폐허-ruin">중앙 폐허</a></td></tr>
 </table>
 
 | **D20** | **통치** | **대중의 분위기** | **공동체가 부족한 것** |
@@ -434,20 +434,20 @@ _땅은 와인 빛의 태양 아래서 마르고 시들어가지만, 심지어 �
 <tr><td>2</td><td>기계에서 유출됨</td><td>플라밍고</td><td>피를 흘려선 안됨</td></td></tr>
 <tr><td>3</td><td>믿을 수 없을 정도로 맑음</td><td>우뚝 솟은 바위</td><td>달빛 희생</td></tr>
 <tr><td>4</td><td>암갈색에 모래투성이</td><td>녹슨 전쟁 기계</td><td>여기서 씻지 말 것</td></tr>
-<tr><td>5</td><td>고요하고 잔잔함</td><td>진왕 조각상</td><td rowspan="3"><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민</a></td><td>의식 전투</td></tr>
+<tr><td>5</td><td>고요하고 잔잔함</td><td>진왕 조각상</td><td rowspan="3"><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민</a></td><td>의식 전투</td></tr>
 <tr><td>6</td><td>검고 진흙투성이</td><td>꽃이 핀 덤불</td><td>침묵의 맹세</td></tr>
 <tr><td>7</td><td>거의 없음</td><td>따오기</td><td>확률로 통치함</td></tr>
 <tr><td>8</td><td>물고기로 가득함</td><td>잠복한 악어들</td><td>신정부 정찰병들</td><td>남성에게 신성함</td></tr>
-<tr><td>9</td><td>신 맛이 남</td><td>검은 방첨탑</td><td><a href="#/regions/the-interior.md?id=현상금-사냥꾼의-야영지-bounty-hunter39s-camp">현상금 사냥꾼들</a></td><td>여성에게 신성함</td></tr>
+<tr><td>9</td><td>신 맛이 남</td><td>검은 방첨탑</td><td><a href="ko/regions/the-interior.md?id=현상금-사냥꾼의-야영지-bounty-hunter39s-camp">현상금 사냥꾼들</a></td><td>여성에게 신성함</td></tr>
 <tr><td>10</td><td>녹조가 낌</td><td>썩어가는 건물들</td><td>타이탄 숭배자들</td><td>Consult Computer</td></tr>
 <tr><td>11</td><td>악취가 남</td><td>아닥스 무리</td><td>W방랑 신비주의자들</td><td>신탁과 상담함</td></tr>
 <tr><td>12</td><td>플라스틱으로 가득함</td><td>태양광 패널</td><td>방랑 서커스단</td><td>벌거벗을 것</td></tr>
-<tr><td>13</td><td>녹슨 것처럼 붉음</td><td><a href="#/regions/the-interior.md?id=아콜로지-arcology">아콜로지 돔</a></td><td>구걸하는 전사</td><td>온몸을 싸맬 것</td></tr>
+<tr><td>13</td><td>녹슨 것처럼 붉음</td><td><a href="ko/regions/the-interior.md?id=아콜로지-arcology">아콜로지 돔</a></td><td>구걸하는 전사</td><td>온몸을 싸맬 것</td></tr>
 <tr><td>14</td><td>따뜻하고 거품이 읾</td><td>수정 성장체</td><td>탈주 노예</td><td>특정 동물은 신성함</td></tr>
 <tr><td>15</td><td>샴페인 색</td><td>진균 성장체</td><td>햇볕에 탄 추방자들</td><td>특정 동물은 불결함</td></tr>
 <tr><td>16</td><td>깊고 조용함</td><td>부서진 기둥</td><td>순례 수도승</td><td>웃는 것이 금지됨</td></tr>
-<tr><td>17</td><td>동굴 안</td><td><a href="#/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td>신스</td><td>하찮은 신들에게 신성함</td></tr>
-<tr><td>18</td><td>치유 속성</td><td>잔해가 된 신스들</td><td><a href="#/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 전쟁무리</a></td><td>마약 의식</td></tr>
+<tr><td>17</td><td>동굴 안</td><td><a href="ko/regions/the-interior.md?id=무덤가-grave">무덤가</a></td><td>신스</td><td>하찮은 신들에게 신성함</td></tr>
+<tr><td>18</td><td>치유 속성</td><td>잔해가 된 신스들</td><td><a href="ko/regions/the-interior.md?id=캐클모-소굴-cacklemaw-den">캐클모 전쟁무리</a></td><td>마약 의식</td></tr>
 <tr><td>19</td><td>설탕같이 달달함</td><td>진흙 구덩이</td><td>기쁜 것처럼 위장한 이</td><td>물의 의식</td></tr>
 <tr><td>20</td><td>가벼운 환각성</td><td>신성한 동굴</td><td>유명한 음악가</td><td>금식</td></tr>
 </table>
@@ -474,11 +474,11 @@ _신성한 의지가 자기를 알리는 변덕스럽고 당혹스러운 수단�
 <tr><td>13</td><td>진균 교회</td><td>유골함</td><td>가이아교</td><td>수호자 신스</td></tr>
 <tr><td>14</td><td>크롬 탑</td><td>미라화된 자칼</td><td>코에우스교</td><td>뉴-자칼 떼</td></tr>
 <tr><td>15</td><td>바람이 부는 언덕 꼭대기</td><td>녹아내린 조각상</td><td>테미스교</td><td>편집증적인 추방자들</td></tr>
-<tr><td>16</td><td>숨겨진 동굴</td><td>미라화된 아이</td><td>파아 유목민의 조상들</td><td><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민들</a></td></tr>
+<tr><td>16</td><td>숨겨진 동굴</td><td>미라화된 아이</td><td>파아 유목민의 조상들</td><td><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민들</a></td></tr>
 <tr><td>17</td><td>미사일 격납고</td><td>고대의 망원경</td><td>태양의 성자</td><td>캐커젠 신탁</td></tr>
-<tr><td>18</td><td><a href="/#/regions/the-interior?id=%ec%9e%94%ed%95%b4-wreck">잔해</a></td><td>부유 구체</td><td>진균의 성자</td><td>버섯체 신탁</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=정착지-settlement">정착지</a></td><td>인조 머리</td><td>공허의 성자</td><td>거지 수도사</td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허</a></td><td>인간의 이빨</td><td>이름없이 잊힌 신</td><td><a href="#/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td></tr></tbody>
+<tr><td>18</td><td><a href="/ko/regions/the-interior?id=%ec%9e%94%ed%95%b4-wreck">잔해</a></td><td>부유 구체</td><td>진균의 성자</td><td>버섯체 신탁</td></tr>
+<tr><td>19</td><td><a href="ko/regions/the-interior.md?id=정착지-settlement">정착지</a></td><td>인조 머리</td><td>공허의 성자</td><td>거지 수도사</td></tr>
+<tr><td>20</td><td><a href="ko/regions/the-interior.md?id=폐허-ruin">폐허</a></td><td>인간의 이빨</td><td>이름없이 잊힌 신</td><td><a href="ko/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td></tr></tbody>
 </table>
 
 ## 잔해 (Wreck)
@@ -629,15 +629,15 @@ _신정부의 법을 피하려는 사람들이 내륙의 가장 깊은 곳으로
 <tr><td>6</td><td>원격 조종 갑옷</td><td>도박 빚쟁이</td><td>저격총</td></tr>
 <tr><td>7</td><td>어리고 아름다움</td><td>가축 도둑</td><td>조용한 쇠뇌</td><td rowspan="2">당신이 아는 누군자를 살해하는 것을 돕기</td></tr>
 <tr><td>8</td><td>우울한 술주정뱅이</td><td>간통범</td><td>선제사격</td></tr>
-<tr><td>9</td><td>부부로 이루어진 팀</td><td>불한당 신스</td><td>매혹적인 미끼와 함정</td><td rowspan="2"><a href="#/regions/the-interior.md?id=정착지-settlement">포로를 먼 정착지까지 데려가는 것을 돕기</a></td></tr>
+<tr><td>9</td><td>부부로 이루어진 팀</td><td>불한당 신스</td><td>매혹적인 미끼와 함정</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=정착지-settlement">포로를 먼 정착지까지 데려가는 것을 돕기</a></td></tr>
 <tr><td>10</td><td>너무 어려보임</td><td>Cacklemaw Exile</td><td>규모있는 무장대 징집</td></tr>
-<tr><td>11</td><td>깨끗한 헤어스타일에 영웅적임</td><td>파아 유목민들</td><td>믿을만한 정보원</td><td rowspan="2"><a href="#/regions/the-interior.md?id=아콜로지-arcology">죄수를 먼 아콜로지까지 데려가는 것을 돕기</a></td></tr>
+<tr><td>11</td><td>깨끗한 헤어스타일에 영웅적임</td><td>파아 유목민들</td><td>믿을만한 정보원</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=아콜로지-arcology">죄수를 먼 아콜로지까지 데려가는 것을 돕기</a></td></tr>
 <tr><td>12</td><td>기세 좋은 바람둥이</td><td>물 토큰 대장장이</td><td>믿을만한 정보원</td></tr>
-<tr><td>13</td><td>현란한 노파</td><td>독살자</td><td>길들인 괴물</td><td rowspan="2"><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">포로를 파아 유목민들에게 데려가는 것을 돕기</a></td></tr>
+<tr><td>13</td><td>현란한 노파</td><td>독살자</td><td>길들인 괴물</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">포로를 파아 유목민들에게 데려가는 것을 돕기</a></td></tr>
 <tr><td>14</td><td>복제인간 쌍둥이</td><td>소아살해자</td><td>조용한 유괴</td></tr>
-<tr><td>15</td><td>인간 위에 올라탄 뉴-개코원숭이</td><td>맹세파기자</td><td>비밀 무술</td><td rowspan="2"><a href="#/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자 생포를 돕기</a></td></tr>
+<tr><td>15</td><td>인간 위에 올라탄 뉴-개코원숭이</td><td>맹세파기자</td><td>비밀 무술</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자 생포를 돕기</a></td></tr>
 <tr><td>16</td><td>노련한 병사</td><td>도망친 신부</td><td>정신 재능</td></tr>
-<tr><td>17</td><td>유명한 추방자</td><td>도망친 신랑</td><td>전문 사막형 추적자</td><td rowspan="2"><a href="#/regions/the-interior.md?id=보금자리-lair">위험한 괴물 토벌을 돕기</a></td></tr>
+<tr><td>17</td><td>유명한 추방자</td><td>도망친 신랑</td><td>전문 사막형 추적자</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=보금자리-lair">위험한 괴물 토벌을 돕기</a></td></tr>
 <tr><td>18</td><td>신성한 암살자</td><td>실각한 성직자</td><td>카메라 달린 드론</td></tr>
 <tr><td>19</td><td>파아 유목민 추적자</td><td>신정부 탈영병</td><td>완전히 무능함</td><td rowspan="2">노몬까지의 죄수 호송을 돕기</td></tr>
 <tr><td>20</td><td>정신 재능을 못 씀</td><td>자기 가족의 일원</td><td>터무니없이 복잡한 함정</td></tr>
@@ -649,26 +649,26 @@ _바안에서 거주지가 아닌 곳에는 모든 종류건 괴물들로 가득
 
 <table>
 <thead><th>d20</th><th>머무르는 것</th><th>외관</th><th>위험의 징조</th></thead>
-<tr><td>1</td><td><a href="#/bestiary?id=은빛-양치기-argent-shepherd">은빛 양치기</a></td><td>폐허가 된 예배당</td><td>미친 사람들이 은색 후광을 낀 채 파티에게 돌아가라고 애원함</td></tr>
-<tr><td>2</td><td><a href="#/bestiary?id=크롬-깃털-돛등뱀-chrome-feathered-sailback">크롬 깃털 돛등뱀</a></td><td>햇볕이 고르게 드는 평원</td><td>바람을 타고 크롬 깃털이 흩날림</td></tr>
-<tr><td>3</td><td>d6 <a href="#/bestiary?id=가시거미-quill-spider">가시거미</a></td><td>땅굴</td><td>다리에 가시가 잔뜩 박힌 채 절뚝이는 영양</td></tr>
-<tr><td>4</td><td><a href="#/bestiary?id=색깔포식자-chromavore">색깔 포식자</a></td><td>무색 선인장 숲</td><td>파아 가족의 색깔없는 껍질</td></tr>
-<tr><td>5</td><td>d6 <a href="#/bestiary?id=벌집인간-hiveyman">벌집인간</a></td><td>섬뜩한 검은 벌집</td><td>땅 위를 기어다니는 흰담비 벌</td></tr>
-<tr><td>6</td><td>d6 <a href="#/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>태양의 입맛춤을 쬔 바위</td><td>허물을 발견함</td></tr>
-<tr><td>7</td><td>d6 <a href="#/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>그늘진 흙탕</td><td>엄니 자국이 찍힌 바위</td></tr>
-<tr><td>8</td><td><a href="#/bestiary?id=알자보-alzabo">알자보</a></td><td>깊은 동굴</td><td>이상하게 울려퍼지는 어린 아이의 목소리</td></tr>
-<tr><td>9</td><td>3d6 <a href="#/bestiary?id=하늘빛-자칼-pthalo-jackal">하늘색 자칼</a></td><td>얕은 소굴</td><td>바람을 타고 울부짖는 소리</td></tr>
-<tr><td>10</td><td>d4 <a href="#/bestiary?id=-캐커젠-가짜거인-cacogen-pseudo-giant">가짜거인</a></td><td>조잡한 벽돌 오두막</td><td>찌그러진 신정부 스키프의 잔해</td></tr>
-<tr><td>11</td><td>d6 <a href="#/bestiary?id=깜빡이-스라소니-lambent-lynx">깜빡이 스라소니</a></td><td>절벽 높이의 소굴</td><td>폭풍이 불기 전이라면 공기에서 전기 맛이 느껴짐</td></tr>
-<tr><td>12</td><td>3d6 <a href="#/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>바위투성이 개활지</td><td>곳곳에 쌓인 배설물</td></tr>
-<tr><td>13</td><td>d6 <a href="#/bestiary?id=걸어다니는-자궁-walking-womb">걸어다니는 자궁</a></td><td>악취나는 싱크홀</td><td>모래 속의 넓게 끌린 자국</td></tr>
-<tr><td>14</td><td>3d6 <a href="#/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>높고 종이같은 둥지</td><td>명확하게 들리는 윙윙거리는 소리</td></tr>
-<tr><td>15</td><td>d4 <a href="#/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>인간 가죽 천막</td><td>뼈로 만든 조잡한 우상</td></tr>
-<tr><td>16</td><td><a href="#/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개 새</a></td><td>탁상 대지에있는 보금자리</td><td>선인장에 걸린 거대하고 거무스름한 깃털</td></tr>
-<tr><td>17</td><td>d4 <a href="#/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>소금 평원에 잠복함</td><td>입가에 명확히 물린 자국이 있는 시체 </td></tr>
-<tr><td>18</td><td><a href="#/bestiary?id=불멸의-데스웜-amaranthine-death-worm">불멸의 데스웜</a></td><td>독에 걸린 나무</td><td>흙길에 거대하고 구불구불한 흔적</td></tr>
-<tr><td>19</td><td><a href="#/bestiary?id=황색-버섯체-xanthous-mycomorph">황색 버섯체</a></td><td>진균 덤불</td><td>바람을 타고 흩날리는 노란색 포자</td></tr>
-<tr><td>20</td><td>d12 <a href="#/bestiary?id=그린가드-greenguard">그린가드</a></td><td>버려진 요새</td><td>바위에 박힌 에나멜 탄자</td></tr>
+<tr><td>1</td><td><a href="ko/bestiary?id=은빛-양치기-argent-shepherd">은빛 양치기</a></td><td>폐허가 된 예배당</td><td>미친 사람들이 은색 후광을 낀 채 파티에게 돌아가라고 애원함</td></tr>
+<tr><td>2</td><td><a href="ko/bestiary?id=크롬-깃털-돛등뱀-chrome-feathered-sailback">크롬 깃털 돛등뱀</a></td><td>햇볕이 고르게 드는 평원</td><td>바람을 타고 크롬 깃털이 흩날림</td></tr>
+<tr><td>3</td><td>d6 <a href="ko/bestiary?id=가시거미-quill-spider">가시거미</a></td><td>땅굴</td><td>다리에 가시가 잔뜩 박힌 채 절뚝이는 영양</td></tr>
+<tr><td>4</td><td><a href="ko/bestiary?id=색깔포식자-chromavore">색깔 포식자</a></td><td>무색 선인장 숲</td><td>파아 가족의 색깔없는 껍질</td></tr>
+<tr><td>5</td><td>d6 <a href="ko/bestiary?id=벌집인간-hiveyman">벌집인간</a></td><td>섬뜩한 검은 벌집</td><td>땅 위를 기어다니는 흰담비 벌</td></tr>
+<tr><td>6</td><td>d6 <a href="ko/bestiary?id=도마뱀-사자-lizard-lion">도마뱀 사자</a></td><td>태양의 입맛춤을 쬔 바위</td><td>허물을 발견함</td></tr>
+<tr><td>7</td><td>d6 <a href="ko/bestiary?id=전투-멧돼지-battle-boar">전투 멧돼지</a></td><td>그늘진 흙탕</td><td>엄니 자국이 찍힌 바위</td></tr>
+<tr><td>8</td><td><a href="ko/bestiary?id=알자보-alzabo">알자보</a></td><td>깊은 동굴</td><td>이상하게 울려퍼지는 어린 아이의 목소리</td></tr>
+<tr><td>9</td><td>3d6 <a href="ko/bestiary?id=하늘빛-자칼-pthalo-jackal">하늘색 자칼</a></td><td>얕은 소굴</td><td>바람을 타고 울부짖는 소리</td></tr>
+<tr><td>10</td><td>d4 <a href="ko/bestiary?id=-캐커젠-가짜거인-cacogen-pseudo-giant">가짜거인</a></td><td>조잡한 벽돌 오두막</td><td>찌그러진 신정부 스키프의 잔해</td></tr>
+<tr><td>11</td><td>d6 <a href="ko/bestiary?id=깜빡이-스라소니-lambent-lynx">깜빡이 스라소니</a></td><td>절벽 높이의 소굴</td><td>폭풍이 불기 전이라면 공기에서 전기 맛이 느껴짐</td></tr>
+<tr><td>12</td><td>3d6 <a href="ko/bestiary?id=파란-개코원숭이-blue-baboon">파란 개코원숭이</a></td><td>바위투성이 개활지</td><td>곳곳에 쌓인 배설물</td></tr>
+<tr><td>13</td><td>d6 <a href="ko/bestiary?id=걸어다니는-자궁-walking-womb">걸어다니는 자궁</a></td><td>악취나는 싱크홀</td><td>모래 속의 넓게 끌린 자국</td></tr>
+<tr><td>14</td><td>3d6 <a href="ko/bestiary?id=호랑이-파리-tiger-fly">호랑이 파리</a></td><td>높고 종이같은 둥지</td><td>명확하게 들리는 윙윙거리는 소리</td></tr>
+<tr><td>15</td><td>d4 <a href="ko/bestiary?id=재생하는-자-regenerator">재생하는 자</a></td><td>인간 가죽 천막</td><td>뼈로 만든 조잡한 우상</td></tr>
+<tr><td>16</td><td><a href="ko/bestiary?id=천둥번개-새-thunderstrike-bird">천둥번개 새</a></td><td>탁상 대지에있는 보금자리</td><td>선인장에 걸린 거대하고 거무스름한 깃털</td></tr>
+<tr><td>17</td><td>d4 <a href="ko/bestiary?id=유리-호랑이-glass-tiger">유리 호랑이</a></td><td>소금 평원에 잠복함</td><td>입가에 명확히 물린 자국이 있는 시체 </td></tr>
+<tr><td>18</td><td><a href="ko/bestiary?id=불멸의-데스웜-amaranthine-death-worm">불멸의 데스웜</a></td><td>독에 걸린 나무</td><td>흙길에 거대하고 구불구불한 흔적</td></tr>
+<tr><td>19</td><td><a href="ko/bestiary?id=황색-버섯체-xanthous-mycomorph">황색 버섯체</a></td><td>진균 덤불</td><td>바람을 타고 흩날리는 노란색 포자</td></tr>
+<tr><td>20</td><td>d12 <a href="ko/bestiary?id=그린가드-greenguard">그린가드</a></td><td>버려진 요새</td><td>바위에 박힌 에나멜 탄자</td></tr>
 </table>
 
 ## 기록 보관소 (Archive)
@@ -685,17 +685,17 @@ _잊는 것은 사람다운 것이며, 끊임없는 기억의 부담은 죽을 �
 <tr><td>6</td><td>진균 포자</td><td>눈부심</td><td>게으른 버섯체들</td></tr>
 <tr><td>7</td><td>배아</td><td>때묻음</td><td>매우 작은 리슬링들</td><td rowspan="2">보관소에서 봉인된 구역의 정체를 알아내기</td></tr>
 <tr><td>8</td><td>알</td><td>혼란스러움</td><td>어머니의 뉴-앵무새들</td></tr>
-<tr><td>9</td><td>지도</td><td>고장남</td><td>금욕적으로 말이 없음</td><td rowspan="2"><a href="#/regions/the-interior.md?id=정착지-settlement">기록 보관자를 먼 마을까지 호송하기</a></td></tr>
+<tr><td>9</td><td>지도</td><td>고장남</td><td>금욕적으로 말이 없음</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=정착지-settlement">기록 보관자를 먼 마을까지 호송하기</a></td></tr>
 <tr><td>10</td><td>시</td><td>우아함</td><td>타락을 숭배하는 사교도들</td></tr>
 <tr><td>11</td><td>영상 기록</td><td>평온함</td><td>무엇을 수집하는 것인지 모름</td><td rowspan="2">경쟁 보관소가 습격당하는 것</td></tr>
 <tr><td>12</td><td>음악</td><td>누추함</td><td>수집한 것을 숭배함</td></tr>
-<tr><td>13</td><td>연극 각본</td><td>메마름</td><td>재잘거리는 바보들</td><td rowspan="2"><a href="#/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자들에게 메세지를 전하기</a></td></tr>
+<tr><td>13</td><td>연극 각본</td><td>메마름</td><td>재잘거리는 바보들</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=과학-신비주의자의-거주지-science-mystic39s-abode">과학 신비주의자들에게 메세지를 전하기</a></td></tr>
 <tr><td>14</td><td>회화 예술품</td><td>정연함</td><td>외지인을 공격함</td></tr>
 <tr><td>15</td><td>조각 예술품</td><td>오염됨</td><td>필사적으로 신입을 구함</td><td rowspan="2">더미 속에서 사라진 기록 보관자을 찾기</td></tr>
 <tr><td>16</td><td>구상 예술품</td><td>신비스러움</td><td>괴이한 병에 시달림</td></tr>
-<tr><td>17</td><td>박제품</td><td>예감함</td><td>속삭이는 뉴-거미들</td><td rowspan="2"><a href="#/regions/the-interior.md?id=기록-보관소-archive">보관소에 있는 괴물의 보금자리를 없애기</a></td></tr>
+<tr><td>17</td><td>박제품</td><td>예감함</td><td>속삭이는 뉴-거미들</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=기록-보관소-archive">보관소에 있는 괴물의 보금자리를 없애기</a></td></tr>
 <tr><td>18</td><td>보존된 두뇌</td><td>쾌활함</td><td>가면 쓴 철학자들</td></tr>
-<tr><td>19</td><td>타이탄신조 구문</td><td>불탐</td><td>잔인하고 게산적임</td><td rowspan="2"><a href="#/regions/the-interior.md?id=볼트-vault">보관소 아래에 있는 볼트의 정체를 밝혀내기</a></td></tr>
+<tr><td>19</td><td>타이탄신조 구문</td><td>불탐</td><td>잔인하고 게산적임</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=볼트-vault">보관소 아래에 있는 볼트의 정체를 밝혀내기</a></td></tr>
 <tr><td>20</td><td>곤충</td><td>감염됨</td><td>편집증적이고 고립됨</td></tr>
 </table>
 
@@ -747,11 +747,11 @@ _바안은 무엇보다도 결말이 무거운 땅이며 무덤은 음울한 규
 <tr><td>13</td><td>우아한 탑</td><td>강력한 정신 능력자</td><td>풍장</td><td>메마른 기념분수</td></tr>
 <tr><td>14</td><td>흐릿하게 보이는 건축물</td><td>유명한 검객</td><td>진균에 먹히게 둠</td><td>의식용 예술품 (끔찍함)</td></tr>
 <tr><td>15</td><td>돌 평원</td><td>도적의 왕</td><td>신성한 꽃의 먹이로 바침</td><td>의식용 예술품 (좋음)</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>신정부 레인저</td><td>석총 아래에 묻음</td><td>순례지</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=오아시스-oasis">오아시스 근처</a></td><td>학살당한 파아 유목민들</td><td>석재 큐브 안에 넣음</td><td>인조 무덤지기</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허 근처</a></td><td>신정부에 기뻐하는 자</td><td>초기하학적 인공물 안에 넣음</td><td><a href="#/regions/the-interior.md?id=도적-야영지-bandit-camp">도적들의 은신처</a></td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>신왕</td><td>밖에서 보기엔 시간의 흐름이 멈춘 곳</td><td><a href="#/regions/the-interior.md?id=볼트-vault">Entrance to Vault</a></td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=정착지-settlement">정착지 근처</a></td><td>이계의 탐험가들</td><td>아직 안 죽음</td><td><a href="#/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td></tr>
+<tr><td>16</td><td><a href="ko/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>신정부 레인저</td><td>석총 아래에 묻음</td><td>순례지</td></tr>
+<tr><td>17</td><td><a href="ko/regions/the-interior.md?id=오아시스-oasis">오아시스 근처</a></td><td>학살당한 파아 유목민들</td><td>석재 큐브 안에 넣음</td><td>인조 무덤지기</td></tr>
+<tr><td>18</td><td><a href="ko/regions/the-interior.md?id=폐허-ruin">폐허 근처</a></td><td>신정부에 기뻐하는 자</td><td>초기하학적 인공물 안에 넣음</td><td><a href="ko/regions/the-interior.md?id=도적-야영지-bandit-camp">도적들의 은신처</a></td></tr>
+<tr><td>19</td><td><a href="ko/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>신왕</td><td>밖에서 보기엔 시간의 흐름이 멈춘 곳</td><td><a href="ko/regions/the-interior.md?id=볼트-vault">Entrance to Vault</a></td></tr>
+<tr><td>20</td><td><a href="ko/regions/the-interior.md?id=정착지-settlement">정착지 근처</a></td><td>이계의 탐험가들</td><td>아직 안 죽음</td><td><a href="ko/regions/the-interior.md?id=보금자리-lair">괴물의 보금자리</a></td></tr>
 </table>
 
 ## 과학 신비주의자의 거주지 (Science Mystic's Abode)
@@ -766,15 +766,15 @@ _일부 철학적 탐구는 호기심 많은 이웃, 법 집행 기관의 손길
 <tr><td>4</td><td>어두움</td><td>눈부시게 아름다움</td><td>반중력 장막</td></tr>
 <tr><td>5</td><td>나선형</td><td>플라스틱 살점 신스</td><td>시간 정지</td><td rowspan="2">시악한 창조물을 처리해줄 것</td></tr>
 <tr><td>6</td><td>지성체</td><td>위선적인 캐커젠</td><td>시간 여행</td></tr>
-<tr><td>7</td><td>바퀴달림</td><td>호사스러운 뉴-호랑이</td><td>시간 역설</td><td rowspan="2"><a href="#/regions/the-interior.md?id=폐허-ruin">근처 유적에서 발견한 전설 속의 화학물질</a></td></tr>
+<tr><td>7</td><td>바퀴달림</td><td>호사스러운 뉴-호랑이</td><td>시간 역설</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=폐허-ruin">근처 유적에서 발견한 전설 속의 화학물질</a></td></tr>
 <tr><td>8</td><td>투명함</td><td>영구적으로 투명함/td><td>초기하학</td></tr>
 <tr><td>9</td><td>수정체</td><td>통 속의 뇌</td><td>신스 해부학</td><td rowspan="2">파아 유목민 부족의 손에 있다고 알려진 전설 속의 유물</td></tr>
 <tr><td>10</td><td>검같음</td><td>부유하는 멍청이</td><td>신스 심리학</td></tr>
-<tr><td>11</td><td>우뚝 솟음</td><td>거울에 비친 모습을 두려워함</td><td>뉴비스트 생물학</td><td rowspan="2"><a href="#/regions/the-interior.md?id=보금자리-lair">현지 괴물의 신체부위</a></td></tr>
+<tr><td>11</td><td>우뚝 솟음</td><td>거울에 비친 모습을 두려워함</td><td>뉴비스트 생물학</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=보금자리-lair">현지 괴물의 신체부위</a></td></tr>
 <tr><td>12</td><td>간소함</td><td>살점을 먹어치우는 버섯체</td><td>뉴비스트 심리학</td></tr>
 <tr><td>13</td><td>퇴폐적임</td><td>등에 이식된 여분의 팔</td><td>버섯체 심리학</td><td rowspan="2">연구를 훔친 전 조수에게 복수하기</td></tr>
 <tr><td>14</td><td>파묻힘</td><td>신경과민 뉴-스라소니</td><td>버섯체 심리학</td></tr>
-<tr><td>15</td><td></td><td>말더듬이 신스</td><td>언어 바이러스</td><td rowspan="2"><a href="#/regions/the-interior.md?id=볼트-vault">머나먼 볼트를 탐사할 무장 호위대</a></td></tr>
+<tr><td>15</td><td></td><td>말더듬이 신스</td><td>언어 바이러스</td><td rowspan="2"><a href="ko/regions/the-interior.md?id=볼트-vault">머나먼 볼트를 탐사할 무장 호위대</a></td></tr>
 <tr><td>16</td><td>우아함</td><td>수줍은 살인자 </td><td>순간이동</td></tr>
 <tr><td>17</td><td>종교적임</td><td>차갑도록 정중함</td><td>타이탄신조 구문</td><td rowspan="2">노몬까지 동행할 무장 호위대</td></tr>
 <tr><td>18</td><td>피라미드</td><td>피를 마시는 캐커젠</td><td>고대의 슈퍼무기</td></tr>
@@ -800,12 +800,12 @@ _일부 철학적 탐구는 호기심 많은 이웃, 법 집행 기관의 손길
 <tr><td>12</td><td>순교자의 숲</td><td>노몬의 상인들</td><td>포로</td></tr>
 <tr><td>13</td><td>메마른 오아시스</td><td>용병 무리</td><td>환각제</td></tr>
 <tr><td>14</td><td>오염된 호반</td><td>배회하는 폐품업자들</td><td>꽃</td></tr>
-<tr><td>15</td><td><a href="#/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지 근처</a></td><td>비밀스러운 은둔자</td><td>신스 부품</td></tr>
-<tr><td>16</td><td><a href="#/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 야영지 근처</a></td><td>천한 염소치기들</td><td>낙타</td></tr>
-<tr><td>17</td><td><a href="#/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>경건한 신스들</td><td>도서</td></tr>
-<tr><td>18</td><td><a href="#/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>미친 신스들</td><td>카페트</td></tr>
-<tr><td>19</td><td><a href="#/regions/the-interior.md?id=오아시스-oasis">오아시스 옆</a></td><td>뉴비스트 무리</td><td>의약품</td></tr>
-<tr><td>20</td><td><a href="#/regions/the-interior.md?id=폐허-ruin">폐허 안</a></td><td>타이탄 숭배자들</td><td>엑조티카</td></tr>
+<tr><td>15</td><td><a href="ko/regions/the-interior.md?id=파아-유목민-야영지-faa-nomad-camp">파아 유목민 야영지 근처</a></td><td>비밀스러운 은둔자</td><td>신스 부품</td></tr>
+<tr><td>16</td><td><a href="ko/regions/the-interior.md?id=신정부-야영지-hegemony-camp">신정부 야영지 근처</a></td><td>천한 염소치기들</td><td>낙타</td></tr>
+<tr><td>17</td><td><a href="ko/regions/the-interior.md?id=잔해-wreck">잔해 근처</a></td><td>경건한 신스들</td><td>도서</td></tr>
+<tr><td>18</td><td><a href="ko/regions/the-interior.md?id=성지-holy-place">성지 근처</a></td><td>미친 신스들</td><td>카페트</td></tr>
+<tr><td>19</td><td><a href="ko/regions/the-interior.md?id=오아시스-oasis">오아시스 옆</a></td><td>뉴비스트 무리</td><td>의약품</td></tr>
+<tr><td>20</td><td><a href="ko/regions/the-interior.md?id=폐허-ruin">폐허 안</a></td><td>타이탄 숭배자들</td><td>엑조티카</td></tr>
 </table>
 
 <table>
