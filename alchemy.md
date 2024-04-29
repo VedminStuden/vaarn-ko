@@ -46,22 +46,22 @@
 
 ### 복제 물약 (Doppeldraught)
 **효능:** 2  
-**구성요소:** [복젤인간](#/bestiary?id=%eb%b3%b5%ec%a0%a4%ec%9d%b8%ea%b0%84-doppelgeller)의 절인 살점  
+**구성요소:** [복젤인간](ko/bestiary?id=%eb%b3%b5%ec%a0%a4%ec%9d%b8%ea%b0%84-doppelgeller)의 절인 살점  
 **효과:** 마시는 사람은 자신을 복제한 젤리 복제인간을 토해냅니다. 이 복제인간은 자신과 닮았지만 투명하며 벙어리입니다. 지시에 따라 움직일 수 있지만 1시간 후에 사라집니다.  
 
 ### 숨기 연고 (Skulk Salve)
 **효능:** 3  
-**구성요소:** [은은한 추적자](#/bestiary?id=%ec%9d%80%ec%9d%80%ed%95%9c-%ec%b6%94%ec%a0%81%ec%9e%90-subtle-stalker)의 인조 피부  
+**구성요소:** [은은한 추적자](ko/bestiary?id=%ec%9d%80%ec%9d%80%ed%95%9c-%ec%b6%94%ec%a0%81%ec%9e%90-subtle-stalker)의 인조 피부  
 **효과:** 이 연고를 바른 살점은 다음 한 시간동안 투명해집니다. 
 
 ### 유전적 충격 토닉 (Geneshock Tonic)
 **효능:** 4  
 **구성요소:** 캐커젠의 심장 하나
-**효과:** 마신 이는 심장의 본래 주인과 맞는 새로 영구적인 [돌연변이](#/ancestries?id=%eb%8f%8c%ec%97%b0%eb%b3%80%ec%9d%b4)를 얻습니다.
+**효과:** 마신 이는 심장의 본래 주인과 맞는 새로 영구적인 [돌연변이](ko/ancestries?id=%eb%8f%8c%ec%97%b0%eb%b3%80%ec%9d%b4)를 얻습니다.
 
 ### 불멸의 주사기 (Immortality Injector)
 **효능:** 5  
-**구성요소:** [수은 절멸자](#/bestiary?id=%ec%88%98%ec%9d%80-%ec%a0%88%eb%a9%b8%ec%9e%90-quicksilver-exterminator)의 액체금속으로 이루어진 전쟁용 살점  
+**구성요소:** [수은 절멸자](ko/bestiary?id=%ec%88%98%ec%9d%80-%ec%a0%88%eb%a9%b8%ec%9e%90-quicksilver-exterminator)의 액체금속으로 이루어진 전쟁용 살점  
 **효과:** 효과: 이 거품 모양의 나노기계로 주입된 생명체는 죽을 수 없습니다. 해당 생명체는 알아볼 수 없을 정도로 피해를 입을 수 있지만, 생명은 그 틀에서 떠나지 않습니다. 이 효과는 하루 동안 지속됩니다.
 
 # 독소 주사위 (Toxin Dice)
