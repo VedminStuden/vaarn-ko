@@ -7,9 +7,9 @@
 
 3. 1d8를 굴려 PC의 시작 및 최대 __HP__ 를 정하세요. hp 회복 정도는는 1d8 + 건강 보너스입니다.
 
-4. PC는 건강 방어도만큼 [아이템 칸(item slots)](/ko/basic-rules.md?id=물품-칸item-slots)을 가지며, 소지품은 사용 가능한 칸에 맞게 배치되어야 합니다. 그렇지 않으면 PC는  [과적(Encumbered)](/ko/basic-rules?id=물품-칸item-slots). 상태에 놓입니다. 대부분의 아이템은 한 칸을 차지하지만 일부 아이템은 여러 개의 칸을 필요로 할 수 있습니다. 작은 아이템들은 하나의 칸으로 모아둘 수 있습니다.
+4. PC는 건강 방어도만큼 [물품 칸(item slots)](/ko/basic-rules.md?id=물품-칸item-slots)을 가지며, 소지품은 사용 가능한 칸에 맞게 배치되어야 합니다. 그렇지 않으면 PC는  [과적(Encumbered)](/ko/basic-rules?id=물품-칸item-slots). 상태에 놓입니다. 대부분의 물품은 한 칸을 차지하지만 일부 물품은 여러 개의 칸을 필요로 할 수 있습니다. 작은 물품들은 하나의 칸으로 모아둘 수 있습니다.
 
-5. PC는 게임 시작 시 식수를 3일치 가져갑니다. [무기(weapon)](/ko/equipment.md?id=무기weaponry) 와 [방어구(armour)](/ko/equipment.md?id=방어구armour) 표에서 한 번씩 굴리고 [도구 표(gear tables)](/ko/equipment.md??id=도구-표-gear-table)에서 두 번 굴려 캐릭터의 시작 장비를 결정하세요. 장갑에는 방어도(defence) 값이 포함되며 해당 값과 그와 상응하는 장갑 보너스(장갑 bonus) (방어도보다 항상 10 작음)를 캐릭터 시트에 기록하세요. 만약 PC가 방어구를 입고 있지 않다면, 그들의 장갑 방어도(장갑 defence)는 10 이고 장갑 보너스(장갑 bonus)는 +0입니다.
+5. PC는 게임 시작 시 식수를 3일치 가져갑니다. [무기(weapon)](/ko/equipment.md?id=무기weaponry) 와 [방어구(armour)](/ko/equipment.md?id=방어구armour) 표에서 한 번씩 굴리고 [도구 표(gear tables)](/ko/equipment.md??id=도구-표-gear-table)에서 두 번 굴려 캐릭터의 시작 장비를 결정하세요. 장갑에는 방어도(defence) 값이 포함되며 해당 값과 그와 상응하는 장갑 보너스(Armour bonus) (방어도보다 항상 10 작음)를 캐릭터 시트에 기록하세요. 만약 PC가 방어구를 입고 있지 않다면 장갑 방어도(Armour defence)는 10 이고 장갑 보너스는 +0입니다.
 
 6. 캐릭터는 시작할 때 [엑조티카(Exotica)](/ko/exotica.md) and [재능(Gift)](/ko/mystic-gifts.md)을 얻을 수 있습니다.
 
